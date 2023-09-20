@@ -1,0 +1,6 @@
+PositionID,Description,FinalPercentile,MinHolidayCurrency,BadgeBonusType,BadgeAmount,RankString,RankBonuses,Notes
+4,Top 10% (>3000 Currency),0.10,3000,AllDamage,10000,RANK_ID_4,"AllRaidDamage:0.02,ManaPoolCap:50,MonsterCountPerStage:2,StageSkipMonsterSpawnChance:0.005,MegaBombSpawnChance:0.005","""Super Titan Slayer"""
+3,Top 30% (>3000 Currency),0.30,3000,AllDamage,1000,RANK_ID_3,"AllRaidDamage:0.02,ManaPoolCap:50,MonsterCountPerStage:1,StageSkipMonsterSpawnChance:0.005","""Expert"""
+2,Top 80% (>3000 Currency),0.80,3000,AllDamage,100,RANK_ID_2,"AllRaidDamage:0.01,ManaPoolCap:25,MonsterCountPerStage:1","""Novice"""
+1,Participant (>3000 Currency),1.00,3000,AllDamage,10,RANK_ID_1,"AllRaidDamage:0.01,ManaPoolCap:25","""Participant"""
+0,Non-Participant (<3000 Currency),1.00,0,None,0,RANK_ID_0,,None

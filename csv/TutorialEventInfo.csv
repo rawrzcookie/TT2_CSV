@@ -1,0 +1,52 @@
+TutorialEventIndex,Objective,GoldReward,DisplayString,ModifyString,ShowProgress,Note
+0,TapCount:10,,TUTORIAL_EVENT_0A,FALSE,FALSE,Tap to attack!
+1,TapCount:20,,TUTORIAL_EVENT_2,FALSE,FALSE,Collect gold by killing Titans!
+2,TapCount:10,20,TUTORIAL_EVENT_TAP,TRUE,TRUE,Attack {0} times!
+3,SwordMasterLevel:1,,TUTORIAL_EVENT_4,FALSE,FALSE,Upgrade Sword Master to deal more damage!
+4,UnlockHelperCount:1,,TUTORIAL_EVENT_6,FALSE,FALSE,Collect 30 gold to hire a hero!
+5,TapCount:20,,TUTORIAL_EVENT_7,FALSE,FALSE,Heroes will earn you gold while you are away!
+6,TapCount:20,50,TUTORIAL_EVENT_TAP,TRUE,TRUE,Attack {0} times!
+7,SwordMasterLevel:10,50,TUTORIAL_EVENT_SWORDMASTER,TRUE,TRUE,Upgrade Sword Master to level {0}!
+8,TapCount:20,,TUTORIAL_EVENT_10,FALSE,FALSE,Now you are fit for battle!
+9,TapCount:20,150,TUTORIAL_EVENT_TAP,TRUE,TRUE,Attack {0} times!
+10,UnlockHelperCount:2,,TUTORIAL_EVENT_12,FALSE,FALSE,Collect 180 gold and hire a new hero!
+11,ReachStage:8,,TUTORIAL_EVENT_13,FALSE,FALSE,Defeat the Stage 8 Boss to unlock your first Pet!
+12,ReachStage:9,,TUTORIAL_EVENT_14,FALSE,FALSE,Good luck!
+13,TapCount:20,,TUTORIAL_EVENT_15,FALSE,FALSE,Great work!
+14,TapCount:20,,TUTORIAL_EVENT_16,FALSE,FALSE,Pets will give you bonuses and deal damage when you tap!
+15,TapCount:50,100,TUTORIAL_EVENT_TAP,TRUE,TRUE,Attack {0} times!
+16,TapCount:20,,TUTORIAL_EVENT_18,FALSE,FALSE,You are doing great!
+17,ReachStage:12,600,TUTORIAL_EVENT_STAGE,TRUE,TRUE,Reach Stage {0}!
+18,UnlockHelperCount:3,1000,TUTORIAL_EVENT_21,FALSE,FALSE,Collect 800 gold and hire a third hero!
+19,ReachStage:16,3000,TUTORIAL_EVENT_22,FALSE,TRUE,Reach Stage {0}!
+20,UnlockHelperCount:4,3000,TUTORIAL_EVENT_24,FALSE,FALSE,Collect 4K gold and hire a fourth hero!
+21,TapCount:20,,TUTORIAL_EVENT_25,FALSE,FALSE,These Titans don't stand a chance!
+22,TapCount:50,3000,TUTORIAL_EVENT_TAP,TRUE,TRUE,Attack {0} times!
+23,ReachStage:20,5000,TUTORIAL_EVENT_STAGE,TRUE,TRUE,Reach Stage {0}!
+24,SwordMasterLevel:50,5000,TUTORIAL_EVENT_SWORDMASTER,TRUE,TRUE,Upgrade Sword Master to level {0}!
+25,TapCount:50,5000,TUTORIAL_EVENT_TAP,TRUE,TRUE,Attack {0} times!
+26,ReachStage:25,10000,TUTORIAL_EVENT_STAGE,TRUE,TRUE,Reach Stage {0}!
+27,TapCount:20,,TUTORIAL_EVENT_32,FALSE,FALSE,You can unlock powerful skills by upgrading Sword Master!
+28,SwordMasterLevel:100,10000,TUTORIAL_EVENT_33,FALSE,TRUE,Upgrade Sword Master to level 100 to unlock Heavenly Strike!
+29,TapCount:10,,TUTORIAL_EVENT_34,FALSE,FALSE,You can now unlock the Heavenly Strike Active Skill!
+30,TapCount:20,,TUTORIAL_EVENT_35,FALSE,FALSE,Active Skills are very powerful! Use them often!
+31,TapCount:20,,TUTORIAL_EVENT_36,FALSE,FALSE,Upgrade Sword Master to unlock even more activated skills!
+32,ReachStage:30,25000,TUTORIAL_EVENT_STAGE,TRUE,TRUE,Reach Stage {0}!
+33,TapCount:20,,TUTORIAL_EVENT_38,FALSE,FALSE,Check out the Bear Shop for some amazing deals!
+34,TapCount:20,,TUTORIAL_EVENT_41,FALSE,FALSE,You can unlock them by leveling up your Heroes!
+35,ReachStage:36,99999,TUTORIAL_EVENT_42,FALSE,TRUE,Reach Stage 36 to get more equipment!
+36,TapCount:20,,TUTORIAL_EVENT_44,FALSE,FALSE,You are doing great!
+37,ReachStage:40,999999,TUTORIAL_EVENT_45,FALSE,TRUE,Reach Stage 40 to unlock daily login rewards!
+38,TapCount:20,,TUTORIAL_EVENT_46,FALSE,FALSE,You will receive a new daily reward each day!
+39,SwordMasterLevel:150,9999999,TUTORIAL_EVENT_SWORDMASTER,TRUE,TRUE,Upgrade Sword Master to level {0}!
+40,ReachStage:45,99999999,TUTORIAL_EVENT_STAGE,TRUE,TRUE,Reach Stage {0}!
+41,TapCount:20,,TUTORIAL_EVENT_50,FALSE,FALSE,You will be able to prestige at Stage 60!
+42,TapCount:20,,TUTORIAL_EVENT_51,FALSE,FALSE,You will get Relics when you prestige! They are extremely valuable!
+43,ReachStage:51,9999999999,TUTORIAL_EVENT_53,FALSE,TRUE,Reach Stage 51 to unlock your first Skill Point!
+44,TapCount:10,,TUTORIAL_EVENT_54,FALSE,FALSE,Fantastic!
+45,ReachStage:56,9999999999,TUTORIAL_EVENT_58,FALSE,TRUE,Reach Stage 56 to get more equipment!
+46,TapCount:20,,TUTORIAL_EVENT_59,FALSE,FALSE,You are getting close to your first Prestige!
+47,TapCount:20,,TUTORIAL_EVENT_60,FALSE,FALSE,Prestige often and collect as many relics as possible!
+48,TapCount:20,,TUTORIAL_EVENT_62,FALSE,FALSE,"When you reach stage 100, make sure you join a Clan! You will meet many allies there!"
+49,TapCount:10,,TUTORIAL_EVENT_63,FALSE,FALSE,Have fun and good luck!
+50,ReachStage:60,,TUTORIAL_EVENT_64,FALSE,TRUE,Prestige at Stage 60!

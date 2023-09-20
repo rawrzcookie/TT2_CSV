@@ -1,0 +1,557 @@
+BonusType,Description,BonusClass,Combos,IsAdditive,IsSubtracted,IsPercent,IsSeconds,HideOperator,Offset,MultiplicativeOffset
+SkillTreeAlchemistAllDamage,Multiplicative Damage Bonus per point in the specified tree,Damage,None,False,False,False,False,False,0,False
+SkillTreeKnightAllDamage,Multiplicative Damage Bonus per point in the specified tree,Damage,None,False,False,False,False,False,0,False
+SkillTreePetAllDamage,Multiplicative Damage Bonus per point in the specified tree,Damage,None,False,False,False,False,False,0,False
+SkillTreeSorcererAllDamage,Multiplicative Damage Bonus per point in the specified tree,Damage,None,False,False,False,False,False,0,False
+SkillTreeRogueAllDamage,Multiplicative Damage Bonus per point in the specified tree,Damage,None,False,False,False,False,False,0,False
+SkillTreeWarlordAllDamage,Multiplicative Damage Bonus per point in the specified tree,Damage,None,False,False,False,False,False,0,False
+GoldGunDamageFromClanShipDamage,(Monument) Clan Gold Gun: Gold Gun gains Clanship Scaling,None,None,True,False,False,False,False,0,False
+PetDamageFromBurstSkillAmount,(Monument) Heavenly Pet: Pet gains Heavenly Strike Scaling,None,None,True,False,False,False,False,0,False
+UltraDaggerDamageFromShadowCloneSkillAmount,(Monument) Shadow Daggers: Daggers gain Shadow Clone scaling,None,None,True,False,False,False,False,0,False
+BurstSkillAmountDuringCritSkill,Heavenly Strike Damage while Deadly Strike is Active,None,None,False,False,False,False,False,0,False
+HelperBoostSkillAmountDuringTapBoostSkill,Warcry Damage while Fire Sword is Active,None,None,False,False,False,False,False,0,False
+CannonDamagePerSeasonTitan,(Monument) Thunder Volley Damage and Gold Gun Damage per Titan Killed this season,None,"GoldGunDamage,ThunderVolleySkillAmount",True,False,True,False,False,0,False
+ClanShipDamagePerSeasonTitan,(Monument) Clanship Damage per Titan Killed this season,None,None,True,False,True,False,False,0,False
+AllDamagePerSeasonDay,All Damage per day in this season,None,None,False,False,False,False,False,0,False
+DamagePerMaxStage,All Damage per max stage in this season,None,None,False,False,False,False,False,0,False
+GoldAllPerPrestigeChesterson,All Gold per Chesterson Killed This Prestige,None,None,False,False,False,False,False,0,False
+GoldAllPerSeasonChesterson,All Gold per Chesterson Killed This Season,None,None,True,False,False,False,False,0,False
+GoldAllPerPrestigeSecond,All Gold per Second Since Last Prestige,None,None,True,False,True,False,False,0,False
+GoldAllPerSeasonPrestige,(Monument) All Gold per Prestige This Season,None,None,True,False,True,False,False,0,False
+JackpotGoldPerPrestigeFairy,Jackpot Gold per Fairy Collected This Prestige,None,None,False,False,False,False,False,0,False
+JackpotGoldPerSeasonDay,Jackpot Gold per Fairy Collected This Season,None,None,False,False,False,False,False,0,False
+PetDamagePerPrestigeTap,Pet Damage per Tap This Prestige,None,None,True,False,True,False,False,0,False
+TapDamagePerSeasonPrestige,(Monument) Tap Damage per Prestige This Season,None,None,True,False,True,False,False,0,False
+TwilightBoostPerSeasonFairy,(Monument) Twilight Damage per Fairies Collected This Season,None,None,True,False,True,False,False,0,False
+UltraDaggerDamagePerSeasonDay,(Monument) Dagger Damage per day in this season,None,None,False,False,False,False,False,0,False
+TitanSkip,Base Titan Skip,None,None,True,False,False,False,False,0,False
+TitanSkipMult,Multiplier for ALL Titan Skips,None,None,False,False,False,False,False,0,False
+PetAttackTitanSkip,Titan Skip for Pets,None,None,True,False,False,False,False,0,False
+BurstSkillTitanSkip,Titan Skip for Heavenly Strike,None,None,True,False,False,False,False,0,False
+ShadowCloneTitanSkip,Titan Skip for Shadow Clone,None,None,True,False,False,False,False,0,False
+ClanShipTitanSkip,Titan Skip for Clanship,None,None,True,False,False,False,False,0,False
+UltraDaggerTitanSkip,Titan Skip for Daggers,None,None,True,False,False,False,False,0,False
+GoldGunTitanSkip,Titan Skip for Gold Gun,None,None,True,False,False,False,False,0,False
+StageSkip,Base Stage Skip,None,None,True,False,False,False,False,0,False
+PetAttackStageSkip,Stage Skip for Pets,None,None,True,False,False,False,False,0,False
+PetQTEStageSkip,Stage Skip for Lightning Burst / Flash Zip,None,None,True,False,False,False,False,0,False
+DualPetStageSkip,Stage Skip for Dual Burst,None,None,True,False,False,False,False,0,False
+DualPetStageSkipMult,Stage Skip for Dual Burst (Mult),None,None,False,False,False,False,False,0,False
+BurstSkillStageSkip,Stage Skip for Heavenly Strike,None,None,True,False,False,False,False,0,False
+BurstSkillStageSkipMult,Stage Skip for Heavenly Strike (Mult),None,None,False,False,False,False,False,0,False
+ShadowCloneStageSkip,Stage Skip for Shadow Clone,None,None,True,False,False,False,False,0,False
+ShadowCloneStageSkipMult,Stage Skip for Shadow Clone (Mult),None,None,False,False,False,False,False,0,False
+ClanShipStageSkip,Stage Skip for Clanship,None,None,True,False,False,False,False,0,False
+UltraDaggerStageSkip,Stage Skip for Daggers,None,None,True,False,False,False,False,0,False
+UltraDaggerTargetComboStageSkip,Stage Skip for Daggers when hitting targets,None,None,True,False,False,False,False,0,False
+ThunderVolleyStageSkip,Stage Skip for Thunder Volley,None,None,True,False,False,False,False,0,False
+GoldGunStageSkip,Stage Skip for Gold Gun,None,None,True,False,False,False,False,0,False
+GoldenMissileStageSkip,Stage Skip for Golden Missile,None,None,True,False,False,False,False,0,False
+TwilightFairyStageSkip,Stage Skip for Twilight Fairy QTEs,None,None,True,False,False,False,False,0,False
+AdditiveRelicMultiplierBoost,Increases the amount of additive relic multiplier earned (for Scheduled Bonus,None,None,False,False,False,False,False,0,False
+AdditiveRelicMultiplierEarned,Increases the amount of additive relic multiplier earned,None,None,True,False,False,False,False,0,False
+AdvancedStart,Advanced Start bonus given by Milestones,None,None,True,False,False,False,False,0,False
+ActiveAllHelperDamage,Increases all hero damage when Coordinated Offensive is active.,Damage,None,False,False,False,False,False,0,False
+ActiveClanShipDamage,Unused,Damage,None,False,False,False,False,False,0,False
+ActivePetLevel,Increases the level of the selected active pet.,None,None,True,False,True,False,False,0,False
+ActiveTapDamage,Increases tap damage when Barbaric Fury is active.,Damage,None,False,False,False,False,False,0,False
+AllActiveSkillAmount,Increases the primary effect of each active skill.,None,"HandOfMidasSkillAmount,HelperBoostSkillAmount,CritBoostSkillAmount,ShadowCloneSkillAmount,BurstDamageSkillAmount,TapBoostSkillAmount,DualPetAmount,StreamOfBladesSkillAmount,ThunderVolleySkillAmount,TwilightFairySkillAmount",False,False,False,False,False,0,False
+AllActiveSkillAmountPerAdditiveRelicMultiplier,Increases effects of active skills per lifetime relic boosters,Damage,None,True,False,True,False,False,0,False
+AllActiveSkillCap,Increase active skill cap max (+X),None,None,True,False,False,False,False,0,False
+AllActiveSkillCooldownRate,Reduces the cooldown of each active skill.,None,None,True,True,True,False,False,0,False
+AllActiveSkillDuration,Increases duration of active skill timers. (+Xs),None,None,True,False,False,True,False,0,False
+AllActiveSkillDurationMult,Increases duration of active skill timers (+X%),None,None,True,False,True,False,False,0,False
+AllActiveSkillDurationRate,"Scales the rate of skill timers, but visually extends the duration.",None,None,False,False,False,False,False,0,False
+AllActiveSkillManaReduction,Unused,None,None,True,True,False,False,False,0,False
+AllActiveSkillManaReductionMult,Multiplies AllActiveSkillManaReduction.,None,None,False,False,False,False,False,0,False
+AllArtifactDamageEffect,Increases the multiplicative damage bonus scaling on all artifacts,None,None,False,False,False,False,False,0,False
+AllArtifactGoldEffect,Increases the multiplicative gold bonus scaling on all artifacts,None,None,False,False,False,False,False,0,False
+AllArtifactMultEffect,Unused,None,None,False,False,False,False,False,0,False
+AllDamage,Increases damage from all sources.,Damage,None,False,False,False,False,False,0,False
+AllEquipmentEffect,Increases the strength of all primary equipment effects.,None,None,False,False,False,False,False,0,False
+AllGoldDuringHayst,Increases all gold while Hayst is active,Gold,None,False,False,False,False,False,0,False
+AllGoldx1000Chance,Increases the chance to earn x1000 gold from all sources. (deprecated),None,"BossGoldx1000Chance,ChestGoldx1000Chance,Goldx1000Chance",True,False,True,False,False,0,False
+AllHelperDamage,Increases damage from all heroes.,Damage,None,False,False,False,False,False,0,False
+AllManaGained,Increases the amount of mana earned from all sources.,None,None,False,False,False,False,False,0,False
+AllManaSourceMult,AllManaSourceMult,None,"ManaMonsterAmountMult,ManaTapRegenAmountMult,ManaRegenMult",False,False,False,False,False,0,False
+AllMultiCastStacks,Increases the maximum number of stacks for all active skills.,None,None,True,False,False,False,False,0,False
+AllProbabilityBoost,Increases the values of all probabilities.,None,None,False,False,False,False,False,0,False
+AllProbabilityBoostDuringHayst,Increases the values of all probabilities while Hayst's effect is active.,None,None,False,False,False,False,False,0,False
+AllUpgradeCost,Reduces all gold upgrade costs.,None,None,True,True,True,False,False,0,False
+AllUpgradeCostFairy,Reduces all gold upgrade costs from fairy video reward.,None,None,True,True,True,False,False,0,False
+AutoBuyHeroes,Determines the seconds between auto buy hero intervals.,None,None,True,False,False,False,False,0,False
+AutoBuyHeroesMultDuringMakeItRain,Reduces the seconds between auto buy hero intervals during Make It Rain,None,None,True,True,True,False,False,0,False
+LegacyPetDamageEffect,Increases the strength of damage type effects given by Legacy pets.,Damage,None,False,False,False,False,False,0,False
+LegacyPetGoldEffect,Increases the strength of gold type effects given by Legacy pets.,Gold,None,False,False,False,False,False,0,False
+MeleeHelperDamage,Increases damage from melee heroes.,Damage,None,False,False,False,False,False,0,False
+RangedHelperDamage,Increases damage from ranged heroes.,Damage,None,False,False,False,False,False,0,False
+SpellHelperDamage,Increases damage from spell heroes.,Damage,None,False,False,False,False,False,0,False
+ArmorBoost,Increases the primary effect of all Suit/Armor type equipment.,None,None,False,False,False,False,False,0,False
+AuraBoost,Increases the primary effect of all Aura type equipment.,None,None,False,False,False,False,False,0,False
+HelmetBoost,Increases the primary effect of all Hat/Helmet type equipment.,None,None,False,False,False,False,False,0,False
+ArtifactDamage,Increases AllDamage provided by artifacts.,Damage,None,True,False,True,False,False,1,False
+SeasonalArtifactDamage,Increases AllDamage provided by monuments.,Damage,None,True,False,True,False,False,1,False
+ArtifactEnchantmentBoost,Increases the strength of Artifact Enchantment bonus,None,None,False,False,False,False,False,0,False
+BoostedSwordAttackDamage,Increases the strength of AllDamage and Crit Damage,Damage,"AllDamage,CritDamage",False,False,False,False,False,0,False
+BossDamage,Increases the amount of damage done against bosses.,Damage,None,False,False,False,False,False,0,False
+BossGoldx10Chance,Increases the chance to earn x10 gold vs bosses.,None,None,True,False,True,False,False,0,False
+BossGoldx1000Chance,Increases the chance to earn x1000 gold vs bosses. (deprecated),None,None,True,False,True,False,False,0,False
+BossTimer,Adjusts the rate of the boss timer.,None,None,False,False,False,False,False,0,False
+BossTimerDuration,Adjusts the duration of the boss timer.,None,None,True,False,False,True,False,0,False
+BonusTapsPerSecond,Increases max possible taps per second.,None,None,True,False,False,False,False,0,False
+BurstDamageSkillAmount,Increases the primary effect of Heavenly Strike.,Damage,None,False,False,False,False,False,0,False
+BurstDamageSkillMana,Reduces the mana cost of Heavenly Strike.,None,None,True,True,False,False,False,0,False
+BurstDamageSkillManaMult,Multiplies the mana cost of Heavenly Strike,None,None,False,False,False,False,False,0,False
+BurstDamageSkillStacks,Increases the maximum Multi-Cast Cap for Heavenly Strike (+X),None,None,True,False,False,False,False,0,False
+BurstDamageSkillStacksBonus,Increases the strength of Heavenly Strike for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+CannonDamage,Increases thunder volley Skill damage & Gold Gun Damage,Damage,"GoldGunDamage,ThunderVolleySkillAmount",False,False,False,False,False,0,False
+ChestAmount,Increases Chesterson gold.,Gold,None,False,False,False,False,False,0,False
+ChestGoldx10Chance,Increases the chance to earn x10 Chesterson gold.,None,None,True,False,True,False,False,0,False
+ChestGoldx1000Chance,Increases the chance to earn x1000 Chesterson gold. (deprecated),None,None,True,False,True,False,False,0,False
+ChestChance,Increases the chance for a Chesterson to spawn.,None,None,True,False,True,False,False,0,False
+ChestersonGoldStageAmount,Increase the stage length for Chesterson amount,None,None,True,False,False,False,False,0,False
+ClanQTECooldown,Reduces the cooldown timer for Coordinated Offensive.,None,None,True,True,False,True,False,0,False
+ClanQTEDamage,Increases the damage of the summoned clan mate.,Damage,None,False,False,False,False,False,0,False
+ClanShipBatteryCoefficient,Decreases Clan Ship Battery requirements before a shot is fired.,None,None,False,False,False,False,False,0,False
+ClanShipDamage,Increases the clan ship damage.,Damage,None,False,False,False,False,False,0,False
+ClanShipStunDuration,Increases the stun duration of Anchoring Shot.,None,None,True,False,False,True,False,0,False
+ClanShipStunDamage,Increases the stun damage bonus of Anchoring Shot.,Damage,None,False,False,False,False,False,0,False
+CloakedSkipAmount,Increases amount of stages skipped from Cloaking.,None,None,True,False,False,False,False,0,False
+CloakedSkipChance,Increases chance to gain Cloaking after defeating a boss.,None,None,True,False,True,False,False,0,False
+CloakedStageDuration,Increases number of stages that Cloaking is active.,None,None,True,False,True,False,False,0,False
+CompanionAttackRate,"Increases the attack rate of companions  (pet, CS, SC).",None,None,False,False,False,False,False,0,False
+CompanionDamage,"Increases the damage of companions (pet, CS, SC).",Damage,"ClanShipDamage,PetDamage,ShadowCloneSkillAmount",False,False,False,False,False,0,False
+CompanionDoubleAttackChance,Unused,None,None,False,False,False,False,False,0,False
+CompanionQTECooldownMult,"Decreases the cooldown of all Companion skills. (Pet, CS,SC)",None,None,False,False,False,False,False,0,False
+CraftingPowerMult,Multiplies the required amount of shards per crafting power level,None,None,True,True,True,False,False,0,False
+CritBoostSkillCritDamage,Increases Crit Damage while Deadly Strike is active,Damage,None,False,False,False,False,False,0,False
+CritBoostSkillStacks,Increases the maximum Multi-Cast Cap for Deadly Strike (+X),None,None,True,False,False,False,False,0,False
+CritBoostSkillStacksBonus,Increases the strength of Deadly Strike for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+CritBoostSkillDuration,Increases the duration of Deadly Strike. (+Xs),None,None,True,False,False,True,False,0,False
+CritBoostSkillDurationMult,Increases the duration of Deadly Strike. (+X%),None,None,True,False,True,False,False,0,False
+CritBoostSkillAmount,Increases the strength of Deadly Strike.,Damage,None,False,False,False,False,False,0,False
+CritBoostSkillMana,Reduce the mana cost of Deadly Strike.,None,None,True,True,False,False,False,0,False
+CritBoostSkillManaMult,Multiplies CritBoostSkillMana.,None,None,False,False,False,False,False,0,False
+CritBoostSkillShadowCloneDamage,Increases the Damage of Shadow Clone while Deadly Strike is active.,None,None,False,False,False,False,False,0,False
+CritChance,Increases the chance to score a critical hit.,None,None,True,False,True,False,False,0,False
+CritDamage,Increases the base damage done by critical hits.,Damage,None,False,False,False,False,False,0,False
+DailyTicketBoost,Increases the amount of clan tickets earned by a player,None,None,True,False,True,False,False,0,False
+DamageOverTimeMaxAttacks,Unused,None,None,True,False,False,False,False,0,False
+DamageOverTimePercent,Unused,None,None,True,False,True,False,False,0,False
+DamagePerConsecutiveLoginDay,Damage per Login Day (max 14),Damage,None,False,False,False,False,False,0,False
+DamagePerOwnedCardLevel,Damage per owned raid card level,Damage,None,True,False,True,False,False,0,True
+DamagePerEquipmentSet,Damage per completed equipment set,Damage,None,False,False,False,False,False,0,False
+DamagePerHelperWeapon,Damage per Individual Helper Weapon,Damage,None,True,False,True,False,False,0,False
+DamagePerHelperScroll,Damage per Individual Helper Scroll,Damage,None,True,False,True,False,False,0,False
+DamagePerMythicSet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
+DamagePerLegendarySet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
+DamagePerLifetimePrestige,Damage per Lifetime Prestige Stat,Damage,None,True,False,True,False,False,0,False
+DamagePerRareSet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
+DamagePerEventSet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
+DamagePerOwnedArtifact,Increases damage per owned artifact,Damage,None,False,False,False,False,False,0,False
+DamagePerOwnedEnchantment,Increases damage per owned enchantment,Damage,None,False,False,False,False,False,0,False
+DamagePerSoloRaidWorld,Increases damage each time a solo raid world is completed,Damage,None,False,False,False,False,False,0,False
+DamagePerRunningActiveSkill,Increases the amount of damage earned for each running active skill.,Damage,None,False,False,False,False,False,0,False
+DamagePerATParticipation,Increases amount of damage based on lifetime AT Participation,Damage,None,True,False,True,False,False,0,False
+DamagePerManaCap,Increases damage based on the player's mana cap (capped 50000),Damage,None,True,False,True,False,False,0,False
+DamagePerSkillPoint,Increased damage based on the amount of owned skill points,Damage,None,True,False,True,False,False,0,False
+DeadlyChance,Increases the chance to land a Deadly Strike.,None,None,True,False,True,False,False,0,False
+DeadlyDamageClone,Increases deadly damage done by Shadow Clone.,Damage,None,False,False,False,False,False,0,False
+DeadlyDamageCompanion,Increases deadly damage done by companions.,Damage,"DeadlyDamageClone,DeadlyDamagePet,DeadlyDamageShip",False,False,False,False,False,0,False
+DeadlyDamagePet,Increases deadly damage done by pets.,Damage,None,False,False,False,False,False,0,False
+DeadlyDamageShip,Increases deadly damage done by the clan ship.,Damage,None,False,False,False,False,False,0,False
+DoomBonusDamage,Increases the strength of most damage sources.,None,None,False,False,False,False,False,0,False
+DoomBonusDamageBase,The base strength of doom per effect count.,None,None,False,False,False,False,False,0,False
+DoomBonusDamageMaxCount,The maximum amount of times doom damage may increase.,None,None,True,False,False,False,False,0,False
+EquipmentPetEffect,Multiplies the effect of armour pet bonuses,None,None,False,False,False,False,False,0,False
+EquipmentRarityChance,Increases the chance for rare or better equipment drops.,None,None,False,False,False,False,False,0,False
+EquipmentSecondaryDamageEffect,Increases the secondary damage effects on Weapons and Hats,None,None,False,False,False,False,False,0,False
+EquippedEquipmentLevel,Gives a flat additive increase to equipped equipment level.,None,None,True,False,False,False,False,0,False
+ExoticPetDamageEffect,Increases the strength of damage type effects given by Exotic pets.,Damage,None,False,False,False,False,False,0,False
+ExoticPetGoldEffect,Increases the strength of gold type effects given by Exotic pets.,Gold,None,False,False,False,False,False,0,False
+FairyCooldown,Decreases the cooldown between fairy spawns.,None,None,True,True,False,True,False,0,False
+FairyGold,Increases gold dropped by fairies.,Gold,None,False,False,False,False,False,0,False
+FairySpawnChance,Increases the chance for multiple fairies to spawn.,None,None,True,False,True,False,False,0,False
+ForbiddenContractBonusDamage,The bonus damage for Forbidden Contract.,Damage,None,False,False,False,False,False,0,False
+ForbiddenContractBonusGold,The bonus gold for Forbidden Contract.,Gold,None,False,False,False,False,False,0,False
+ForbiddenContractManaCostBase,The initial mana cost for Forbiddeen Contract's mana burn.,None,None,True,False,False,False,False,0,False
+ForbiddenContractMaxDamage,The max damage multiplier for Forbiddden Contract.,None,None,False,False,False,False,False,0,False
+ForbiddenContractQTECooldown,Decreases the cooldown for Forbidden Contract.,None,None,True,True,False,True,False,0,False
+ForbiddenContractTimeUntilMaxDamage,Time until max damage is reached for Forbidden Contract,None,None,True,False,False,True,False,0,False
+RoyalContractBonusDamage,The bonus damage for Royal Contract.,Damage,None,False,False,False,False,False,0,False
+RoyalContractBonusGold,The bonus gold for Royal Contract.,Gold,None,False,False,False,False,False,0,False
+RoyalContractManaCostBase,The initial mana cost for Royal Contract's mana burn.,None,None,True,False,False,False,False,0,False
+RoyalContractMaxGold,The max gold multiplier for Royal Contract.,Gold,None,False,False,False,False,False,0,False
+RoyalContractQTECooldown,Decreases the cooldown for Royal Contract.,None,None,True,True,False,True,False,0,False
+RoyalContractTimeUntilMaxGold,Time until max gold is reached for Royal Contract.,None,None,True,False,False,True,False,0,False
+AnyContractMonsterCount,Decreases the amount of non-boss Titans per stage while Contract is running,None,None,True,True,False,False,False,0,False
+AnyContractBonusBoost,Increases ForbiddenContractBonusDamage and RoyalContractBonusGold,None,"ForbiddenContractBonusDamage,RoyalContractBonusGold",False,False,False,False,False,0,False
+AnyContractQTECooldown,Increases ForbiddenContractQTECooldown and RoyalContractQTECooldown,None,"ForbiddenContractQTECooldown,RoyalContractQTECooldown",True,True,False,True,False,0,False
+FrenzyCount,Increases bonus sword master attacks per second.,None,None,True,False,False,False,False,0,False
+FrenzyDamage,Unused,Damage,None,False,False,False,False,False,0,False
+GoldAll,Increases gold earned from all sources.,Gold,None,False,False,False,False,False,0,False
+GoldBoss,Increases gold earned from bosses.,Gold,None,False,False,False,False,False,0,False
+GoldMonster,Increases gold earned from basic Titans.,Gold,None,False,False,False,False,False,0,False
+GoldPerOwnedCardLevel,Increases all gold for each raid card level owned,Gold,None,True,False,True,False,False,0,False
+GoldPerMythicSet,Gold per completed equipment set of this type,None,None,False,False,False,False,False,0,False
+GoldPerLegendarySet,Gold per completed equipment set of this type,None,None,False,False,False,False,False,0,False
+GoldPerRareSet,Gold per completed equipment set of this type,None,None,False,False,False,False,False,0,False
+GoldPerEventSet,Gold per completed equipment set of this type,None,None,False,False,False,False,False,0,False
+GoldPerRunningActiveSkill,Increases the amount of gold earned for each running active skill.,Gold,None,False,False,False,False,False,0,False
+GoldPerSwordMasterLevel,Increases the amount of gold earned for each level of Sword Master,Gold,None,True,False,True,False,False,0,False
+GoldPrizeFighter,Increases both AllGold and BossGold,Gold,"GoldAll,GoldBoss",False,False,False,False,False,0,False
+GoldSpecialty,"Increases HoG, Fairy gold",Gold,"PetGoldQTEAmount,FairyGold",False,False,False,False,False,0,False
+GoldPrestige,Increasing starting gold after prestige.,Gold,None,False,False,False,False,False,0,False
+Goldx10Chance,Increases the chance to earn x10 gold.,None,None,True,False,True,False,False,0,False
+Goldx1000Chance,Increases the chance to earn x1000 gold from regular Titans. (deprecated),None,None,True,False,True,False,False,0,False
+GoldGunDamage,Increases Gold Gun Damage,Damage,None,False,False,False,False,False,0,False
+MagnumOpusDamage,Increases Magnum Opus Damage,Damage,None,False,False,False,False,False,0,False
+MagnumOpusDuration,Increases Magnum Opus Duration,None,None,True,False,False,True,False,0,False
+MagnumOpusDurationMult,Increases the duration of Magnum Opus. (+X%),None,None,False,False,False,False,False,0,False
+GoldGunAttackRate,"Increases the attack rate of Gold Gun, not Magnum Opus",None,None,False,False,False,False,False,0,False
+GoldGunChargeBoost,Decreases Gold Gun Charge Amount Required,None,None,True,True,False,False,False,0,False
+AlchemistBonusBoost,Combo boost of All Gold and Gold Gun Damage,Damage,"GoldAll,GoldGunDamage",False,False,False,False,False,0,False
+GoldenMissileSkillAmount,Increases Golden Missile Damage,Damage,None,False,False,False,False,False,0,False
+GoldenMissileSkillMana,Reduce the mana cost of Golden Missile,None,None,True,True,False,False,False,0,False
+GoldenMissileSkillManaMult,Reduce the mana cost of Golden Missile,None,None,False,False,False,False,False,0,False
+GoldenMissileSkillCooldown,Decreases the cooldown for Golden Missile,None,None,True,True,False,False,False,0,False
+HandOfMidasSkillStacks,Increases the maximum Multi-Cast Cap for Hand of Midas(+X),None,None,True,False,False,False,False,0,False
+HandOfMidasSkillStacksBonus,Increases the strength of Hand of midas for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+HandOfMidasSkillDuration,Increases the duration of Hand of Midas. (+Xs),None,None,True,False,False,True,False,0,False
+HandOfMidasSkillDurationMult,Increases the duration of Hand of Midas. (+X%),None,None,True,False,True,False,False,0,False
+HandOfMidasSkillAmount,Increases the primary Hand of Midas effect.,Gold,None,False,False,False,False,False,0,False
+HandOfMidasSkillMana,Reduces the mana cost of Hand of Midas.,None,None,True,True,False,False,False,0,False
+HandOfMidasSkillManaMult,Multiplies HandOfMidasSkillMana,None,None,False,False,False,False,False,0,False
+HaystMonsterSpawnChance,Grants bonus Spawn Chance to Hayst,None,None,True,False,True,False,False,0,False
+FundamentalDamage,Increases both TapDamage and AllHelperDamage,Damage,"TapDamage,AllHelperDamage",False,False,False,False,False,0,False
+FlyingHelperDamage,Increases damage from flying heroes.,Damage,None,False,False,False,False,False,0,False
+GroundHelperDamage,Increases damage from ground heroes.,Damage,None,False,False,False,False,False,0,False
+HelperAttackRate,Increases the attack rate of heroes.,None,None,False,False,False,False,False,0,False
+HelperBoostSkillStacks,Increases the maximum Multi-Cast Cap for War Cry (+X),None,None,True,False,False,False,False,0,False
+HelperBoostSkillStacksBonus,Increases the strength of War Cry for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+HelperBoostSkillDuration,Increases the duration of War Cry. (+Xs),None,None,True,False,False,True,False,0,False
+HelperBoostSkillDurationMult,Increases the duration of War Cry. (+X%),None,None,True,False,True,False,False,0,False
+HelperBoostSkillAmount,Increases the primary effect of War Cry.,Damage,None,False,False,False,False,False,0,False
+HelperBoostSkillMana,Reduces the mana cost of War Cry.,None,None,True,True,False,False,False,0,False
+HelperBoostSkillManaMult,Multiplies HelperBoostSkillMana,None,None,False,False,False,False,False,0,False
+HelperBoostCompanionAttackRate,Increases companion attack rate while War Cry is active.,None,None,False,False,False,False,False,0,False
+HelperCritDamage,Unused,Damage,None,False,False,False,False,False,0,False
+HelperUpgradeCost,Reduces the upgrade cost of heroes.,None,None,True,True,True,False,False,0,False
+HelperMultiplicativeSkillBoost,Increases the strength of multiplicative hero skill types.,None,None,True,False,True,False,False,1,False
+HelperAdditiveSkillBoost,Increases the strength of additive hero skill types.,None,None,True,False,True,False,False,1,False
+HelperQTECooldown,Reduces the cooldown of Astral Awakening.,None,None,True,True,False,True,False,0,False
+HelperQTECount,Increases the max bounce count of Astral Awakening.,None,None,True,False,False,False,False,0,False
+HelperQTEDamage,Increases all hero damage for each Astral Awakening bounce.,None,None,False,False,False,False,False,0,False
+HelperQTEDuration,Increases the duration of Astral Awakening.,None,None,True,False,False,True,False,0,False
+HelperScrollBoost,Increases the strength of individual hero scrolls.,None,None,True,False,True,False,False,0,False
+HelperScrollSetBoost,Increases the strength of hero scroll sets,None,None,True,False,True,False,False,0,False
+HelperWeaponBoost,Increases the strength of individual hero weapons.,None,None,False,False,False,False,False,0,False
+HelperWeaponSetBoost,Increases the strength of hero weapon sets,None,None,False,False,False,False,False,0,False
+HoursToCollectPetEggsAdditive,Modifies the amount of time required to collect pet eggs. ServerVar.hoursToCollectEgg,None,None,True,False,False,False,False,0,False
+HSArtifactDamage,Increases artifact damage from Heavenly Sword.,Damage,None,False,False,False,False,False,0,False
+InactiveAdvance,Increases the maximum stage allowed by inactive advancement.,None,None,True,False,True,False,True,0,False
+InactiveGold,Increases all inactive gold earned.,Gold,None,False,False,False,False,False,0,False
+InactiveMaxStageOverride,Increases inactive max stage up to 99%,None,None,False,False,True,False,True,0,False
+InactiveSpeed,Reduces the time spent on each monster while inactive.,None,None,False,False,False,False,False,0,False
+InactiveSneakCount,The number of titans snuck past during sneaks,None,None,True,False,False,False,False,0,False
+InactiveSneakCountAdditive,Increases the number of titans snuck past during sneaks(+),None,None,True,False,False,False,False,0,False
+InactiveSneakCountMult,Increases the number of titans snuck past during sneaks(X),None,None,False,False,False,False,False,0,False
+InspiredHelperCount,Increases the number of Inspired Heroes.,None,None,True,False,False,False,False,0,False
+InspiredHelperDamage,Increases the damage of Inspired Heroes.,Damage,None,False,False,False,False,False,0,False
+InspiredHelperWeaken,Increases the weaken effect from Inspired Hero attacks.,Damage,None,True,False,True,False,False,0,False
+JackpotGold,Increases gold earned from Jackpot gold rolls.,Gold,None,False,False,False,False,False,0,False
+JackpotGoldChance,Increases the chance to earn xJackpot Gold.,None,None,True,False,True,False,False,0.05,False
+KillAnimationTimeReduction,Decreases the delay between each Titan kill.,None,None,True,False,False,False,False,0,False
+KnightBonusBoost,"Increases TapDamage,PetDamage,TapBoostSkillAmount",None,"TapDamage,PetDamage,TapBoostSkillAmount",False,False,False,False,False,0,False
+KratosMonsterBonusAmount,Grants bonus Damage to Kratos,Damage,None,False,False,False,False,False,0,False
+KratosMonsterSpawnChance,Grants bonus Spawn Chance to Kratos,None,None,True,False,True,False,False,0,False
+KratosMonsterStacks,Grants bonus Stacks to Kratos,None,None,True,False,False,False,False,0,False
+KratosSpellDurationEffect,Grants bonus spell duration when collecting the Kratos buff,None,None,True,False,False,True,False,0,False
+KronusComboBoost,Increases AuraBoost and SpellHelperDamage.,None,"AuraBoost,SpellHelperDamage",False,False,False,False,False,0,False
+LanceComboBoost,Increases ArmorBoost and GroundHelperDamage.,None,"ArmorBoost,GroundHelperDamage",False,False,False,False,False,0,False
+LightningStrikeChance,Increases the chance for Lightning Strike.,None,None,True,False,True,False,False,0,False
+LightningStrikeDamage,Increases the damage done by each Lightning Strike.,None,None,False,False,True,False,True,0,False
+LightningStrikeEfficiency,Reduces the damage of subsequent strikes against the same monster.,None,None,False,False,True,False,True,0,False
+LoyaltyLevel,Increases the player's Clan Loyalty level by this amount,None,None,True,False,False,False,False,0,False
+ManaMonsterAmount,Increases mana dropped by Manni Mana.,None,None,True,False,False,False,False,0,False
+ManaMonsterAmountMult,Multiplies ManaMonsterAmount Bonus,None,None,False,False,False,False,False,0,False
+ManaMonsterSpawnChance,Increases the chance for Manni Mana to spawn.,None,None,True,False,True,False,False,0,False
+ManaPoolCap,Increases mana capacity.,None,None,True,False,False,False,False,0,False
+ManaPoolCapPercent,Increases mana capacity with a multiplicative bonus,None,None,False,False,False,False,False,0,False
+ManaRefundPercent,Refunds a percent of mana spent on active skills.,None,None,True,False,True,False,False,0,False
+ManaRegen,Increases mana regeneration.,None,None,True,False,False,False,False,0,False
+ManaRegenMult,Mana regeneration multiplier.,None,None,False,False,False,False,False,0,False
+ManaStealChance,Increases the chance of Mana Siphon.,None,None,True,False,True,False,False,0,False
+ManaTapRegen,Increases the strength of Mana Siphon (depricated),None,None,True,False,True,False,True,0,False
+ManaTapRegenAmount,Increases the strength of Mana Siphon (current - additive).,None,None,True,False,False,False,True,0,False
+ManaTapRegenAmountMult,Multiplies ManaTapRegenAmount Bonus,None,None,False,False,False,False,False,0,False
+MaxPetEggsAdditive,Increases server var maxPetEggs,None,None,True,False,False,False,False,0,False
+MegaBombMaxStacks,Increases the max amount of times Snap effect can stack,None,None,True,False,False,False,False,0,False
+MegaBombSpawnChance,Increases the chance for Snap to spawn.,None,None,True,False,True,False,False,0,False
+MemoryClan,Increases the starting stage value after prestige (ADDITIVE).,None,None,True,False,True,False,False,0,False
+MemoryEquipmentSet,Increases the starting stage value after prestige (ADDITIVE).,None,None,True,False,True,False,False,0,False
+MonsterActiveSpawnDuration,Decreases the delay time for active Titan spawns.,None,None,True,True,True,False,False,0,False
+MonsterAllSpawnDuration,Decreases the delay time for active and inactive Titan spawns.,None,None,True,True,True,False,False,0,False
+MonsterCountPerStage,Decreases the amount of non-boss Titans per stage.,None,None,True,True,False,False,False,0,False
+MonsterHP,Decreases the HP of all Titans.,None,None,True,True,True,False,False,0,False
+MonsterInactiveSpawnDuration,Decreases the delay time for inactive Titan spawns.,None,None,True,True,True,False,False,0,False
+MultiMonsters,Increases the chance for a multi-Titan spawn.,None,None,True,False,True,False,False,0,False
+MultiMonstersGold,Increases gold per each multi spawn,Gold,None,False,False,False,False,False,0,False
+MultiMonstersMana,Increase mana per each multi spawn (manni mana only),None,None,False,False,False,False,False,0,False
+MultiMonstersMaxCount,Increases the max number of multi-Titans that can spawn.,None,None,True,False,False,False,False,0,False
+NohniComboBoost,Increases HelmetBoost and FlyingHelperDamage.,None,"HelmetBoost,FlyingHelperDamage",False,False,False,False,False,0,False
+PaladinBonusBoost,"Increases TapDamage,BurstDamageSkillAmount,FairyGold",None,"TapDamage,BurstDamageSkillAmount,FairyGold",False,False,False,False,False,0,False
+PerkGold,Increases gold given by perks..,Gold,None,False,False,False,False,False,0,False
+PerkDoomAmount,Increases the damage granted by the Doom Perk,Damage,None,FALSE,FALSE,FALSE,FALSE,FALSE,0,FALSE
+PerkMaxLevel,Increases max perk stacks,None,None,True,False,False,False,False,0,False
+DamagePerLifetimePerks,Increases Damage per Lifetime Perks Used,Damage,None,True,False,True,False,False,0,False
+PetBonusBoost,(deprecated) Increases Pet Damage & FireSword Damage,None,"PetDamage,TapBoostSkillAmount",False,False,False,False,False,0,False
+PetDamage,Increases all pet damage.,Damage,None,False,False,False,False,False,0,False
+PetIndividualDamage,Increases pet damage from each individual pet.,Damage,None,True,False,True,False,False,0,False
+PetTapCountToAttack,Decreases the number of taps needed to trigger a pet attack.,None,None,True,True,False,False,False,0,False
+PetAttackQTECooldown,Decreases the cooldown for Flash Zip.,None,None,True,True,False,True,False,0,False
+PetAttackQTEDamage,Increases bonus damage dealt by Flash Zip.,Damage,None,False,False,False,False,False,0,False
+PetAutoAttackEnabledOverride,Pet auto attack flag that controls when pet auto attack is enabled,None,None,True,False,False,False,False,0,False
+PetQuestRewardMult,Multiplies pet XP gained from Pet Quests (+X%),None,None,True,False,True,False,False,0,False
+PetBossQTECooldown,Decreases the cooldown of Flash Zip.,None,None,True,True,False,True,False,0,False
+PetBossQTEDamage,Increases all pet damage (charged damage) from Flash Zip.,Damage,None,False,False,False,False,False,0,False
+PetBossQTEDuration,Increases the duration of Flash Zip.,None,None,True,False,False,True,False,0,False
+PetGoldQTEAmount,Increases gold earned from Heart of Gold.,Gold,None,False,False,False,False,False,0,False
+PetGoldQTECooldown,Decreases the cooldown of Heart of Gold.,None,None,True,True,False,True,False,0,False
+PetQTECooldownMult,Decreases the cooldown of all pet skills.,None,None,False,False,False,False,False,0,False
+PetQTEDamage,"Increasses PetBossQTEDamage, PetAttackQTEDamage",None,"PetBossQTEDamage, PetAttackQTEDamage",False,False,False,False,False,0,False
+DualPetSkillStacks,Increases Dual Pet maximum Multi-Cast.,None,None,True,False,False,False,False,0,False
+DualPetAmount,Increases Dual Pet damage.,Damage,None,False,False,False,False,False,0,False
+DualPetAttackPerSecond,Adds dual pet attacks per second.,None,None,True,False,False,False,False,0,False
+DualPetDuration,Increases the duration of Dual Pet.,None,None,True,False,False,True,False,0,False
+DualPetDurationMult,Increases the duration of Dual Pet.,None,None,False,False,False,False,False,0,False
+DualPetSkillMana,Reduce the mana cost of Dual Pet,None,None,True,True,False,False,False,0,False
+DualPetSkillManaMult,Multiplies DualPetSkillMana,None,None,False,False,False,False,False,0,False
+DualPetSkillStacksBonus,Increases Dual Pet stacking damage.,None,None,False,False,False,False,False,0,False
+PlayerRaidLevelCostReduction,Reduces the cost of Raid Levels,None,None,False,False,False,False,False,0,False
+PoisonBonusDamage,Total bonus percent damage increase from poison.,Damage,None,True,False,True,False,False,0,False
+PortarAboveMSOverride,Allow player to porter skip past max stage.,None,None,True,False,False,False,True,0,False
+PrestigeRelic,Increases all relics earned. (X),None,None,False,False,False,False,False,0,False
+PrestigeRelicAdditive,Increases all relics earned. (+),None,None,True,False,True,False,False,0,False
+OnlyPrestigeRelic,Only increases relics earned from prestige.,None,None,False,False,False,False,False,0,False
+SeasonalRelicsFromPrestige,Increases Seasonal Relics earned on prestige (and not from other sources),None,None,False,False,False,False,False,0,False
+RogueBonusBoost,"Increases CritBoostSkillAmount, UltraDaggerDamage",None,"CritBoostSkillAmount,UltraDaggerDamage",False,False,False,False,False,0,False
+SajeComboBoost,Increases SlashBoost and RangedHelperDamage.,None,"SlashBoost,RangedHelperDamage",False,False,False,False,False,0,False
+ShadowCloneAllSkillBoost,Increases the strength of all active skills while Shadow Clone is active.,None,None,False,False,False,False,False,0,False
+ShadowCloneAllSkillDurationRate,Increases the duration of all active skills while Shadow Clone is active.,None,None,False,False,False,False,False,0,False
+ShadowCloneSkillStacks,Increases the maximum Multi-Cast Cap for Shadow Clone (+X),None,None,True,False,False,False,False,0,False
+ShadowCloneSkillStacksBonus,Increases the strength of Shadow Clone for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+ShadowCloneSkillAmount,Increases the damage of shadow clone.,Damage,None,False,False,False,False,False,0,False
+ShadowCloneSkillAttackRate,Increases the attack rate of shadow clone.,None,None,True,False,False,False,False,0,False
+ShadowCloneSkillSpecialRate,Increases the special attempt rate of shadow clone.,None,None,False,False,False,False,False,0,False
+ShadowCloneSkillSpecialDamage,"Shadow Clone ""Critical Hit"" damage",Damage,None,False,False,False,False,False,0,False
+ShadowCloneSkillSpecialChance,"Shadow Clone ""Critical Hit"" chance",None,None,True,False,True,False,False,0,False
+ShadowCloneSkillCooldown,Decreases the cooldown for shadow clone.,None,None,True,True,False,False,False,0,False
+ShadowCloneSkillDuration,Increases the duration of shadow clone. (+Xs),None,None,True,False,False,True,False,0,False
+ShadowCloneSkillDurationMult,Increases the duration of shadow clone. (+X%),None,None,True,False,True,False,False,0,False
+ShadowCloneSkillMana,Decreases the mana cost of shadow clone.,None,None,True,True,False,False,False,0,False
+ShadowCloneSkillManaMult,Multiplies ShadowCloneSkillMana,None,None,False,False,False,False,False,0,False
+ShadowCloneBossSplash,Percentage chance for shadow clone to splash through bosses,None,None,True,False,True,False,False,0,False
+SkillTreeChestAmount,Stores bonus Chesterson gold from the skill tree.,None,None,False,False,False,False,False,0,False
+SkillTreeGoldAll,Stores bonus all gold from the skill tree.,None,None,False,False,False,False,False,0,False
+SkillTreeLoadoutSlots,Increase the maximum amount of skill tree loadout slots,None,None,True,False,False,False,False,0,False
+SlashBoost,Increases the strength of all slash type equipment.,None,None,False,False,False,False,False,0,False
+SpecialTitanSpawnChance,Increases Special Titan Spawn Chance,None,None,False,False,False,False,False,0,False
+SpecialTitanStackDurationMult,Increases the duration of all special titans,None,None,False,False,False,False,False,0,False
+SophiaComboBoost,Increases SwordBoost and MeleeHelperDamage.,None,"SwordBoost,MeleeHelperDamage",False,False,False,False,False,0,False
+SorcererBonusBoost,"Increases BurstSkillBoostAmount, HandOfMidasSkillAmount, ShadowCloneSkillAmount",None,"BurstDamageSkillAmount,HandOfMidasSkillAmount,ShadowCloneSkillAmount",False,False,False,False,False,0,False
+SorcererStageSkipMult,"Increases BurstSkillSplashCountMult, ShadowCloneSplashCountMult",None,"BurstSkillStageSkipMult,ShadowCloneStageSkipMult",False,False,False,False,False,0,False
+StageSkipMonsterAmount,Increases the stages skipped by Portar.,None,None,True,False,False,False,False,0,False
+StageSkipMonsterAmountMult,Multiplies the stages skipped by Portar.,None,None,False,False,False,False,False,0,False
+StageSkipMonsterSpawnChance,Increases the chance for Portar to spawn.,None,None,True,False,True,False,False,0,False
+StreamOfBladesSuperDamage,Increases damage for Stream Of Blades when performing super,Damage,None,False,False,False,False,False,0,False
+StreamOfBladesSkillAmount,Increases damage for Stream Of Blades while skill is active,Damage,None,False,False,False,False,False,0,False
+StreamOfBladesDuration,Increases duration length of Stream Of Blades (+ Xs),None,None,True,False,False,True,False,0,False
+StreamOfBladesDurationMult,Increases the duration of Stream Of Blades (+X%),None,None,True,False,True,False,False,0,False
+StreamOfBladesSkillMana,Decreases the mana cost of Stream Of Blades.,None,None,True,True,False,False,False,0,False
+StreamOfBladesSkillManaMult,Multiplies StreamOfBladesSkillMana,None,None,False,False,False,False,False,0,False
+StreamOfBladesSkillStacks,Increases the maximum Multi-Cast Cap for Stream Of Blades (+X),None,None,True,False,False,False,False,0,False
+StreamOfBladesSkillStacksBonus,Increases the strength of Stream Of Blades for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+SwordBoost,Increases the strength of all Sword/Weapon equipment types.,None,None,False,False,False,False,False,0,False
+SwordAttackDamage,Increases the strength of sword attack damage.,Damage,None,False,False,False,False,False,0,False
+SwordMasterDamage,Increases base Sword Master damage.,Damage,None,False,False,False,False,False,0,False
+SwordMasterUpgradeCost,Reduces the gold cost of Sword Master.,None,None,True,True,True,False,False,0,False
+TapBoostSkillStacks,Increases the maximum Multi-Cast Cap for Fire Sword (+X),None,None,True,False,False,False,False,0,False
+TapBoostSkillStacksBonus,Increases the strength of Fire Sword for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+TapBoostSkillDuration,Increases the duration of Fire Sword. (+Xs),None,None,True,False,False,True,False,0,False
+TapBoostSkillDurationMult,Increases the duration of Fire Sword. (+X%),None,None,True,False,True,False,False,0,False
+TapBoostSkillAmount,Increases the strength of Fire Sword.,Damage,None,False,False,False,False,False,0,False
+TapBoostSkillMana,Reduces the mana cost of Fire Sword.,None,None,True,True,False,False,False,0,False
+TapBoostSkillManaMult,Multiplies TapBoostSkillMana,None,None,False,False,False,False,False,0,False
+TapDamage,Increases the strength of Tap Damage.,Damage,None,False,False,False,False,False,0,False
+TapDamageFromHelpers,Converts hero damage into Tap Damage.,Damage,None,True,False,True,False,False,0,False
+TapDamageFromHelpersMult,Multiplies the bonus gained from TapDamageFromHelpers.,Damage,None,False,False,False,False,False,0,False
+ThunderVolleySkillAmount,Increases the strength of the Thunder Ship Spell.,Damage,None,False,False,False,False,False,0,False
+ThunderVolleySkillSpecialDamage,Increases the strength of the Thunder Volley special damage.,Damage,None,False,False,False,False,False,0,False
+ThunderVolleySkillDuration,Increases the Duration of the Thunder Ship Spell.,None,None,True,False,False,True,False,0,False
+ThunderVolleySkillDurationMult,Increases the duration of Thunder Ship (+X%).,None,None,True,False,True,False,False,0,False
+ThunderVolleySkillStacks,Increases the maximum Multi-Cast Cap for Thunder Volley (+X),None,None,True,False,False,False,False,0,False
+ThunderVolleySkillStacksBonus,Increases the strength of Thunder Volley for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+ThunderVolleySkillMana,Reduces the mana cost of Thunder Ship.,None,None,True,True,False,False,False,0,False
+ThunderVolleySkillManaMult,Multiplies ThunderVolleySkillMana,None,None,False,False,False,False,False,0,False
+TitanDamage,Increases damage dealt against non-boss Titans.,Damage,None,False,False,False,False,False,0,False
+TitanSlayer,Increases Sword and HS,Damage,"SwordBoost,BurstDamageSkillAmount",False,False,False,False,False,0,False
+TwilightBoost,Increases HS and Shadow Clone Amounts,Damage,"BurstDamageSkillAmount,ShadowCloneSkillAmount",False,False,False,False,False,0,False
+TwilightFairySkillAmount,Increases the strength of the Twilight Fairy Spell.,Damage,None,False,False,False,False,False,0,False
+TwilightFairySpawnChance,Increases the chance for multiple twilight fairies to spawn.,None,None,True,False,True,False,False,0,False
+TwilightFairySkillDuration,Increases the duration of the Twilight Fairy Spell.,None,None,True,False,False,True,False,0,False
+TwilightFairySkillStacks,Increases the maximum Multi-Cast Cap for Twilight Fairy (+X),None,None,True,False,False,False,False,0,False
+TwilightFairySkillStacksBonus,Increases the strength of Twilight Fairy for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+TwilightFairySkillMana,Reduces the mana cost of Twilight Fairy.,None,None,True,True,False,False,False,0,False
+TwilightFairySkillManaMult,Multiplies TwilightFairySkillMana,None,None,False,False,False,False,False,0,False
+UltraDaggerCooldown,Decreases the cooldown for ultra daggers (-Xs),None,None,True,True,False,True,False,0,False
+UltraDaggerCooldownMult,Decreases the cooldown for ultra daggers (%),None,None,False,False,False,False,False,0,False
+UltraDaggerCount,Increases number of available ultra daggers to be thrown,None,None,True,False,False,False,False,0,False
+UltraDaggerDamage,Increases multiplier for damage from dagger,Damage,None,False,False,False,False,False,0,False
+UltraDaggerDamageCrit,Damage multiplier for when dagger lands critical hit,Damage,None,False,False,False,False,False,0,False
+UltraDaggerPoisonBoost,Increases poison percent damage,None,None,True,False,True,False,False,0,False
+UltraDaggerPoisonMaxCount,Max number of applications of UltraDaggerPoisonBoost,None,None,True,False,False,False,False,0,False
+UltraDaggerTargetDamage,Increases dagger damage based on the number of targets hit during stream of blades,Damage,None,False,False,False,False,False,0,False
+UltraDaggerTargetDuration,Increases duration of time before targets reset,None,None,True,False,False,True,False,0,False
+UnskilledDamage,"(unused) StealthDamage = AllDamage, InactiveAllDamage.",Damage,AllDamage,False,False,False,False,False,0,False
+UnskilledGold,"StealthGold = GoldAll, JackpotGold",Gold,"GoldAll,JackpotGold",False,False,False,False,False,0,False
+WarlordBonusBoost,"Increases AllHelperDamage, HelperBoostSkillAmount, ClanShipDamage.",None,"AllHelperDamage, HelperBoostSkillAmount, ClanShipDamage",False,False,False,False,False,0,False
+AstralEchoMaxCharges,Taps until Astral Echo triggers,Raid,None,False,False,False,False,True,0,False
+AstralEchoReducedChance,Reduced chances on bonus taps,Raid,None,True,True,True,False,False,0,False
+BurningDamageRate,Increases the damage of each burning tick.,Raid,None,True,False,True,False,False,0,False
+BurningPartChance,Increases the chance to proc a burning debuff,Raid,None,True,False,True,False,False,0,False
+BurstDamage,Increases the damage of all Burst skills.,Raid,None,True,False,True,False,False,0,False
+BurstChance,Increases the activation chance of all Burst skills.,Raid,None,False,False,False,False,False,0,False
+BurstCountDamage,Increases the damage of BurstCount,Raid,None,False,False,False,False,False,0,False
+BurstCountBonus,Increases the bonus damage of BurstCount based on the total burst count,Raid,None,True,False,True,False,False,0,False
+BurstSupportStacksDamage,Increases the damage of BurstSupportStacks,Raid,None,False,False,False,False,False,0,False
+BurstSupportStacksBonus,Increases the bonus damage of BurstSupportStacks based on the total active support skill stacks,Raid,None,True,False,True,False,False,0,False
+CelestialStaticBurst,Increases celestial static damage,Raid,None,False,False,False,False,False,0,False
+CelestialStaticChargePerBurst,Number of charges consumed when bursting on ARMOR,Raid,None,True,False,False,False,True,0,False
+CelestialStaticChargePerTap,Number of charges generated when tapping on BODY,Raid,None,True,False,False,False,True,0,False
+CelestialStaticMaxCharges,Maximum number of charges a player can hold at once,Raid,None,True,False,False,False,True,0,False
+ChainLightningBurst,Increases chain lightning damage,Raid,None,False,False,False,False,False,0,False
+ChainLightningMaxTargets,Determines the maximum number of targets that can be affected by ChainLightning,Raid,None,False,False,False,False,False,0,False
+ColdDamageBoost,Increases the amount of damage done done to a frozen monster part.,Raid,None,False,False,False,False,False,0,False
+DecayPercentRate,Increases the damage of each decay tick.,Raid,None,True,False,True,False,False,0,False
+DecayDamageExpo,Exponent to apply to the decay hp damage ratio,Raid,None,False,False,False,False,False,0,False
+DiseaseDamageRate,Increases the damage of each disease tick.,Raid,None,True,False,True,False,False,0,False
+DiseaseBonusRate,Increases the rate at which disease gains damage over time.,Raid,None,True,False,True,False,False,0,False
+ExplosiveCrateDamage,Increases the damage bonus of explosive crates.,Raid,None,False,False,False,False,False,0,False
+ExplosiveCrateTapCount,Determines the number of taps required to activate explosive crates.,Raid,None,True,False,False,False,False,0,False
+ExposedArmorBoost,Increases raid damage based on the number of exposed armor parts,Raid,None,True,False,True,False,False,0,False
+ExposedBodyBoost,Increases raid damage based on the number of exposed body parts.,Raid,None,True,False,True,False,False,0,False
+ExposedSkeletonBoost,Increases raid damage based on the number of exposed skeleton parts.,Raid,None,True,False,True,False,False,0,False
+FlakArmorMult,Increase raid damage to armor,Raid,None,False,False,False,False,False,0,False
+FlakBurst,Increases raid damage,Raid,None,False,False,False,False,False,0,False
+FragmentizeBurst,Increases the burst damage dealt by Fragmentize.,Raid,None,False,False,False,False,False,0,False
+FragmentizeArmorMult,Increases the burst damage dealt to the Chest by Fragmentize.,Raid,None,False,False,False,False,False,0,False
+FragmentizeEnchantedArmorMult,Increases the burst damage dealt to Cursed Armor,Raid,None,False,False,False,False,False,0,False
+FuseDamageRate,Damage dealt by fuse affliction per second,Raid,None,True,False,True,False,False,0,False
+FuseExplosionMult,Fuse explosion damage when stack count goes from positive to 0.,Raid,None,False,False,False,False,False,0,False
+FuseRepeatChance,Fuse proc chance against a part already fused,Raid,None,True,False,True,False,False,0,False
+HaymakerBurst,Increases haymaker damage,Raid,None,False,False,False,False,False,0,False
+HaymakerTapsNeeded,Determines the number of taps required to activate haymaker,Raid,None,False,False,False,False,True,0,False
+MarkedDamageBoost,Increases the Direct Damage boost applied to Marked parts.,Raid,None,False,False,False,False,False,0,False
+MeteorDamage,Increases damage dealt by meteor strikes.,Raid,None,False,False,False,False,False,0,False
+MeteorScorchedAmount,Increases the scorched amount of meteor strikes,Raid,None,False,False,False,False,False,0,False
+MirrorForceBurst,Increases the burst damage dealt by Mirror Force,Raid,None,False,False,False,False,False,0,False
+MirrorForceBoost,Damage increase per player using Mirror Force in the previous cycle,Raid,None,True,False,True,False,False,0,False
+MirrorForceBoostMax,Maximum amount of Boost Bonus (# of players = Max / Boost),Raid,None,True,False,True,False,True,0,False
+MoonBeamBurst,Increases the burst damage dealt by Moon Beam.,Raid,None,False,False,False,False,False,0,False
+MoonBeamChestMult,Increases the burst damage dealt to the Chest by Moon Beam.,Raid,None,False,False,False,False,False,0,False
+PetrifyPercentRate,Increases the damage of each petrify tick.,Raid,None,False,False,False,False,False,0,False
+PlagueAttackDamageRate,Increases the damage of each plague tick.,Raid,None,True,False,True,False,False,0,False
+PlagueAttackDamageMult,Increases the damage of plague based on the number of plagued parts.,Raid,None,True,False,True,False,False,0,False
+PoisonDamageRate,Increases the damage of each poison tick.,Raid,None,True,False,True,False,False,0,False
+PowerBubbleDamageRate,Increases the damage of each Power Bubble tick,Raid,None,True,False,True,False,False,0,False
+PowerBubbleBurst,Increases the damage of Power Bubble bursts,Raid,None,False,False,False,False,False,0,False
+PrimalRageDamage,Increases the damage of Primal Rage.,Raid,None,False,False,False,False,False,0,False
+PrimalRageBonus,Increases the bonus damage of Primal Rage.,Raid,None,False,False,False,False,False,0,False
+PurifyDamage,Increases the damage of Purify.,Raid,None,False,False,False,False,False,0,False
+PurifyBonus,Increases the bonus damage of Purify.,Raid,None,True,False,True,False,False,0,False
+RazorWindBurst,Increases the burst damage dealt by Razor Wind.,Raid,None,False,False,False,False,False,0,False
+RazorWindBodyMult,Increases the burst damage dealt to the Body by Razor Wind.,Raid,None,False,False,False,False,False,0,False
+RuneDamageBoost,"Increases raid damage based on the number of stacks of ""Rune"" affliction",Raid,None,True,False,True,False,False,0,False
+RuneDamageRate,"Increases the damage of each ""rune"" tick.",Raid,None,True,False,True,False,False,0,False
+RuinousRustDamageRate,Increases the damage of each ruinous rust tick,Raid,None,True,False,True,False,False,0,False
+RuinousRustEnchantedArmorMult,Increases the burst damage dealt to Cursed Armor,Raid,None,False,False,False,False,False,0,False
+RicochetDamageMult,Increases damage of ricochets from Flak Shot.,Raid,None,False,False,False,False,False,0,False
+ShadowDamageRate,Increases the damage of each shadow tick.,Raid,None,True,False,True,False,False,0,False
+ShadowDamageMult,The multiplier applied to Shadow damage when at max stacks.,Raid,None,False,False,False,False,False,0,False
+SkullBashBurst,Increases the burst damage dealt by Skull Bash.,Raid,None,False,False,False,False,False,0,False
+SkullBashHeadMult,Increases the burst damage dealt to the Head by Skull Bash.,Raid,None,False,False,False,False,False,0,False
+StormDamage,Increases damage dealt by Lightning Storm.,Raid,None,False,False,False,False,False,0,False
+StormFlightTime,Used as a constant for lightning storm raid skill,Raid,None,False,False,False,False,False,0,False
+SwarmDamageRate,Increases the damage dealt by the insect swarm,Raid,None,True,False,True,False,False,0,False
+WhipOfLightningBurst,Increases the burst damage dealt by Whip Of Lightning,Raid,None,False,False,False,False,False,0,False
+WhipOfLightningChance,Increases the chance to activate Whip Of Lightning's burst damage based on the number of monster parts with an Affliction debuff.,Raid,None,True,False,True,False,False,0,False
+WhipOfLightningChanceCap,Caps WhipOfLightningChance to a maximum,Raid,None,False,False,True,False,True,0,False
+DebuffDuration,Increase duration of all debuffs,Raid,None,False,False,False,True,False,0,False
+AfflictedDuration,Increase duration of Afflicted debuffs,Raid,None,True,False,True,False,False,0,False
+DebuffChance,Increase the chance of applying all debuffs,Raid,None,False,False,False,False,False,0,False
+AfflictedChance,Increase the chance of applying a Afflicted debuff,Raid,None,False,False,False,False,False,0,False
+DebuffStackCount,Increase maximum stack count of all Debuffs,Raid,None,True,False,False,False,False,0,False
+AfflictedStackCount,Increase maximum stack count of Afflicted Debuffs,Raid,None,True,False,False,False,False,0,False
+AfflictedDamage,increases damage dealt by afflictions,Raid,None,True,False,True,False,False,0,False
+DirectDamage,increases damage dealt by direct damage sources (taps),Raid,None,True,False,True,False,False,0,False
+SpatialDamage,Increase damage dealt by spatial damage sources,Raid,None,True,False,True,False,False,0,False
+HeadDamage,Increase damage dealt to Titanlord head,Raid,None,True,False,True,False,False,0,False
+ChestDamage,Increase damage dealt to Titanlord chest,Raid,None,True,False,True,False,False,0,False
+ArmDamage,Increase damage dealt to Titanlord arm,Raid,None,True,False,True,False,False,0,False
+LegDamage,Increase damage dealt toTitanlord legs,Raid,None,True,False,True,False,False,0,False
+LimbDamage,Increase damage dealt toTitanlord limbs,Raid,None,True,False,True,False,False,0,False
+BodyDamage,Increase damage dealt to Titanlord body parts,Raid,None,True,False,True,False,False,0,False
+ArmorDamage,Increase damage dealt to Titanlord armour parts,Raid,None,True,False,True,False,False,0,False
+SkeletonDamage,Increase damage dealt to Titanlord skeleton parts,Raid,None,False,False,False,False,False,0,False
+SkeletonExposedArmorDamageSupport,Increase damage dealt to Armor while at least one skeleton exposed,Raid,None,True,False,True,False,False,0,False
+AllRaidDamage,Increase all damage dealt to Titanlords.,Raid,None,True,False,True,False,False,0,False
+LoyaltyRaidDamage,Multiplies the total damage output a player can make for a raid attack.,Raid,None,False,False,True,False,False,0,False
+SoloRaidAllDamage,Increase all damage dealt to Titanlords during Solo Raids,Raid,None,False,False,False,False,False,0,False
+SupportDuration,Increase duration of Support buffs,Raid,None,True,False,True,False,False,0,False
+SupportChance,Increase the chance of activating a Support buff,Raid,None,False,False,False,False,False,0,False
+SupportStackCount,Increase maximum stack count of Support buffs,Raid,None,True,False,False,False,False,0,False
+SupportEffect,Increase the efficacy of Support effects,Raid,None,True,False,True,False,False,0,False
+FairyTotemDamage,Multiplier applied to damage dealt to a totem affected part,Raid,None,True,False,True,False,False,0,False
+FairyTotemRate,Spawn time in seconds for totem fairies,Raid,None,False,False,False,True,True,0,False
+FairyTotemDuration,Duration that fairy totems last for,Raid,None,False,False,False,True,True,0,False
+FairyTotemRandomChance,Chance of Totem Fairies flying to the last hit part,Raid,None,False,False,True,False,False,0,False
+TeamTacticsClanMoraleBoost,Increases damage dealt by all clanmates,Raid,None,True,False,True,False,False,0,False
+BurstDamagePerEnchant,Increases the damage of all Burst skills per enchanted armor,Raid,None,True,False,True,False,False,0,False
+AfflictedDamagePerEnchant,increases damage dealt by afflictions per enchanted armor,Raid,None,True,False,True,False,False,0,False
+SupportEffectPerEnchant,Increase the efficacy of Support effects per enchanted armor,Raid,None,True,False,True,False,False,0,False
+HeadDamagePerEnchant,Increase damage dealt to Titanlord head per enchanted armor,Raid,None,True,False,True,False,False,0,False
+ChestDamagePerEnchant,Increase damage dealt to Titanlord chest per enchanted armor,Raid,None,True,False,True,False,False,0,False
+LimbDamagePerEnchant,Increase damage dealt toTitanlord limbs per enchanted armor,Raid,None,True,False,True,False,False,0,False
+BodyDamagePerEnchant,Increase damage dealt to Titanlord body parts per enchanted armor,Raid,None,True,False,True,False,False,0,False
+ArmorDamagePerEnchant,Increase damage dealt to Titanlord armour parts per enchanted armor,Raid,None,True,False,True,False,False,0,False
+AllRaidDamagePerEnchant,Increase all damage dealt to Titanlords. per enchanted armor,Raid,None,True,False,True,False,False,0,False
+RaidAttackDuration,Increase duration of the raid attack,Raid,None,True,False,False,True,False,0,False
+AllLimbsHPMult,"Increases the starting HP of all limb parts (Arm & Leg,  Body and Armor)",Raid,None,True,False,True,False,False,0,False
+AllHeadHPMult,Increases the starting HP of all titan Head parts (Body and Armor),Raid,None,True,False,True,False,False,0,False
+AllTorsoHPMult,Increases the starting HP of all titan Chest parts (Body and Armor),Raid,None,True,False,True,False,False,0,False
+AllArmsHPMult,Increases the starting HP of all titan Arm parts (Body and Armor),Raid,None,True,False,True,False,False,0,False
+AllLegsHPMult,Increases the starting HP of all titan Leg parts (Body and Armor),Raid,None,True,False,True,False,False,0,False
+BodyHeadHPMult,Increases the starting HP of a titan's Head (Body only),Raid,None,True,False,True,False,False,0,False
+BodyTorsoHPMult,Increases the starting HP of a titan's Chest (Body only),Raid,None,True,False,True,False,False,0,False
+BodyArmsHPMult,Increases the starting HP of a titan's Arms (Body only),Raid,None,True,False,True,False,False,0,False
+BodyLegsHPMult,Increases the starting HP of a titan's Legs (Body only),Raid,None,True,False,True,False,False,0,False
+ArmorHeadHPMult,Increases the starting HP of a titan's Head Armour,Raid,None,True,False,True,False,False,0,False
+ArmorTorsoHPMult,Increases the starting HP of a titan's Chest Armour,Raid,None,True,False,True,False,False,0,False
+ArmorArmsHPMult,Increases the starting HP of a titan's Arms Armour,Raid,None,True,False,True,False,False,0,False
+ArmorLegsHPMult,Increases the starting HP of a titan's Legs Armour,Raid,None,True,False,True,False,False,0,False
+ArmorLimbsHPMult,Increases the starting HP of a titan's Legs Armour,Raid,None,True,False,True,False,False,0,False
+AllArmorHPMult,Increases the starting HP of a titan's Legs Armour,Raid,None,True,False,True,False,False,0,False
+HeadDamageSupport,Increase damage dealt to Titanlord head,Raid,None,True,False,True,False,False,0,False
+ExposedBodyBoostSupport,Increases raid damage based on the number of exposed body parts.,Raid,None,True,False,True,False,False,0,False
+ExposedBodyBoostSupportMaxParts,Maximum number of parts affected.,Raid,None,False,False,False,False,True,0,False
+AfflictedDamageSupport,increases damage dealt by afflictions,Raid,None,True,False,True,False,False,0,False
+BodyDamageSupport,Increase damage dealt to Titanlord body parts,Raid,None,True,False,True,False,False,0,False
+ChestDamageSupport,Increase damage dealt to Titanlord chest,Raid,None,True,False,True,False,False,0,False
+ExposedSkeletonBoostSupport,Increases raid damage based on the number of exposed skeleton parts.,Raid,None,True,False,True,False,False,0,False
+ArmorDamageSupport,Increase damage dealt to Titanlord armour parts,Raid,None,True,False,True,False,False,0,False
+BurstDamageSupport,Increases the damage of all Burst skills.,Raid,None,True,False,True,False,False,0,False
+LimbDamageSupport,Increase damage dealt toTitanlord limbs,Raid,None,True,False,True,False,False,0,False
+AfflictedChanceSupport,Increase the chance of applying a Afflicted debuff,Raid,None,False,False,False,False,False,0,False
+BurstChanceSupport,Increases the activation chance of all Burst skills.,Raid,None,False,False,False,False,False,0,False
+AllRaidDamageSupport,Increase damage dealt by all raid cards,Raid,None,True,False,True,False,False,0,False

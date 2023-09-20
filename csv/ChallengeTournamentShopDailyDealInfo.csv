@@ -1,0 +1,27 @@
+ID,DealType,Quantity,Cost,Base,Chance,SpawnWeight,Reference,CategoryChance
+0,Pet,5,50,10,0.0777,150,100,Pets:
+1,Pet,10,100,10,0.0648,125,100,0.207253886
+2,Pet,15,150,10,0.0389,75,100,
+3,Pet,20,200,10,0.0259,50,100,Equipment:
+4,EquipmentRare,1,100,100,0.0207,40,750,0.0933
+5,EquipmentLegendary,1,200,200,0.0311,60,1500,
+6,EquipmentMythic,1,500,500,0.0415,80,5000,Shards:
+7,CraftingShards,50,350,7,0.0777,150,80,0.1813471503
+8,CraftingShards,100,700,7,0.0648,125,80,
+9,CraftingShards,150,1050,7,0.0389,75,80,Helper improvs:
+10,HelperWeapon,2,50,25,0.0259,50,300,0.1554
+11,HelperWeapon,4,100,25,0.0130,25,300,
+12,HelperWeaponFortune,1,25,25,0.0259,50,400,SP:
+13,HelperWeaponFortune,3,75,25,0.0130,25,400,0.1813471503
+14,HelperScroll,2,50,25,0.0259,50,300,
+15,HelperScroll,4,100,25,0.0130,25,300,Relics:
+16,HelperScrollFortune,1,25,25,0.0259,50,400,0.1813471503
+17,HelperScrollFortune,3,75,25,0.0130,25,400,
+18,SkillPoints,5,200,40,0.0518,100,500,
+19,SkillPoints,10,400,40,0.0518,100,500,
+20,SkillPoints,15,600,40,0.0389,75,500,
+21,SkillPoints,25,1000,40,0.0389,75,500,1
+22,RelicsPrestige,1,150,150,0.0648,125,600,
+23,RelicsPrestige,2,250,125,0.0518,100,500,
+24,RelicsPrestige,3,300,100,0.0389,75,400,
+25,RelicsPrestige,4,340,85,0.0259,50,400,

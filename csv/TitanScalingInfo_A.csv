@@ -1,0 +1,10 @@
+Stage,BonusTypeA,BonusAmountA,ThemeMultiplierSequence
+1,MonsterHPScaling,1.00E+00,"2,3,4,5,8"
+6,MonsterHPScaling,1.00E+00,"4,6,8,15,24"
+40,MonsterHPScaling,1.00E+00,"8,12,16,30,48"
+60,MonsterHPScaling,1.00E+00,"2,3,4,5,8"
+105,MonsterHPScaling,5.00E+00,"8,12,16,30,48"
+110,MonsterHPScaling,1.00E+01,"16,24,32,60,96"
+120,MonsterHPScaling,1.00E+02,"32,64,128,256,512"
+200,MonsterHPScaling,1.00E+02,"32,64,128,256,512"
+500,MonsterHPScaling,1.00E+00,"2,3,4,5,8"

@@ -1,0 +1,44 @@
+ArtifactID,Name,IsActive,CategoryID,BonusType,MaxLevel,EffectPerLevel,GrowthExpo,DamageBonus,DamageExpo,CostCoef,CostExpo,BonusIcon,L40
+SeasonalArtifact1,Skull Island,TRUE,Pirate,DamagePerSoloRaidWorld,40,11.21,2.415,1.00E+50,1.214,1.09,1.042,Dmg,82904.95571
+SeasonalArtifact2,Buried Booty,TRUE,Pirate,GoldPerRunningActiveSkill,0,2.3,21.4,6.50E+19,0.55,8,2.26,Gold,4.42396E+34
+SeasonalArtifact3,Keelhaul Reef,TRUE,Pirate,DamagePerRunningActiveSkill,0,1.7,15,6.50E+19,0.55,8,2.26,Dmg,1.82536E+24
+SeasonalArtifact4,Beast Hunter's Grave,TRUE,Pirate,BoostedSwordAttackDamage,0,3.2,31.4,6.50E+19,0.55,8,2.26,Boost,6.45407E+50
+SeasonalArtifact5,Droid Factory,TRUE,Pirate,HelperBoostSkillAmountDuringTapBoostSkill,0,10,62.8,6.50E+19,0.55,8,2.26,Dmg,4.06787E+101
+SeasonalArtifact6,Rosabella's Village,TRUE,Pirate,InspiredHelperDamage,0,10,57,6.50E+19,0.55,8,2.26,Boost,2.07692E+92
+SeasonalArtifact7,Freebooter Outpost,TRUE,Pirate,HelperScrollBoost,40,0.01,0.718,1.00E+50,1.214,1.09,1.042,Boost,0.141344552
+SeasonalArtifact8,Red Water Wreckage,TRUE,Pirate,CannonDamagePerSeasonTitan,0,590,55.2,6.50E+19,0.55,8,2.26,Dmg,1.60163E+91
+SeasonalArtifact9,Old Salt Trading Post,TRUE,Pirate,HelperWeaponBoost,40,1.344,0.827,1.00E+50,1.214,1.09,1.042,Boost,28.39898913
+SeasonalArtifact10,Chesterson Island,TRUE,Pirate,GoldAllPerSeasonChesterson,0,30,96.4,6.50E+19,0.55,8,2.26,Gold,8.23577E+155
+SeasonalArtifact11,Coastal Factory,FALSE,Pirate,GoldGunDamageFromClanShipDamage,0,1.00E+190,48,6.50E+19,0.55,8,2.26,Boost,7.92E+266
+SeasonalArtifact12,Temple of Pethania,FALSE,Celestial,PetDamageFromBurstSkillAmount,0,1.00E+190,48,6.50E+19,0.55,8,2.26,Boost,7.92E+266
+SeasonalArtifact13,Skyrent Valley,FALSE,Celestial,BurstSkillAmountDuringCritSkill,0,15,87.604,6.50E+19,0.55,8,2.26,Dmg,3.33392E+141
+SeasonalArtifact14,Bridge of Eternal Balance,FALSE,Celestial,PetDamagePerPrestigeTap,0,0.0018,76.654,6.50E+19,0.55,8,2.26,Dmg,1.14704E+120
+SeasonalArtifact15,Blessed Plains,FALSE,Celestial,AllActiveSkillAmount,0,8,19.089,6.50E+19,0.55,8,2.26,Boost,3.05361E+31
+SeasonalArtifact16,Void Temple,FALSE,Celestial,TapDamagePerSeasonPrestige,0,58,72.161,6.50E+19,0.55,8,2.26,Dmg,2.3425E+117
+SeasonalArtifact17,Celestial's Thumb,FALSE,Celestial,AllArtifactGoldEffect,0,1.2,5.794,6.50E+19,0.55,8,2.26,Gold,2298882826
+SeasonalArtifact18,Sword Master's Shrine,FALSE,Celestial,ActiveTapDamage,0,11,76.652,6.50E+19,0.55,8,2.26,Dmg,6.95817E+123
+SeasonalArtifact19,Palace of One Thousand Waterfalls,FALSE,Celestial,GoldAllPerPrestigeSecond,0,0.008,104.283,6.50E+19,0.55,8,2.26,Gold,9.34786E+164
+SeasonalArtifact20,Evergold City,FALSE,Celestial,JackpotGold,0,370,115,6.50E+19,0.55,8,2.26,Gold,6.38412E+186
+SeasonalArtifact21,Temple of the Eternal Flame,FALSE,Celestial,ActivePetLevel,40,5,0.31,1.00E+50,1.214,1.09,1.042,Boost,15.68948187
+SeasonalArtifact22,Freemana's Hot Springs,FALSE,Celestial,AllManaGained,40,0.1,1,1.00E+50,1.214,1.09,1.042,Mana,4
+SeasonalArtifact23,King Cobra Statue,TRUE,Viper,GoldPerMythicSet,40,40000,17,1.00E+50,1.214,1.09,1.042,Gold,6.87195E+31
+SeasonalArtifact24,Twin Viper Rivers,TRUE,Viper,AuraBoost,0,10,57,6.50E+19,0.55,8,2.26,Equip,2.07692E+92
+SeasonalArtifact25,Nightcrag Market,TRUE,Viper,TwilightBoostPerSeasonFairy,0,280,55.4,6.50E+19,0.55,8,2.26,Boost,1.58958E+91
+SeasonalArtifact26,Valley of Blades,TRUE,Viper,AllEquipmentEffect,0,1.7,13.35,6.50E+19,0.55,8,2.26,Equip,4.14906E+21
+SeasonalArtifact27,Mound of Brothers' Meet,TRUE,Viper,DeadlyDamageCompanion,0,9.2,59.95,6.50E+19,0.55,8,2.26,Dmg,1.01691E+97
+SeasonalArtifact28,Portal of Shadows,TRUE,Viper,ShadowCloneAllSkillBoost,0,1.7,12.67,6.50E+19,0.55,8,2.26,Dmg,3.37714E+20
+SeasonalArtifact29,Ancient Origin of the Vipers,TRUE,Viper,UltraDaggerDamagePerSeasonDay,40,5700,8.62,1.00E+50,1.214,1.09,1.042,Dmg,3.67817E+17
+SeasonalArtifact30,Thieves' Guild,TRUE,Viper,DamagePerEquipmentSet,40,2.872,1.054,1.00E+50,1.214,1.09,1.042,Equip,140.2024705
+SeasonalArtifact31,Hideout of Stratagem,TRUE,Viper,GoldAllPerSeasonPrestige,0,650,79.9,6.50E+19,0.55,8,2.26,Gold,6.56911E+130
+SeasonalArtifact32,Midnight Pass,TRUE,Viper,SwordAttackDamage,0,22,85,6.50E+19,0.55,8,2.26,Duration,3.29247E+137
+SeasonalArtifact33,Envoy of Steel,FALSE,Viper,UltraDaggerDamageFromShadowCloneSkillAmount,0,1.00E+190,48,6.50E+19,0.55,8,2.26,Boost,7.92E+266
+SeasonalArtifact34,Temperance Training Ground,TRUE,Arcanas,AllDamagePerSeasonDay,0,1.2,4.07,6.50E+19,0.55,8,2.26,Dmg,3977089.924
+SeasonalArtifact35,Nine Pentacle Garden,TRUE,Arcanas,JackpotGoldPerSeasonDay,0,1.3,5.815,6.50E+19,0.55,8,2.26,Gold,2691052694
+SeasonalArtifact36,Emblem of Worlds,TRUE,Arcanas,DamagePerMaxStage,40,0.000672,0.45,1.00E+50,1.214,1.09,1.042,Dmg,0.003534241882
+SeasonalArtifact37,Grand Air Chariot,TRUE,Arcanas,AllArtifactDamageEffect,0,1.018,0.4235,6.50E+19,0.55,8,2.26,Boost,4.855346005
+SeasonalArtifact38,Knight's Fountain of Cups,TRUE,Arcanas,ArmorBoost,0,24,89,6.50E+19,0.55,8,2.26,Equip,9.19497E+143
+SeasonalArtifact39,Ace Wand Seal,TRUE,Arcanas,AnyContractBonusBoost,0,1.00E-15,64,6.50E+19,0.55,8,2.26,Boost,3.40E+87
+SeasonalArtifact40,Queen of Swords' Throne,TRUE,Arcanas,SlashBoost,0,10,57,6.50E+19,0.55,8,2.26,Equip,2.07692E+92
+SeasonalArtifact41,Lost Cups Five,TRUE,Arcanas,GoldSpecialty,0,35,89.6,6.50E+19,0.55,8,2.26,Gold,1.22643E+145
+SeasonalArtifact42,Three Cup Mana Pool,TRUE,Arcanas,CompanionDamage,0,10,57,6.50E+19,0.55,8,2.26,Dmg,2.07692E+92
+SeasonalArtifact43,Heirophant's Library,TRUE,Arcanas,DamagePerEventSet,0,1.07,2.1,6.50E+19,0.55,8,2.26,Dmg,2475.766941

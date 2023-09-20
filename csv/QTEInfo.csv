@@ -1,0 +1,10 @@
+QTEType,TalentID,CooldownBonusType,CooldownTime,ExpireTime,ActiveTime,Randomness,MinCooldown
+PetAttack,PetQTE,PetAttackQTECooldown,20,10,5,0.1,5.852
+PetGold,PetGoldQTE,PetGoldQTECooldown,60,65,15,0.1,8.778
+PetBoss,BossDmgQTE,PetBossQTECooldown,15,7,3,0.1,4.389
+ClanShip,ClanQTE,ClanQTECooldown,45,150,30,0.1,
+Helper,HelperDmgQTE,HelperQTECooldown,30,30,40,0.1,
+Fairy,,FairyCooldown,120,150,150,0.1,
+ForbiddenContract,ForbiddenContract,ForbiddenContractQTECooldown,60,20,60,0,17.556
+UltraDagger,UltraDagger,UltraDaggerCooldown,5,0,3,0,-2.926
+RoyalContract,RoyalContract,ForbiddenContractQTECooldown,60,20,60,0,17.556

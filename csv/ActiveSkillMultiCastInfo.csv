@@ -1,0 +1,11 @@
+SkillID,ManaCost1,ManaCost2,ManaCost3,ManaCost4,BonusTypeA,A1,A2,A3,A4,BonusTypeB,B1,B2,B3,B4
+BurstDamage,180,250,335,450,BurstDamageSkillAmount,10,100,1000,10000,BurstSkillStageSkipMult,1.46,1.7,1.94,2.18
+CritBoost,350,500,800,1300,CritBoostSkillAmount,10,100,1000,10000,UltraDaggerCooldownMult,0.94,0.88,0.82,0.76
+HandOfMidas,350,500,800,1300,HandOfMidasSkillAmount,100,10000,1000000,100000000,GoldSpecialty,10,100,1000,10000
+TapBoost,350,500,800,1300,TapBoostSkillAmount,10,100,1000,10000,PetQTECooldownMult,0.97,0.95,0.92,0.9
+HelperBoost,350,500,800,1300,HelperBoostSkillAmount,10,100,1000,10000,HelperBoostCompanionAttackRate,1.1,1.2,1.32,1.45
+ShadowClone,350,500,800,1300,ShadowCloneSkillAmount,10,100,1000,10000,ShadowCloneBossSplash,0.05,0.1,0.15,0.2
+DualPet,350,500,800,1300,DualPetAmount,10,100,1000,10000,DualPetStageSkipMult,1.02,1.04,1.06,1.08
+StreamOfBlades,350,500,800,1300,StreamOfBladesSkillAmount,10,100,1000,10000,UltraDaggerStageSkip,2,4,6,8
+ThunderVolley,350,500,800,1300,ThunderVolleySkillAmount,10,100,1000,10000,ClanShipBatteryCoefficient,1.25,1.5,1.75,2
+TwilightFairy,350,500,800,1300,TwilightFairySkillAmount,10,100,1000,10000,SorcererStageSkipMult,1.05,1.1,1.15,1.2

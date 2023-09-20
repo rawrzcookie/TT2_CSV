@@ -1,0 +1,5 @@
+EventConstant,Prestige,Tournament,Abyss,GlobalRaid,DungeonQuest,Alchemy,Description
+holiday_event_prestige_reward_limit,99,10,10,10,10,10,// (int) Max amount of times a player can farm prestiges for currency (resets UTC midnight)
+holiday_currency_farming_reward_amount,10,10,10,10,10,10,// (int) Amount of currency to reward the player farming via prestiges
+holiday_currency_tournament_reward_multiplier,1,1.5,1,0.6666666667,1,1,// (float) Multiplier for Holiday Currency in regular tournaments
+holiday_currency_abyssal_reward_multiplier,1,1.5,1.5,0.6666666667,1,1,// (float) Multiplier for Holiday Currency in Abyssal tournaments

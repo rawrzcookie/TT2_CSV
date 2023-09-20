@@ -1,0 +1,8 @@
+PerkID,BaseCost,Duration,BonusTypeA,A1,A2,A3,A4,BonusTypeB,B1,B2,B3,B4,RunWhileInactive,SkillType
+DoubleDamage,100,43200,AllDamage,5,10,15,20,MonsterAllSpawnDuration,0.65,0.7,0.75,0.8,TRUE,Perk
+Doom,100,43200,DoomBonusDamageMax,100,1000,10000,100000,DoomBonusTimeUntilMaxDamage,30,20,10,10,TRUE,Perk
+ManaPotion,100,43200,AllManaGained,1.5,1.75,2,2.25,None,0,0,0,0,TRUE,Perk
+MakeItRain,100,43200,AutoBuyHeroes,45,15,5,3,None,0,0,0,0,TRUE,Perk
+VideoAllDamage,0,14400,AllDamage,4,10,25,50,None,0,0,0,0,TRUE,Perk
+PowerOfSwipe,100,43200,BonusTapsPerSecond,1,4,7,10,None,0,0,0,0,TRUE,Perk
+ClanMakeItRain,500,0,None,0,0,0,0,None,0,0,0,0,TRUE,Perk

@@ -1,0 +1,12 @@
+Description,Tags,SendSave,LocalizationID
+Diamond Purchases,iap,true,SUPPORT_ISSUE_DROPDOWN_09
+Game crash,crash,true,SUPPORT_ISSUE_DROPDOWN_02
+Bug,"bug, general",true,SUPPORT_ISSUE_DROPDOWN_03
+Can't Prestige,"bug, prestige",true,SUPPORT_ISSUE_DROPDOWN_04
+Clan,"clan, bug",true,SUPPORT_ISSUE_DROPDOWN_05
+Tournament,"tournament, bug",true,SUPPORT_ISSUE_DROPDOWN_06
+Missing diamonds,diamonds,true,SUPPORT_ISSUE_DROPDOWN_01
+Password Reset,password,true,SUPPORT_ISSUE_DROPDOWN_10
+Account Retrieval,account,true,SUPPORT_ISSUE_DROPDOWN_11
+Privacy Concerns,privacy,false,SUPPORT_ISSUE_DROPDOWN_12
+Other,other,false,SUPPORT_ISSUE_DROPDOWN_07

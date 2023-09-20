@@ -1,0 +1,371 @@
+HelperSkillID,Owner,Name,BonusType,Magnitude,RequiredLevel
+1,H18,Nature's Presence,CritDamage,1.1,20
+2,H18,Lightning Rage,CritChance,0.001,60
+3,H18,Executioner's Breath,ChestAmount,1.1,100
+4,H18,Poison Touch,MultiMonstersGold,1.1,200
+5,H18,Hidden Veil,ManaPoolCap,3,500
+6,H18,Paralysis,TapDamageFromHelpers,0.0001,1000
+7,H18,Dynamic Force,AllDamage,1.3,2000
+8,H18,Superstition,GoldBoss,1.4,3000
+9,H18,Ghost Breath,AllHelperDamage,1.5,4000
+10,H18,Spectral Nova,GoldAll,2,6000
+11,H01,Brooding Thrill,ChestAmount,1.1,20
+12,H01,Guardian's Chant,MultiMonstersGold,1.1,60
+13,H01,Soul Initiative,CritDamage,1.1,100
+14,H01,Medusa's Strife,CritChance,0.001,200
+15,H01,Essence of Horn,GoldSpecialty,1.1,500
+16,H01,Command Ritual,ManaPoolCap,4,1000
+17,H01,Tribal Vision,GoldAll,1.3,2000
+18,H01,Battle Thirst,AllDamage,1.4,3000
+19,H01,Royal Presence,AllHelperDamage,1.5,4000
+20,H01,Relentless Force,GoldBoss,2,6000
+21,H21,Unforgiving,TapDamage,1.1,20
+22,H21,Stomping Presence,TapDamage,1.1,60
+23,H21,Hammer Pulse,TapDamage,1.1,100
+24,H21,Psychosis,TapDamage,1.1,200
+25,H21,War Beacon,TapDamage,1.1,500
+26,H21,Hammer Circle,CritDamage,1.2,1000
+27,H21,Battle Fortitude,CritDamage,1.3,2000
+28,H21,Steel Nerves,CritDamage,1.4,3000
+29,H21,Land Warrior,CritDamage,1.5,4000
+30,H21,Scythe Master,CritDamage,2,6000
+31,H02,Scorched Essence,MeleeHelperDamage,1.1,20
+32,H02,Winds of Clarity,MeleeHelperDamage,1.1,60
+33,H02,Death March,MeleeHelperDamage,1.1,100
+34,H02,Battle Brawler,MeleeHelperDamage,1.1,200
+35,H02,Winds of Calm,MeleeHelperDamage,1.1,500
+36,H02,Ruthless Pursuit,AllHelperDamage,1.2,1000
+37,H02,Cloud of Justice,AllDamage,1.3,2000
+38,H02,Merciless,AllHelperDamage,1.4,3000
+39,H02,Devilish Charmer,AllDamage,1.5,4000
+40,H02,Dungeon Trapper,AllHelperDamage,2,6000
+41,H06,Custom Machinery,ManaPoolCap,3,20
+42,H06,Methodically Manic,ManaPoolCap,3,60
+43,H06,Sphinx Presence,ManaPoolCap,3,100
+44,H06,Panther's Touch,ManaPoolCap,3,200
+45,H06,Copper Skin,ManaPoolCap,3,500
+46,H06,Special Fighter,ManaRegen,0.2,1000
+47,H06,Skull Cap,ManaRegen,0.2,2000
+48,H06,Master Manipulator,ManaRegen,0.3,3000
+49,H06,Perpetual Impulsivity,ManaRegen,0.3,4000
+50,H06,Arthur's Revenge,ManaRegen,0.5,6000
+51,H24,Call of the Relic,GoldBoss,1.1,20
+52,H24,Circle of Atonement,GoldBoss,1.1,60
+53,H24,Enchanted Veil,GoldBoss,1.1,100
+54,H24,Traveller,GoldBoss,1.1,200
+55,H24,Relentless,GoldBoss,1.1,500
+56,H24,The Sword's Path,AllHelperDamage,1.2,1000
+57,H24,Blunt Strength,AllDamage,1.3,2000
+58,H24,Viking Slash Force,AllHelperDamage,1.4,3000
+59,H24,Rune Enabler,AllDamage,1.5,4000
+60,H24,Bearded Fortitude,AllHelperDamage,2,6000
+61,H08,Spirit Vessel,ChestAmount,1.1,20
+62,H08,Essence of Valhalla,ChestAmount,1.1,60
+63,H08,Warrior Loyalty,ChestAmount,1.1,100
+64,H08,Bolt Block Brigade,ChestAmount,1.1,200
+65,H08,Analog Cloud,ChestAmount,1.1,500
+66,H08,Strength in Numbers,AllDamage,1.2,1000
+67,H08,Tough as Bolts,ChestAmount,1.3,2000
+68,H08,Steel Heart,AllDamage,1.4,3000
+69,H08,Battle Spirit,ChestAmount,1.5,4000
+70,H08,Thrill of the Fight,AllDamage,2,6000
+71,H26,Blunt Brutality,RangedHelperDamage,1.1,20
+72,H26,Dungeon Loyalty,RangedHelperDamage,1.1,60
+73,H26,Meteor Wave,RangedHelperDamage,1.1,100
+74,H26,Dreadful Disintegration,RangedHelperDamage,1.1,200
+75,H26,Gruesome Ritual,RangedHelperDamage,1.1,500
+76,H26,Sacrifice,GoldAll,1.2,1000
+77,H26,Circle of Death,GoldBoss,1.3,2000
+78,H26,Nature's Revenge,GoldSpecialty,1.4,3000
+79,H26,Hydra Force,ChestAmount,1.5,4000
+80,H26,Death Flight,GoldAll,2,6000
+81,H09,Animal Advantage,MeleeHelperDamage,1.1,20
+82,H09,Vitality,MeleeHelperDamage,1.1,60
+83,H09,Charcoal Screen,MeleeHelperDamage,1.1,100
+84,H09,Dark Veil,MeleeHelperDamage,1.1,200
+85,H09,Silver Rider,MeleeHelperDamage,1.1,500
+86,H09,Guiding Chant,AllDamage,1.2,1000
+87,H09,Cloacked Rebel,AllHelperDamage,1.3,2000
+88,H09,Activism,CritDamage,1.4,3000
+89,H09,Beacon of Hope,TapDamage,1.5,4000
+90,H09,Haunting Barrage,AllDamage,2,6000
+91,H04,Spirit Harvest,SpellHelperDamage,1.1,20
+92,H04,Hawk Clutch,SpellHelperDamage,1.1,60
+93,H04,Wind Speed,SpellHelperDamage,1.1,100
+94,H04,Ancient Flight,SpellHelperDamage,1.1,200
+95,H04,Aerial Advantage,SpellHelperDamage,1.1,500
+96,H04,Winged Commander,GoldAll,1.2,1000
+97,H04,Vision Walk,AllHelperDamage,1.3,2000
+98,H04,Wrath of the Relics,GoldAll,1.4,3000
+99,H04,Emerald Deception,AllHelperDamage,1.5,4000
+100,H04,Demon's Heart,GoldAll,2,6000
+101,H20,Nature's Presence,TapDamage,1.1,20
+102,H20,Lightning Rage,TapDamage,1.1,60
+103,H20,Executioner's Breath,TapDamage,1.1,100
+104,H20,Poison Touch,TapDamage,1.1,200
+105,H20,Hidden Veil,TapDamage,1.1,500
+106,H20,Paralysis,AllDamage,1.2,1000
+107,H20,Dynamic Force,ChestAmount,1.3,2000
+108,H20,Superstition,AllDamage,1.4,3000
+109,H20,Ghost Breath,ChestAmount,1.5,4000
+110,H20,Spectral Nova,AllDamage,2,6000
+111,H10,Brooding Thrill,SpellHelperDamage,1.1,20
+112,H10,Guardian's Chant,SpellHelperDamage,1.1,60
+113,H10,Soul Initiative,SpellHelperDamage,1.1,100
+114,H10,Medusa's Strife,SpellHelperDamage,1.1,200
+115,H10,Essence of Horn,SpellHelperDamage,1.1,500
+116,H10,Command Ritual,AllDamage,1.2,1000
+117,H10,Tribal Vision,GoldAll,1.3,2000
+118,H10,Battle Thirst,AllDamage,1.4,3000
+119,H10,Royal Presence,GoldAll,1.5,4000
+120,H10,Relentless Force,AllDamage,2,6000
+121,H03,Unforgiving,RangedHelperDamage,1.1,20
+122,H03,Stomping Presence,RangedHelperDamage,1.1,60
+123,H03,Hammer Pulse,RangedHelperDamage,1.1,100
+124,H03,Psychosis,RangedHelperDamage,1.1,200
+125,H03,War Beacon,RangedHelperDamage,1.1,500
+126,H03,Hammer Circle,AllHelperDamage,1.2,1000
+127,H03,Battle Fortitude,GoldAll,1.3,2000
+128,H03,Steel Nerves,AllHelperDamage,1.4,3000
+129,H03,Land Warrior,GoldAll,1.5,4000
+130,H03,Scythe Master,AllHelperDamage,2,6000
+131,H25,Scorched Essence,ManaPoolCap,3,20
+132,H25,Winds of Clarity,ManaPoolCap,3,60
+133,H25,Death March,ManaPoolCap,3,100
+134,H25,Battle Brawler,ManaPoolCap,3,200
+135,H25,Winds of Calm,ManaPoolCap,3,500
+136,H25,Ruthless Pursuit,GoldSpecialty,1.2,1000
+137,H25,Cloud of Justice,GoldAll,1.3,2000
+138,H25,Merciless,GoldBoss,1.4,3000
+139,H25,Devilish Charmer,ChestAmount,1.5,4000
+140,H25,Dungeon Trapper,GoldAll,2,6000
+141,H27,Custom Machinery,TapDamage,1.1,20
+142,H27,Methodically Manic,TapDamage,1.1,60
+143,H27,Sphinx Presence,TapDamage,1.1,100
+144,H27,Panther's Touch,TapDamage,1.1,200
+145,H27,Copper Skin,TapDamage,1.1,500
+146,H27,Special Fighter,AllDamage,1.2,1000
+147,H27,Skull Cap,ChestAmount,1.3,2000
+148,H27,Master Manipulator,AllDamage,1.4,3000
+149,H27,Perpetual Impulsivity,ChestAmount,1.5,4000
+150,H27,Arthur's Revenge,AllDamage,2,6000
+151,H22,Call of the Relic,ManaRegen,0.1,20
+152,H22,Circle of Atonement,ManaRegen,0.1,60
+153,H22,Enchanted Veil,ManaRegen,0.1,100
+154,H22,Traveller,ManaRegen,0.1,200
+155,H22,Relentless,ManaRegen,0.1,500
+156,H22,The Sword's Path,ManaPoolCap,4,1000
+157,H22,Blunt Strength,ManaPoolCap,4,2000
+158,H22,Viking Slash Force,ManaPoolCap,5,3000
+159,H22,Rune Enabler,ManaPoolCap,6,4000
+160,H22,Bearded Fortitude,ManaPoolCap,10,6000
+161,H05,Spirit Vessel,RangedHelperDamage,1.1,20
+162,H05,Essence of Valhalla,RangedHelperDamage,1.1,60
+163,H05,Warrior Loyalty,RangedHelperDamage,1.1,100
+164,H05,Bolt Block Brigade,RangedHelperDamage,1.1,200
+165,H05,Analog Cloud,RangedHelperDamage,1.1,500
+166,H05,Strength in Numbers,MultiMonstersGold,1.1,1000
+167,H05,Tough as Bolts,PetGoldQTEAmount,1.1,2000
+168,H05,Steel Heart,ChestAmount,1.4,3000
+169,H05,Battle Spirit,GoldBoss,1.5,4000
+170,H05,Thrill of the Fight,GoldAll,2,6000
+171,H13,Blunt Brutality,SpellHelperDamage,1.1,20
+172,H13,Dungeon Loyalty,SpellHelperDamage,1.1,60
+173,H13,Meteor Wave,SpellHelperDamage,1.1,100
+174,H13,Dreadful Disintegration,SpellHelperDamage,1.1,200
+175,H13,Gruesome Ritual,SpellHelperDamage,1.1,500
+176,H13,Sacrifice,GoldAll,1.2,1000
+177,H13,Circle of Death,GoldBoss,1.3,2000
+178,H13,Nature's Revenge,GoldAll,1.4,3000
+179,H13,Hydra Force,GoldBoss,1.5,4000
+180,H13,Death Flight,GoldAll,2,6000
+181,H19,Animal Advantage,MeleeHelperDamage,1.1,20
+182,H19,Vitality,MeleeHelperDamage,1.1,60
+183,H19,Charcoal Screen,MeleeHelperDamage,1.1,100
+184,H19,Dark Veil,MeleeHelperDamage,1.1,200
+185,H19,Silver Rider,MeleeHelperDamage,1.1,500
+186,H19,Guiding Chant,AllDamage,1.2,1000
+187,H19,Cloacked Rebel,TapDamage,1.3,2000
+188,H19,Activism,AllDamage,1.4,3000
+189,H19,Beacon of Hope,TapDamage,1.5,4000
+190,H19,Haunting Barrage,AllDamage,2,6000
+191,H29,Spirit Harvest,FairyGold,1.1,20
+192,H29,Hawk Clutch,FairyGold,1.1,60
+193,H29,Wind Speed,FairyGold,1.1,100
+194,H29,Ancient Flight,FairyGold,1.1,200
+195,H29,Aerial Advantage,FairyGold,1.1,500
+196,H29,Winged Commander,ChestAmount,1.2,1000
+197,H29,Vision Walk,ChestAmount,1.3,2000
+198,H29,Wrath of the Relics,ChestAmount,1.4,3000
+199,H29,Emerald Deception,ChestAmount,1.5,4000
+200,H29,Demon's Heart,ChestAmount,2,6000
+201,H12,Nature's Presence,PetGoldQTEAmount,1.1,20
+202,H12,Lightning Rage,PetGoldQTEAmount,1.1,60
+203,H12,Executioner's Breath,PetGoldQTEAmount,1.1,100
+204,H12,Poison Touch,PetGoldQTEAmount,1.1,200
+205,H12,Hidden Veil,PetGoldQTEAmount,1.1,500
+206,H12,Paralysis,GoldBoss,1.2,1000
+207,H12,Dynamic Force,GoldSpecialty,1.3,2000
+208,H12,Superstition,GoldBoss,1.4,3000
+209,H12,Ghost Breath,GoldSpecialty,1.5,4000
+210,H12,Spectral Nova,GoldBoss,2,6000
+211,H23,Brooding Thrill,CritChance,0.001,20
+212,H23,Guardian's Chant,CritChance,0.001,60
+213,H23,Soul Initiative,CritChance,0.001,100
+214,H23,Medusa's Strife,CritChance,0.001,200
+215,H23,Essence of Horn,CritChance,0.001,500
+216,H23,Command Ritual,CritDamage,1.2,1000
+217,H23,Tribal Vision,AllDamage,1.3,2000
+218,H23,Battle Thirst,CritDamage,1.4,3000
+219,H23,Royal Presence,AllDamage,1.5,4000
+220,H23,Relentless Force,CritDamage,2,6000
+221,H30,Unforgiving,MultiMonstersGold,1.1,20
+222,H30,Stomping Presence,MultiMonstersGold,1.1,60
+223,H30,Hammer Pulse,MultiMonstersGold,1.1,100
+224,H30,Psychosis,MultiMonstersGold,1.1,200
+225,H30,War Beacon,MultiMonstersGold,1.1,500
+226,H30,Hammer Circle,GoldAll,1.2,1000
+227,H30,Battle Fortitude,ChestAmount,1.3,2000
+228,H30,Steel Nerves,GoldAll,1.4,3000
+229,H30,Land Warrior,ChestAmount,1.5,4000
+230,H30,Scythe Master,GoldAll,2,6000
+231,H11,Scorched Essence,GoldBoss,1.1,20
+232,H11,Winds of Clarity,GoldBoss,1.1,60
+233,H11,Death March,GoldBoss,1.1,100
+234,H11,Battle Brawler,GoldBoss,1.1,200
+235,H11,Winds of Calm,GoldBoss,1.1,500
+236,H11,Ruthless Pursuit,AllHelperDamage,1.2,1000
+237,H11,Cloud of Justice,AllDamage,1.3,2000
+238,H11,Merciless,TapDamage,1.4,3000
+239,H11,Devilish Charmer,CritDamage,1.5,4000
+240,H11,Dungeon Trapper,AllHelperDamage,2,6000
+241,H07,Custom Machinery,GoldSpecialty,1.1,20
+242,H07,Methodically Manic,GoldSpecialty,1.1,60
+243,H07,Sphinx Presence,GoldSpecialty,1.1,100
+244,H07,Panther's Touch,GoldSpecialty,1.1,200
+245,H07,Copper Skin,GoldSpecialty,1.1,500
+246,H07,Special Fighter,GoldAll,1.2,1000
+247,H07,Skull Cap,ChestAmount,1.3,2000
+248,H07,Master Manipulator,GoldAll,1.4,3000
+249,H07,Perpetual Impulsivity,ChestAmount,1.5,4000
+250,H07,Arthur's Revenge,GoldAll,2,6000
+251,H32,Call of the Relic,CritDamage,1.1,20
+252,H32,Circle of Atonement,CritDamage,1.1,60
+253,H32,Enchanted Veil,CritDamage,1.1,100
+254,H32,Traveller,CritDamage,1.1,200
+255,H32,Relentless,CritDamage,1.1,500
+256,H32,The Sword's Path,AllDamage,1.2,1000
+257,H32,Blunt Strength,GoldAll,1.3,2000
+258,H32,Viking Slash Force,AllDamage,1.4,3000
+259,H32,Rune Enabler,GoldAll,1.5,4000
+260,H32,Bearded Fortitude,AllDamage,2,6000
+261,H31,Spirit Vessel,AllDamage,1.1,20
+262,H31,Essence of Valhalla,AllDamage,1.1,60
+263,H31,Warrior Loyalty,AllDamage,1.1,100
+264,H31,Bolt Block Brigade,AllDamage,1.1,200
+265,H31,Analog Cloud,AllDamage,1.1,500
+266,H31,Strength in Numbers,AllHelperDamage,1.2,1000
+267,H31,Tough as Bolts,GoldAll,1.3,2000
+268,H31,Steel Heart,AllHelperDamage,1.4,3000
+269,H31,Battle Spirit,GoldAll,1.5,4000
+270,H31,Thrill of the Fight,AllHelperDamage,2,6000
+271,H34,Blunt Brutality,GoldBoss,1.1,20
+272,H34,Dungeon Loyalty,FairyGold,1.1,60
+273,H34,Meteor Wave,Goldx10Chance,0.001,100
+274,H34,Dreadful Disintegration,ChestAmount,1.1,200
+275,H34,Gruesome Ritual,GoldAll,1.1,500
+276,H34,Sacrifice,GoldBoss,1.2,1000
+277,H34,Circle of Death,Goldx10Chance,0.002,2000
+278,H34,Nature's Revenge,GoldAll,1.4,3000
+279,H34,Hydra Force,Goldx10Chance,0.003,4000
+280,H34,Death Flight,GoldBoss,2,6000
+281,H15,Animal Advantage,ChestAmount,1.1,20
+282,H15,Vitality,MultiMonstersGold,1.1,60
+283,H15,Charcoal Screen,ChestAmount,1.1,100
+284,H15,Dark Veil,MultiMonstersGold,1.1,200
+285,H15,Silver Rider,ChestAmount,1.1,500
+286,H15,Guiding Chant,MultiMonstersGold,1.2,1000
+287,H15,Cloacked Rebel,ChestAmount,1.3,2000
+288,H15,Activism,MultiMonstersGold,1.4,3000
+289,H15,Beacon of Hope,ChestAmount,1.5,4000
+290,H15,Haunting Barrage,MultiMonstersGold,2,6000
+291,H17,Spirit Harvest,ManaPoolCap,3,20
+292,H17,Hawk Clutch,ManaRegen,0.1,60
+293,H17,Wind Speed,ManaPoolCap,3,100
+294,H17,Ancient Flight,ManaRegen,0.1,200
+295,H17,Aerial Advantage,ManaPoolCap,3,500
+296,H17,Winged Commander,ManaRegen,0.2,1000
+297,H17,Vision Walk,ManaPoolCap,4,2000
+298,H17,Wrath of the Relics,ManaRegen,0.3,3000
+299,H17,Emerald Deception,ManaPoolCap,6,4000
+300,H17,Demon's Heart,ManaRegen,0.5,6000
+301,H28,Nature's Presence,CritDamage,1.1,20
+302,H28,Lightning Rage,CritChance,0.001,60
+303,H28,Executioner's Breath,CritDamage,1.1,100
+304,H28,Poison Touch,CritChance,0.001,200
+305,H28,Hidden Veil,CritDamage,1.1,500
+306,H28,Paralysis,CritChance,0.002,1000
+307,H28,Dynamic Force,CritDamage,1.3,2000
+308,H28,Superstition,CritChance,0.003,3000
+309,H28,Ghost Breath,CritDamage,1.5,4000
+310,H28,Spectral Nova,CritChance,0.004,6000
+311,H37,Brooding Thrill,AllDamage,1.1,20
+312,H37,Guardian's Chant,AllHelperDamage,1.1,60
+313,H37,Soul Initiative,MeleeHelperDamage,1.1,100
+314,H37,Medusa's Strife,RangedHelperDamage,1.1,200
+315,H37,Essence of Horn,SpellHelperDamage,1.1,500
+316,H37,Command Ritual,TapDamage,1.2,1000
+317,H37,Tribal Vision,AllDamage,1.3,2000
+318,H37,Battle Thirst,AllHelperDamage,1.4,3000
+319,H37,Royal Presence,AllDamage,1.5,4000
+320,H37,Relentless Force,AllHelperDamage,2,6000
+321,H35,Unforgiving,ChestAmount,1.1,20
+322,H35,Stomping Presence,GoldSpecialty,1.1,60
+323,H35,Hammer Pulse,ChestAmount,1.1,100
+324,H35,Psychosis,GoldSpecialty,1.1,200
+325,H35,War Beacon,ChestAmount,1.1,500
+326,H35,Hammer Circle,TapDamage,1.2,1000
+327,H35,Battle Fortitude,GoldBoss,1.3,2000
+328,H35,Steel Nerves,TapDamage,1.4,3000
+329,H35,Land Warrior,GoldBoss,1.5,4000
+330,H35,Scythe Master,TapDamage,2,6000
+331,H16,Scorched Essence,Goldx10Chance,0.001,20
+332,H16,Winds of Clarity,GoldBoss,1.1,60
+333,H16,Death March,Goldx10Chance,0.001,100
+334,H16,Battle Brawler,GoldBoss,1.1,200
+335,H16,Winds of Calm,Goldx10Chance,0.001,500
+336,H16,Ruthless Pursuit,GoldBoss,1.2,1000
+337,H16,Cloud of Justice,GoldAll,1.3,2000
+338,H16,Merciless,GoldBoss,1.4,3000
+339,H16,Devilish Charmer,GoldAll,1.5,4000
+340,H16,Dungeon Trapper,GoldBoss,2,6000
+341,H33,Custom Machinery,RangedHelperDamage,1.1,20
+342,H33,Methodically Manic,RangedHelperDamage,1.1,60
+343,H33,Sphinx Presence,RangedHelperDamage,1.1,100
+344,H33,Panther's Touch,RangedHelperDamage,1.1,200
+345,H33,Copper Skin,RangedHelperDamage,1.1,500
+346,H33,Special Fighter,AllHelperDamage,1.2,1000
+347,H33,Skull Cap,AllHelperDamage,1.3,2000
+348,H33,Master Manipulator,AllHelperDamage,1.4,3000
+349,H33,Perpetual Impulsivity,AllHelperDamage,1.5,4000
+350,H33,Arthur's Revenge,AllHelperDamage,2,6000
+351,H14,Call of the Relic,MeleeHelperDamage,1.1,20
+352,H14,Circle of Atonement,MeleeHelperDamage,1.1,60
+353,H14,Enchanted Veil,MeleeHelperDamage,1.1,100
+354,H14,Traveller,MeleeHelperDamage,1.1,200
+355,H14,Relentless,MeleeHelperDamage,1.1,500
+356,H14,The Sword's Path,TapDamage,1.2,1000
+357,H14,Blunt Strength,TapDamage,1.3,2000
+358,H14,Viking Slash Force,TapDamage,1.4,3000
+359,H14,Rune Enabler,TapDamage,1.5,4000
+360,H14,Bearded Fortitude,TapDamage,2,6000
+361,H36,Spirit Vessel,SpellHelperDamage,1.1,20
+362,H36,Essence of Valhalla,SpellHelperDamage,1.1,60
+363,H36,Warrior Loyalty,SpellHelperDamage,1.1,100
+364,H36,Bolt Block Brigade,SpellHelperDamage,1.1,200
+365,H36,Analog Cloud,SpellHelperDamage,1.1,500
+366,H36,Strength in Numbers,ShadowCloneSkillAmount,1.2,1000
+367,H36,Tough as Bolts,ShadowCloneSkillAmount,1.3,2000
+368,H36,Steel Heart,ShadowCloneSkillAmount,1.4,3000
+369,H36,Battle Spirit,ShadowCloneSkillAmount,1.5,4000
+370,H36,Thrill of the Fight,ManaPoolCap,50,6000
