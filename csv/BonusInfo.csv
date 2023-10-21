@@ -139,7 +139,7 @@ DailyTicketBoost,Increases the amount of clan tickets earned by a player,None,No
 DamageOverTimeMaxAttacks,Unused,None,None,True,False,False,False,False,0,False
 DamageOverTimePercent,Unused,None,None,True,False,True,False,False,0,False
 DamagePerConsecutiveLoginDay,Damage per Login Day (max 14),Damage,None,False,False,False,False,False,0,False
-DamagePerOwnedCardLevel,Damage per owned raid card level,Damage,None,True,False,True,False,False,0,True
+DamagePerOwnedCardLevel,Damage per owned raid card level,Damage,None,False,False,True,False,False,0,True
 DamagePerEquipmentSet,Damage per completed equipment set,Damage,None,False,False,False,False,False,0,False
 DamagePerHelperWeapon,Damage per Individual Helper Weapon,Damage,None,True,False,True,False,False,0,False
 DamagePerHelperScroll,Damage per Individual Helper Scroll,Damage,None,True,False,True,False,False,0,False
