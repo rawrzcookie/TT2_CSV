@@ -1,4 +1,115 @@
 Version,Changes,Don't DELETE
+"6.4.0 (October 31, 2023)","6.4.0
+New Content:     
+- Anniversary Aquamarine legendary set
+  * 10x All Spell Boost during Mana Potion
+  * +5% Manni Mana Chance      
+
+- Golden Fairy event set
+  * 10x Fairy Gold
+
+- New Unique Equipment
+  * Damon’s Power aura equipment with Fire Sword Damage primary bonus and Fire Sword Duration secondary bonus
+  * Gulbrand’s Rally aura equipment with War Cry Damage primary bonus and War Cry Companion Attack Rate secondary bonus
+  * Jayce’s Armor armor equipment with Hand of Midas Gold primary bonus and All Gold during Hayst secondary bonus
+  * Kronus’ Flame slash equipment with Twilight Damage primary bonus and Twilight Fairy Stage Skip secondary bonus
+  * Lance’s Axe sword equipment with All Damage per Hero Weapon primary bonus and Heavenly Strike Damage secondary bonus
+  * Sophia’s Faith aura equipment with Deadly Strike Damage primary bonus and Companion Deadly Strike Damage secondary bonus
+  * Titania’s Garb armor equipment with Fairy Gold primary bonus and Legacy Pet Gold secondary bonus
+
+- 7 Year Anniversary Dungeon Eggsplorer Event begins on November 1st, 2023
+  * Collect Pets to explore the Dungeon
+  * New Dungeon avatar and avatar frame
+  * Clan Quest rewards with Dust, Raid Cards, and Pets for collecting event currency as a clan
+  * Prestigious Champion, Spell Master, and Tiny Titan event equipment drops
+
+- 2x Crafting Shard Titan Chest Promotion
+
+General Changes:
+- Skill Tree Reworks
+  * More power
+  * Standardized skill costs and levels
+  * Rescaled every skill
+  * Stage skip slightly reduced at higher levels
+  * Tier 1 skills with 35 levels and 850 assignable skill points
+  * Tier 2 skills with 30 levels and 639 assignable skill points
+  * Tier 3 skills with 30 levels and 639 assignable skill points
+  * Tier 4 skills with 20 levels and 755 assignable skill points
+  * Tier 5 skills with 20 levels and 755 assignable skill points
+  * Mana skills with 15 levels and 230 assignable skill points
+  * Multi-Cast skills with 3 levels and 250 assignable skill points
+  * Quality of life skills with 9 levels and 40 assignable skill points
+
+- Monument Changes
+  * Reverted Ancient Origin of the Vipers to Dagger Damage per Day
+  * Reverted Nine Pentacle Garden to Jackpot Gold per Day
+  * Reverted Temperance Training Ground to All Damage per Day
+
+- Abyssal Tournament Reward Changes
+  * Unique Equipment Rewarded for reaching milestone 7 in an Abyssal Tournament
+  * Slightly lowered diamond rewards by 100 for milestone 7
+  * Time Storm rewards Elder Snow Hat
+  * Companion Frenzy rewards Gulbrand’s Rally
+  * Shimmering Blacksmith rewards Alpha Heart Blade
+  * Blade Bombardment rewards Sophia’s Faith
+  * Enchanted Mind rewards Lance’s Axe
+  * Solar Eclipse rewards Kronus’ Flame
+  * Metabolic Growth rewards Titania’s Garb
+
+- Ultra Abyssal Tournament Reward Changes
+  * Adding diamond rewards for leaderboard placements
+  * Higher placements give more rewards
+
+- Skill Tree Save Slot Reworks
+  * Import and Export save slots
+  * Error handling for save slots
+  * Save slots can exceed currently owned skill points
+  * Custom save slot names
+  * Save slot help menu
+
+- Skill Tree Colored Borders
+  * Border colors to indicate status of skills
+  * Normal borders for no skill points applied and no changes
+  * Thick borders for skill points points applied and no changes
+  * Gold borders for assigned skill points exceeding applied skill points
+  * Red borders for assigned skill points lower than applied skill points
+
+- Silent March Timer in Stats Panel
+  * Max Sneak Time for time from Prestige Stage to Max Silent March Stage
+  * Current Sneak Time for time from Current Stage to Max Silent March Stage
+
+- Solo Raid Instant Reward Collection
+  * All solo raid rewards currently sitting in the inbox will be automatically collected prior to the 6.4.0 update maintenance is completed
+
+- Instant Increment Titan Counter Setting
+  * Toggle in Options panel
+  * Faster Leave Battle button when on
+
+- Updated Exclusions for Equipment Secondaries
+
+- Removed Advance Start changes from special XXXXX milestones
+  * Milestones such as 11111, 22222, etc
+
+- Server Optimizations
+  * Updated library code versions to newer versions
+  * Optimized infodocs for faster processing
+
+- Banned players can now delete their accounts
+
+- Enabled Super Season Pass for all players
+  * 25 USD bundle
+  * 15 USD upgrade from regular season pass if regular season pass is owned
+  * Gives all benefits of normal season pass as well as increased reward nodes
+
+Bug Fixes:
+- Fixed issues where players could sometimes be unable to bulk collect rewards in Dungeon Eggsplorer events
+- Fixed issue where players could activate Clan Crates through the Transcendence panel
+- Fixed issues where Health Bars could overflow text in certain languages
+- Fixed issues where “Per Day” monument bonuses wouldn’t correctly apply
+- Fixed issue where Abyssal Tournament chests could reward only 1 relic on purchase
+- Fixed various game crashes
+- Fixed minor localization issues
+- Fixed minor visual issues",
 "6.3.1 (October 10, 2023)","Bug Fixes: 
 - Fixed issues where Alpha Heart Blade could lower power when equipped until restarting the game
 - Fixed issue where Hierophant’s Library would not give the listed damage value
@@ -9,8 +120,7 @@ Version,Changes,Don't DELETE
 - Fixed issues where Relic Boosters were incorrectly visually displaying that they were at the maximum value
 - Fixed issues where players could see error 406 when prestiging very quickly
 - Fixed minor localization issues
-- Fixed minor visual issues
-",
+- Fixed minor visual issues",
 "6.3.0 (October 3, 2023)","New Content:
 - Wild Clawmaster Legendary equipment set
   * All Damage per Consecutive Login Day

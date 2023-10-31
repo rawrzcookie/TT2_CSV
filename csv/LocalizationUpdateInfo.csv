@@ -1,5 +1,5 @@
 StringID,English_Translator,Screenshot,Note,English,ChineseTrad,ChineseSimp,Japanese,Korean,Danish,Dutch,French,German,Italian,Norwegian,Russian,Spanish,Swedish,Turkish,Portuguese
-TEST_UPDATE_STRING1,Test Update String 1,,,Test Update String 1,測試更新字符串1,测试更新字符串1,更新文字列1をテストします,테스트 업데이트 문자열 1,Testopdateringsstreng 1,Test Update String 1,Test Update String 1,Aktualisierungszeichenfolge 1,Test Aggiornamento String 1,Testoppdateringsstreng 1,Тестовое обновление строки 1,Prueba de actualización de la cadena 1,Testuppdateringssträng 1,Test Güncelleme Dizesi 1,String de atualização de teste 1
+TEST_UPDATE_STRING1,Test Update String 1,,,Test Update String 1,測試更新字符串1,测试更新字符串1,更新文字列1をテストします,테스트 업데이트 문자열 1,Testopdateringsstreng 1,Test Update String 1,Test Update String 1,Aktualisierungszeichenfolge 1,Test Aggiornamento String 1,Testoppdateringsstreng 1,Тестовое обновление строки 1,Prueba de actualización de actualización 1,Testuppdateringssträng 1,Test Güncelleme Dizesi 1,String de atualização de teste 1
 BONUS_DESC_ShadowCloneAllSkillBoost,Increases the strength of your Spells while Shadow Clone is active.,,,Increases the strength of your Spells while Shadow Clone is active.,當影子克隆處於活動狀態時，會增加咒語的強度。,当影子克隆处于活动状态时，会增加咒语的强度。,シャドウクローンがアクティブになっている間、呪文の強度を高めます。,그림자 클론이 활성화되는 동안 주문의 강도를 높입니다.,"Øger styrken på dine trylleformularer, mens skygge klon er aktiv.",Verhoogt de sterkte van je spreuken terwijl Shadow Clone actief is.,Augmente la force de vos sorts tandis que l'ombre du clone est active.,"Erhöht die Stärke Ihrer Zauber, während der Schattenklon aktiv ist.",Aumenta la forza dei tuoi incantesimi mentre Shadow Clone è attivo.,Øker styrken på stavene dine mens Shadow Clone er aktiv.,"Увеличивает силу ваших заклинаний, в то время как теневой клон активен.",Aumenta la fuerza de tus hechizos mientras que el clon de sombra está activo.,Ökar styrkan hos dina trollformler medan skuggklonen är aktiv.,Gölge klonu aktifken büyülerinizin gücünü arttırır.,Aumenta a força de seus feitiços enquanto o clone de sombra está ativo.
 TWILIGHTBUNDLE_CATCH_DESC,"reduce your mystical impact cost
 increase your twilight damage",,,"Reduce your Mystical Impact Cost
@@ -20,3 +20,22 @@ Aumenta Tu Daño Crepuscular","Minska Din Mystiska Påverkan
 Alacakaranlık Hasarınızı Artırın","Reduza Seu Custo De Impacto Místico
 Aumente Seu Dano Do Crepúsculo"
 ARTIFACT_NAME_SeasonalArtifact43,hierophant's library,,,Hierophant's Library,神父的圖書館,神父的图书馆,Hierophantの図書館,Hierophant의 도서관,Hierophants Bibliotek,De Bibliotheek Van Hirophant,Bibliothèque De Hiérophant,Hierophants Bibliothek,Biblioteca Di Herofant,Hierophants Bibliotek,Библиотека Иерофанта,Biblioteca De Hierofante,Hierophants Bibliotek,Hierophant'In Kütüphanesi,Biblioteca Da Hierofante
+FIRSTMATEBUNDLE_CATCH_DESC,"increase your clan loyalty!
+increase your armor gold!",,,"Increase your Clan Loyalty!
+Increase your Armor Gold!","提高您的氏族忠誠度！
+增加您的盔甲黃金！","提高您的氏族忠诚度！
+增加您的盔甲黄金！","一族の忠誠心を高めてください！
+鎧の金を増やしてください！","클랜 충성도를 높이십시오!
+갑옷 금을 늘리십시오!","Forøg Din Klanloyalitet!
+Forøg Dit Rustningsguld!","Verhoog Uw Clanloyaliteit!
+Verhoog Je Pantsergoud!","Augmentez La Fidélité De Votre Clan!
+Augmentez Votre Or D'Armure!","Erhöhen Sie Ihre Clan -Loyalität!
+Erhöhen Sie Ihr Rüstungsgold!","Aumenta La Lealtà Del Tuo Clan!
+Aumenta L'Oro Dell'Armatura!","Øk Klan -Lojaliteten Din!
+Øk Rustningen Din Gull!","Увеличьте Лояльность Клана!
+Увеличьте Золото Брони!","¡Aumenta La Lealtad De Tu Clan!
+¡Aumenta Tu Armadura De Oro!","Öka Din Klanlojalitet!
+Öka Ditt Rustningsguld!","Klan Sadakatinizi Artırın!
+Zırh Altınızı Artırın!","Aumente Sua Lealdade Do Clã!
+Aumente O Ouro Da Sua Armadura!"
+SLOT_NAME_CHANGE_PLACEHOLDER_TEXT,​,,,​,​,​,​,​,​,​,​,​,​,​,​,​,​,​,​

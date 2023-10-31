@@ -10,7 +10,7 @@ PetDamageFromBurstSkillAmount,(Monument) Heavenly Pet: Pet gains Heavenly Strike
 UltraDaggerDamageFromShadowCloneSkillAmount,(Monument) Shadow Daggers: Daggers gain Shadow Clone scaling,None,None,True,False,False,False,False,0,False
 BurstSkillAmountDuringCritSkill,Heavenly Strike Damage while Deadly Strike is Active,None,None,False,False,False,False,False,0,False
 HelperBoostSkillAmountDuringTapBoostSkill,Warcry Damage while Fire Sword is Active,None,None,False,False,False,False,False,0,False
-CannonDamagePerSeasonTitan,(Monument) Thunder Volley Damage and Gold Gun Damage per Titan Killed this season,None,"GoldGunDamage,ThunderVolleySkillAmount",True,False,True,False,False,0,False
+CannonDamagePerSeasonTitan,(Monument) Thunder Volley Damage and Gold Gun Damage per Titan Killed this season,None,None,True,False,True,False,False,0,False
 ClanShipDamagePerSeasonTitan,(Monument) Clanship Damage per Titan Killed this season,None,None,True,False,True,False,False,0,False
 AllDamagePerSeasonDay,All Damage per day in this season,None,None,False,False,False,False,False,0,False
 DamagePerMaxStage,All Damage per max stage in this season,None,None,False,False,False,False,False,0,False
@@ -141,8 +141,8 @@ DamageOverTimePercent,Unused,None,None,True,False,True,False,False,0,False
 DamagePerConsecutiveLoginDay,Damage per Login Day (max 14),Damage,None,False,False,False,False,False,0,False
 DamagePerOwnedCardLevel,Damage per owned raid card level,Damage,None,False,False,True,False,False,0,True
 DamagePerEquipmentSet,Damage per completed equipment set,Damage,None,False,False,False,False,False,0,False
-DamagePerHelperWeapon,Damage per Individual Helper Weapon,Damage,None,True,False,True,False,False,0,False
-DamagePerHelperScroll,Damage per Individual Helper Scroll,Damage,None,True,False,True,False,False,0,False
+DamagePerHelperWeapon,Damage per Individual Helper Weapon,Damage,None,False,False,True,False,False,0,True
+DamagePerHelperScroll,Damage per Individual Helper Scroll,Damage,None,False,False,True,False,False,0,True
 DamagePerMythicSet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
 DamagePerLegendarySet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
 DamagePerLifetimePrestige,Damage per Lifetime Prestige Stat,Damage,None,True,False,True,False,False,0,False
@@ -153,7 +153,7 @@ DamagePerOwnedEnchantment,Increases damage per owned enchantment,Damage,None,Fal
 DamagePerSoloRaidWorld,Increases damage each time a solo raid world is completed,Damage,None,False,False,False,False,False,0,False
 DamagePerRunningActiveSkill,Increases the amount of damage earned for each running active skill.,Damage,None,False,False,False,False,False,0,False
 DamagePerATParticipation,Increases amount of damage based on lifetime AT Participation,Damage,None,True,False,True,False,False,0,False
-DamagePerManaCap,Increases damage based on the player's mana cap (capped 50000),Damage,None,True,False,True,False,False,0,False
+DamagePerManaCap,Increases damage based on the player's mana cap (capped 50000),Damage,None,False,False,True,False,False,0,True
 DamagePerSkillPoint,Increased damage based on the amount of owned skill points,Damage,None,True,False,True,False,False,0,False
 DeadlyChance,Increases the chance to land a Deadly Strike.,None,None,True,False,True,False,False,0,False
 DeadlyDamageClone,Increases deadly damage done by Shadow Clone.,Damage,None,False,False,False,False,False,0,False
@@ -278,6 +278,7 @@ ManaMonsterAmountMult,Multiplies ManaMonsterAmount Bonus,None,None,False,False,F
 ManaMonsterSpawnChance,Increases the chance for Manni Mana to spawn.,None,None,True,False,True,False,False,0,False
 ManaPoolCap,Increases mana capacity.,None,None,True,False,False,False,False,0,False
 ManaPoolCapPercent,Increases mana capacity with a multiplicative bonus,None,None,False,False,False,False,False,0,False
+ManaPotionSpellBoost,Increases the primary effect of all spells while ManaPotion is active,None,None,False,False,False,False,False,0,False
 ManaRefundPercent,Refunds a percent of mana spent on active skills.,None,None,True,False,True,False,False,0,False
 ManaRegen,Increases mana regeneration.,None,None,True,False,False,False,False,0,False
 ManaRegenMult,Mana regeneration multiplier.,None,None,False,False,False,False,False,0,False
@@ -302,7 +303,7 @@ MultiMonstersMaxCount,Increases the max number of multi-Titans that can spawn.,N
 NohniComboBoost,Increases HelmetBoost and FlyingHelperDamage.,None,"HelmetBoost,FlyingHelperDamage",False,False,False,False,False,0,False
 PaladinBonusBoost,"Increases TapDamage,BurstDamageSkillAmount,FairyGold",None,"TapDamage,BurstDamageSkillAmount,FairyGold",False,False,False,False,False,0,False
 PerkGold,Increases gold given by perks..,Gold,None,False,False,False,False,False,0,False
-PerkDoomAmount,Increases the damage granted by the Doom Perk,Damage,None,FALSE,FALSE,FALSE,FALSE,FALSE,0,FALSE
+PerkDoomAmount,Increases the damage granted by the Doom Perk,Damage,None,False,False,False,False,False,0,False
 PerkMaxLevel,Increases max perk stacks,None,None,True,False,False,False,False,0,False
 DamagePerLifetimePerks,Increases Damage per Lifetime Perks Used,Damage,None,True,False,True,False,False,0,False
 PetBonusBoost,(deprecated) Increases Pet Damage & FireSword Damage,None,"PetDamage,TapBoostSkillAmount",False,False,False,False,False,0,False
@@ -432,6 +433,7 @@ CelestialStaticChargePerTap,Number of charges generated when tapping on BODY,Rai
 CelestialStaticMaxCharges,Maximum number of charges a player can hold at once,Raid,None,True,False,False,False,True,0,False
 ChainLightningBurst,Increases chain lightning damage,Raid,None,False,False,False,False,False,0,False
 ChainLightningMaxTargets,Determines the maximum number of targets that can be affected by ChainLightning,Raid,None,False,False,False,False,False,0,False
+ChainLightningPartBoost,Determines the increased damage per affected part.,Raid,None,False,False,False,False,False,0,False
 ColdDamageBoost,Increases the amount of damage done done to a frozen monster part.,Raid,None,False,False,False,False,False,0,False
 DecayPercentRate,Increases the damage of each decay tick.,Raid,None,True,False,True,False,False,0,False
 DecayDamageExpo,Exponent to apply to the decay hp damage ratio,Raid,None,False,False,False,False,False,0,False

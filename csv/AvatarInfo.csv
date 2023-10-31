@@ -146,6 +146,9 @@ AvatarHolidayTavern2023,HolidayTavern2023,1
 AvatarHolidayTavern2023SeasonPass,HolidayTavern2023,1
 AvatarHolidaySummer2023,HolidaySummer2023,1
 AvatarHolidaySummer2023SeasonPass,HolidaySummer2023,1
+AvatarHolidayAnniversary2023,HolidayAnniversary2023,1
+AvatarHolidayAnniversary2023SeasonPass,HolidayAnniversary2023,1
+AvatarHolidayHalloween2023,HolidayHalloween2023,1
 FireStoneEvent1,GenericEvent1,1
 FireStoneEvent2,GenericEvent1,1
 FireStoneEvent3,GenericEvent1,1
@@ -270,6 +273,8 @@ AvatarDungeon5,DungeonQuest,1
 AvatarDungeon6,DungeonQuest,1
 AvatarDungeon7,DungeonQuest,1
 AvatarDungeon8,DungeonQuest,1
+AvatarDungeon9,DungeonQuest,1
+AvatarDungeon10,DungeonQuest,1
 AvatarAlchemy1,AlchemyEvent,1
 AvatarAlchemy2,AlchemyEvent,1
 AvatarAlchemy3,AlchemyEvent,1
