@@ -834,7 +834,7 @@ Aura_MetallicLightning,5,Aura,TapBoostSkillAmount,CompanionAttackRate,0.3968,25,
 Slash_DOS,5,Slash,CannonDamage,HelperQTECount,1.5872,25,0.9,0.58,1.15,FALSE,DOS
 Weapon_Lance,5,Weapon,DamagePerHelperWeapon,BurstDamageSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Lance
 Suit_Titania,5,Suit,FairyGold,LegacyPetGoldEffect,17.484,25,0.9,0.58,1.155,FALSE,Titania
-Suit_Jayce,5,Suit,HandOfMidasSkillAmount,AllGoldDuringHayst,17.484,25,0.9,0.58,1.15,FALSE,Jayce
+Suit_Jayce,5,Suit,GoldAll,AllGoldDuringHayst,17.484,25,0.9,0.58,1.15,FALSE,Jayce
 Slash_Kronus,5,Slash,TwilightBoost,TwilightFairyStageSkip,1.0168,25,0.9,0.58,1.15,FALSE,Kronus
 Aura_Sophia,5,Aura,CritBoostSkillAmount,DeadlyDamageCompanion,0.3968,25,1.6,0.6,1.158,FALSE,Sophia
 Aura_Damon,5,Aura,TapBoostSkillAmount,TapBoostSkillDuration,0.3968,25,0.9,0.58,1.15,FALSE,Damon
