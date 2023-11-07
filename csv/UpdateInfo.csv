@@ -1,4 +1,33 @@
 Version,Changes,Don't DELETE
+"6.4.1 (November 7, 2023)","6.4.1 
+- General Changes
+  * Updated Jayce’s Armor unique armor equipment to give an All Gold primary bonus
+
+- Bug Fixes
+  * Fixed issues where the Dungeon Eggsplorer event had the wrong particle effects in some locations
+  * Fixed Elite Season Pass notifications appearing incorrectly
+  * Fixed issues where skill tree save slots wouldn’t load correctly when importing
+  * Fixed issues where player profiles in clans would not display correctly
+  * Fixed issue with Nightcrag Market’s maximum fairy count
+  * Fixed minor localization issues
+  * Fixed minor visual issues
+
+- Master Tier Season 6
+  * Season starts on November 12th, 2023
+  * Balance changes going live after Master Tier Season 5 ends
+
+- Boosted Card Levels during Season
+  * +15 Chain of Vengeance levels
+  * +15 Grim Shadow levels
+  * +10 Totem of Power levels
+
+- Card Reworks during Season
+  * Acid Drench gains +1% damage
+  * Blazing Inferno gains +4% base affliction chance
+  * Blazing Inferno loses -0.5% affliction chance per afflicted part
+  * Chain of Vengeance gains +2% damage per chained part
+  * Decaying Strike gains +1% damage
+",
 "6.4.0 (October 31, 2023)","6.4.0
 New Content:     
 - Anniversary Aquamarine legendary set
