@@ -1,6 +1,6 @@
 StartRank,EndRank,LeaderboardPosition,RankReward
-1,10,Top 10 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason5Top10,RaidCardCurrency:22000,RaidCard:1600"
-11,25,Top 25 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason5Top25,RaidCardCurrency:19000,RaidCard:1400"
-26,50,Top 50 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason5Top50,RaidCardCurrency:16000,RaidCard:1200"
-51,100,Top 100 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason5Top100,RaidCardCurrency:13000,RaidCard:1000"
+1,10,Top 10 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason6Top10,RaidCardCurrency:22000,RaidCard:1600"
+11,25,Top 25 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason6Top25,RaidCardCurrency:19000,RaidCard:1400"
+26,50,Top 50 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason6Top50,RaidCardCurrency:16000,RaidCard:1200"
+51,100,Top 100 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason6Top100,RaidCardCurrency:13000,RaidCard:1000"
 101,9999999,Any Clan that reached In Master Tier,"RaidCardCurrency:10000,RaidCard:800"
