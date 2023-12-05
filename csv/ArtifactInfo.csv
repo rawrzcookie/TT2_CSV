@@ -94,8 +94,8 @@ Artifact63,Lost King's Mask,0,Cost reduction,AllUpgradeCost,40,0.02,1,0.8,0.5,3,
 Artifact24,Staff of Radiance,0,Hero cost reduction,HelperUpgradeCost,40,0.02,1,0.8,0.5,2.6,6,-1,1,1.00E+00,CostRed
 Artifact71,Morgelai Sword,2,Individual hero weapons,HelperWeaponBoost,50,0.01,1,0.8,0.5,3,9,-1,1,1.00E+00,Boost
 Artifact91,Ringing Stone,2,-,HelperWeaponSetBoost,50,0.01,1,0.8,0.5,3,9,-1,1,1.00E+00,Boost
-Artifact92,Quill of Scrolls,2,-,HelperScrollBoost,50,0.0005,1,0.8,0.5,3,9,-1,1,1.00E+00,Boost
-Artifact93,Old King's Stamp,2,-,HelperScrollSetBoost,50,0.0005,1,0.8,0.5,3,9,-1,1,1.00E+00,Boost
+Artifact92,Quill of Scrolls,2,-,ClanScrollBoost,50,0.005,1,0.8,0.5,3,9,-1,1,1.00E+00,Boost
+Artifact93,Old King's Stamp,2,-,ClanScrollSetBoost,50,0.005,1,0.8,0.5,3,9,-1,1,1.00E+00,Boost
 Artifact49,The Master's Sword,1,-,TapDamageFromHelpers,40,0.0001,1,2,0.5,2.6,2,-1,1,1.00E+00,Dmg
 Artifact80,The Magnifier,2,bonuses of damage type artifacts,AllArtifactDamageEffect,40,0.1125,1,3,2,3,9,-1,1,1.00E+00,Boost
 Artifact81,The Treasure of Fergus,2,bonuses of gold type artifacts,AllArtifactGoldEffect,40,0.225,1,3,2,3,9,-1,1,1.00E+00,Boost

@@ -110,6 +110,7 @@ ChestGoldx10Chance,Increases the chance to earn x10 Chesterson gold.,None,None,T
 ChestGoldx1000Chance,Increases the chance to earn x1000 Chesterson gold. (deprecated),None,None,True,False,True,False,False,0,False
 ChestChance,Increases the chance for a Chesterson to spawn.,None,None,True,False,True,False,False,0,False
 ChestersonGoldStageAmount,Increase the stage length for Chesterson amount,None,None,True,False,False,False,False,0,False
+ClanQTEAttackRate,Increases the attack per second of ClanQTE by x(1+ClanQTEAttackRate),None,None,True,False,True,False,False,0,False
 ClanQTECooldown,Reduces the cooldown timer for Coordinated Offensive.,None,None,True,True,False,True,False,0,False
 ClanQTEDamage,Increases the damage of the summoned clan mate.,Damage,None,False,False,False,False,False,0,False
 ClanShipBatteryCoefficient,Decreases Clan Ship Battery requirements before a shot is fired.,None,None,False,False,False,False,False,0,False
@@ -142,7 +143,7 @@ DamagePerConsecutiveLoginDay,Damage per Login Day (max 14),Damage,None,False,Fal
 DamagePerOwnedCardLevel,Damage per owned raid card level,Damage,None,False,False,True,False,False,0,True
 DamagePerEquipmentSet,Damage per completed equipment set,Damage,None,False,False,False,False,False,0,False
 DamagePerHelperWeapon,Damage per Individual Helper Weapon,Damage,None,False,False,True,False,False,0,True
-DamagePerHelperScroll,Damage per Individual Helper Scroll,Damage,None,False,False,True,False,False,0,True
+DamagePerClanScroll,Damage per Individual Clan Scroll,Damage,None,False,False,True,False,False,0,True
 DamagePerMythicSet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
 DamagePerLegendarySet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
 DamagePerLifetimePrestige,Damage per Lifetime Prestige Stat,Damage,None,True,False,True,False,False,0,False
@@ -243,8 +244,8 @@ HelperQTECooldown,Reduces the cooldown of Astral Awakening.,None,None,True,True,
 HelperQTECount,Increases the max bounce count of Astral Awakening.,None,None,True,False,False,False,False,0,False
 HelperQTEDamage,Increases all hero damage for each Astral Awakening bounce.,None,None,False,False,False,False,False,0,False
 HelperQTEDuration,Increases the duration of Astral Awakening.,None,None,True,False,False,True,False,0,False
-HelperScrollBoost,Increases the strength of individual hero scrolls.,None,None,True,False,True,False,False,0,False
-HelperScrollSetBoost,Increases the strength of hero scroll sets,None,None,True,False,True,False,False,0,False
+ClanScrollBoost,Increases the strength of individual clan scrolls.,None,None,True,False,True,False,False,1,False
+ClanScrollSetBoost,Increases the strength of clan scroll sets,None,None,True,False,True,False,False,1,False
 HelperWeaponBoost,Increases the strength of individual hero weapons.,None,None,False,False,False,False,False,0,False
 HelperWeaponSetBoost,Increases the strength of hero weapon sets,None,None,False,False,False,False,False,0,False
 HoursToCollectPetEggsAdditive,Modifies the amount of time required to collect pet eggs. ServerVar.hoursToCollectEgg,None,None,True,False,False,False,False,0,False

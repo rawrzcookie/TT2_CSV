@@ -1,4 +1,103 @@
 Version,Changes,Don't DELETE
+"6.5.0 (December 5, 2023)","New Content: 
+- Sentinel Hornblower Legendary Set
+     * 30x Clan Ship Damage
+     * 1.25x Coordinated Offensive Attack Rate
+- New Unique Equipment
+     * Maple Brush sword equipment with All Damage per Clan Scroll primary bonus and Gold Gun Damage secondary bonus
+     * Pharoah’s Staff sword equipment with All Damage per Mana Capacity primary bonus and Forbidden Contract Damage secondary bonus
+     * Rosabelle’s Uniform armor equipment with Royal Contract Gold primary bonus and Prize Gold secondary bonus
+- Tournament Event begins on December 5th, 2023
+     * Gain additional event currency from Tournament and Abyssal Tournament rewards
+     * Participate in Ultra Tournaments and Ultra Abyssal Tournaments for more competition and more rewards
+     * Work with your clan to complete the Clan Quest and earn Dust, Hero Weapons, and Raid Cards
+     * Heartly Queen and The Rockstar event equipment drops
+- 4x Skill Point Titan Chest Promotion
+
+
+General Changes:
+- Relative Stage Scaling Reworks
+     * Works based on a percentage of the difference between your Starting Stage after a prestige and Max Stage
+     * Minimum required stage for prestige set to 75%
+     * Relic and memento booster required stage set to 90%
+     * Event currency required stage set to 90%
+     * Skill Tree Apply and Prestige stage limit set to 20%
+     * Salvage stage limit set to 10%
+- Incremental Avatars
+     * Avatars count up the more you fulfill their requirements
+     * New or existing avatars reworked for all the below values
+     * Undisputed Tournament Wins
+     * Solo Raid Leaderboard Wins
+     * Global Raid Victories
+     * Ultra Tournament Placements
+     * Ultra Abyssal Tournament Placements
+Avatar Collections
+     * Some avatars will be grouped into collections to organize your selections
+     * Reworked avatar panel visuals
+- Achievement Avatars
+     * Avatars earned by completing certain achievements
+     * Display their unlock conditions
+     * New or existing avatars reworked for all the below values
+     * Stage Progression
+     * Milestone Completion
+     * Tournament Wins
+     * Solo Raid World Completions
+- Hero Scroll Rework
+     * All Hero Scrolls are being turned into Clan Scrolls
+     * Each scroll has a fixed bonus that it increases
+     * Quill of Scrolls and Old King’s Stamp effects increased to have 10x the effect on Clan Scrolls
+     * Freebooter Outpost effect increased by 24% on Clan Scrolls
+     * Completing a Clan Scroll set will boost all Clan Scroll effects
+     * New Clan Scroll values listed below
+     * All Gold
+     * All Damage
+     * All Hero Damage
+     * Warrior Hero Damage
+     * Ranger Hero Damage
+     * Mage Hero Damage
+     * Critical Damage
+     * Chesterson Gold
+     * Boss Gold
+     * Fairy Gold
+     * Tap Damage
+     * Shadow Clone Damage
+     * Specialty Gold
+     * Mana Capacity
+     * Tap Damage from Heroes
+     * Mana Regeneration
+     * Multiple Titan Gold
+     * Heart of Gold
+- Clan Search Improvements
+     * Search for minimum highest raid level and country
+     * Advanced search options button to view extra search parameters
+     * View a clan’s highest raid completed in the directory
+- Bulk Discover Enchantments in Abyssal Tournaments
+     * Requires at least three available to discover
+     * Will purchase one fewer than you can possibly afford
+- View Prestige panel when below prestige stage
+- Silent March talent Sneak Count increased by 10% at all levels
+- Remove Lightning Strike DPS from Current DPS
+- Improved Tournament Matchmaking
+
+
+Bug Fixes:
+- Fixed Forbidden Contract and Royal Contract where higher levels could lower your mana costs
+- Fixed empty item slots appearing in the Bear Shop
+- Fixed season pass benefits sometimes disappearing after a prestige
+- Optimized Abyssal Tournament accounts to lower Abyssal Tournament specific errors
+- Fixed exploits where players could incorrectly use equipment to raise their power
+- Fixed issues where the Max Stage Reached banner could appear below your Max Stage
+- Fixed issues where builds could sometimes not be imported to a Save Slot
+- Fixed issues where Solo Raid Rewards would incorrectly overlay other panels
+- Fixed issues where new players could sometimes be unable to attack solo raids
+- Fixed issues where equipment not part of a set would not correctly display that they were not part of a set
+- Fixed issues where Blacksmith Fairies could generate errors
+- Fixed issues where Transcendence players would consume Ultra Prestige prestiges more quickly than intended
+- Fixed various game crashes
+- Fixed minor localization issues
+- Fixed minor visual issues
+
+",
 "6.4.1 (November 7, 2023)","6.4.1 
 - General Changes
   * Updated Jayce’s Armor unique armor equipment to give an All Gold primary bonus

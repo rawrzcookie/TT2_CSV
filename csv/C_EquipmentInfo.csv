@@ -28,6 +28,7 @@ Aura_Ninetails,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Ninetails
 Aura_Devil,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Devil
 Aura_GoldRain,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,GoldRain
 Aura_PerkMaster,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PerkMaster
+Aura_WarHorn,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,WarHorn
 Aura_BoneTribe,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,BoneTribe
 Aura_Samurai,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Samurai
 Aura_Chakram,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Chakram
@@ -131,6 +132,7 @@ Hat_PlagueDoctor,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Plag
 Hat_Devil,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Devil
 Hat_GoldRain,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,GoldRain
 Hat_WildCat,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,WildCat
+Hat_WarHorn,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,WarHorn
 Hat_DarkAlien,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAlien
 Hat_Mech,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Mech
 Hat_ElectricWarlord,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,ElectricWarlord
@@ -245,6 +247,7 @@ Slash_Blacksmith,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Black
 Slash_Cowboy,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Cowboy
 Slash_WeaponMaster,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,WeaponMaster
 Slash_ScrollMaster,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,ScrollMaster
+Slash_WarHorn,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,WarHorn
 Slash_BoneTribe,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,BoneTribe
 Slash_Mech,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,Mech
 Slash_ElectricWarlord,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,ElectricWarlord
@@ -392,6 +395,7 @@ Suit_ManaMage,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,ManaMage
 Suit_Headless,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,Headless
 Suit_BlackDragon,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,BlackDragon
 Suit_SpellBooster,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,SpellBooster
+Suit_WarHorn,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,WarHorn
 Suit_BoneTribe,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,BoneTribe
 Suit_Mech,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,Mech
 Suit_WaterSorcerer,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,WaterSorcerer
@@ -498,6 +502,7 @@ Weapon_SoloRaid,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,SoloR
 Weapon_PlagueDoctor,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,PlagueDoctor
 Weapon_GoldRain,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,GoldRain
 Weapon_ScrollMaster,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,ScrollMaster
+Weapon_WarHorn,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,WarHorn
 Weapon_BoneTribe,4,Weapon,AllHelperDamage,None,9.7216,20,0.9,0.58,1.15,FALSE,BoneTribe
 Weapon_ElectricWarlord,4,Weapon,AllHelperDamage,None,9.7216,20,0.9,0.58,1.15,FALSE,ElectricWarlord
 Weapon_RaidMythic,4,Weapon,AllHelperDamage,None,9.7216,20,0.9,0.58,1.15,FALSE,RaidMythic
@@ -833,8 +838,11 @@ Suit_ShadowMagician,5,Suit,MultiMonstersGold,GoldAll,17.484,25,0.9,0.58,1.155,FA
 Aura_MetallicLightning,5,Aura,TapBoostSkillAmount,CompanionAttackRate,0.3968,25,0.9,0.58,1.15,FALSE,MetallicLightning
 Slash_DOS,5,Slash,CannonDamage,HelperQTECount,1.5872,25,0.9,0.58,1.15,FALSE,DOS
 Weapon_Lance,5,Weapon,DamagePerHelperWeapon,BurstDamageSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Lance
+Weapon_Maple,5,Weapon,DamagePerClanScroll,GoldGunDamage,6.944,25,0.9,0.58,1.16,FALSE,Maple
+Weapon_Pharaoh,5,Weapon,DamagePerManaCap,ForbiddenContractBonusDamage,6.944,25,0.9,0.58,1.16,FALSE,Pharaoh
 Suit_Titania,5,Suit,FairyGold,LegacyPetGoldEffect,17.484,25,0.9,0.58,1.155,FALSE,Titania
-Suit_Jayce,5,Suit,GoldAll,AllGoldDuringHayst,17.484,25,0.9,0.58,1.15,FALSE,Jayce
+Suit_Rosabella,5,Suit,RoyalContractBonusGold,UnskilledGold,17.484,25,0.9,0.58,1.155,FALSE,Rosabella
+Suit_Jayce,5,Suit,HandOfMidasSkillAmount,AllGoldDuringHayst,17.484,25,0.9,0.58,1.15,FALSE,Jayce
 Slash_Kronus,5,Slash,TwilightBoost,TwilightFairyStageSkip,1.0168,25,0.9,0.58,1.15,FALSE,Kronus
 Aura_Sophia,5,Aura,CritBoostSkillAmount,DeadlyDamageCompanion,0.3968,25,1.6,0.6,1.158,FALSE,Sophia
 Aura_Damon,5,Aura,TapBoostSkillAmount,TapBoostSkillDuration,0.3968,25,0.9,0.58,1.15,FALSE,Damon

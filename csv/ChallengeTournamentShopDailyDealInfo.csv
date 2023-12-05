@@ -13,10 +13,10 @@ ID,DealType,Quantity,Cost,Base,Chance,SpawnWeight,Reference,CategoryChance
 11,HelperWeapon,4,100,25,0.0130,25,300,
 12,HelperWeaponFortune,1,25,25,0.0259,50,400,SP:
 13,HelperWeaponFortune,3,75,25,0.0130,25,400,0.1813471503
-14,HelperScroll,2,50,25,0.0259,50,300,
-15,HelperScroll,4,100,25,0.0130,25,300,Relics:
-16,HelperScrollFortune,1,25,25,0.0259,50,400,0.1813471503
-17,HelperScrollFortune,3,75,25,0.0130,25,400,
+14,Scroll,2,50,25,0.0259,50,300,
+15,Scroll,4,100,25,0.0130,25,300,Relics:
+16,FortuneScroll,1,25,25,0.0259,50,400,0.1813471503
+17,FortuneScroll,3,75,25,0.0130,25,400,
 18,SkillPoints,5,200,40,0.0518,100,500,
 19,SkillPoints,10,400,40,0.0518,100,500,
 20,SkillPoints,15,600,40,0.0389,75,500,

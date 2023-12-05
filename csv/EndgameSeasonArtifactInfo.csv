@@ -5,7 +5,7 @@ SeasonalArtifact3,Keelhaul Reef,TRUE,Pirate,DamagePerRunningActiveSkill,0,1.7,15
 SeasonalArtifact4,Beast Hunter's Grave,TRUE,Pirate,BoostedSwordAttackDamage,0,3.2,31.4,6.50E+19,0.55,8,2.26,Boost,6.45407E+50
 SeasonalArtifact5,Droid Factory,TRUE,Pirate,HelperBoostSkillAmountDuringTapBoostSkill,0,10,62.8,6.50E+19,0.55,8,2.26,Dmg,4.06787E+101
 SeasonalArtifact6,Rosabella's Village,TRUE,Pirate,InspiredHelperDamage,0,10,57,6.50E+19,0.55,8,2.26,Boost,2.07692E+92
-SeasonalArtifact7,Freebooter Outpost,TRUE,Pirate,HelperScrollBoost,40,0.01,0.718,1.00E+50,1.214,1.09,1.042,Boost,0.141344552
+SeasonalArtifact7,Freebooter Outpost,TRUE,Pirate,ClanScrollBoost,40,0.124,0.718,1.00E+50,1.214,1.09,1.042,Boost,1.752672445
 SeasonalArtifact8,Red Water Wreckage,TRUE,Pirate,CannonDamagePerSeasonTitan,0,590,55.2,6.50E+19,0.55,8,2.26,Dmg,1.60163E+91
 SeasonalArtifact9,Old Salt Trading Post,TRUE,Pirate,HelperWeaponBoost,40,1.344,0.827,1.00E+50,1.214,1.09,1.042,Boost,28.39898913
 SeasonalArtifact10,Chesterson Island,TRUE,Pirate,GoldAllPerSeasonChesterson,0,30,96.4,6.50E+19,0.55,8,2.26,Gold,8.23577E+155
