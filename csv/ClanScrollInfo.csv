@@ -12,7 +12,7 @@ ScrollId10,FairyGold,1.21,False,H17
 ScrollId11,TapDamage,1.2,False,H36
 ScrollId12,ShadowCloneSkillAmount,1.037,False,H14
 ScrollId13,GoldSpecialty,1.2,False,H25
-ScrollId14,ManaPoolCap,6,True,H08
+ScrollId14,ManaPoolCap,8,True,H08
 ScrollId15,TapDamageFromHelpers,0.00001,True,H34
 ScrollId16,ManaRegen,0.32,True,H32
 ScrollId17,MultiMonstersGold,1.44,False,H04
