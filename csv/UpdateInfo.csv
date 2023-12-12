@@ -1,4 +1,13 @@
 Version,Changes,Don't DELETE
+"6.5.1 (December 12, 2023)","Bug Fixes:
+- Fixed horizontally scrollable avatars to make the horizontal scrolling more obvious
+- Fixed issues where avatar frames wouldn’t always display correctly
+- Fixed issues where high crafting power values could break some equipment bonuses
+- Fixed issues where Silent March notifications and stats panel values could display incorrectly
+- Fixed solo raid errors for new players
+- Fixed various game crashes
+- Fixed minor localization issues
+- Fixed minor visual issues",
 "6.5.0 (December 5, 2023)","New Content: 
 - Sentinel Hornblower Legendary Set
      * 30x Clan Ship Damage
