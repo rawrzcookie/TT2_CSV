@@ -1,4 +1,7 @@
 Version,Changes,Don't DELETE
+"6.5.2 (December 13, 2023)","Bug Fixes:
+- Fixed issues where skill tree sometimes would fail to reset in Abyssal Tournaments
+- Fixed issues where the game would crash at loading screen for non-English localizations",
 "6.5.1 (December 12, 2023)","Bug Fixes:
 - Fixed horizontally scrollable avatars to make the horizontal scrolling more obvious
 - Fixed issues where avatar frames wouldn’t always display correctly
