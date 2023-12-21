@@ -14,6 +14,6 @@ Tavern2023,2,AreaGlobalBoss,EnemyGlobalBoss,TRUE,Pattern,1,1.5,0
 Summer2023,0,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",FALSE,RandomOnSpawn,3600000,1.5,0.004
 Summer2023,1,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",TRUE,RandomOnSpawn,2500000,1.5,0.004
 Summer2023,2,AreaGlobalBoss,EnemyGlobalBoss,TRUE,Pattern,1,1.5,0
-Event27_2023,0,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",FALSE,RandomOnSpawn,3100000,1.5,0.004
+Event27_2023,0,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",FALSE,RandomOnSpawn,3000000,1.5,0.004
 Event27_2023,1,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",TRUE,RandomOnSpawn,2000000,1.5,0.004
 Event27_2023,2,AreaGlobalBoss,EnemyGlobalBoss,TRUE,Pattern,1,1.5,0
