@@ -149,6 +149,8 @@ AvatarHolidaySummer2023SeasonPass,HolidaySummer2023,1,FALSE,,HolidayPremium,FALS
 AvatarHolidayAnniversary2023,HolidayAnniversary2023,1,FALSE,,Holiday,FALSE
 AvatarHolidayAnniversary2023SeasonPass,HolidayAnniversary2023,1,FALSE,,HolidayPremium,FALSE
 AvatarHolidayHalloween2023,HolidayHalloween2023,1,FALSE,,Holiday,FALSE
+AvatarHolidayChristmas2023,HolidayChristmas2023,1,FALSE,,Holiday,FALSE
+AvatarHolidayChristmas2023SeasonPass,HolidayChristmas2023,1,FALSE,,HolidayPremium,FALSE
 FireStoneEvent1,GenericEvent1,1,FALSE,,Firestone,FALSE
 FireStoneEvent2,GenericEvent1,1,FALSE,,Firestone,FALSE
 FireStoneEvent3,GenericEvent1,1,FALSE,,Firestone,FALSE

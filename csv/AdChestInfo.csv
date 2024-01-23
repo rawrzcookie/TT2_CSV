@@ -68,9 +68,17 @@ AdChestDiamonds,tier3,Perk,Perk:1,0.150
 AdChestDiamonds,tier3,Perk,None,0.850
 AdChestPets,tier1,Pet,PetsLvl1:1,0.900
 AdChestPets,tier1,Pet,PetsLvl1:3,0.100
+AdChestPets,tier1,SeasonalPet,SeasonalPetsLvl1:3,1.000
 AdChestPets,tier2,Pet,PetsLvl1:1,0.700
 AdChestPets,tier2,Pet,PetsLvl1:3,0.200
 AdChestPets,tier2,Pet,PetsLvl1:5,0.100
+AdChestPets,tier2,SeasonalPet,SeasonalPetsLvl1:3,0.700
+AdChestPets,tier2,SeasonalPet,SeasonalPetsLvl1:4,0.200
+AdChestPets,tier2,SeasonalPet,SeasonalPetsLvl1:5,0.100
 AdChestPets,tier3,Pet,PetsLvl1:2,0.840
 AdChestPets,tier3,Pet,PetsLvl1:5,0.100
 AdChestPets,tier3,Pet,PetsLvl1:10,0.060
+AdChestPets,tier3,SeasonalPet,SeasonalPetsLvl1:5,0.400
+AdChestPets,tier3,SeasonalPet,SeasonalPetsLvl1:6,0.300
+AdChestPets,tier3,SeasonalPet,SeasonalPetsLvl1:7,0.200
+AdChestPets,tier3,SeasonalPet,SeasonalPetsLvl1:10,0.100

@@ -29,6 +29,7 @@ Aura_Devil,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Devil
 Aura_GoldRain,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,GoldRain
 Aura_PerkMaster,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PerkMaster
 Aura_WarHorn,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,WarHorn
+Aura_Shepherd,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Shepherd
 Aura_BoneTribe,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,BoneTribe
 Aura_Samurai,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Samurai
 Aura_Chakram,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Chakram
@@ -165,6 +166,7 @@ Hat_Blacksmith,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Blacksm
 Hat_Headless,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Headless
 Hat_Jester,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Jester
 Hat_PerkMaster,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,PerkMaster
+Hat_Shepherd,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Shepherd
 Hat_BoneTribe,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,BoneTribe
 Hat_Samurai,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Samurai
 Hat_FireKnight,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -268,6 +270,7 @@ Slash_PetChampion,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,PetChampi
 Slash_FirstMate,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,FirstMate
 Slash_Ninetails,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Ninetails
 Slash_WildCat,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,WildCat
+Slash_Shepherd,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Shepherd
 Slash_DarkAlien,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,DarkAlien
 Slash_Samurai,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,Samurai
 Slash_FireKnight,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -426,6 +429,7 @@ Suit_Scout,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Scout
 Suit_Ninetails,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Ninetails
 Suit_GoldRain,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,GoldRain
 Suit_WildCat,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,WildCat
+Suit_Shepherd,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Shepherd
 Suit_Skulls,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Skulls
 Suit_Samurai,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Samurai
 Suit_FireKnight,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -532,6 +536,7 @@ Weapon_Ninetails,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Ninetails
 Weapon_BlackDragon,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,BlackDragon
 Weapon_PerkMaster,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,PerkMaster
 Weapon_Aquamarine,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Aquamarine
+Weapon_Shepherd,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Shepherd
 Weapon_DarkAlien,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,DarkAlien
 Weapon_Mech,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,Mech
 Weapon_WaterSorcerer,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,WaterSorcerer
@@ -832,6 +837,11 @@ Hat_AnniversaryFairy,1,Hat,SwordAttackDamage,None,0.072726,3,0.9,0.58,1.14,TRUE,
 Suit_AnniversaryFairy,1,Suit,ChestAmount,None,0.74307,3,0.9,0.58,1.145,TRUE,AnniversaryFairy
 Aura_AnniversaryFairy,1,Aura,HelmetBoost,None,0.02108,3,0.9,0.58,1.145,TRUE,AnniversaryFairy
 Slash_AnniversaryFairy,1,Slash,GoldGunDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,AnniversaryFairy
+Weapon_Yeti,1,Weapon,TapDamage,None,0.44268,3,0.9,0.58,1.15,TRUE,Yeti
+Hat_Yeti,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Yeti
+Suit_Yeti,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,Yeti
+Aura_Yeti,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Yeti
+Slash_Yeti,1,Slash,ClanShipDamage,None,0.067456,3,0.9,0.58,1.14,TRUE,Yeti
 Weapon_AlphaHeart,5,Weapon,DamagePerOwnedCardLevel,AnyContractBonusBoost,6.944,25,0.9,0.58,1.15,FALSE,AlphaHeart
 Hat_ElderSnow,5,Hat,AllHelperDamage,HelperBoostSkillAmount,12.152,25,0.9,0.58,1.145,FALSE,ElderSnow
 Suit_ShadowMagician,5,Suit,MultiMonstersGold,GoldAll,17.484,25,0.9,0.58,1.155,FALSE,ShadowMagician

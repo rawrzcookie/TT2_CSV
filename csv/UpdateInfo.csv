@@ -1,17 +1,57 @@
 Version,Changes,Don't DELETE
-"6.5.2 (December 13, 2023)","Bug Fixes:
-- Fixed issues where skill tree sometimes would fail to reset in Abyssal Tournaments
-- Fixed issues where the game would crash at loading screen for non-English localizations",
-"6.5.1 (December 12, 2023)","Bug Fixes:
-- Fixed horizontally scrollable avatars to make the horizontal scrolling more obvious
-- Fixed issues where avatar frames wouldn’t always display correctly
-- Fixed issues where high crafting power values could break some equipment bonuses
-- Fixed issues where Silent March notifications and stats panel values could display incorrectly
-- Fixed solo raid errors for new players
+"6.6.0 (January 23, 2024)","New Content:  
+- Earthen Shepherd Legendary Set
+     * 20x Heart of Gold
+     * 1.5x Legacy Pet Gold
+- Fierce Snowman Event Set
+     * 10x Tap Damage
+- Transcendence Season 3 begins on January 24th, 2024
+     * Celestial Temples, Kingdom of the Arcanas, and Pirates of the Neverseas monuments
+     * Transcendent Pets
+- VIP Tier 6
+     * 3750 VIP points to unlock
+     * Auto-Upgrade Sword Master on Prestige
+     * Auto-Upgrade Spells on Prestige
+- Prestige Winterfest event begins on January 24th, 2024
+     * Prestige to gain additional event currency
+     * Clan Quest giving Dust, Raid Card Fragments, and Crafting Shards
+     * Chills and Thrills, Festive Bandit, Jack Frost, Gingerbread Master, Sled Season, and Snow Master event equipment drops
+     * Winter themed loading screen, fairy skins, and Chesterson skins
+- 2x Dust Titan Chest Promotion
+
+
+General Changes:
+- Account Management Improvements
+     * Google Play Games logins available on all Android devices
+     * Added ability to log into a different account while logged into your current account
+     * Added ability to unlink Google Play Games logins
+- Tap Titans 2 is now globally available on Google Play Games Beta for PC play
+- Tweaked artifact discovery costs for artifacts 50+
+- Added additional pet to tier 5 Silver Chest
+
+- Pet Reworks
+     * Pets fall into either Damage or Support categories
+     * Activate one damage and one support pet at a time
+     * Ability to select which pet is visible
+     * Active but non-visible pet will be the pet to appear when the Dual Pet spell is activated
+- Upgrade Max Talent Button
+- Transcendence Stats
+     * Monuments Owned and Max Transcendence Stage on profile
+     * Mementos this Season in Stats panel
+- Dynamic Highlighting of HUD Menu
+     * Top icon should match the highest priority item at that point
+- Reworked Dagger Stage Skip with Targets to ensure the correct amounts of skip occur
+
+
+Bug Fixes:
+- Fixed issues where equipment could have larger than intended bonuses
+- Fixed issues where event currency don’t visibly get rewarded when completing a Global Raid attack
 - Fixed various game crashes
 - Fixed minor localization issues
-- Fixed minor visual issues",
-"6.5.0 (December 5, 2023)","New Content: 
+- Fixed minor visual issues
+
+",
+"6.5.0 (December 5, 2023)","New Content:  
 - Sentinel Hornblower Legendary Set
      * 30x Clan Ship Damage
      * 1.25x Coordinated Offensive Attack Rate
