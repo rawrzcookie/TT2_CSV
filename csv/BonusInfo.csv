@@ -79,6 +79,7 @@ AllProbabilityBoost,Increases the values of all probabilities.,None,None,False,F
 AllProbabilityBoostDuringHayst,Increases the values of all probabilities while Hayst's effect is active.,None,None,False,False,False,False,False,0,False
 AllUpgradeCost,Reduces all gold upgrade costs.,None,None,True,True,True,False,False,0,False
 AllUpgradeCostFairy,Reduces all gold upgrade costs from fairy video reward.,None,None,True,True,True,False,False,0,False
+AutoActivateWarlordQTE,Automatically activates Warlord QTEs when value is non-1,None,None,True,False,False,False,True,0,False
 AutoBuyHeroes,Determines the seconds between auto buy hero intervals.,None,None,True,False,False,False,False,0,False
 AutoBuyHeroesMultDuringMakeItRain,Reduces the seconds between auto buy hero intervals during Make It Rain,None,None,True,True,True,False,False,0,False
 LegacyPetDamageEffect,Increases the strength of damage type effects given by Legacy pets.,Damage,None,False,False,False,False,False,0,False
@@ -151,6 +152,7 @@ DamagePerRareSet,Damage per completed equipment set of this type,Damage,None,Fal
 DamagePerEventSet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,0,False
 DamagePerOwnedArtifact,Increases damage per owned artifact,Damage,None,False,False,False,False,False,0,False
 DamagePerOwnedEnchantment,Increases damage per owned enchantment,Damage,None,False,False,False,False,False,0,False
+DamagePerOwnedMonument,Increases damage per owned monument,Damage,None,False,False,False,False,False,0,False
 DamagePerSoloRaidWorld,Increases damage each time a solo raid world is completed,Damage,None,False,False,False,False,False,0,False
 DamagePerRunningActiveSkill,Increases the amount of damage earned for each running active skill.,Damage,None,False,False,False,False,False,0,False
 DamagePerATParticipation,Increases amount of damage based on lifetime AT Participation,Damage,None,True,False,True,False,False,0,False
@@ -335,6 +337,7 @@ PoisonBonusDamage,Total bonus percent damage increase from poison.,Damage,None,T
 PortarAboveMSOverride,Allow player to porter skip past max stage.,None,None,True,False,False,False,True,0,False
 PrestigeRelic,Increases all relics earned. (X),None,None,False,False,False,False,False,0,False
 PrestigeRelicAdditive,Increases all relics earned. (+),None,None,True,False,True,False,False,0,False
+SeasonalRelicAdditive,Increases all seasonal relics earned. (+),None,None,True,False,True,False,False,0,False
 OnlyPrestigeRelic,Only increases relics earned from prestige.,None,None,False,False,False,False,False,0,False
 SeasonalRelicsFromPrestige,Increases Seasonal Relics earned on prestige (and not from other sources),None,None,False,False,False,False,False,0,False
 RogueBonusBoost,"Increases CritBoostSkillAmount, UltraDaggerDamage",None,"CritBoostSkillAmount,UltraDaggerDamage",False,False,False,False,False,0,False

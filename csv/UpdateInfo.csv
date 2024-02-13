@@ -1,4 +1,31 @@
 Version,Changes,Don't DELETE
+"6.7.0 (February 13, 2024)","New Content:  
+- The Great Traveler Mythic Equipment Set
+     * 1.00005x All Damage per Max Stage
+     * 1.5x All Damage per Monument Owned
+     * 2.4408x Prestige Mementos
+- Astral Explorer Legendary Equipment Set
+     * Auto-Warlord QTEs
+     * 1.4x All Gold per Card Level
+- Solo Screamer Event Equipment Set
+     * 10x Shadow Clone Damage
+- Dungeon Eggsplorer Rockstar Event begins on February 14th, 2024
+     * Collect Pets to explore the Dungeon
+     * New Dungeon avatar and avatar frame
+     * Rock Queen and The Rockstar event equipment drops
+- 2x Crafting Shard Titan Chest Promotion
+
+General Changes:
+- Skip Chest animation button
+
+Bug Fixes:
+- Fixed various performance issues
+- Fixed various caching issues that could cause desyncs, such as losing corrupted diamonds or getting a 409 error in solo worlds
+- Fixed various game crashes
+- Fixed minor localization issues
+- Fixed minor visual issues
+
+",
 "6.6.0 (January 23, 2024)","New Content:  
 - Earthen Shepherd Legendary Set
      * 20x Heart of Gold
