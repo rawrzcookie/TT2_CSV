@@ -30,6 +30,7 @@ Aura_GoldRain,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,GoldRain
 Aura_PerkMaster,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PerkMaster
 Aura_WarHorn,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,WarHorn
 Aura_Shepherd,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Shepherd
+Aura_BunnyDroid,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,BunnyDroid
 Aura_BoneTribe,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,BoneTribe
 Aura_Samurai,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Samurai
 Aura_Chakram,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Chakram
@@ -232,6 +233,7 @@ Hat_LifetimePrestige,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,
 Hat_BlackDragon,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,BlackDragon
 Hat_WeaponMaster,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,WeaponMaster
 Hat_SpellBooster,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,SpellBooster
+Hat_BunnyDroid,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,BunnyDroid
 Hat_HighTecLightning,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Hat_Skulls,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,Skulls
 Hat_EarthRogue,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -276,6 +278,7 @@ Slash_FirstMate,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,FirstMate
 Slash_Ninetails,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Ninetails
 Slash_WildCat,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,WildCat
 Slash_Shepherd,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Shepherd
+Slash_BunnyDroid,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,BunnyDroid
 Slash_DarkAlien,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,DarkAlien
 Slash_Samurai,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,Samurai
 Slash_FireKnight,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -455,6 +458,7 @@ Suit_Jester,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Jester
 Suit_WeaponMaster,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,WeaponMaster
 Suit_PerkMaster,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,PerkMaster
 Suit_Aquamarine,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Aquamarine
+Suit_BunnyDroid,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,BunnyDroid
 Suit_DarkAlien,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,DarkAlien
 Suit_EarthRogue,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,EarthRogue
 Suit_Chakram,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,Chakram
@@ -579,6 +583,7 @@ Weapon_Stone,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Stone
 Weapon_LifetimePrestige,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,LifetimePrestige
 Weapon_Devil,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Devil
 Weapon_WildCat,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,WildCat
+Weapon_BunnyDroid,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,BunnyDroid
 Weapon_Samurai,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,Samurai
 Weapon_FireKnight,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,FireKnight
 Weapon_EarthRogue,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,EarthRogue

@@ -282,6 +282,13 @@ AvatarDungeon10,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
 AvatarAlchemy1,AlchemyEvent,1,FALSE,,Alchemy,FALSE
 AvatarAlchemy2,AlchemyEvent,1,FALSE,,Alchemy,FALSE
 AvatarAlchemy3,AlchemyEvent,1,FALSE,,Alchemy,FALSE
+AvatarAlchemy4,AlchemyEvent,1,FALSE,,Alchemy,FALSE
+AvatarAlchemy5,AlchemyEvent,1,FALSE,,Alchemy,FALSE
+AvatarAlchemy6,AlchemyEvent,1,FALSE,,Alchemy,FALSE
+AvatarAlchemy7,AlchemyEvent,1,FALSE,,Alchemy,FALSE
+AvatarAlchemy8,AlchemyEvent,1,FALSE,,Alchemy,FALSE
+AvatarAlchemy9,AlchemyEvent,1,FALSE,,Alchemy,FALSE
+AvatarAlchemy10,AlchemyEvent,1,FALSE,,Alchemy,FALSE
 AvatarSuperTournament1,SuperTournament1,1,TRUE,#ffcc00,SuperTournament,FALSE
 AvatarSuperTournament2,SuperTournament2,1,TRUE,#ffcc00,SuperTournament,FALSE
 AvatarSuperTournament3,SuperTournament3,1,TRUE,#ffcc00,SuperTournament,FALSE

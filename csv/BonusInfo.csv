@@ -80,6 +80,7 @@ AllProbabilityBoostDuringHayst,Increases the values of all probabilities while H
 AllUpgradeCost,Reduces all gold upgrade costs.,None,None,True,True,True,False,False,0,False
 AllUpgradeCostFairy,Reduces all gold upgrade costs from fairy video reward.,None,None,True,True,True,False,False,0,False
 AutoActivateWarlordQTE,Automatically activates Warlord QTEs when value is non-1,None,None,True,False,False,False,True,0,False
+AutoActivatePetBossQTE,Automatically activates Flash Zip QTEs when value is non-1,None,None,True,False,False,False,True,0,False
 AutoBuyHeroes,Determines the seconds between auto buy hero intervals.,None,None,True,False,False,False,False,0,False
 AutoBuyHeroesMultDuringMakeItRain,Reduces the seconds between auto buy hero intervals during Make It Rain,None,None,True,True,True,False,False,0,False
 LegacyPetDamageEffect,Increases the strength of damage type effects given by Legacy pets.,Damage,None,False,False,False,False,False,0,False
@@ -458,6 +459,8 @@ FuseExplosionMult,Fuse explosion damage when stack count goes from positive to 0
 FuseRepeatChance,Fuse proc chance against a part already fused,Raid,None,True,False,True,False,False,0,False
 HaymakerBurst,Increases haymaker damage,Raid,None,False,False,False,False,False,0,False
 HaymakerTapsNeeded,Determines the number of taps required to activate haymaker,Raid,None,False,False,False,False,True,0,False
+MagicPotionDamageRate,Increases the damage of each Magic Potion tick,Raid,None,True,False,True,False,False,0,False
+MagicPotionLevelSharing,Increases other card's levels by X% of this card's level,Raid,None,True,False,True,False,False,0,False
 MarkedDamageBoost,Increases the Direct Damage boost applied to Marked parts.,Raid,None,False,False,False,False,False,0,False
 MeteorDamage,Increases damage dealt by meteor strikes.,Raid,None,False,False,False,False,False,0,False
 MeteorScorchedAmount,Increases the scorched amount of meteor strikes,Raid,None,False,False,False,False,False,0,False
@@ -561,3 +564,5 @@ LimbDamageSupport,Increase damage dealt toTitanlord limbs,Raid,None,True,False,T
 AfflictedChanceSupport,Increase the chance of applying a Afflicted debuff,Raid,None,False,False,False,False,False,0,False
 BurstChanceSupport,Increases the activation chance of all Burst skills.,Raid,None,False,False,False,False,False,0,False
 AllRaidDamageSupport,Increase damage dealt by all raid cards,Raid,None,True,False,True,False,False,0,False
+TriangleSupportAfflictionBoost,Increases Burst Damage If Affliction Equipped.,Raid,None,True,False,True,False,False,0,False
+TriangleSupportBurstBoost,Increases Affliction Damage If Burst Equipped.,Raid,None,True,False,True,False,False,0,False
