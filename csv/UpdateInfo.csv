@@ -1,4 +1,58 @@
 Version,Changes,Don't DELETE
+"6.8.0 (March 12, 2024)","New Content:             
+Buntron-XT-7 Legendary Set
+* 1.5x Pet Damage per Day
+* Pet Damage per Day caps at 1e10
+* Automatic Flash Zip Skill Activations
+Radiant Kaleidoscope Support Raid Card
+* Will release two weeks after the 6.8.0 update
+* Burst Damage bonus if an Affliction card is present in deck
+* Affliction Damage bonus if a Burst card is present in deck
+* Enforces 1 burst, 1 affliction, 1 support deckbuilding
+Amplify Affliction Raid Card
+* Will release two weeks after the 6.8.0 update
+* 16% Affliction Chance
+* 6 second Affliction Duration
+* Affliction Damage
+* 10% level sharing to other cards in your deck, rounding up
+* Level sharing will display similarly to the seasonally boosted card levels
+Transcendent Pet Titan Chest Promotion
+* Adds Transcendent pets to a titan chest when the promo is active
+* Transcendent pet promos will be run at the end of Transcendence seasons
+* Transcendent pet promos will run outside of the usual promo per update cycle and will not be replacing the existing promo types
+Alchemy Lab event begins on March 13, 2024
+* Gather ingredients and combine them for rewards
+* Defender of the Egg event equipment drops
+4x Skill Point Titan Chest Promotion
+
+General Changes:
+Raid Card Level Reworks
+* Level cap increased from 80 to 100
+* Smoothed level-ups for greater gains per individual level-up
+* Breakpoints every 10 levels for slightly higher efficiency than a usual level-up
+* Additional improved scaling for level 60+ cards
+Clan Ship shots given the Full Skip property so they can skip when hitting non-boss titans
+Heavenly Strike attacks given the Full Skip property so they can skip when hitting non-boss titans
+Anchoring Shot Clan Ship stage skip lowered at higher levels
+* Exact amounts vary by level, but at most stage skip is lowered by 30%
+Solo Raid Deck Reworks
+* Decks overhauled completely for normal worlds, no armor worlds, and affliction worlds
+* Decks minorly overhauled for burst worlds
+Solo Raid Reward Reworks
+* Increased card fragment drops for higher solo raid world farming portals
+* All cases where a card fragment drop would be replaced by a wildcard when moving up in worlds will now instead just add a wildcard drop while leaving the card fragments unchanged
+* Added Amplify and Radiant Kaleidoscope to solo raid decks two weeks after 6.8.0 is released to coincide with the release of the new cards
+Tightened tournament matchmaking
+* Changes will be more noticeable for players currently in Transcendence
+Milestone Bundles Reset
+* Allows all milestone bundles to be repurchased
+Optimized Server Infodocs for faster processing
+Added Transcendent Pet counts to Player Profile
+
+Bug Fixes:
+Fixed various game crashes
+Fixed minor localization issues
+Fixed minor visual issues",
 "6.7.0 (February 13, 2024)","New Content:  
 - The Great Traveler Mythic Equipment Set
      * 1.00005x All Damage per Max Stage

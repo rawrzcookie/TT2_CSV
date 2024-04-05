@@ -35,15 +35,15 @@ Fragmentize,Swarm,None,None,"Fragmentize,Swarm,None",2,3,4,10,Easy - Armor
 SuperheatMetal,RandomBurst,None,"Purify,WhipOfLightning,RazorWind,CelestialStatic,MirrorForce","SuperheatMetal,RandomBurst,None",2,3,4,10,Easy - Armor
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",4,12,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",4,12,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",4,12,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",4,12,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",4,12,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",4,12,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",4,12,1,99,Standard
 ImpactAttack,RandomBurst,RandomAffliction,"BurstCount,CelestialStatic,FlakShot,Fragmentize,MirrorForce,MoonBeam,Purify,RuinousRust,SkullBash,WhipOfLightning","ImpactAttack,RandomBurst,RandomAffliction",4,12,1,99,Standard
 CrushingVoid,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,CelestialStatic,ChainLightning,DecayingAttack,Disease,FlakShot,Fragmentize,Fuse,MirrorForce,MoonBeam,PlagueAttack,PoisonAttack,Purify,RuinousRust,RuneAttack,SkullBash,WhipOfLightning","CrushingVoid,RandomAffliction,RandomBurst",4,12,1,99,Standard
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",4,12,1,99,Standard - No Armor
-AstralEcho,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,ChainLightning,DecayingAttack,Disease,FlakShot,Fragmentize,Fuse,LimbBurst,MirrorForce,MoonBeam,PlagueAttack,PoisonAttack,PowerBubble,Purify,RazorWind,RuneAttack,Shadow,SkullBash,WhipOfLightning","AstralEcho,RandomAffliction,RandomBurst",4,12,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",4,12,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",4,12,1,99,Standard - No Armor
+AstralEcho,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,ChainLightning,DecayingAttack,Disease,FlakShot,Fragmentize,Fuse,LimbBurst,MirrorForce,MoonBeam,PlagueAttack,PoisonAttack,PowerBubble,Purify,RazorWind,RuneAttack,Shadow,SkullBash,WhipOfLightning,CelestialStatic","AstralEcho,RandomAffliction,RandomBurst",4,12,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",4,12,1,99,Standard - No Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning",,4,8,4,10,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow",,4,8,4,10,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",9,10,1,99,Standard - Armor
@@ -60,7 +60,7 @@ Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CelestialStatic,Cru
 FlakShot,RandomBurst,BurstBoost,"CelestialStatic,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","FlakShot,RandomBurst,BurstBoost",13,13,1,99,Burst World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",14,17,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",14,17,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",14,17,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",14,17,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",14,17,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",14,17,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",14,17,1,99,Standard
@@ -71,8 +71,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",14,15,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",14,15,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",14,15,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",16,16,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",16,16,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",16,16,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",16,16,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",17,17,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",17,17,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",17,17,1,99,Standard - Armor
@@ -87,7 +87,7 @@ RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubb
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow","RandomAffliction,BurningAttack,SuperheatMetal",18,18,1,99,Affliction World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",19,22,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",19,22,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",19,22,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",19,22,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",19,22,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",19,22,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",19,22,1,99,Standard
@@ -98,8 +98,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",19,20,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",19,20,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",19,20,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",21,21,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",21,21,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",21,21,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",21,21,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",22,22,1,99,Standard - Armor
 AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWind,BurstCount,Purify,LimbBurst,MirrorForce,BurningAttack,PoisonAttack,DecayingAttack,Fuse,Shadow,PlagueAttack,Disease,PowerBubble,RuneAttack","AstralEcho,RandomAffliction,RandomBurst",22,22,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",22,22,1,99,Standard - Armor
@@ -115,7 +115,7 @@ Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CelestialStatic,Cru
 FlakShot,RandomBurst,BurstBoost,"CelestialStatic,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","FlakShot,RandomBurst,BurstBoost",23,23,1,99,Burst World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",24,27,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",24,27,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",24,27,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",24,27,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",24,27,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",24,27,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",24,27,1,99,Standard
@@ -126,8 +126,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",24,25,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",24,25,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",24,25,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",26,26,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",26,26,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",26,26,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",26,26,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",27,27,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",27,27,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",27,27,1,99,Standard - Armor
@@ -142,7 +142,7 @@ RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubb
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow","RandomAffliction,BurningAttack,SuperheatMetal",28,28,1,99,Affliction World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",29,32,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",29,32,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",29,32,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",29,32,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",29,32,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",29,32,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",29,32,1,99,Standard
@@ -153,8 +153,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",29,30,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",29,30,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",29,30,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",31,31,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",31,31,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",31,31,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",31,31,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",32,32,1,99,Standard - Armor
 AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWind,BurstCount,Purify,LimbBurst,MirrorForce,BurningAttack,PoisonAttack,DecayingAttack,Fuse,Shadow,PlagueAttack,Disease,PowerBubble,RuneAttack","AstralEcho,RandomAffliction,RandomBurst",32,32,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",32,32,1,99,Standard - Armor
@@ -170,7 +170,7 @@ Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CelestialStatic,Cru
 FlakShot,RandomBurst,BurstBoost,"CelestialStatic,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","FlakShot,RandomBurst,BurstBoost",33,33,1,99,Burst World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",34,37,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",34,37,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",34,37,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",34,37,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",34,37,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",34,37,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",34,37,1,99,Standard
@@ -181,8 +181,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",34,35,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",34,35,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",34,35,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",36,36,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",36,36,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",36,36,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",36,36,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",37,37,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",37,37,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",37,37,1,99,Standard - Armor
@@ -197,7 +197,7 @@ RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubb
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow","RandomAffliction,BurningAttack,SuperheatMetal",38,38,1,99,Affliction World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",39,42,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",39,42,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",39,42,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",39,42,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",39,42,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",39,42,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",39,42,1,99,Standard
@@ -208,8 +208,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",39,40,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",39,40,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",39,40,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",41,41,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",41,41,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",41,41,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",41,41,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",42,42,1,99,Standard - Armor
 AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWind,BurstCount,Purify,LimbBurst,MirrorForce,BurningAttack,PoisonAttack,DecayingAttack,Fuse,Shadow,PlagueAttack,Disease,PowerBubble,RuneAttack","AstralEcho,RandomAffliction,RandomBurst",42,42,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",42,42,1,99,Standard - Armor
@@ -225,7 +225,7 @@ Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CelestialStatic,Cru
 FlakShot,RandomBurst,BurstBoost,"CelestialStatic,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","FlakShot,RandomBurst,BurstBoost",43,43,1,99,Burst World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",44,47,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",44,47,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",44,47,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",44,47,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",44,47,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",44,47,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",44,47,1,99,Standard
@@ -236,8 +236,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",44,45,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",44,45,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",44,45,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",46,46,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",46,46,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",46,46,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",46,46,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",47,47,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",47,47,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",47,47,1,99,Standard - Armor
@@ -252,7 +252,7 @@ RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubb
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow","RandomAffliction,BurningAttack,SuperheatMetal",48,48,1,99,Affliction World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",49,52,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",49,52,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",49,52,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",49,52,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",49,52,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",49,52,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",49,52,1,99,Standard
@@ -263,8 +263,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",49,50,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",49,50,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",49,50,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",51,51,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",51,51,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",51,51,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",51,51,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",52,52,1,99,Standard - Armor
 AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWind,BurstCount,Purify,LimbBurst,MirrorForce,BurningAttack,PoisonAttack,DecayingAttack,Fuse,Shadow,PlagueAttack,Disease,PowerBubble,RuneAttack","AstralEcho,RandomAffliction,RandomBurst",52,52,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",52,52,1,99,Standard - Armor
@@ -280,7 +280,7 @@ Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CelestialStatic,Cru
 FlakShot,RandomBurst,BurstBoost,"CelestialStatic,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","FlakShot,RandomBurst,BurstBoost",53,53,1,99,Burst World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",54,57,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",54,57,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",54,57,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",54,57,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",54,57,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",54,57,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",54,57,1,99,Standard
@@ -291,8 +291,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",54,55,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",54,55,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",54,55,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",56,56,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",56,56,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",56,56,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",56,56,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",57,57,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",57,57,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",57,57,1,99,Standard - Armor
@@ -307,7 +307,7 @@ RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubb
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow","RandomAffliction,BurningAttack,SuperheatMetal",58,58,1,99,Affliction World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",59,62,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",59,62,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",59,62,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",59,62,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",59,62,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",59,62,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",59,62,1,99,Standard
@@ -318,8 +318,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",59,60,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",59,60,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",59,60,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",61,61,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",61,61,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",61,61,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",61,61,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",62,62,1,99,Standard - Armor
 AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWind,BurstCount,Purify,LimbBurst,MirrorForce,BurningAttack,PoisonAttack,DecayingAttack,Fuse,Shadow,PlagueAttack,Disease,PowerBubble,RuneAttack","AstralEcho,RandomAffliction,RandomBurst",62,62,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",62,62,1,99,Standard - Armor
@@ -335,7 +335,7 @@ Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CelestialStatic,Cru
 FlakShot,RandomBurst,BurstBoost,"CelestialStatic,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","FlakShot,RandomBurst,BurstBoost",63,63,1,99,Burst World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",64,67,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",64,67,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",64,67,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",64,67,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",64,67,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",64,67,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",64,67,1,99,Standard
@@ -346,8 +346,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",64,65,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",64,65,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",64,65,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",66,66,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",66,66,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",66,66,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",66,66,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",67,67,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",67,67,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",67,67,1,99,Standard - Armor
@@ -362,7 +362,7 @@ RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubb
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow","RandomAffliction,BurningAttack,SuperheatMetal",68,68,1,99,Affliction World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",69,72,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",69,72,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",69,72,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",69,72,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",69,72,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",69,72,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",69,72,1,99,Standard
@@ -373,8 +373,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",69,70,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",69,70,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",69,70,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",71,71,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",71,71,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",71,71,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",71,71,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",72,72,1,99,Standard - Armor
 AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWind,BurstCount,Purify,LimbBurst,MirrorForce,BurningAttack,PoisonAttack,DecayingAttack,Fuse,Shadow,PlagueAttack,Disease,PowerBubble,RuneAttack","AstralEcho,RandomAffliction,RandomBurst",72,72,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",72,72,1,99,Standard - Armor
@@ -390,7 +390,7 @@ Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CelestialStatic,Cru
 FlakShot,RandomBurst,BurstBoost,"CelestialStatic,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","FlakShot,RandomBurst,BurstBoost",73,73,1,99,Burst World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",74,77,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",74,77,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",74,77,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",74,77,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",74,77,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",74,77,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",74,77,1,99,Standard
@@ -401,8 +401,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",74,75,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",74,75,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",74,75,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",76,76,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",76,76,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",76,76,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",76,76,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",77,77,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",77,77,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",77,77,1,99,Standard - Armor
@@ -417,7 +417,7 @@ RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubb
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow","RandomAffliction,BurningAttack,SuperheatMetal",78,78,1,99,Affliction World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",79,82,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",79,82,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",79,82,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",79,82,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",79,82,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",79,82,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",79,82,1,99,Standard
@@ -428,8 +428,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",79,80,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",79,80,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",79,80,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",81,81,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",81,81,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",81,81,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",81,81,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",82,82,1,99,Standard - Armor
 AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWind,BurstCount,Purify,LimbBurst,MirrorForce,BurningAttack,PoisonAttack,DecayingAttack,Fuse,Shadow,PlagueAttack,Disease,PowerBubble,RuneAttack","AstralEcho,RandomAffliction,RandomBurst",82,82,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",82,82,1,99,Standard - Armor
@@ -445,7 +445,7 @@ Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CelestialStatic,Cru
 FlakShot,RandomBurst,BurstBoost,"CelestialStatic,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","FlakShot,RandomBurst,BurstBoost",83,83,1,99,Burst World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",84,87,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",84,87,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",84,87,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",84,87,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",84,87,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",84,87,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",84,87,1,99,Standard
@@ -456,8 +456,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",84,85,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",84,85,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",84,85,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",86,86,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",86,86,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",86,86,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",86,86,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",87,87,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",87,87,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",87,87,1,99,Standard - Armor
@@ -472,7 +472,7 @@ RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubb
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow","RandomAffliction,BurningAttack,SuperheatMetal",88,88,1,99,Affliction World
 TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow","TotemFairySkill,Purify,RandomAffliction",89,92,1,99,Standard
 TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow","TriangleSupport,WhipOfLightning,RandomAffliction",89,92,1,99,Standard
-InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm","InnerTruth,RandomAffliction,RandomAffliction",89,92,1,99,Standard
+InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion","InnerTruth,RandomAffliction,RandomAffliction",89,92,1,99,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",89,92,1,99,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,CelestialStatic,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning","ExecutionersAxe,RuneAttack,RandomBurst",89,92,1,99,Standard
 FinisherAttack,Haymaker,RandomBurst,"BurstCount,CelestialStatic,FlakShot,Fragmentize,LimbBurst,MirrorForce,Purify,WhipOfLightning","FinisherAttack,Haymaker,RandomBurst",89,92,1,99,Standard
@@ -483,8 +483,8 @@ AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWin
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",89,90,1,99,Standard - Armor
 SpinalTap,Fragmentize,RandomBurst,"CelestialStatic,FlakShot,Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning","SpinalTap,Fragmentize,RandomBurst",89,90,1,99,Standard - Armor
 SuperheatMetal,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuneAttack,Shadow","SuperheatMetal,RandomAffliction,RandomAffliction",89,90,1,99,Standard - Armor
-LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning","LimbSupport,RandomAffliction,RandomBurst",91,91,1,99,Standard - No Armor
-BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning","BurstBoost,BurstCount,RandomBurst",91,91,1,99,Standard - No Armor
+LimbSupport,RandomAffliction,RandomBurst,"BurningAttack,BurstCount,Fuse,MirrorForce,MoonBeam,PlagueAttack,Purify,RazorWind,RuneAttack,SkullBash,WhipOfLightning,FlakShot,Fragmentize,CelestialStatic","LimbSupport,RandomAffliction,RandomBurst",91,91,1,99,Standard - No Armor
+BurstBoost,BurstCount,RandomBurst,"CelestialStatic,Haymaker,MirrorForce,Purify,WhipOfLightning,FlakShot,Fragmentize","BurstBoost,BurstCount,RandomBurst",91,91,1,99,Standard - No Armor
 LimbSupport,RandomAffliction,RandomBurst,"ChainLightning,BurstCount,RazorWind,Purify,SkullBash,MoonBeam,WhipOfLightning,BurningAttack,DecayingAttack,RuneAttack,MirrorForce,PowerBubble,Fuse","LimbSupport,RandomAffliction,RandomBurst",92,92,1,99,Standard - Armor
 AstralEcho,RandomAffliction,RandomBurst,"MoonBeam,Fragmentize,SkullBash,RazorWind,BurstCount,Purify,LimbBurst,MirrorForce,BurningAttack,PoisonAttack,DecayingAttack,Fuse,Shadow,PlagueAttack,Disease,PowerBubble,RuneAttack","AstralEcho,RandomAffliction,RandomBurst",92,92,1,99,Standard - Armor
 BurstBoost,BurstCount,RandomBurst,"Haymaker,Purify,WhipOfLightning,ChainLightning,CelestialStatic,MirrorForce","BurstBoost,BurstCount,RandomBurst",92,92,1,99,Standard - Armor
