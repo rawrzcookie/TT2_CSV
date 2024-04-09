@@ -7,7 +7,7 @@ Day,RewardType,Count,HolidayCurrency,Reward
 6,EQUIPMENT_SHARDS,5,25,"EquipmentShards:5,HolidayCurrency:25"
 7,HELPER_WEAPON,1,25,"HelperWeapon:1,HolidayCurrency:25"
 8,DIAMONDS,50,25,"Diamonds:50,HolidayCurrency:25"
-9,SKILL_RESET_TOKEN,1,25,"SkillResetToken:1,HolidayCurrency:25"
+9,SKILL_POINT,1,25,"SkillPoint:1,HolidayCurrency:25"
 10,EGG,5,25,"Pet:5,HolidayCurrency:25"
 11,PERK,1,25,"Perk:1,HolidayCurrency:25"
 12,HELPER_WEAPON,1,25,"HelperWeapon:1,HolidayCurrency:25"

@@ -69,6 +69,7 @@ Aura_Cowboy,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Cowboy
 Aura_Jester,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Jester
 Aura_WeaponMaster,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,WeaponMaster
 Aura_WildCat,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,WildCat
+Aura_Greed,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Greed
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -204,6 +205,7 @@ Hat_Ninetails,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Ninetail
 Hat_ScrollMaster,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,ScrollMaster
 Hat_Aquamarine,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Aquamarine
 Hat_Spacesuit,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Spacesuit
+Hat_Greed,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Greed
 Hat_Pirate,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Pirate
 Hat_WaterSorcerer,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,WaterSorcerer
 Hat_DarkAngel,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAngel
@@ -299,6 +301,7 @@ Slash_Corrupted,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALS
 Slash_FairyShaman,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,FairyShaman
 Slash_Headless,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Headless
 Slash_Devil,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Devil
+Slash_Greed,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Greed
 Slash_Pirate,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,Pirate
 Slash_Skulls,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,Skulls
 Slash_EarthRogue,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -380,6 +383,7 @@ Suit_LifetimePrestige,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,LifetimePr
 Suit_Devil,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Devil
 Suit_ScrollMaster,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,ScrollMaster
 Suit_Spacesuit,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Spacesuit
+Suit_Greed,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Greed
 Suit_Pirate,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,Pirate
 Suit_HighTecLightning,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Suit_FairyKnight,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,FairyKnight
@@ -584,6 +588,7 @@ Weapon_LifetimePrestige,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Lif
 Weapon_Devil,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Devil
 Weapon_WildCat,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,WildCat
 Weapon_BunnyDroid,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,BunnyDroid
+Weapon_Greed,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Greed
 Weapon_Samurai,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,Samurai
 Weapon_FireKnight,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,FireKnight
 Weapon_EarthRogue,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,EarthRogue
@@ -862,18 +867,18 @@ Hat_Punk,1,Hat,SpellHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Punk
 Suit_Punk,1,Suit,ChestAmount,None,0.74307,3,0.9,0.58,1.145,TRUE,Punk
 Aura_Punk,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Punk
 Slash_Punk,1,Slash,ShadowCloneSkillAmount,None,0.043214,3,0.9,0.58,1.14,TRUE,Punk
-Weapon_AlphaHeart,5,Weapon,DamagePerOwnedCardLevel,AnyContractBonusBoost,6.944,25,0.9,0.58,1.15,FALSE,AlphaHeart
-Hat_ElderSnow,5,Hat,AllHelperDamage,HelperBoostSkillAmount,12.152,25,0.9,0.58,1.145,FALSE,ElderSnow
+Weapon_AlphaHeart,5,Weapon,DamagePerOwnedCardLevel,AnyContractBonusBoost,6.944,25,0.9,0.58,1.16,FALSE,AlphaHeart
+Hat_ElderSnow,5,Hat,AllHelperDamage,HelperBoostSkillAmount,12.152,25,0.9,0.58,1.16,FALSE,ElderSnow
 Suit_ShadowMagician,5,Suit,MultiMonstersGold,GoldAll,17.484,25,0.9,0.58,1.155,FALSE,ShadowMagician
-Aura_MetallicLightning,5,Aura,TapBoostSkillAmount,CompanionAttackRate,0.3968,25,0.9,0.58,1.15,FALSE,MetallicLightning
+Aura_MetallicLightning,5,Aura,TapDamage,CompanionAttackRate,10.416,25,0.9,0.58,1.16,FALSE,MetallicLightning
 Slash_DOS,5,Slash,CannonDamage,HelperQTECount,1.5872,25,0.9,0.58,1.15,FALSE,DOS
 Weapon_Lance,5,Weapon,DamagePerHelperWeapon,BurstDamageSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Lance
 Weapon_Maple,5,Weapon,DamagePerClanScroll,GoldGunDamage,6.944,25,0.9,0.58,1.16,FALSE,Maple
 Weapon_Pharaoh,5,Weapon,DamagePerManaCap,ForbiddenContractBonusDamage,6.944,25,0.9,0.58,1.16,FALSE,Pharaoh
 Suit_Titania,5,Suit,FairyGold,LegacyPetGoldEffect,17.484,25,0.9,0.58,1.155,FALSE,Titania
 Suit_Rosabella,5,Suit,RoyalContractBonusGold,UnskilledGold,17.484,25,0.9,0.58,1.155,FALSE,Rosabella
-Suit_Jayce,5,Suit,HandOfMidasSkillAmount,AllGoldDuringHayst,17.484,25,0.9,0.58,1.15,FALSE,Jayce
+Suit_Jayce,5,Suit,MultiMonstersGold,AllGoldDuringHayst,17.484,25,0.9,0.58,1.155,FALSE,Jayce
 Slash_Kronus,5,Slash,TwilightBoost,TwilightFairyStageSkip,1.0168,25,0.9,0.58,1.15,FALSE,Kronus
-Aura_Sophia,5,Aura,CritBoostSkillAmount,DeadlyDamageCompanion,0.3968,25,1.6,0.6,1.158,FALSE,Sophia
-Aura_Damon,5,Aura,TapBoostSkillAmount,TapBoostSkillDuration,0.3968,25,0.9,0.58,1.15,FALSE,Damon
-Aura_Gulbrand,5,Aura,HelperBoostSkillAmount,HelperBoostCompanionAttackRate,0.3968,25,0.9,0.58,1.15,FALSE,Gulbrand
+Aura_Sophia,5,Aura,CritDamage,DeadlyDamageCompanion,7.44,25,0.9,0.58,1.155,FALSE,Sophia
+Aura_Damon,5,Aura,TapDamage,TapBoostSkillDuration,10.416,25,0.9,0.58,1.16,FALSE,Damon
+Aura_Gulbrand,5,Aura,AllHelperDamage,HelperBoostCompanionAttackRate,12.152,25,0.9,0.58,1.16,FALSE,Gulbrand
