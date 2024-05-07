@@ -108,6 +108,7 @@ Aura_ScrollMaster,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,ScrollMas
 Aura_SpellBooster,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,SpellBooster
 Aura_Aquamarine,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Aquamarine
 Aura_Spacesuit,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Spacesuit
+Aura_SnakeOil,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,SnakeOil
 Aura_Pirate,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Pirate
 Aura_Skulls,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Skulls
 Aura_Mech,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Mech
@@ -236,6 +237,7 @@ Hat_BlackDragon,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Black
 Hat_WeaponMaster,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,WeaponMaster
 Hat_SpellBooster,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,SpellBooster
 Hat_BunnyDroid,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,BunnyDroid
+Hat_SnakeOil,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,SnakeOil
 Hat_HighTecLightning,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Hat_Skulls,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,Skulls
 Hat_EarthRogue,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -354,6 +356,7 @@ Slash_TimeWizard,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,TimeWi
 Slash_PlagueDoctor,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,PlagueDoctor
 Slash_GoldRain,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,GoldRain
 Slash_PerkMaster,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,PerkMaster
+Slash_SnakeOil,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,SnakeOil
 Slash_SteampunkKnight,4,Slash,GoldGunDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,SteampunkKnight
 Suit_ArmorIce,1,Suit,GoldAll,None,0.045,1,0.9,0.58,1.14,FALSE,None
 Suit_Casual,1,Suit,GoldAll,None,0.045,1,0.9,0.58,1.14,FALSE,None
@@ -463,6 +466,7 @@ Suit_WeaponMaster,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,WeaponMast
 Suit_PerkMaster,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,PerkMaster
 Suit_Aquamarine,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Aquamarine
 Suit_BunnyDroid,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,BunnyDroid
+Suit_SnakeOil,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,SnakeOil
 Suit_DarkAlien,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,DarkAlien
 Suit_EarthRogue,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,EarthRogue
 Suit_Chakram,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,Chakram
@@ -492,6 +496,7 @@ Weapon_Scout,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Scout
 Weapon_Jester,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Jester
 Weapon_WeaponMaster,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,WeaponMaster
 Weapon_SpellBooster,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SpellBooster
+Weapon_SnakeOil,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SnakeOil
 Weapon_Pirate,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Pirate
 Weapon_Skulls,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Skulls
 Weapon_HighTecLightning,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,HighTecLightning
