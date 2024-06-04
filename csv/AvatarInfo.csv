@@ -153,6 +153,8 @@ AvatarHolidayChristmas2023,HolidayChristmas2023,1,FALSE,,Holiday,FALSE
 AvatarHolidayChristmas2023SeasonPass,HolidayChristmas2023,1,FALSE,,HolidayPremium,FALSE
 AvatarHolidayRockstar2024,HolidayRockstar2024,1,FALSE,,Holiday,FALSE
 AvatarHolidayRockstar2024SeasonPass,HolidayRockstar2024,1,FALSE,,HolidayPremium,FALSE
+AvatarHolidayTavern2024,HolidayTavern2024,1,FALSE,,Holiday,FALSE
+AvatarHolidayTavern2024SeasonPass,HolidayTavern2024,1,FALSE,,HolidayPremium,FALSE
 FireStoneEvent1,GenericEvent1,1,FALSE,,Firestone,FALSE
 FireStoneEvent2,GenericEvent1,1,FALSE,,Firestone,FALSE
 FireStoneEvent3,GenericEvent1,1,FALSE,,Firestone,FALSE
@@ -279,6 +281,12 @@ AvatarDungeon7,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
 AvatarDungeon8,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
 AvatarDungeon9,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
 AvatarDungeon10,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
+AvatarDungeon11,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
+AvatarDungeon12,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
+AvatarDungeon13,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
+AvatarDungeon14,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
+AvatarDungeon15,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
+AvatarDungeon16,DungeonQuest,1,FALSE,,DungeonQuest,FALSE
 AvatarAlchemy1,AlchemyEvent,1,FALSE,,Alchemy,FALSE
 AvatarAlchemy2,AlchemyEvent,1,FALSE,,Alchemy,FALSE
 AvatarAlchemy3,AlchemyEvent,1,FALSE,,Alchemy,FALSE

@@ -81,6 +81,7 @@ AllUpgradeCost,Reduces all gold upgrade costs.,None,None,True,True,True,False,Fa
 AllUpgradeCostFairy,Reduces all gold upgrade costs from fairy video reward.,None,None,True,True,True,False,False,0,False
 AutoActivateWarlordQTE,Automatically activates Warlord QTEs when value is non-1,None,None,True,False,False,False,True,0,False
 AutoActivatePetBossQTE,Automatically activates Flash Zip QTEs when value is non-1,None,None,True,False,False,False,True,0,False
+AutoActivateTwilightFairyQTE,Automatically activates Twilight Fairy QTEs when value is non-1,None,None,True,False,False,True,True,0,False
 AutoBuyHeroes,Determines the seconds between auto buy hero intervals.,None,None,True,False,False,False,False,0,False
 AutoBuyHeroesMultDuringMakeItRain,Reduces the seconds between auto buy hero intervals during Make It Rain,None,None,True,True,True,False,False,0,False
 LegacyPetDamageEffect,Increases the strength of damage type effects given by Legacy pets.,Damage,None,False,False,False,False,False,0,False
@@ -410,6 +411,7 @@ TwilightFairySpawnChance,Increases the chance for multiple twilight fairies to s
 TwilightFairySkillDuration,Increases the duration of the Twilight Fairy Spell.,None,None,True,False,False,True,False,0,False
 TwilightFairySkillStacks,Increases the maximum Multi-Cast Cap for Twilight Fairy (+X),None,None,True,False,False,False,False,0,False
 TwilightFairySkillStacksBonus,Increases the strength of Twilight Fairy for each active multi-cast (X),None,None,False,False,False,False,False,0,False
+TwilightFairyGloomBonusDamage,Titans struck by Twilight Fairies will grant a buff to Twilight damage,None,None,False,False,False,False,False,0,False
 TwilightFairySkillMana,Reduces the mana cost of Twilight Fairy.,None,None,True,True,False,False,False,0,False
 TwilightFairySkillManaMult,Multiplies TwilightFairySkillMana,None,None,False,False,False,False,False,0,False
 UltraDaggerCooldown,Decreases the cooldown for ultra daggers (-Xs),None,None,True,True,False,True,False,0,False

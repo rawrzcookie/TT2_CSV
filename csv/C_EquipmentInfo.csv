@@ -8,6 +8,7 @@ Aura_Orbs,2,Aura,HelmetBoost,None,0.0124,2,0.9,0.58,1.145,FALSE,SpaceKnight
 Aura_Cyborg,2,Aura,HelmetBoost,None,0.0124,2,0.9,0.58,1.145,FALSE,Cyborg
 Aura_Knight,2,Aura,HelmetBoost,None,0.0124,2,0.9,0.58,1.145,FALSE,Knight
 Aura_FireTribe,2,Aura,HelmetBoost,None,0.0124,2,0.9,0.58,1.145,FALSE,FireTribe
+Aura_REC,2,Aura,HelmetBoost,None,0.0124,2,0.9,0.58,1.145,FALSE,Gundam
 Aura_Bats,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,None
 Aura_GoldenRays,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Anniversary
 Aura_Wolf,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Wolf
@@ -44,8 +45,8 @@ Aura_BlackEnergy,2,Aura,SwordBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,Ninja
 Aura_Ghost,2,Aura,SwordBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,Ghost
 Aura_Viking,2,Aura,SwordBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,Viking
 Aura_BlueFlame,2,Aura,SwordBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,BlueFlame
-Aura_Bones,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,None
-Aura_Wind,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,None
+Aura_Bones,2,Aura,SwordBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,Meat
+Aura_Wind,2,Aura,SwordBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,Ninjitsu
 Aura_Kookie,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,None
 Aura_Dragon,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Dragon
 Aura_Captain,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Captain
@@ -70,6 +71,7 @@ Aura_Jester,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Jester
 Aura_WeaponMaster,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,WeaponMaster
 Aura_WildCat,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,WildCat
 Aura_Greed,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Greed
+Aura_Doll,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Doll
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -83,9 +85,9 @@ Aura_Leaves,2,Aura,SlashBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,None
 Aura_Fire,2,Aura,SlashBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,FireCook
 Aura_Crow,2,Aura,SlashBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,Crow
 Aura_Bishop,2,Aura,SlashBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,Bishop
+Aura_Fireworks,2,Aura,SlashBoost,None,0.00992,2,0.9,0.58,1.14,FALSE,SteelHero
 Aura_Cards,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,None
 Aura_Ice,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,None
-Aura_Fireworks,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,None
 Aura_Green,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Green
 Aura_Chains,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Chains
 Aura_Mage,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Mage
@@ -153,8 +155,8 @@ Hat_Took,2,Hat,MeleeHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,None
 Hat_Tribal,2,Hat,MeleeHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,None
 Hat_Knight,2,Hat,MeleeHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,Knight
 Hat_FireTribe,2,Hat,MeleeHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,FireTribe
+Hat_Chicken,2,Hat,MeleeHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,Meat
 Hat_Transformer,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,None
-Hat_Chicken,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,None
 Hat_Gold,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Anniversary
 Hat_Captain,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Captain
 Hat_Platinum,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Platinum
@@ -186,8 +188,8 @@ Hat_RedTopHat,2,Hat,SpellHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,None
 Hat_Ghost,2,Hat,SpellHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,Ghost
 Hat_Bishop,2,Hat,SpellHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,Bishop
 Hat_BlueFlame,2,Hat,SpellHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,BlueFlame
+Hat_Ninja,2,Hat,SpellHelperDamage,None,0.093,2,0.9,0.58,1.145,FALSE,Ninjitsu
 Hat_Link,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,None
-Hat_Ninja,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,None
 Hat_Dragon,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Dragon
 Hat_Wolf,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Wolf
 Hat_Fur,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Fur
@@ -218,8 +220,8 @@ Hat_Ribbon,1,Hat,SwordAttackDamage,None,0.0138,1,0.9,0.58,1.14,FALSE,None
 Hat_HeadPhones,2,Hat,SwordAttackDamage,None,0.04278,2,0.9,0.58,1.14,FALSE,None
 Hat_PowerRanger,2,Hat,SwordAttackDamage,None,0.04278,2,0.9,0.58,1.14,FALSE,SpaceKnight
 Hat_Crow,2,Hat,SwordAttackDamage,None,0.04278,2,0.9,0.58,1.14,FALSE,Crow
-Hat_Mega,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,None
-Hat_Ironman,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,None
+Hat_Mega,2,Hat,SwordAttackDamage,None,0.04278,2,0.9,0.58,1.14,FALSE,Gundam
+Hat_Ironman,2,Hat,SwordAttackDamage,None,0.04278,2,0.9,0.58,1.14,FALSE,SteelHero
 Hat_Bag,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,None
 Hat_Chains,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Chains
 Hat_Thief,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Thief
@@ -238,6 +240,7 @@ Hat_WeaponMaster,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Weap
 Hat_SpellBooster,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,SpellBooster
 Hat_BunnyDroid,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,BunnyDroid
 Hat_SnakeOil,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,SnakeOil
+Hat_Doll,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Doll
 Hat_HighTecLightning,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Hat_Skulls,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,Skulls
 Hat_EarthRogue,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -246,7 +249,7 @@ Slash_FireOrange,1,Slash,ClanShipDamage,None,0.0128,1,0.9,0.58,1.14,FALSE,None
 Slash_Embers,1,Slash,ClanShipDamage,None,0.0128,1,0.9,0.58,1.14,FALSE,None
 Slash_OrangeTribe,2,Slash,ClanShipDamage,None,0.03968,2,0.9,0.58,1.14,FALSE,Ninja
 Slash_Lightning,2,Slash,ClanShipDamage,None,0.03968,2,0.9,0.58,1.14,FALSE,Cyborg
-Slash_StarsBlue,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,None
+Slash_StarsBlue,2,Slash,ClanShipDamage,None,0.03968,2,0.9,0.58,1.14,FALSE,Gundam
 Slash_Gold,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Anniversary
 Slash_Wonder,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Wonder
 Slash_Fur,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Fur
@@ -268,7 +271,7 @@ Slash_RedPaint,1,Slash,PetDamage,None,0.0118,1,0.9,0.58,1.14,FALSE,None
 Slash_Travel,1,Slash,PetDamage,None,0.0118,1,0.9,0.58,1.14,FALSE,None
 Slash_Leaves,2,Slash,PetDamage,None,0.03658,2,0.9,0.58,1.14,FALSE,None
 Slash_Knight,2,Slash,PetDamage,None,0.03658,2,0.9,0.58,1.14,FALSE,Knight
-Slash_Smelly,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,None
+Slash_Smelly,2,Slash,PetDamage,None,0.03658,2,0.9,0.58,1.14,FALSE,Meat
 Slash_Captain,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Captain
 Slash_Titan,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Titan
 Slash_Musketeer,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Musketeer
@@ -291,7 +294,7 @@ Slash_DarkEnergy,1,Slash,ShadowCloneSkillAmount,None,0.0082,1,0.9,0.58,1.14,FALS
 Slash_EmbersBlue,2,Slash,ShadowCloneSkillAmount,None,0.02542,2,0.9,0.58,1.14,FALSE,SpaceKnight
 Slash_Ghost,2,Slash,ShadowCloneSkillAmount,None,0.02542,2,0.9,0.58,1.14,FALSE,Ghost
 Slash_Crow,2,Slash,ShadowCloneSkillAmount,None,0.02542,2,0.9,0.58,1.14,FALSE,Crow
-Slash_Petals,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,None
+Slash_Petals,2,Slash,ShadowCloneSkillAmount,None,0.02542,2,0.9,0.58,1.14,FALSE,Ninjitsu
 Slash_MouthWash,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,None
 Slash_Chains,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Chains
 Slash_Mage,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Mage
@@ -325,6 +328,7 @@ Slash_ManaMage,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE
 Slash_Scout,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Scout
 Slash_BlackDragon,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,BlackDragon
 Slash_Aquamarine,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Aquamarine
+Slash_Doll,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Doll
 Slash_HighTecLightning,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,HighTecLightning
 Slash_WaterSorcerer,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,WaterSorcerer
 Slash_DarkAngel,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,DarkAngel
@@ -347,7 +351,7 @@ Slash_FireGray,1,Slash,GoldGunDamage,None,0.0118,1,0.9,0.58,1.14,FALSE,None
 Slash_Paint,1,Slash,GoldGunDamage,None,0.0118,1,0.9,0.58,1.14,FALSE,None
 Slash_Lava,2,Slash,GoldGunDamage,None,0.03658,2,0.9,0.58,1.14,FALSE,FireCook
 Slash_BlueFlame,2,Slash,GoldGunDamage,None,0.03658,2,0.9,0.58,1.14,FALSE,BlueFlame
-Slash_FireBlack,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,None
+Slash_FireBlack,2,Slash,GoldGunDamage,None,0.03658,2,0.9,0.58,1.14,FALSE,SteelHero
 Slash_Fire,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,None
 Slash_GoldGun,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,GoldGun
 Slash_Stone,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Stone
@@ -365,8 +369,8 @@ Suit_ArmorRoyal,2,Suit,GoldAll,None,0.1395,2,0.9,0.58,1.14,FALSE,FireCook
 Suit_KungFu,2,Suit,GoldAll,None,0.1395,2,0.9,0.58,1.14,FALSE,Ninja
 Suit_Bishop,2,Suit,GoldAll,None,0.1395,2,0.9,0.58,1.14,FALSE,Bishop
 Suit_BlueFlame,2,Suit,GoldAll,None,0.1395,2,0.9,0.58,1.14,FALSE,BlueFlame
+Suit_ArmorRed,2,Suit,GoldAll,None,0.1395,2,0.9,0.58,1.14,FALSE,Gundam
 Suit_ArmorHighTec,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,None
-Suit_ArmorRed,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,None
 Suit_Wolf,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Wolf
 Suit_Chains,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Chains
 Suit_Platinum,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Platinum
@@ -387,6 +391,7 @@ Suit_Devil,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Devil
 Suit_ScrollMaster,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,ScrollMaster
 Suit_Spacesuit,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Spacesuit
 Suit_Greed,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Greed
+Suit_Doll,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Doll
 Suit_Pirate,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,Pirate
 Suit_HighTecLightning,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Suit_FairyKnight,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,FairyKnight
@@ -398,8 +403,8 @@ Suit_ArmorWhite,2,Suit,ChestAmount,None,0.4371,2,0.9,0.58,1.145,FALSE,SpaceKnigh
 Suit_ArmorOrange,2,Suit,ChestAmount,None,0.4371,2,0.9,0.58,1.145,FALSE,None
 Suit_Viking,2,Suit,ChestAmount,None,0.4371,2,0.9,0.58,1.145,FALSE,Viking
 Suit_FireTribe,2,Suit,ChestAmount,None,0.4371,2,0.9,0.58,1.145,FALSE,FireTribe
+Suit_Ninja,2,Suit,ChestAmount,None,0.4371,2,0.9,0.58,1.145,FALSE,Ninjitsu
 Suit_ArmorRoman,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,None
-Suit_Ninja,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,None
 Suit_Gold,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,Anniversary
 Suit_Fur,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,Fur
 Suit_Mage,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,Mage
@@ -429,8 +434,8 @@ Suit_Travel,1,Suit,GoldBoss,None,0.141,1,0.9,0.58,1.145,FALSE,None
 Suit_Robot,2,Suit,GoldBoss,None,0.4371,2,0.9,0.58,1.145,FALSE,Cyborg
 Suit_Ghost,2,Suit,GoldBoss,None,0.4371,2,0.9,0.58,1.145,FALSE,Ghost
 Suit_Crow,2,Suit,GoldBoss,None,0.4371,2,0.9,0.58,1.145,FALSE,Crow
-Suit_Chicken,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,None
-Suit_Ironman,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,None
+Suit_Ironman,2,Suit,GoldBoss,None,0.4371,2,0.9,0.58,1.145,FALSE,SteelHero
+Suit_Chicken,2,Suit,GoldBoss,None,0.4371,2,0.9,0.58,1.145,FALSE,Meat
 Suit_Dragon,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Dragon
 Suit_Captain,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Captain
 Suit_Titan,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Titan
@@ -509,8 +514,8 @@ Weapon_BattleAxe,1,Weapon,AllHelperDamage,None,0.098,1,0.9,0.58,1.15,FALSE,None
 Weapon_Halberd,2,Weapon,AllHelperDamage,None,0.3038,2,0.9,0.58,1.15,FALSE,None
 Weapon_Beam,2,Weapon,AllHelperDamage,None,0.3038,2,0.9,0.58,1.15,FALSE,Cyborg
 Weapon_FireTribe,2,Weapon,AllHelperDamage,None,0.3038,2,0.9,0.58,1.15,FALSE,FireTribe
+Weapon_Poison,2,Weapon,AllHelperDamage,None,0.3038,2,0.9,0.58,1.15,FALSE,Ninjitsu
 Weapon_Holy,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,None
-Weapon_Poison,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,None
 Weapon_GoldSword,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,Anniversary
 Weapon_Wonder,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,Wonder
 Weapon_Fur,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,Fur
@@ -542,9 +547,9 @@ Weapon_PitchFork,2,Weapon,CritDamage,None,0.186,2,0.9,0.58,1.145,FALSE,None
 Weapon_Staff,2,Weapon,CritDamage,None,0.186,2,0.9,0.58,1.145,FALSE,None
 Weapon_BlueSword,2,Weapon,CritDamage,None,0.186,2,0.9,0.58,1.145,FALSE,Ghost
 Weapon_Knight,2,Weapon,CritDamage,None,0.186,2,0.9,0.58,1.145,FALSE,Knight
-Weapon_Saw,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,None
+Weapon_Saw,2,Weapon,CritDamage,None,0.186,2,0.9,0.58,1.145,FALSE,Gundam
+Weapon_Wrench,2,Weapon,CritDamage,None,0.186,2,0.9,0.58,1.145,FALSE,SteelHero
 Weapon_Fish,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,None
-Weapon_Wrench,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,None
 Weapon_Wolf,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Wolf
 Weapon_Mage,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Mage
 Weapon_Zeus,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Zeus
@@ -573,7 +578,7 @@ Weapon_Fan,2,Weapon,TapDamage,None,0.2604,2,0.9,0.58,1.15,FALSE,Ninja
 Weapon_FriedEgg,2,Weapon,TapDamage,None,0.2604,2,0.9,0.58,1.15,FALSE,FireCook
 Weapon_Viking,2,Weapon,TapDamage,None,0.2604,2,0.9,0.58,1.15,FALSE,Viking
 Weapon_Bishop,2,Weapon,TapDamage,None,0.2604,2,0.9,0.58,1.15,FALSE,Bishop
-Weapon_SwordFish,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,None
+Weapon_SwordFish,2,Weapon,TapDamage,None,0.2604,2,0.9,0.58,1.15,FALSE,Meat
 Weapon_Dragon,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Dragon
 Weapon_SwordMaster,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,None
 Weapon_Captain,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Captain
@@ -594,6 +599,7 @@ Weapon_Devil,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Devil
 Weapon_WildCat,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,WildCat
 Weapon_BunnyDroid,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,BunnyDroid
 Weapon_Greed,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Greed
+Weapon_Doll,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Doll
 Weapon_Samurai,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,Samurai
 Weapon_FireKnight,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,FireKnight
 Weapon_EarthRogue,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,EarthRogue
@@ -739,7 +745,6 @@ Slash_Influencer,1,Slash,BurstDamageSkillAmount,None,0.043214,3,0.9,0.58,1.15,TR
 Weapon_Mic,1,Weapon,TapDamage,None,0.44268,3,0.9,0.58,1.15,TRUE,None
 Weapon_SelfieStick,1,Weapon,AllHelperDamage,None,0.51646,3,0.9,0.58,1.15,TRUE,None
 Aura_Broadcast,1,Aura,SlashBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,None
-Aura_REC,1,Aura,HelmetBoost,None,0.02108,3,0.9,0.58,1.145,TRUE,None
 Weapon_Grill,1,Weapon,TapDamage,None,0.44268,3,0.9,0.58,1.15,TRUE,Grill
 Hat_Grill,1,Hat,SwordAttackDamage,None,0.072726,3,0.9,0.58,1.14,TRUE,Grill
 Suit_Grill,1,Suit,GoldBoss,None,0.74307,3,0.9,0.58,1.145,TRUE,Grill
@@ -872,6 +877,11 @@ Hat_Punk,1,Hat,SpellHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Punk
 Suit_Punk,1,Suit,ChestAmount,None,0.74307,3,0.9,0.58,1.145,TRUE,Punk
 Aura_Punk,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Punk
 Slash_Punk,1,Slash,ShadowCloneSkillAmount,None,0.043214,3,0.9,0.58,1.14,TRUE,Punk
+Weapon_Bartender,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,Bartender
+Hat_Bartender,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Bartender
+Suit_Bartender,1,Suit,GoldBoss,None,0.74307,3,0.9,0.58,1.145,TRUE,Bartender
+Aura_Bartender,1,Aura,SlashBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Bartender
+Slash_Bartender,1,Slash,ShadowCloneSkillAmount,None,0.043214,3,0.9,0.58,1.14,TRUE,Bartender
 Weapon_AlphaHeart,5,Weapon,DamagePerOwnedCardLevel,AnyContractBonusBoost,6.944,25,0.9,0.58,1.16,FALSE,AlphaHeart
 Hat_ElderSnow,5,Hat,AllHelperDamage,HelperBoostSkillAmount,12.152,25,0.9,0.58,1.16,FALSE,ElderSnow
 Suit_ShadowMagician,5,Suit,MultiMonstersGold,GoldAll,17.484,25,0.9,0.58,1.155,FALSE,ShadowMagician
@@ -881,7 +891,7 @@ Weapon_Lance,5,Weapon,DamagePerHelperWeapon,BurstDamageSkillAmount,6.944,25,0.9,
 Weapon_Maple,5,Weapon,DamagePerClanScroll,GoldGunDamage,6.944,25,0.9,0.58,1.16,FALSE,Maple
 Weapon_Pharaoh,5,Weapon,DamagePerManaCap,ForbiddenContractBonusDamage,6.944,25,0.9,0.58,1.16,FALSE,Pharaoh
 Suit_Titania,5,Suit,FairyGold,LegacyPetGoldEffect,17.484,25,0.9,0.58,1.155,FALSE,Titania
-Suit_Rosabella,5,Suit,RoyalContractBonusGold,UnskilledGold,17.484,25,0.9,0.58,1.155,FALSE,Rosabella
+Suit_Rosabella,5,Suit,JackpotGold,UnskilledGold,5.58,25,0.9,0.58,1.15,FALSE,Rosabella
 Suit_Jayce,5,Suit,MultiMonstersGold,AllGoldDuringHayst,17.484,25,0.9,0.58,1.155,FALSE,Jayce
 Slash_Kronus,5,Slash,TwilightBoost,TwilightFairyStageSkip,1.0168,25,0.9,0.58,1.15,FALSE,Kronus
 Aura_Sophia,5,Aura,CritDamage,DeadlyDamageCompanion,7.44,25,0.9,0.58,1.155,FALSE,Sophia
