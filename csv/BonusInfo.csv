@@ -15,7 +15,7 @@ ClanShipDamagePerSeasonTitan,(Monument) Clanship Damage per Titan Killed this se
 AllDamagePerSeasonDay,All Damage per day in this season,None,None,False,False,False,False,False,0,False
 DamagePerMaxStage,All Damage per max stage in this season,None,None,False,False,False,False,False,0,False
 GoldAllPerPrestigeChesterson,All Gold per Chesterson Killed This Prestige,None,None,False,False,False,False,False,0,False
-GoldAllPerSeasonChesterson,All Gold per Chesterson Killed This Season,None,None,True,False,False,False,False,0,False
+GoldAllPerSeasonChesterson,All Gold per Chesterson Killed This Season,None,None,True,False,True,False,False,0,False
 GoldAllPerPrestigeSecond,All Gold per Second Since Last Prestige,None,None,True,False,True,False,False,0,False
 GoldAllPerSeasonPrestige,(Monument) All Gold per Prestige This Season,None,None,True,False,True,False,False,0,False
 JackpotGoldPerPrestigeFairy,Jackpot Gold per Fairy Collected This Prestige,None,None,False,False,False,False,False,0,False
