@@ -1,5 +1,5 @@
 EquipmentSet,Enabled,SetType,CraftCost1,CraftCost2,CraftCost3,CraftCost4,CraftCost5,StageReq,BonusType1,Amount1,Inc1,Expo1,PerDay1,MaxValue1,BonusType2,Amount2,Inc2,Expo2,PerDay2,MaxValue2,BonusType3,Amount3,Inc3,Expo3,PerDay3,MaxValue3,CP_100,IsHighlighted,RecommendHS,RecommendPet,RecommendCS,RecommendSC,RecommendDagger,RecommendGG
-Nomad,TRUE,Mythic,100,120,140,160,180,25000,DamagePerMaxStage,1.00005,1,1,FALSE,0,DamagePerOwnedMonument,1.5,1.0025,0.999,FALSE,0,SeasonalRelicAdditive,1.00E+10,1,1,FALSE,0,"10,000,000,000.000",FALSE,8,9,10,10,9,9
+Nomad,TRUE,Mythic,100,120,140,160,180,25000,DamagePerMaxStage,1.00005,1,1,FALSE,0,DamagePerOwnedMonument,1.5,1.0025,0.999,FALSE,0,SeasonalRelicAdditive,1.00E+10,1,1,FALSE,0,1.918,FALSE,8,9,10,10,9,9
 RaidMythic,TRUE,Mythic,100,120,140,160,180,25000,PlayerRaidLevelCostReduction,0.92,1,1,FALSE,0,DamagePerOwnedCardLevel,20,1.065,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"9,913.521",FALSE,7,8,9,9,8,8
 SteampunkKnight,TRUE,Mythic,100,120,140,160,180,25000,SkillTreeAlchemistAllDamage,1.01,1,1,FALSE,0,AlchemistBonusBoost,10,1.05,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"1,224.964",FALSE,,,,,,4
 FairyKnight,TRUE,Mythic,100,120,140,160,180,25000,SkillTreeKnightAllDamage,1.01,1,1,FALSE,0,PaladinBonusBoost,5,1.028,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,76.005,FALSE,4,,,,,
@@ -16,7 +16,8 @@ Skulls,TRUE,Mythic,100,120,140,160,180,4000,ShadowCloneBossSplash,0.1,1,1,FALSE,
 Pirate,TRUE,Mythic,100,120,140,160,180,3000,EquipmentRarityChance,1.5,1,1,FALSE,0,HandOfMidasSkillAmount,150,1.12,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"10,625,191.318",FALSE,3,5,6,5,5,3
 BoneTribe,TRUE,Mythic,100,120,140,160,180,2000,HelperBoostCompanionAttackRate,2,1,1,FALSE,0,HelperBoostSkillAmount,100,1.155,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"146,964,401.053",FALSE,,1,1,3,,
 DarkAlien,TRUE,Mythic,100,120,140,160,180,1000,InactiveSneakCountMult,2,1,1,FALSE,0,CritBoostSkillAmount,100,1.105,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"1,875,791.421",FALSE,6,7,8,8,7,7
-Doll,TRUE,Legendary,20,24,28,32,36,0,AutoActivateTwilightFairyQTE,3,1,1,FALSE,0.00E+00,FairyGold,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,TRUE,1,,,1,,
+SoulCatcher,TRUE,Legendary,20,24,28,32,36,0,TitanSoulsChanceMult,1.2,1,1,FALSE,0.00E+00,AllDamage,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,TRUE,1,,,1,,
+Doll,TRUE,Legendary,20,24,28,32,36,0,AutoActivateTwilightFairyQTE,3,1,1,FALSE,0.00E+00,FairyGold,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,1,,,1,,
 SnakeOil,TRUE,Legendary,20,24,28,32,36,0,MagnumOpusRemoveGoldDrain,2,1,1,FALSE,0.00E+00,GoldGunDamage,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,,,,,,1
 Greed,TRUE,Legendary,20,24,28,32,36,0,TwilightBoost,1.5,1,1,TRUE,1.00E+20,GoldAll,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,1,,,1,,
 BunnyDroid,TRUE,Legendary,20,24,28,32,36,0,AutoActivatePetBossQTE,2,1,1,FALSE,0,PetDamage,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,,22,,,,
@@ -105,7 +106,7 @@ Punk,TRUE,Event,-1,-1,-1,-1,-1,0,ShadowCloneSkillAmount,10,1.04,0.999,FALSE,0,No
 Yeti,TRUE,Event,-1,-1,-1,-1,-1,0,TapDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 AnniversaryFairy,TRUE,Event,-1,-1,-1,-1,-1,0,FairyGold,10,1.062,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 SunBather,TRUE,Event,-1,-1,-1,-1,-1,0,JackpotGold,10,1.062,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
-Dancer,TRUE,Event,-1,-1,-1,-1,-1,0,UltraDaggerDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,TRUE,,,,,,
+Dancer,TRUE,Event,-1,-1,-1,-1,-1,0,UltraDaggerDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Gingerbread,TRUE,Event,-1,-1,-1,-1,-1,0,TapDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Scientist,TRUE,Event,-1,-1,-1,-1,-1,0,GoldGunDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Prestigious,TRUE,Event,-1,-1,-1,-1,-1,0,AllDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
@@ -113,7 +114,7 @@ Hollow,TRUE,Event,-1,-1,-1,-1,-1,0,ShadowCloneSkillAmount,10,1.04,0.999,FALSE,0,
 Picnic,TRUE,Event,-1,-1,-1,-1,-1,0,AllHelperDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Beach,TRUE,Event,-1,-1,-1,-1,-1,0,CritDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Dungeoneer,TRUE,Event,-1,-1,-1,-1,-1,0,AllDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
-Gambler,TRUE,Event,-1,-1,-1,-1,-1,0,JackpotGold,10,1.062,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,TRUE,,,,,,
+Gambler,TRUE,Event,-1,-1,-1,-1,-1,0,JackpotGold,10,1.062,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Cupid,TRUE,Event,-1,-1,-1,-1,-1,0,FairyGold,10,1.062,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Grinch,TRUE,Event,-1,-1,-1,-1,-1,0,GoldAll,10,1.062,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Spellmaster,TRUE,Event,-1,-1,-1,-1,-1,0,SorcererBonusBoost,5,1.023,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
@@ -128,7 +129,7 @@ Vampire,TRUE,Event,-1,-1,-1,-1,-1,0,ShadowCloneSkillAmount,10,1.04,0.999,FALSE,0
 Grill,TRUE,Event,-1,-1,-1,-1,-1,0,PetDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Influencer,TRUE,Event,-1,-1,-1,-1,-1,0,BossDamage,10,1.085,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 GoldAngel,TRUE,Event,-1,-1,-1,-1,-1,0,BurstDamageSkillAmount,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
-Demon,TRUE,Event,-1,-1,-1,-1,-1,0,ShadowCloneSkillAmount,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
+Demon,TRUE,Event,-1,-1,-1,-1,-1,0,ShadowCloneSkillAmount,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,TRUE,,,,,,
 Baker,TRUE,Event,-1,-1,-1,-1,-1,0,FairySpawnChance,0.5,1.04,0.6,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Frost,TRUE,Event,-1,-1,-1,-1,-1,0,AllHelperDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Reaper,TRUE,Event,-1,-1,-1,-1,-1,0,ShadowCloneSkillAmount,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,

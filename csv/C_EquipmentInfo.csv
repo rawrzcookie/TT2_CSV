@@ -32,6 +32,7 @@ Aura_PerkMaster,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PerkMaster
 Aura_WarHorn,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,WarHorn
 Aura_Shepherd,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Shepherd
 Aura_BunnyDroid,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,BunnyDroid
+Aura_SoulCatcher,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,SoulCatcher
 Aura_BoneTribe,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,BoneTribe
 Aura_Samurai,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Samurai
 Aura_Chakram,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Chakram
@@ -209,6 +210,7 @@ Hat_ScrollMaster,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Scrol
 Hat_Aquamarine,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Aquamarine
 Hat_Spacesuit,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Spacesuit
 Hat_Greed,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Greed
+Hat_SoulCatcher,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,SoulCatcher
 Hat_Pirate,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Pirate
 Hat_WaterSorcerer,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,WaterSorcerer
 Hat_DarkAngel,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAngel
@@ -307,6 +309,7 @@ Slash_FairyShaman,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FA
 Slash_Headless,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Headless
 Slash_Devil,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Devil
 Slash_Greed,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Greed
+Slash_SoulCatcher,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,SoulCatcher
 Slash_Pirate,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,Pirate
 Slash_Skulls,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,Skulls
 Slash_EarthRogue,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -392,6 +395,7 @@ Suit_ScrollMaster,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,ScrollMaster
 Suit_Spacesuit,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Spacesuit
 Suit_Greed,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Greed
 Suit_Doll,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Doll
+Suit_SoulCatcher,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,SoulCatcher
 Suit_Pirate,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,Pirate
 Suit_HighTecLightning,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Suit_FairyKnight,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,FairyKnight
@@ -502,6 +506,7 @@ Weapon_Jester,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Jester
 Weapon_WeaponMaster,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,WeaponMaster
 Weapon_SpellBooster,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SpellBooster
 Weapon_SnakeOil,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SnakeOil
+Weapon_SoulCatcher,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SoulCatcher
 Weapon_Pirate,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Pirate
 Weapon_Skulls,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Skulls
 Weapon_HighTecLightning,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,HighTecLightning
