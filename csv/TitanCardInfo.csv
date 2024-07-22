@@ -1,121 +1,121 @@
 TitanID,MonsterType,MonsterVariant,Name,Rarity,Type,SubType,BonusType,BaseEffect,EffectPerLevel,GrowthExpo,BonusIcon,IsActive,MaxLevel,1,10,25,100
-Titan0,Animal,1,Ohangry,0,Maingame,Warlord,ClanShipDamage,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan1,Animal,2,Ohohono,0,Maingame,Summoner,PetDamage,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan2,Animal,3,Ohwhawhawhat,0,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan3,BallOfFury,1,Pyro Rock,0,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan4,BallOfFury,2,Hydro Rock,0,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan5,BallOfFury,3,Eerrrth Rock,0,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan6,Beast,1,Wuur Wolfe,0,Maingame,None,GoldAll,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan7,Beast,2,Bruiser,0,Maingame,None,ChestAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan8,Beast,3,DogDoug,0,Maingame,None,GoldBoss,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan9,Bob,1,Snow Pa,0,Maingame,None,JackpotGold,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan10,Bob,2,Red Pa,0,Maingame,Warlord,AllHelperDamage,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan11,Bob,3,Wise Oji,0,Maingame,Alchemist,AlchemistBonusBoost,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan12,Buggy,1,Scurdy Mite,0,Maingame,Summoner,PaladinBonusBoost,0.00E+00,0,1.1532,Boost,TRUE,100,1.15E+00,4.16E+00,3.53E+01,1.55E+06
-Titan13,Buggy,2,Mr Mite,0,Maingame,Knight,KnightBonusBoost,0.00E+00,0,1.0997,Boost,TRUE,100,1.10E+00,2.59E+00,1.08E+01,1.34E+04
-Titan14,Buggy,3,Serio Mite,0,Maingame,Sorcerer,SorcererBonusBoost,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan15,CardFolks,1,Alpha Heart,0,Maingame,Rogue,RogueBonusBoost,0.00E+00,0,1.1666,Boost,TRUE,100,1.17E+00,4.67E+00,4.71E+01,4.93E+06
-Titan16,CardFolks,2,Beta Diamond,0,Maingame,Warlord,WarlordBonusBoost,0.00E+00,0,1.0997,Boost,TRUE,100,1.10E+00,2.59E+00,1.08E+01,1.34E+04
-Titan17,Doppio,1,Sadness Core,0,Maingame,None,KronusComboBoost,0.00E+00,0,1.2391,Boost,TRUE,100,1.24E+00,8.53E+00,2.13E+02,2.04E+09
-Titan18,Doppio,2,Anger Core,0,Maingame,None,LanceComboBoost,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan19,Doppio,3,Envy Core,0,Maingame,None,NohniComboBoost,0.00E+00,0,1.2093,Boost,TRUE,100,1.21E+00,6.69E+00,1.16E+02,1.80E+08
-Titan20,EarthGuru,1,Earth Golum,0,Maingame,None,SajeComboBoost,0.00E+00,0,1.2391,Boost,TRUE,100,1.24E+00,8.53E+00,2.13E+02,2.04E+09
-Titan21,EarthGuru,2,Spirit Golum,0,Maingame,None,SophiaComboBoost,0.00E+00,0,1.2391,Boost,TRUE,100,1.24E+00,8.53E+00,2.13E+02,2.04E+09
-Titan22,Flower,1,Ara Flora Sister,0,Maingame,None,HandOfMidasSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan23,Flower,2,Tony Stalk,0,Maingame,None,HelperBoostSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan24,Flower,3,Lizzie Flora Sister,0,Maingame,None,CritBoostSkillAmount,0.00E+00,0,1.4625,Boost,TRUE,100,1.46E+00,4.48E+01,1.34E+04,3.23E+16
-Titan25,Flower,4,Sunni Flora Sister,0,Maingame,None,TapBoostSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan26,FlyBoy,1,Inspector Greg,0,Maingame,None,DualPetAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan27,FlyBoy,2,The Bugtor,0,Maingame,None,StreamOfBladesSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan28,GH1000,1,Gizmo,0,Maingame,None,ThunderVolleySkillAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan29,GH1000,2,Waving Shock,0,Maingame,None,TwilightFairySkillAmount,0.00E+00,0,1.3299,Boost,TRUE,100,1.33E+00,1.73E+01,1.25E+03,2.41E+12
-Titan30,Knight,1,Combustion Warrior,1,Maingame,Warlord,ClanShipDamage,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan31,Knight,2,Mist Warrior,1,Maingame,Summoner,PetDamage,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan32,Knight,3,Terra Warrior,1,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan33,DarkKnight,1,Shadow Magican,1,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan34,DarkKnight,2,Frost Lord,1,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan35,Mask,1,Destruction Dancer,1,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan36,Mask,2,Disaster Dancer,1,Maingame,None,GoldAll,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan37,Mask,3,Forsaken Dancer,1,Maingame,None,ChestAmount,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan38,Mountain,1,Windego,1,Maingame,None,GoldBoss,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan39,Mountain,2,Monstrouso,1,Maingame,None,JackpotGold,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan40,Mountain,3,Hawk Hunter,1,Maingame,Warlord,AllHelperDamage,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan41,Mummy,1,Thutmose,1,Maingame,Alchemist,AlchemistBonusBoost,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan42,Mummy,2,Ramesses,1,Maingame,Summoner,PaladinBonusBoost,0.00E+00,0,1.2008,Boost,TRUE,100,1.20E+00,6.23E+00,9.70E+01,8.86E+07
-Titan43,Mummy,3,Cleo,1,Maingame,Knight,KnightBonusBoost,0.00E+00,0,1.1298,Boost,TRUE,100,1.13E+00,3.39E+00,2.11E+01,1.99E+05
-Titan44,MushSpider,1,Blaaseshroom,1,Maingame,Sorcerer,SorcererBonusBoost,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan45,MushSpider,2,Malevoshroom,1,Maingame,Rogue,RogueBonusBoost,0.00E+00,0,1.2188,Boost,TRUE,100,1.22E+00,7.23E+00,1.41E+02,3.91E+08
-Titan46,MushSpider,3,Heexshroom,1,Maingame,Warlord,WarlordBonusBoost,0.00E+00,0,1.1298,Boost,TRUE,100,1.13E+00,3.39E+00,2.11E+01,1.99E+05
-Titan47,Octaman,1,Arrrkto,1,Maingame,None,KronusComboBoost,0.00E+00,0,1.3168,Boost,TRUE,100,1.32E+00,1.57E+01,9.72E+02,8.94E+11
-Titan48,Octaman,2,A. Bonn,1,Maingame,None,LanceComboBoost,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan49,Octaman,3,Edward Tentacle,1,Maingame,None,NohniComboBoost,0.00E+00,0,1.2763,Boost,TRUE,100,1.28E+00,1.15E+01,4.46E+02,3.95E+10
-Titan50,Oger,1,Swamp Guard,1,Maingame,None,SajeComboBoost,0.00E+00,0,1.3168,Boost,TRUE,100,1.32E+00,1.57E+01,9.72E+02,8.94E+11
-Titan51,Oger,2,Swamp King,1,Maingame,None,SophiaComboBoost,0.00E+00,0,1.3168,Boost,TRUE,100,1.32E+00,1.57E+01,9.72E+02,8.94E+11
-Titan52,Patrick,1,Bleu,1,Maingame,None,AuraBoost,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan53,Patrick,2,Krob,1,Maingame,None,ArmorBoost,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan54,Patrick,3,Hayman,1,Maingame,None,HelmetBoost,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan55,PooMan,1,Dead Poo,1,Maingame,None,SwordBoost,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan56,PooMan,2,Killer Poo,1,Maingame,None,SlashBoost,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan57,PooMan,3,Sand Poo,1,Maingame,None,TitanDamage,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan58,PoorGuy,1,Caroro,1,Maingame,None,BossDamage,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan59,PoorGuy,2,Brococo,1,Maingame,None,AllDamage,0.00E+00,0,1.4420,Boost,TRUE,100,1.44E+00,3.89E+01,9.41E+03,7.86E+15
-Titan60,PoorGuy,3,Blib,2,Maingame,Warlord,ClanShipDamage,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan61,PoorGuy,4,Ginjay,2,Maingame,Summoner,PetDamage,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan62,Puppet,1,Mei the Puppet,2,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan63,Puppet,2,Kei the Puppet,2,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan64,Puppet,3,Jo the Puppet,2,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan65,RoboTom,1,G.L.A.H,2,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan66,RoboTom,2,D.O.S,2,Maingame,None,GoldAll,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan67,RoboTom,3,K-1000,2,Maingame,None,ChestAmount,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan68,RockFruit,1,Pain Spore,2,Maingame,None,GoldBoss,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan69,RockFruit,2,Burn Spore,2,Maingame,None,JackpotGold,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan70,RockFruit,3,L Virus,2,Maingame,None,AuraBoost,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan71,RockOwl,1,Sorrow Phantom,2,Maingame,None,ArmorBoost,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan72,RockOwl,2,Spirit Haunter,2,Maingame,None,HelmetBoost,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan73,SaltySam,1,Buur,2,Maingame,None,SwordBoost,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan74,SaltySam,2,Mad Buur,2,Maingame,None,SlashBoost,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan75,SaltySam,3,Noh Buur,2,Maingame,None,TitanDamage,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan76,Slardeer,1,Shokoy,2,Maingame,None,BossDamage,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan77,Slardeer,2,Swifty,2,Maingame,Warlord,GroundHelperDamage,0.00E+00,0,4.0946,Boost,TRUE,100,4.09E+00,1.32E+06,2.02E+15,1.67E+61
-Titan78,AngryBird,1,Sir Paul Beat,2,Maingame,Warlord,FlyingHelperDamage,0.00E+00,0,4.0946,Boost,TRUE,100,4.09E+00,1.32E+06,2.02E+15,1.67E+61
-Titan79,AngryBird,2,The Quiet Fowl,2,Maingame,Knight,TapDamage,0.00E+00,0,2.0235,Boost,TRUE,100,2.02E+00,1.15E+03,4.49E+07,4.08E+30
-Titan80,AngryBird,3,Witty Bird John,3,Maingame,Warlord,ClanShipDamage,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan81,AngryBird,4,Starry Ringo,3,Maingame,Summoner,PetDamage,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan82,BallieMcBallFace,1,Craang,3,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan83,BallieMcBallFace,2,Spud,3,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan84,BigBird,1,Candle,3,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan85,BigBird,2,Blank,3,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan86,BigBird,3,Spark,3,Maingame,None,AuraBoost,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan87,Blobby,1,Bonez,3,Maingame,None,ArmorBoost,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan88,Blobby,2,Sludge,3,Maingame,None,HelmetBoost,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan89,Blobby,3,Brontes,3,Maingame,None,SwordBoost,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan90,Blobby,4,Arges,3,Maingame,None,SlashBoost,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan91,SpikyEye,1,Flame Spikes,3,Maingame,None,TitanDamage,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan92,SpikyEye,2,Spikes,3,Maingame,None,BossDamage,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan93,SpikyEye,3,Ice Spikes,3,Maingame,Warlord,GroundHelperDamage,0.00E+00,0,4.4730,Boost,TRUE,100,4.47E+00,3.21E+06,1.84E+16,1.15E+65
-Titan94,SerpentFace,1,Belle Skeledame,3,Maingame,Warlord,FlyingHelperDamage,0.00E+00,0,4.4730,Boost,TRUE,100,4.47E+00,3.21E+06,1.84E+16,1.15E+65
-Titan95,SerpentFace,2,Skelesir,3,Maingame,Knight,TapDamage,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan96,SerpentFace,3,Musa,3,Maingame,None,GoldAll,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan97,SerpentFace,4,Naia,3,Maingame,None,JackpotGold,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan98,Woody,1,Kuttah,3,Maingame,None,AllDamage,0.00E+00,0,2.1150,Boost,TRUE,100,2.11E+00,1.79E+03,1.36E+08,3.39E+32
-Titan99,Woody,2,Madame Lovelett,3,Maingame,None,BoostedSwordAttackDamage,0.00E+00,0,1.4543,Boost,TRUE,100,1.45E+00,4.23E+01,1.16E+04,1.84E+16
-Titan100,Woody,3,Monsieur Todd,4,Maingame,Warlord,ClanShipDamage,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan101,Yeti,1,Snow Cone,4,Maingame,Summoner,PetDamage,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan102,Yeti,2,Yedi,4,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan103,Yeti,3,Elder Snow,4,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan104,SquareHead,1,Raaahwr,4,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan105,SquareHead,2,Lock,4,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan106,SquareHead,3,Barrel,4,Maingame,None,AuraBoost,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan107,SquareHead,4,Shock,4,Maingame,None,ArmorBoost,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan108,SquareHead,5,Spoopy,4,Maingame,None,HelmetBoost,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan109,Summoner,1,Baba,4,Maingame,None,SwordBoost,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan110,Summoner,2,Yaga,4,Maingame,None,SlashBoost,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan111,Squidz,1,Great Old One,4,Maingame,None,GoldAll,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan112,MrScarf,1,Leviafloat,4,Maingame,None,AllDamage,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan113,NinjaStar,1,Cycloninja,4,Maingame,None,CritDamage,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan114,Abominable,1,Swifty,4,Maingame,None,TitanDamage,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan115,Ramstein,1,Sheer,4,Maingame,None,BossDamage,0.00E+00,0,2.5000,Boost,TRUE,100,2.50E+00,9.54E+03,8.88E+09,6.22E+39
-Titan116,BossGearz,1,Logic,4,Maingame,None,DamagePerLegendarySet,0.00E+00,0,1.0115,Boost,TRUE,100,1.01E+00,1.12E+00,1.33E+00,3.14E+00
-Titan117,BossGigaPet,1,Metallic Lightning,4,Maingame,None,DamagePerMythicSet,0.00E+00,0,1.0465,Boost,TRUE,100,1.05E+00,1.58E+00,3.12E+00,9.42E+01
-Titan118,BossMustachio,1,The Master,4,Maingame,None,DamagePerEventSet,0.00E+00,0,1.0180,Boost,TRUE,100,1.02E+00,1.20E+00,1.56E+00,5.95E+00
-Titan119,BossTripleTree,1,Faceless,4,Maingame,None,BoostedSwordAttackDamage,0.00E+00,0,1.5811,Boost,TRUE,100,1.58E+00,9.77E+01,9.42E+04,7.89E+19
+Titan0,Animal,1,Ohangry,0,Maingame,Warlord,ClanShipDamage,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan1,Animal,2,Ohohono,0,Maingame,Summoner,PetDamage,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan2,Animal,3,Ohwhawhawhat,0,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan3,BallOfFury,1,Pyro Rock,0,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan4,BallOfFury,2,Hydro Rock,0,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan5,BallOfFury,3,Eerrrth Rock,0,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan6,Beast,1,Wuur Wolfe,0,Maingame,None,GoldAll,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan7,Beast,2,Bruiser,0,Maingame,None,ChestAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan8,Beast,3,DogDoug,0,Maingame,None,GoldBoss,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan9,Bob,1,Snow Pa,0,Maingame,None,JackpotGold,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan10,Bob,2,Red Pa,0,Maingame,Warlord,AllHelperDamage,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan11,Bob,3,Wise Oji,0,Maingame,Alchemist,AlchemistBonusBoost,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan12,Buggy,1,Scurdy Mite,0,Maingame,Summoner,PaladinBonusBoost,0.00E+00,0,1.1532,Boost,TRUE,200,1.15E+00,4.16E+00,3.53E+01,1.55E+06
+Titan13,Buggy,2,Mr Mite,0,Maingame,Knight,KnightBonusBoost,0.00E+00,0,1.0997,Boost,TRUE,200,1.10E+00,2.59E+00,1.08E+01,1.34E+04
+Titan14,Buggy,3,Serio Mite,0,Maingame,Sorcerer,SorcererBonusBoost,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan15,CardFolks,1,Alpha Heart,0,Maingame,Rogue,RogueBonusBoost,0.00E+00,0,1.1666,Boost,TRUE,200,1.17E+00,4.67E+00,4.71E+01,4.93E+06
+Titan16,CardFolks,2,Beta Diamond,0,Maingame,Warlord,WarlordBonusBoost,0.00E+00,0,1.0997,Boost,TRUE,200,1.10E+00,2.59E+00,1.08E+01,1.34E+04
+Titan17,Doppio,1,Sadness Core,0,Maingame,None,KronusComboBoost,0.00E+00,0,1.2391,Boost,TRUE,200,1.24E+00,8.53E+00,2.13E+02,2.04E+09
+Titan18,Doppio,2,Anger Core,0,Maingame,None,LanceComboBoost,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan19,Doppio,3,Envy Core,0,Maingame,None,NohniComboBoost,0.00E+00,0,1.2093,Boost,TRUE,200,1.21E+00,6.69E+00,1.16E+02,1.80E+08
+Titan20,EarthGuru,1,Earth Golum,0,Maingame,None,SajeComboBoost,0.00E+00,0,1.2391,Boost,TRUE,200,1.24E+00,8.53E+00,2.13E+02,2.04E+09
+Titan21,EarthGuru,2,Spirit Golum,0,Maingame,None,SophiaComboBoost,0.00E+00,0,1.2391,Boost,TRUE,200,1.24E+00,8.53E+00,2.13E+02,2.04E+09
+Titan22,Flower,1,Ara Flora Sister,0,Maingame,None,HandOfMidasSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan23,Flower,2,Tony Stalk,0,Maingame,None,HelperBoostSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan24,Flower,3,Lizzie Flora Sister,0,Maingame,None,CritBoostSkillAmount,0.00E+00,0,1.4625,Boost,TRUE,200,1.46E+00,4.48E+01,1.34E+04,3.23E+16
+Titan25,Flower,4,Sunni Flora Sister,0,Maingame,None,TapBoostSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan26,FlyBoy,1,Inspector Greg,0,Maingame,None,DualPetAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan27,FlyBoy,2,The Bugtor,0,Maingame,None,StreamOfBladesSkillAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan28,GH1000,1,Gizmo,0,Maingame,None,ThunderVolleySkillAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan29,GH1000,2,Waving Shock,0,Maingame,None,TwilightFairySkillAmount,0.00E+00,0,1.3299,Boost,TRUE,200,1.33E+00,1.73E+01,1.25E+03,2.41E+12
+Titan30,Knight,1,Combustion Warrior,1,Maingame,Warlord,ClanShipDamage,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan31,Knight,2,Mist Warrior,1,Maingame,Summoner,PetDamage,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan32,Knight,3,Terra Warrior,1,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan33,DarkKnight,1,Shadow Magican,1,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan34,DarkKnight,2,Frost Lord,1,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan35,Mask,1,Destruction Dancer,1,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan36,Mask,2,Disaster Dancer,1,Maingame,None,GoldAll,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan37,Mask,3,Forsaken Dancer,1,Maingame,None,ChestAmount,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan38,Mountain,1,Windego,1,Maingame,None,GoldBoss,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan39,Mountain,2,Monstrouso,1,Maingame,None,JackpotGold,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan40,Mountain,3,Hawk Hunter,1,Maingame,Warlord,AllHelperDamage,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan41,Mummy,1,Thutmose,1,Maingame,Alchemist,AlchemistBonusBoost,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan42,Mummy,2,Ramesses,1,Maingame,Summoner,PaladinBonusBoost,0.00E+00,0,1.2008,Boost,TRUE,200,1.20E+00,6.23E+00,9.70E+01,8.86E+07
+Titan43,Mummy,3,Cleo,1,Maingame,Knight,KnightBonusBoost,0.00E+00,0,1.1298,Boost,TRUE,200,1.13E+00,3.39E+00,2.11E+01,1.99E+05
+Titan44,MushSpider,1,Blaaseshroom,1,Maingame,Sorcerer,SorcererBonusBoost,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan45,MushSpider,2,Malevoshroom,1,Maingame,Rogue,RogueBonusBoost,0.00E+00,0,1.2188,Boost,TRUE,200,1.22E+00,7.23E+00,1.41E+02,3.91E+08
+Titan46,MushSpider,3,Heexshroom,1,Maingame,Warlord,WarlordBonusBoost,0.00E+00,0,1.1298,Boost,TRUE,200,1.13E+00,3.39E+00,2.11E+01,1.99E+05
+Titan47,Octaman,1,Arrrkto,1,Maingame,None,KronusComboBoost,0.00E+00,0,1.3168,Boost,TRUE,200,1.32E+00,1.57E+01,9.72E+02,8.94E+11
+Titan48,Octaman,2,A. Bonn,1,Maingame,None,LanceComboBoost,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan49,Octaman,3,Edward Tentacle,1,Maingame,None,NohniComboBoost,0.00E+00,0,1.2763,Boost,TRUE,200,1.28E+00,1.15E+01,4.46E+02,3.95E+10
+Titan50,Oger,1,Swamp Guard,1,Maingame,None,SajeComboBoost,0.00E+00,0,1.3168,Boost,TRUE,200,1.32E+00,1.57E+01,9.72E+02,8.94E+11
+Titan51,Oger,2,Swamp King,1,Maingame,None,SophiaComboBoost,0.00E+00,0,1.3168,Boost,TRUE,200,1.32E+00,1.57E+01,9.72E+02,8.94E+11
+Titan52,Patrick,1,Bleu,1,Maingame,None,AuraBoost,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan53,Patrick,2,Krob,1,Maingame,None,ArmorBoost,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan54,Patrick,3,Hayman,1,Maingame,None,HelmetBoost,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan55,PooMan,1,Dead Poo,1,Maingame,None,SwordBoost,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan56,PooMan,2,Killer Poo,1,Maingame,None,SlashBoost,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan57,PooMan,3,Sand Poo,1,Maingame,None,TitanDamage,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan58,PoorGuy,1,Caroro,1,Maingame,None,BossDamage,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan59,PoorGuy,2,Brococo,1,Maingame,None,AllDamage,0.00E+00,0,1.4420,Boost,TRUE,200,1.44E+00,3.89E+01,9.41E+03,7.86E+15
+Titan60,PoorGuy,3,Blib,2,Maingame,Warlord,ClanShipDamage,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan61,PoorGuy,4,Ginjay,2,Maingame,Summoner,PetDamage,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan62,Puppet,1,Mei the Puppet,2,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan63,Puppet,2,Kei the Puppet,2,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan64,Puppet,3,Jo the Puppet,2,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan65,RoboTom,1,G.L.A.H,2,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan66,RoboTom,2,D.O.S,2,Maingame,None,GoldAll,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan67,RoboTom,3,K-1000,2,Maingame,None,ChestAmount,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan68,RockFruit,1,Pain Spore,2,Maingame,None,GoldBoss,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan69,RockFruit,2,Burn Spore,2,Maingame,None,JackpotGold,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan70,RockFruit,3,L Virus,2,Maingame,None,AuraBoost,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan71,RockOwl,1,Sorrow Phantom,2,Maingame,None,ArmorBoost,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan72,RockOwl,2,Spirit Haunter,2,Maingame,None,HelmetBoost,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan73,SaltySam,1,Buur,2,Maingame,None,SwordBoost,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan74,SaltySam,2,Mad Buur,2,Maingame,None,SlashBoost,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan75,SaltySam,3,Noh Buur,2,Maingame,None,TitanDamage,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan76,Slardeer,1,Shokoy,2,Maingame,None,BossDamage,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan77,Slardeer,2,Swifty,2,Maingame,Warlord,GroundHelperDamage,0.00E+00,0,4.0946,Boost,TRUE,200,4.09E+00,1.32E+06,2.02E+15,1.67E+61
+Titan78,AngryBird,1,Sir Paul Beat,2,Maingame,Warlord,FlyingHelperDamage,0.00E+00,0,4.0946,Boost,TRUE,200,4.09E+00,1.32E+06,2.02E+15,1.67E+61
+Titan79,AngryBird,2,The Quiet Fowl,2,Maingame,Knight,TapDamage,0.00E+00,0,2.0235,Boost,TRUE,200,2.02E+00,1.15E+03,4.49E+07,4.08E+30
+Titan80,AngryBird,3,Witty Bird John,3,Maingame,Warlord,ClanShipDamage,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan81,AngryBird,4,Starry Ringo,3,Maingame,Summoner,PetDamage,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan82,BallieMcBallFace,1,Craang,3,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan83,BallieMcBallFace,2,Spud,3,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan84,BigBird,1,Candle,3,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan85,BigBird,2,Blank,3,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan86,BigBird,3,Spark,3,Maingame,None,AuraBoost,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan87,Blobby,1,Bonez,3,Maingame,None,ArmorBoost,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan88,Blobby,2,Sludge,3,Maingame,None,HelmetBoost,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan89,Blobby,3,Brontes,3,Maingame,None,SwordBoost,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan90,Blobby,4,Arges,3,Maingame,None,SlashBoost,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan91,SpikyEye,1,Flame Spikes,3,Maingame,None,TitanDamage,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan92,SpikyEye,2,Spikes,3,Maingame,None,BossDamage,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan93,SpikyEye,3,Ice Spikes,3,Maingame,Warlord,GroundHelperDamage,0.00E+00,0,4.4730,Boost,TRUE,200,4.47E+00,3.21E+06,1.84E+16,1.15E+65
+Titan94,SerpentFace,1,Belle Skeledame,3,Maingame,Warlord,FlyingHelperDamage,0.00E+00,0,4.4730,Boost,TRUE,200,4.47E+00,3.21E+06,1.84E+16,1.15E+65
+Titan95,SerpentFace,2,Skelesir,3,Maingame,Knight,TapDamage,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan96,SerpentFace,3,Musa,3,Maingame,None,GoldAll,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan97,SerpentFace,4,Naia,3,Maingame,None,JackpotGold,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan98,Woody,1,Kuttah,3,Maingame,None,AllDamage,0.00E+00,0,2.1150,Boost,TRUE,200,2.11E+00,1.79E+03,1.36E+08,3.39E+32
+Titan99,Woody,2,Madame Lovelett,3,Maingame,None,BoostedSwordAttackDamage,0.00E+00,0,1.4543,Boost,TRUE,200,1.45E+00,4.23E+01,1.16E+04,1.84E+16
+Titan100,Woody,3,Monsieur Todd,4,Maingame,Warlord,ClanShipDamage,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan101,Yeti,1,Snow Cone,4,Maingame,Summoner,PetDamage,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan102,Yeti,2,Yedi,4,Maingame,Sorcerer,ShadowCloneSkillAmount,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan103,Yeti,3,Elder Snow,4,Maingame,Knight,BurstDamageSkillAmount,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan104,SquareHead,1,Raaahwr,4,Maingame,Rogue,UltraDaggerDamage,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan105,SquareHead,2,Lock,4,Maingame,Alchemist,GoldGunDamage,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan106,SquareHead,3,Barrel,4,Maingame,None,AuraBoost,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan107,SquareHead,4,Shock,4,Maingame,None,ArmorBoost,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan108,SquareHead,5,Spoopy,4,Maingame,None,HelmetBoost,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan109,Summoner,1,Baba,4,Maingame,None,SwordBoost,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan110,Summoner,2,Yaga,4,Maingame,None,SlashBoost,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan111,Squidz,1,Great Old One,4,Maingame,None,GoldAll,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan112,MrScarf,1,Leviafloat,4,Maingame,None,AllDamage,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan113,NinjaStar,1,Cycloninja,4,Maingame,None,CritDamage,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan114,Abominable,1,Swifty,4,Maingame,None,TitanDamage,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan115,Ramstein,1,Sheer,4,Maingame,None,BossDamage,0.00E+00,0,2.5000,Boost,TRUE,200,2.50E+00,9.54E+03,8.88E+09,6.22E+39
+Titan116,BossGearz,1,Logic,4,Maingame,None,DamagePerLegendarySet,0.00E+00,0,1.0115,Boost,TRUE,200,1.01E+00,1.12E+00,1.33E+00,3.14E+00
+Titan117,BossGigaPet,1,Metallic Lightning,4,Maingame,None,DamagePerMythicSet,0.00E+00,0,1.0465,Boost,TRUE,200,1.05E+00,1.58E+00,3.12E+00,9.42E+01
+Titan118,BossMustachio,1,The Master,4,Maingame,None,DamagePerEventSet,0.00E+00,0,1.0180,Boost,TRUE,200,1.02E+00,1.20E+00,1.56E+00,5.95E+00
+Titan119,BossTripleTree,1,Faceless,4,Maingame,None,BoostedSwordAttackDamage,0.00E+00,0,1.5811,Boost,TRUE,200,1.58E+00,9.77E+01,9.42E+04,7.89E+19
