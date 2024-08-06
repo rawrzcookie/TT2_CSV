@@ -184,15 +184,18 @@ ForbiddenContractManaCostBase,The initial mana cost for Forbiddeen Contract's ma
 ForbiddenContractMaxDamage,The max damage multiplier for Forbiddden Contract.,None,None,False,False,False,False,False,False,0,False
 ForbiddenContractQTECooldown,Decreases the cooldown for Forbidden Contract.,None,None,True,True,False,True,False,False,0,False
 ForbiddenContractTimeUntilMaxDamage,Time until max damage is reached for Forbidden Contract,None,None,True,False,False,True,False,False,0,False
+AutoActivateForbiddenContractQTE,Automatically activates Forbidden Contract QTEs when value is non-0,None,None,True,False,False,False,True,True,0,False
 RoyalContractBonusDamage,The bonus damage for Royal Contract.,Damage,None,False,False,False,False,False,False,0,False
 RoyalContractBonusGold,The bonus gold for Royal Contract.,Gold,None,False,False,False,False,False,False,0,False
 RoyalContractManaCostBase,The initial mana cost for Royal Contract's mana burn.,None,None,True,False,False,False,False,False,0,False
 RoyalContractMaxGold,The max gold multiplier for Royal Contract.,Gold,None,False,False,False,False,False,False,0,False
 RoyalContractQTECooldown,Decreases the cooldown for Royal Contract.,None,None,True,True,False,True,False,False,0,False
 RoyalContractTimeUntilMaxGold,Time until max gold is reached for Royal Contract.,None,None,True,False,False,True,False,False,0,False
+AutoActivateRoyalContractQTE,Automatically activates Royal Contract QTEs when value is non-0,None,None,True,False,False,False,True,True,0,False
 AnyContractMonsterCount,Decreases the amount of non-boss Titans per stage while Contract is running,None,None,True,True,False,False,False,False,0,False
 AnyContractBonusBoost,Increases ForbiddenContractBonusDamage and RoyalContractBonusGold,None,"ForbiddenContractBonusDamage,RoyalContractBonusGold",False,False,False,False,False,False,0,False
 AnyContractQTECooldown,Increases ForbiddenContractQTECooldown and RoyalContractQTECooldown,None,"ForbiddenContractQTECooldown,RoyalContractQTECooldown",True,True,False,True,False,False,0,False
+AutoActivateContractsQTE,Automatically activates Forbidden and Royal Contract QTEs when value is non-0,None,"AutoActivateForbiddenContractQTE,AutoActivateRoyalContractQTE",True,False,False,False,True,True,0,False
 FrenzyCount,Increases bonus sword master attacks per second.,None,None,True,False,False,False,False,False,0,False
 FrenzyDamage,Unused,Damage,None,False,False,False,False,False,False,0,False
 GoldAll,Increases gold earned from all sources.,Gold,None,False,False,False,False,False,False,0,False
