@@ -24,6 +24,7 @@ TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescrip
 111,Keeper of Arcane Lore,PLAYER_TITLE_CUSTOM_111,Custom,0,#DDDCE4,FALSE
 112,rawr xd,PLAYER_TITLE_CUSTOM_112,Custom,0,#F6ACCF,FALSE
 113,Math Whiz,PLAYER_TITLE_CUSTOM_113,Custom,0,#D38AF9,FALSE
+114,Dust Remover,PLAYER_TITLE_CUSTOM_114,Custom,0,#C8A2C8,FALSE
 500,MasterTierSeason1Top1,PLAYER_TITLE_MasterTierSeason1Top1,MasterTierReward1,1,#347975,FALSE
 501,MasterTierSeason1Top10,PLAYER_TITLE_MasterTierSeason1Top10,MasterTierReward10,1,#908FBE,FALSE
 502,MasterTierSeason1Top25,PLAYER_TITLE_MasterTierSeason1Top25,MasterTierReward25,1,#ADA38B,FALSE
