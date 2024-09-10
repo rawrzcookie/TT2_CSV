@@ -73,6 +73,7 @@ Aura_WeaponMaster,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,WeaponMas
 Aura_WildCat,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,WildCat
 Aura_Greed,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Greed
 Aura_Doll,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Doll
+Aura_GoldenMech,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,GoldenMech
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -177,6 +178,7 @@ Hat_Headless,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Headless
 Hat_Jester,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Jester
 Hat_PerkMaster,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,PerkMaster
 Hat_Shepherd,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Shepherd
+Hat_GoldenMech,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,GoldenMech
 Hat_BoneTribe,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,BoneTribe
 Hat_Samurai,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Samurai
 Hat_FireKnight,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -367,6 +369,7 @@ Slash_GoldRain,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,GoldRain
 Slash_PerkMaster,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,PerkMaster
 Slash_SnakeOil,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,SnakeOil
 Slash_Padlock,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Padlock
+Slash_GoldenMech,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,GoldenMech
 Slash_SteampunkKnight,4,Slash,GoldGunDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,SteampunkKnight
 Suit_ArmorIce,1,Suit,GoldAll,None,0.045,1,0.9,0.58,1.14,FALSE,None
 Suit_Casual,1,Suit,GoldAll,None,0.045,1,0.9,0.58,1.14,FALSE,None
@@ -399,6 +402,7 @@ Suit_Spacesuit,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Spacesuit
 Suit_Greed,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Greed
 Suit_Doll,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Doll
 Suit_SoulCatcher,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,SoulCatcher
+Suit_GoldenMech,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,GoldenMech
 Suit_Pirate,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,Pirate
 Suit_HighTecLightning,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Suit_FairyKnight,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,FairyKnight
@@ -574,6 +578,7 @@ Weapon_BlackDragon,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,BlackDr
 Weapon_PerkMaster,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,PerkMaster
 Weapon_Aquamarine,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Aquamarine
 Weapon_Shepherd,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Shepherd
+Weapon_GoldenMech,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,GoldenMech
 Weapon_DarkAlien,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,DarkAlien
 Weapon_Mech,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,Mech
 Weapon_WaterSorcerer,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,WaterSorcerer

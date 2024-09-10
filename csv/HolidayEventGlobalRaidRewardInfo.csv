@@ -41,3 +41,9 @@ Event30_2024,1,0.0,"HP Pool has reached 0%
 ""Generals Defeated","RaidCardCurrency:10000,RaidCard:200,HelperWeapon:5,SkillPoint:5"
 Event30_2024,2,0.0,"HP Pool has reached 0%
 ""Final Boss Titan"" Defeated","RaidCardCurrency:20000,RaidCard:500,EquipmentShards:20,Avatar:GlobalRaidVictory"
+Event32_2024,0,0.0,"HP Pool has reached 0%
+""Army of Titans"" Defeated","RaidCardCurrency:5000,RaidCard:100,Perk:3,Equipment:5"
+Event32_2024,1,0.0,"HP Pool has reached 0%
+""Generals Defeated","RaidCardCurrency:10000,RaidCard:200,HelperWeapon:5,SkillPoint:5"
+Event32_2024,2,0.0,"HP Pool has reached 0%
+""Final Boss Titan"" Defeated","RaidCardCurrency:20000,RaidCard:500,EquipmentShards:20,Avatar:GlobalRaidVictory"

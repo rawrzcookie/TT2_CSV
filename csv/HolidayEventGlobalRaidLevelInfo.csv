@@ -20,3 +20,6 @@ Event27_2023,2,AreaGlobalBoss,EnemyGlobalBoss,TRUE,Pattern,1,1.5,0
 Event30_2024,0,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",FALSE,RandomOnSpawn,3300000,1.5,0.004
 Event30_2024,1,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",TRUE,RandomOnSpawn,2300000,1.5,0.004
 Event30_2024,2,AreaGlobalBoss,EnemyGlobalBoss,TRUE,Pattern,1,1.5,0
+Event32_2024,0,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",FALSE,RandomOnSpawn,2700000,1.5,0.004
+Event32_2024,1,"Area1,Area2,Area3","Enemy1,Enemy2,Enemy3,Enemy4,Enemy5,Enemy6,Enemy7,Enemy8",TRUE,RandomOnSpawn,1800000,1.5,0.004
+Event32_2024,2,AreaGlobalBoss,EnemyGlobalBoss,TRUE,Pattern,1,1.5,0

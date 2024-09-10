@@ -220,6 +220,7 @@ MagnumOpusDurationMult,Increases the duration of Magnum Opus. (+X%),None,None,Fa
 MagnumOpusRemoveGoldDrain,Removes the gold drain effect of Magnum Opus,None,None,False,False,False,False,True,True,0,False
 GoldGunAttackRate,"Increases the attack rate of Gold Gun, not Magnum Opus",None,None,False,False,False,False,False,False,0,False
 GoldGunChargeBoost,Decreases Gold Gun Charge Amount Required,None,None,True,True,False,False,False,False,0,False
+AutoActivateGoldGunQTE,Automatically activates Gold Gun QTE when value is non-0,None,None,True,False,False,False,True,True,0,False
 AlchemistBonusBoost,Combo boost of All Gold and Gold Gun Damage,Damage,"GoldAll,GoldGunDamage",False,False,False,False,False,False,0,False
 GoldenMissileSkillAmount,Increases Golden Missile Damage,Damage,None,False,False,False,False,False,False,0,False
 GoldenMissileSkillMana,Reduce the mana cost of Golden Missile,None,None,True,True,False,False,False,False,0,False

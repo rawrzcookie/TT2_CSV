@@ -23,8 +23,29 @@ TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescrip
 110,A Frozen Heart,PLAYER_TITLE_CUSTOM_110,Custom,0,#128081,FALSE
 111,Keeper of Arcane Lore,PLAYER_TITLE_CUSTOM_111,Custom,0,#DDDCE4,FALSE
 112,rawr xd,PLAYER_TITLE_CUSTOM_112,Custom,0,#F6ACCF,FALSE
-113,Math Whiz,PLAYER_TITLE_CUSTOM_113,Custom,0,#D38AF9,FALSE
+113,Math Whiz,PLAYER_TITLE_CUSTOM_113,Custom,0,#D38AF8,FALSE
 114,Dust Remover,PLAYER_TITLE_CUSTOM_114,Custom,0,#C8A2C8,FALSE
+400,Prestige Potato,PLAYER_TITLE_CUSTOM_400,ChallengeTournamentShop,0,#62fbed,FALSE
+401,Warden,PLAYER_TITLE_CUSTOM_401,ChallengeTournamentShop,0,#2822a6,FALSE
+402,Abysswalker,PLAYER_TITLE_CUSTOM_402,ChallengeTournamentShop,0,#D38AF9,FALSE
+403,Titan Tickler,PLAYER_TITLE_CUSTOM_403,ChallengeTournamentShop,0,#fe5bba,FALSE
+404,Master of Shadows,PLAYER_TITLE_CUSTOM_404,ChallengeTournamentShop,0,#38356d,FALSE
+405,Silent Assassin,PLAYER_TITLE_CUSTOM_405,ChallengeTournamentShop,0,#149b6d,FALSE
+406,Arcane Alchemist,PLAYER_TITLE_CUSTOM_406,ChallengeTournamentShop,0,#8f24d5,FALSE
+407,Shadowblade,PLAYER_TITLE_CUSTOM_407,ChallengeTournamentShop,0,#022d04,FALSE
+408,Mystic Sorcerer,PLAYER_TITLE_CUSTOM_408,ChallengeTournamentShop,0,#2b2d9a,FALSE
+409,Pet Pal,PLAYER_TITLE_CUSTOM_409,ChallengeTournamentShop,0,#70bf56,FALSE
+410,Warlord Supreme,PLAYER_TITLE_CUSTOM_410,ChallengeTournamentShop,0,#ffca00,FALSE
+411,Knight of Legends,PLAYER_TITLE_CUSTOM_411,ChallengeTournamentShop,0,#830322,FALSE
+412,Titan's Bane,PLAYER_TITLE_CUSTOM_412,ChallengeTournamentShop,0,#e1ddfa,FALSE
+413,Relic Hunter,PLAYER_TITLE_CUSTOM_413,ChallengeTournamentShop,0,#c41743,FALSE
+414,Ascendant Slayer,PLAYER_TITLE_CUSTOM_414,ChallengeTournamentShop,0,#2b2d9a,FALSE
+415,Finger Fury,PLAYER_TITLE_CUSTOM_415,ChallengeTournamentShop,0,#fa9c26,FALSE
+416,Snackmaster,PLAYER_TITLE_CUSTOM_416,ChallengeTournamentShop,0,#776231,FALSE
+417,Mythic Swordsman,PLAYER_TITLE_CUSTOM_417,ChallengeTournamentShop,0,#ce233a,FALSE
+418,Abyssal King,PLAYER_TITLE_CUSTOM_418,ChallengeTournamentShop,0,#330931,FALSE
+419,Blade Dancer,PLAYER_TITLE_CUSTOM_419,ChallengeTournamentShop,0,#4aefb7,FALSE
+420,Infinity Slicer,PLAYER_TITLE_CUSTOM_420,ChallengeTournamentShop,0,#80638b,FALSE
 500,MasterTierSeason1Top1,PLAYER_TITLE_MasterTierSeason1Top1,MasterTierReward1,1,#347975,FALSE
 501,MasterTierSeason1Top10,PLAYER_TITLE_MasterTierSeason1Top10,MasterTierReward10,1,#908FBE,FALSE
 502,MasterTierSeason1Top25,PLAYER_TITLE_MasterTierSeason1Top25,MasterTierReward25,1,#ADA38B,FALSE
