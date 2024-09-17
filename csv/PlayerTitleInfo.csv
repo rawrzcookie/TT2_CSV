@@ -25,6 +25,10 @@ TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescrip
 112,rawr xd,PLAYER_TITLE_CUSTOM_112,Custom,0,#F6ACCF,FALSE
 113,Math Whiz,PLAYER_TITLE_CUSTOM_113,Custom,0,#D38AF8,FALSE
 114,Dust Remover,PLAYER_TITLE_CUSTOM_114,Custom,0,#C8A2C8,FALSE
+115,Master Builder,PLAYER_TITLE_CUSTOM_115,Custom,0,#4B9F4A,FALSE
+116,Mira the Traveler,PLAYER_TITLE_CUSTOM_116,Custom,0,#FF8300,FALSE
+117,There is no teapot,PLAYER_TITLE_CUSTOM_117,Custom,0,#5CD1E7,FALSE
+118,Single Origin,PLAYER_TITLE_CUSTOM_118,Custom,0,#8F6547,FALSE
 400,Prestige Potato,PLAYER_TITLE_CUSTOM_400,ChallengeTournamentShop,0,#62fbed,FALSE
 401,Warden,PLAYER_TITLE_CUSTOM_401,ChallengeTournamentShop,0,#2822a6,FALSE
 402,Abysswalker,PLAYER_TITLE_CUSTOM_402,ChallengeTournamentShop,0,#D38AF9,FALSE
