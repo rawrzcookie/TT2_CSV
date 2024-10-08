@@ -469,6 +469,7 @@ FragmentizeEnchantedArmorMult,Increases the burst damage dealt to Cursed Armor,R
 FuseDamageRate,Damage dealt by fuse affliction per second,Raid,None,True,False,True,False,False,False,0,False
 FuseExplosionMult,Fuse explosion damage when stack count goes from positive to 0.,Raid,None,False,False,False,False,False,False,0,False
 FuseRepeatChance,Fuse proc chance against a part already fused,Raid,None,True,False,True,False,False,False,0,False
+FuseDamageBoostPerSecond,Increases explosion damage for each second of time applied,Raid,None,True,False,True,False,False,False,0,False
 HaymakerBurst,Increases haymaker damage,Raid,None,False,False,False,False,False,False,0,False
 HaymakerTapsNeeded,Determines the number of taps required to activate haymaker,Raid,None,False,False,False,False,True,False,0,False
 MagicPotionDamageRate,Increases the damage of each Magic Potion tick,Raid,None,True,False,True,False,False,False,0,False
@@ -498,6 +499,8 @@ RuneDamageRate,"Increases the damage of each ""rune"" tick.",Raid,None,True,Fals
 RuinousRustDamageRate,Increases the damage of each ruinous rust tick,Raid,None,True,False,True,False,False,False,0,False
 RuinousRustEnchantedArmorMult,Increases the burst damage dealt to Cursed Armor,Raid,None,False,False,False,False,False,False,0,False
 RicochetDamageMult,Increases damage of ricochets from Flak Shot.,Raid,None,False,False,False,False,False,False,0,False
+SandsOfTimeDamageRate,Increases the damage of each Sands Of Time tick.,Raid,None,True,False,True,False,False,False,0,False
+SandsOfTimeAfflictionDurationBoost,The increases the duration of afflictions when Sands Of Time is applied to a shared part.,Raid,None,True,False,True,False,False,False,0,False
 ShadowDamageRate,Increases the damage of each shadow tick.,Raid,None,True,False,True,False,False,False,0,False
 ShadowDamageMult,The multiplier applied to Shadow damage when at max stacks.,Raid,None,False,False,False,False,False,False,0,False
 SkullBashBurst,Increases the burst damage dealt by Skull Bash.,Raid,None,False,False,False,False,False,False,0,False
@@ -505,6 +508,8 @@ SkullBashHeadMult,Increases the burst damage dealt to the Head by Skull Bash.,Ra
 StormDamage,Increases damage dealt by Lightning Storm.,Raid,None,False,False,False,False,False,False,0,False
 StormFlightTime,Used as a constant for lightning storm raid skill,Raid,None,False,False,False,False,False,False,0,False
 SwarmDamageRate,Increases the damage dealt by the insect swarm,Raid,None,True,False,True,False,False,False,0,False
+WeakenBurst,Increases the burst damage dealt by Weaken,Raid,None,False,False,False,False,False,False,0,False
+WeakenDamageBoost,"Increases raid damage based on the part being hit by ""Weaken""",Raid,None,True,False,True,False,False,False,0,False
 WhipOfLightningBurst,Increases the burst damage dealt by Whip Of Lightning,Raid,None,False,False,False,False,False,False,0,False
 WhipOfLightningChance,Increases the chance to activate Whip Of Lightning's burst damage based on the number of monster parts with an Affliction debuff.,Raid,None,True,False,True,False,False,False,0,False
 WhipOfLightningChanceCap,Caps WhipOfLightningChance to a maximum,Raid,None,False,False,True,False,True,False,0,False
@@ -529,6 +534,7 @@ SkeletonExposedArmorDamageSupport,Increase damage dealt to Armor while at least 
 AllRaidDamage,Increase all damage dealt to Titanlords.,Raid,None,True,False,True,False,False,False,0,False
 LoyaltyRaidDamage,Multiplies the total damage output a player can make for a raid attack.,Raid,None,False,False,True,False,False,False,0,False
 SoloRaidAllDamage,Increase all damage dealt to Titanlords during Solo Raids,Raid,None,False,False,False,False,False,False,0,False
+SoloRaidRaidCardMult,Multiplies the number of random Raid Card rewards from Solo,Raid,None,False,False,False,False,False,False,0,False
 SupportDuration,Increase duration of Support buffs,Raid,None,True,False,True,False,False,False,0,False
 SupportChance,Increase the chance of activating a Support buff,Raid,None,False,False,False,False,False,False,0,False
 SupportStackCount,Increase maximum stack count of Support buffs,Raid,None,True,False,False,False,False,False,0,False
@@ -569,6 +575,44 @@ ArmorHeadHPMult,Increases the starting HP of a titan's Head Armour,Raid,None,Tru
 ArmorTorsoHPMult,Increases the starting HP of a titan's Chest Armour,Raid,None,True,False,True,False,False,False,0,False
 ArmorArmsHPMult,Increases the starting HP of a titan's Arms Armour,Raid,None,True,False,True,False,False,False,0,False
 ArmorLegsHPMult,Increases the starting HP of a titan's Legs Armour,Raid,None,True,False,True,False,False,False,0,False
+RaidBaseDamage,Increases Base Damage  On All Taps,Raid,None,True,False,False,False,False,False,0,False
+BurstBaseDamage,Increases Base Damage of All Bursts that PROC,Raid,None,True,False,False,False,False,False,0,False
+AfflictionBaseDamage,Increases Base Damage of All Afflictions that PROC,Raid,None,True,False,False,False,False,False,0,False
+HeadBaseDamage,Increases Base Damage when tapping the Head,Raid,None,True,False,False,False,False,False,0,False
+LimbBaseDamage,Increases Base Damage when tapping the Limb,Raid,None,True,False,False,False,False,False,0,False
+TorsoBaseDamage,Increases Base Damage when tapping the Torso,Raid,None,True,False,False,False,False,False,0,False
+ArmorBaseDamage,Increases Base Damage when tapping the Armor,Raid,None,True,False,False,False,False,False,0,False
+BodyBaseDamage,Increases Base Damage when tapping the Body,Raid,None,True,False,False,False,False,False,0,False
+Enemy1BaseDamage,Increases Base Damage when tapping Enemy1,Raid,None,True,False,False,False,False,False,0,False
+Enemy2BaseDamage,Increases Base Damage when tapping Enemy2,Raid,None,True,False,False,False,False,False,0,False
+Enemy3BaseDamage,Increases Base Damage when tapping Enemy3,Raid,None,True,False,False,False,False,False,0,False
+Enemy4BaseDamage,Increases Base Damage when tapping Enemy4,Raid,None,True,False,False,False,False,False,0,False
+Enemy5BaseDamage,Increases Base Damage when tapping Enemy5,Raid,None,True,False,False,False,False,False,0,False
+Enemy6BaseDamage,Increases Base Damage when tapping Enemy6,Raid,None,True,False,False,False,False,False,0,False
+Enemy7BaseDamage,Increases Base Damage when tapping Enemy7,Raid,None,True,False,False,False,False,False,0,False
+Enemy8BaseDamage,Increases Base Damage when tapping Enemy8,Raid,None,True,False,False,False,False,False,0,False
+HeadArmorBaseDamage,Increases Base Damage when tapping HeadArmor,Raid,None,True,False,False,False,False,False,0,False
+LimbArmorBaseDamage,Increases Base Damage when tapping LimbArmor,Raid,None,True,False,False,False,False,False,0,False
+TorsoArmorBaseDamage,Increases Base Damage when tapping TorsoArmor,Raid,None,True,False,False,False,False,False,0,False
+HeadBodyBaseDamage,Increases Base Damage when tapping HeadBody,Raid,None,True,False,False,False,False,False,0,False
+LimbBodyBaseDamage,Increases Base Damage when tapping LimbBody,Raid,None,True,False,False,False,False,False,0,False
+TorsoBodyBaseDamage,Increases Base Damage when tapping TorsoBody,Raid,None,True,False,False,False,False,False,0,False
+Enemy1AfflictionBaseDamage,Increases Base affliction damage when tapping Enemy1,Raid,None,True,False,False,False,False,False,0,False
+Enemy2AfflictionBaseDamage,Increases Base affliction damage when tapping Enemy2,Raid,None,True,False,False,False,False,False,0,False
+Enemy3AfflictionBaseDamage,Increases Base affliction damage when tapping Enemy3,Raid,None,True,False,False,False,False,False,0,False
+Enemy4AfflictionBaseDamage,Increases Base affliction damage when tapping Enemy4,Raid,None,True,False,False,False,False,False,0,False
+Enemy5AfflictionBaseDamage,Increases Base affliction damage when tapping Enemy5,Raid,None,True,False,False,False,False,False,0,False
+Enemy6AfflictionBaseDamage,Increases Base affliction damage when tapping Enemy6,Raid,None,True,False,False,False,False,False,0,False
+Enemy7AfflictionBaseDamage,Increases Base affliction damage when tapping Enemy7,Raid,None,True,False,False,False,False,False,0,False
+Enemy8AfflictionBaseDamage,Increases Base affliction damage when tapping Enemy8,Raid,None,True,False,False,False,False,False,0,False
+Enemy1BurstBaseDamage,Increases Base burst damage when tapping Enemy1,Raid,None,True,False,False,False,False,False,0,False
+Enemy2BurstBaseDamage,Increases Base burst damage when tapping Enemy2,Raid,None,True,False,False,False,False,False,0,False
+Enemy3BurstBaseDamage,Increases Base burst damage when tapping Enemy3,Raid,None,True,False,False,False,False,False,0,False
+Enemy4BurstBaseDamage,Increases Base burst damage when tapping Enemy4,Raid,None,True,False,False,False,False,False,0,False
+Enemy5BurstBaseDamage,Increases Base burst damage when tapping Enemy5,Raid,None,True,False,False,False,False,False,0,False
+Enemy6BurstBaseDamage,Increases Base burst damage when tapping Enemy6,Raid,None,True,False,False,False,False,False,0,False
+Enemy7BurstBaseDamage,Increases Base burst damage when tapping Enemy7,Raid,None,True,False,False,False,False,False,0,False
+Enemy8BurstBaseDamage,Increases Base burst damage when tapping Enemy8,Raid,None,True,False,False,False,False,False,0,False
 ArmorLimbsHPMult,Increases the starting HP of a titan's Legs Armour,Raid,None,True,False,True,False,False,False,0,False
 AllArmorHPMult,Increases the starting HP of a titan's Legs Armour,Raid,None,True,False,True,False,False,False,0,False
 HeadDamageSupport,Increase damage dealt to Titanlord head,Raid,None,True,False,True,False,False,False,0,False

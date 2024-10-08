@@ -20,9 +20,9 @@ AdChest,tier2,Diamonds,Diamonds: 10,0.050
 AdChest,tier2,Diamonds,None,0.300
 AdChest,tier2,Pet,PetsLvl1:1,0.170
 AdChest,tier2,Pet,None,0.830
-AdChest,tier2,RaidCardCurrency,RaidCardCurrency:25,0.250
-AdChest,tier2,RaidCardCurrency,RaidCardCurrency:50,0.100
-AdChest,tier2,RaidCardCurrency,None,0.650
+AdChest,tier2,RaidCard,RaidCard:2,0.250
+AdChest,tier2,RaidCard,RaidCard:5,0.100
+AdChest,tier2,RaidCard,None,0.650
 AdChest,tier2,Perk,Perk:1,0.030
 AdChest,tier2,Perk,None,0.970
 AdChest,tier2,Alchemy,Alchemy:1,1.000
@@ -35,10 +35,10 @@ AdChest,tier3,Diamonds,Diamonds:20,0.050
 AdChest,tier3,Diamonds,None,0.250
 AdChest,tier3,Pet,PetsLvl1:1,0.200
 AdChest,tier3,Pet,None,0.750
-AdChest,tier3,RaidCardCurrency,RaidCardCurrency:25,0.400
-AdChest,tier3,RaidCardCurrency,RaidCardCurrency:50,0.150
-AdChest,tier3,RaidCardCurrency,RaidCardCurrency:100,0.050
-AdChest,tier3,RaidCardCurrency,None,0.400
+AdChest,tier3,RaidCard,RaidCard:2,0.400
+AdChest,tier3,RaidCard,RaidCard:5,0.150
+AdChest,tier3,RaidCard,RaidCard:10,0.050
+AdChest,tier3,RaidCard,None,0.400
 AdChest,tier3,Perk,Perk:1,0.050
 AdChest,tier3,Perk,None,0.950
 AdChest,tier3,Alchemy,Alchemy:1,1.000
