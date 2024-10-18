@@ -1,4 +1,399 @@
 Version,Changes,Don't DELETE
+"7.3.0 (Oct 8, 2024)","
+New Features:
+- Raid Research Tree:
+    - Earn Raid Research Points by upgrading your card levels
+    - Spend Raid Research Points in the Raid Research Tree to get additional damage while raiding
+    - Complete previous nodes to gain access to later nodes
+    - Raid bonuses include Base Damage bonuses for parts (Head, Limbs, Torso), layers (Armor and Body), titan lords, card types (Affliction and Burst), generic Base Damage bonuses, and combinations of the above (such as Lojak Burst Base Damage)
+    - Base Damage bonuses are additive with your 100 Base Damage, Raid Level, and any other Base Damage bonuses
+- Portal Juggernaut legendary equipment set
+    - +100 Raid Base Damage
+    - 1.25x Raid Card Rewards from Solo Raids
+    - The raid card bonus will only impact the random card fragments, not wildcards
+- Bandage Brawler event equipment set
+    - 10x Twilight Damage
+- Upgrade All Favorite Monuments button
+    - Press button to upgrade all favorited monuments
+    - Available for players with VIP2 and above, or those who purchase a season pass for the duration of that season
+- Hallow’s Eve Dungeon Eggsplorer event begins on October 9th, 2024
+    - Collect Pets to explore the Dungeon
+    - New Dungeon avatar and avatar frame
+- New Hallow’s Eve themed loading screen, and returning Hallow’s Eve cosmetics
+    - Ancient Vampire, Bone Knight, Cackling Witch, Grim Reaper, Scarecrow Jack, and Toxic Slayer event equipment drops
+- Clan quest with raid cards, wildcards, and skill points
+- 2x Wildcards Titan Chest Promotion
+
+General Changes:
+- Dust Conversion
+    - Dust removed from the game
+    - All owned dust converted to wildcards at a 20 dust:1 wildcard ratio, rounding up
+    - All dust in inboxes autocollected and converted to wildcards
+    - Dust rewards converted to cards at a 20:1 ratio, rounding up
+    - Certain dust rewards converted to cards at a more favorable ratio (such as new player login rewards)
+    - Dust rewards in purchases converted to cards at a 20:1 ratio, rounding up
+    - Dust costs to level-up cards converted to equivalent card fragment costs at a 20:1 ratio, rounding down
+    - Dust shop removed from the game
+ - Arcane Bargain rework
+    - Changed from Lifetime Dust Spent to Lifetime Card Fragments Spent
+- Fusion Bomb Rework
+    - Added Detonation Damage per Second
+    - Changed Fusion Bomb duration resets from tapping a part to Fusion Bomb activating on a part
+    - Lowered base Detonation Damage
+    - Overall, will be net neutral in terms of damage for base usage of Fusion Bomb
+    - Will be a net increase in damage when paired with Affliction Duration bonuses or if you were to otherwise reset the duration of a Fusion Bomb
+- Increased available Solo Raid Bonus Raid XP from 25000 to 35000
+
+- Transcendence Season 6 will begin October 8th, 2024
+    - Celestial Temples, Kingdom of the Arcanas, and Pirates of the Neverseas monument categories
+    - Nine Pentacle Garden reworked from Jackpot Gold per Day to Critical Damage per Day
+    - Rebalanced Kingdom of the Arcanas monuments
+   
+
+Bug Fixes:
+    - Fixed issue where players could receive over 100 equipment incorrectly
+    - Fixed issues where the clan crate could be tapped through some other panels
+    - Fixed VIP icons displaying the wrong icons
+    - Fixed issue where players would be sent to the main screen when exiting Solo Raids
+    - Improved optimization of event assets
+    - Fixed issue where the Options panel could not be closed by tapping outside of your Options
+    - Fixed issues where the Practice panel could start at the bottom of the settings rather than the top
+    - Fixed issues where reward icons could display with incorrect sizes
+    - Largescale optimization of networking code, which should result in faster server response times and less data needed to be transferred
+    - Improved handling of Titan Lord defeats to ensure behavior is consistent from titan to titan
+    - Fixed minor visual issues
+    - Fixed various game crashes",
+"7.2.0 (Sept 10, 2024)","NEW FEATURES:
+- Glorious Mech legendary equipment set
+    - Automatic Magnum Opus activation
+    - 1.5x Critical Damage
+- Global Raid event begins on September 11th, 2024
+    - Attack the Global Raid for event currency
+    - Clan quest with dust, raid cards, and crafting shards
+- 4x Skill Points Titan Chest Promotion
+
+GENERAL CHANGES:
+- New Abyssal Shop Cosmetics
+    - 15 new avatar frames
+    - 15 new avatars
+    - 21 new player titles
+- Increase Solo Raid World on World Completion
+    - Move to next Solo Raid World when completing a previous world
+- Skill Tree Level Increases
+    - Aerial Assault max level increased from 30 to 40
+    - Ambush max level increased from 30 to 40
+    - Angelic Radiance max level increased from 30 to 40
+    - Assassinate max level increased from 30 to 40
+    - Backstab max level increased from 30 to 40
+    - Chesterson Incense max level increased from 30 to 40
+    - Chivalric Order max level increased from 30 to 40
+    - Cleaving Strike max level increased from 30 to 40
+    - Combat Techniques max level increased from 30 to 40
+    - Companion Warfare max level increased from 30 to 40
+    - Coordinated Offensive max level increased from 30 to 40
+    - Dimensional Shift max level increased from 30 to 40
+    - Heart of Gold max level increased from 30 to 40
+    - Heroic Might max level increased from 30 to 40
+    - Knight’s Valor max level increased from 35 to 45
+    - Lightning Burst max level increased from 30 to 40
+    - Master Commander max level increased from 35 to 45
+    - Master Thief max level increased from 35 to 45
+    - Midas Ultimate max level increased from 30 to 40
+    - Pet Evolution max level increased from 35 to 45
+    - Phantom Vengeance max level increased from 35 to 45
+    - Poison Edge max level increased from 30 to 40
+    - Searing Light max level increased from 30 to 40
+    - Summon Inferno max level increased from 30 to 40
+    - Transmutation max level increased from 35 to 45
+    - Will of Midas max level increased from 30 to 40
+
+BUG FIXES:
+- Fixed issues where badges could visually display only 1x All Damage instead of the correct boost
+- Fixed issues where starter bundles would incorrectly display
+- Fixed issues where Skill Points Owned would incorrectly display in the player export
+- Fixed issues where debugging tools could appear incorrectly
+- Various performance improvements for older accounts
+- Fixed minor visual issues
+- Fixed various game crashes
+- Fixed minor localization issues",
+"7.1.0 (Aug 6, 2024)","
+New Features:
+Player Titles
+* Cosmetic titles that will appear under your name
+* Viewable on player profile, leaderboards, and in clan list
+* Colored text based on the title
+* Current titles are earned for top ranks in Master Tier raiding, Transcendence seasons, and custom titles issued by GameHive
+* Previous Master Tier and Transcendence season placements will receive titles during server maintenance
+Devil’s Advocate legendary equipment set
+* Toggleable automatic Forbidden Contract and Royal Contract activations
+* 1.5x Jackpot Gold per Day (capping at 1e20)
+Vacation Defender event equipment set
+* 10x Aura Boost
+Summer Prestige event begins on August 6th, 2024
+* Prestige up to 99 times a day to collect event currency
+* Scuba Diver, Weekend Warrior, Dedicated Fan, Grill Master, and Surf Strike event equipment drops
+* Clan quest with dust, raid cards, and wildcards
+2x Crafting Shards Titan Chest Promotion
+
+General Changes:
+Player Profile Updates
+* Necrobear Research Level
+* Transcendent Pets
+Stats Panel Updates
+* Necrobear Research Level
+* Total Titan Level
+* Lifetime Souls Collected
+Player Export Updates
+* Mementos
+* Monuments
+* Transcendent Pets
+* Titan Collection
+* Necrobear Research Level
+* Research Raid Bonuses
+Player API Updates
+* Transcendent Pets
+* Titan Collection
+* Necrobear Research Level
+* Research Raid Bonuses
+Clan Player API Updates
+* Research Raid Bonuses
+Raid Practice Mode Reworks
+* Higher morale cap
+* Mirror Force slider
+ Talent level cap increased from 600 to 800
+Raid Card Level-Up XP Rework
+* Frontloaded raid XP from card levels 1-40
+Necrobear Changes
+* Default banner changed from Knight to All-Round
+
+Bug Fixes:
+Back end tweaks to ensure raid bonuses stay distinct and separate from one another
+Fixed issues where pets could appear as white squares
+Fixed issue where players with many completed Forbidden Research nodes would get error messages when submitting raid attacks
+Fixed issue where Titan collection descriptions were not scrollable
+Fixed issue where the Necrobear could appear in front of summoned titans
+Fixed issue where Beta tester avatars were not correctly displaying
+Fixed issues where additional bundle pop-ups were appearing where they shouldn’t have
+Fixed minor visual issues
+Fixed various game crashes
+Fixed minor localization issues",
+"7.0.0 (July 16, 2024)","
+New Features:
+Titan Souls
+* Start collecting titan souls at stage 100,000 or when your account is 30+ days old
+* Gain titan souls on prestige based on the number of stages you have progressed through
+* Collect up to 1000+ titan souls per day and up to 250+ titan souls per prestige
+Necrobear
+* Spend titan souls or diamonds to summon titans for your collection from the Necrobear
+* Choose between various options to help weight the drop rates of specific titans
+* Available summon options are All-Round, Knight, Summoner, Warlord, Sorcerer, Rogue, and Alchemist
+* All-Round offers equal odds of all titans of a given rarity
+* Specific tree options offers 1.2x the weight for titans that benefit that tree's main damage source
+* Auto-Summon and Fast-Summon options to help increase how fast the Necrobear can summon
+Titan Collection
+* Collect 120 titans by trading souls to the Necrobear
+* Five different rarities of titans: Common, Uncommon, Rare, Legendary, and Mythic
+* Summon additional copies of the titans to level them up and increase their bonuses
+* Rarer titans will take fewer copies to increase their level
+* Rarity filters to sort your titan collection
+* Level All button to level up your titans with ease
+Necrobear Levels
+* Necrobear levels up after doing sufficient summons
+* Increasing your Necrobear level raises the drop rates of rarer titans and gives a Research Point
+* Reaching certain Necrobear levels will offer special Necrobear milestone bundles in the Bear Shop
+Forbidden Research
+* Spend research points to upgrade nodes
+* Gain strong boosts to main game, raid, and titan soul bonuses
+* Max out previous nodes to gain access to later nodes
+* Main Game bonuses include Alchemist Boost, All Damage, All Gold, Armor Boost, Aura Boost, Boss Gold, Chesterson Gold, Commander Boost, Critical Damage, Helmet Boost, Jackpot Gold, Paladin Boost, Slash Boost, Sword Boost, Trainer Boost, Trickster Boost, Twilight Boost
+* Raid bonuses include Armor Damage, Body Damage, Head Damage, Limb Damage, Torso Damage, and new damage bonuses for each individual Titan Lord
+* Titan soul bonuses include increased Titan Souls per Day, Titan Souls per Prestige, and Titan Soul Chance that increases the titan souls collected for each stage cleared
+Soul Catcher legendary equipment set
+* 1.2x Titan Soul Chance (increases the titan souls you get for each stage cleared)
+* 1.5x All Damage per Day (up to a maximum of 1e20)
+
+General Changes:
+Changed required Crafting Power to recraft Unique equipment from 10 to 0 in Abyssal Tournaments
+* Note that you will still need to discover a Unique equipment before you can recraft it
+Adjusted Titan Lord hitboxes
+* Hand hitbox slightly reduced
+* Head hitbox slightly reduced
+* Leg hitbox slightly increased
+* Shoulder hitbox slightly increased
+* Torso hitbox slightly reduced
+
+Bug Fixes:
+Fixed issues where bundle pop-ups could obscure other panels
+Fixed issues where milestone HUD could overlap other panels
+Fixed issues that could cause titans and fairies to appear as black boxes
+Fixed issue where Crafting Panel would not correctly display Equipment Secondary Effect bonuses
+Fixed issue where skill trees would sometimes desync from server copies and prevent applying changes
+Fixed issue where Solo Raid avatars could be incorrectly rewarded
+Fixed issue where viewing a clan member's profile could change your Sword Master's equipment on your profile to match your clan member's equipment
+Fixed issue that could cause debuggers to appear in-game
+Fixed issue where Lights! Camera! Action! Aura could overlap certain other text
+Fixed issue where Portar avatar would not correctly display
+Improved general server stability
+Improved many minor code quality issues
+Fixed minor visual issues
+Fixed various game crashes
+Fixed minor localization issues",
+"6.11.0 (June 4, 2024)","NEW FEATURES:
+Clockwork Automaton Legendary Set
+* 1.5x Fairy Gold per Day (capping at 1e20)
+* Enable Auto-Tap Twilight Fairy after 3 seconds
+
+Tavern Keeper Event Set
+* 10x All Gold
+
+Steel Hero Rare Set
+* 5x Gold Gun Damage
+
+Meat Master Rare Set
+* 5x Pet Damage
+
+Hidden Assassin Rare Set
+* 5x Shadow Clone Damage
+
+Mechanized Master Rare Set
+* 5x Heavenly Strike Damage
+
+Twilight Fairy Gloom Damage
+* Added to Eventide Afterglow
+* Twilight Damage boost when a Twilight Fairy damages a titan
+* Similar to Poison Edge
+* Stacks up to 5 times
+
+Tavern Dungeon Eggsplorer event begins on June 5th, 2024
+* Collect Pets to explore the Dungeon
+* New Dungeon avatar and avatar frame
+* Roll Player and Tavern Dancer event equipment drops
+* Clan quest with dust, raid cards, and skill points
+4x Skill Points Titan Chest Promotion
+
+GENERAL CHANGES:
+Titan Target Changes
+* View titan targets when raid hasn't started
+* View titan targets for non-current titans
+* Additional """"yellow"""" targeting state
+
+Refresh Button
+* Clan chat refresh
+* Inbox refresh
+* Clan raid refresh cooldown lowered
+Titan Hand Hitboxes extended vertically downwards
+
+Lights! Camera! Action! Aura rework
+* Aura changed to track time since last prestiged rather than time since game opened
+Rebalanced equipment converted to rare for the new sets
+
+Rosabelle’s Uniform Rebalance
+* Rosabelle’s Uniform primary effect changed from Royal Contract Gold to Jackpot Gold
+* Any existing Rosabelle’s Uniforms will be converted during the server maintenance
+Tweaked discovery costs for artifacts 80-103 and enchantments 1-3
+
+Anchoring Shot Rebalance
+* Higher initial Clan Ship Stage Skip for lower levels
+* Lower maximum Clan Ship Stage Skip for higher levels
+
+Abyssal Tournament Changes
+* Blade Bombardment Dagger Target Damage increased from e3 to e10
+* Companion Frenzy Advance Start increased from 80% to 90%
+* Elder Snow Cap added to Companion Frenzy starting equipment
+* Elder Snow Cap added to Enchanted Mind starting equipment
+* Solar Eclipse Advance start increased from 85% to 90%
+
+Dust Shop reset changed from every 12 hours to every 8 hours
+
+Tournament algorithm improvements
+* Generally improved matchmaking
+* Tighter tournament brackets, so you may see fewer people in your tournaments
+* Improvements to Transcendence matchmaking
+* Improved Ultra Tournament matchmaking
+Monument Damage Rebalances
+* Increased uncapped Monument Damage exponent from 0.425 to 0.53
+
+Equipment pile automatically collected on Transcendence season end
+
+BUG FIXES:
+Fixed minor visual issues
+Fixed various game crashes
+Fixed minor localization issues",
+"6.10.0 (May 7, 2024)","NEW FEATURES:
+- Elixir Slinger legendary equipment set
+    *1.5x Gold Gun Damage per Day
+    *No Gold Drain for Magnum Opus
+- New VIP4 Perk
+    *Automatically update talent levels
+- Global Raid event begins on May 8th, 2024
+    *Attack the Global Raid for event currency
+    *Increased dust and raid card rewards for Global Raid events
+- Combo Breaker and Digital Idol event equipment drops
+- Clan quest with dust, raid cards, and crafting shards
+- 2x Crafting Shard Titan Chest Promotion
+
+GENERAL CHANGES:
+- Added Crafting for already discovered Unique equipment
+    *Unlocked at crafting power 10 or above
+    *Craft any already discovered Unique equipment
+    *150 shards per craft
+- Added Skip button to Transcendent Pet unlock animations
+
+BUG FIXES:
+- Fixed multiple visual issue where equipment levels would not display correctly
+- Fixed issue where skip stats wouldn’t correctly display
+- Fixed issue where Amplify would not be usable in Solo Raids when seasonally boosted
+- Fixed issue where certain bundle popups would not be correctly removed
+- Fixed issue where salvaging would require reaching a certain stage to prestige and salvage
+- Fixed visual issues where player profiles were clickable outside of the Ultra Tournament panel
+- Fixed some issues where bundle purchases would not reward the correct rewards
+- Fixed various game crashes
+- Fixed minor localization issues",
+"6.9.0 (April 9, 2024)","NEW CONTENT:
+- Gloomhoard Devourer Legendary Set
+    *1.5x All Gold per Day
+    *1.5x Twilight Damage per Day
+- Abyssal Coin leaderboard
+    *Displays the top 100 players with the most Abyssal Coins earned
+- New Transcendent Pets
+    *Brushleaf with an All Damage bonus
+    *Clawsette with an Aura Boost bonus
+    *Owlivia with a Slash Boost bonus
+    *Sandy with a Jackpot Gold bonus
+    *Sonara with an All Gold bonus
+    *Clang, Chitter, Daisy, Scaly, and Snuggles will also be present for Transcendence Season 4
+- Tournament event begins on April 10, 2024
+    *Gain additional event currency from tournament rewards
+    *More Ultra Tournaments and Ultra Abyssal Tournaments
+    *Clan quest with dust, raid cards, and wildcards
+- Heir of Light and Heir of Shadow event equipment drops
+- 2x Dust Titan Chest Promotion
+
+GENERAL CHANGES:
+- Transcendence Season 4 starts on April 10th, 2024
+    *Celestial Temples, Journey of the Vipers, and Kingdom of the Arcanas monument categories
+    *Transcendent pet improvement bonuses beginning from level 5+
+    *Reworked Ancient Origin of the Vipers monument from Dagger Damage per Day to Critical Damage per Day
+    *Monument Damage increased substantially
+- Monument Balance Changes
+    *Per-Day Monument power decreased
+    *Non-per-day monument power increased
+    *Overall should be a large net positive to damage, but with more power frontloaded to the start of the season and as you level your monuments
+- Equipment level based on your Max Transcendence Stage for random drop/crafting/shop equipment levels for players in Transcendence
+- Event Path Collect All Button
+
+- Free Skill Tree Resets
+    *Skill tree resets no longer have a cost
+    *Deleted Skill Tree Reset Tokens
+    *Reset token in daily logins changed to skill point
+- Crafting Panel Sort
+- New Login Prompts
+    *Choose Other button when being automatically prompted to sign in with Google Play or Facebook
+
+BUG FIXES:
+- Fixed solo raid decks where armor cards could appear in No Armor worlds
+- Fixed solo raid decks where Amplify could appear in decks without sufficient part focus
+- Fixed issues where Max Transcendence Stage wouldn’t correctly update",
 "6.8.0 (March 12, 2024) ","New Content:          
 Buntron-XT-7 Legendary Set
 * 1.5x Pet Damage per Day
