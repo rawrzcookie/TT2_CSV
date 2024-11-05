@@ -14,6 +14,7 @@ CannonDamagePerSeasonTitan,(Monument) Thunder Volley Damage and Gold Gun Damage 
 ClanShipDamagePerSeasonTitan,(Monument) Clanship Damage per Titan Killed this season,None,None,True,False,True,False,False,False,0,False
 AllDamagePerSeasonDay,All Damage per day in this season,None,None,False,False,False,False,False,False,0,False
 DamagePerMaxStage,All Damage per max stage in this season,None,None,False,False,False,False,False,False,0,False
+DamagePerNecroBearResearchLevel,All Damage per Necrobear Level,None,None,False,False,False,False,False,False,0,False
 GoldAllPerPrestigeChesterson,All Gold per Chesterson Killed This Prestige,None,None,False,False,False,False,False,False,0,False
 GoldAllPerSeasonChesterson,All Gold per Chesterson Killed This Season,None,None,True,False,True,False,False,False,0,False
 GoldAllPerPrestigeSecond,All Gold per Second Since Last Prestige,None,None,True,False,True,False,False,False,0,False
@@ -82,6 +83,8 @@ AllUpgradeCostFairy,Reduces all gold upgrade costs from fairy video reward.,None
 AutoActivateWarlordQTE,Automatically activates Warlord QTEs when value is non-1,None,None,True,False,False,False,True,True,0,False
 AutoActivatePetBossQTE,Automatically activates Flash Zip QTEs when value is non-1,None,None,True,False,False,False,True,True,0,False
 AutoActivateTwilightFairyQTE,Automatically activates Twilight Fairy QTEs when value is non-1,None,None,True,False,False,True,True,True,0,False
+AutoActivatePetGoldQTE,Automatically activates Pet Gold QTE when value is non-1,None,None,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,0,FALSE
+AutoActivateGoldenMissileSkill,Automatically activates Golden Missile when value is non-1,None,None,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,0,FALSE
 AutoBuyHeroes,Determines the seconds between auto buy hero intervals.,None,None,True,False,False,False,False,False,0,False
 AutoBuyHeroesMultDuringMakeItRain,Reduces the seconds between auto buy hero intervals during Make It Rain,None,None,True,True,True,False,False,False,0,False
 LegacyPetDamageEffect,Increases the strength of damage type effects given by Legacy pets.,Damage,None,False,False,False,False,False,False,0,False
@@ -95,6 +98,7 @@ HelmetBoost,Increases the primary effect of all Hat/Helmet type equipment.,None,
 ArtifactDamage,Increases AllDamage provided by artifacts.,Damage,None,True,False,True,False,False,False,1,False
 SeasonalArtifactDamage,Increases AllDamage provided by monuments.,Damage,None,True,False,True,False,False,False,1,False
 ArtifactEnchantmentBoost,Increases the strength of Artifact Enchantment bonus,None,None,False,False,False,False,False,False,0,False
+BeastBladeDamage,Increases the strength of Ultra Dagger damage and Pet Damage,Damage,"UltraDaggerDamage,PetDamage",False,False,False,False,False,False,0,False
 BoostedSwordAttackDamage,Increases the strength of AllDamage and Crit Damage,Damage,"AllDamage,CritDamage",False,False,False,False,False,False,0,False
 BossDamage,Increases the amount of damage done against bosses.,Damage,None,False,False,False,False,False,False,0,False
 BossGoldx10Chance,Increases the chance to earn x10 gold vs bosses.,None,None,True,False,True,False,False,False,0,False
@@ -412,6 +416,7 @@ TitanSlayer,Increases Sword and HS,Damage,"SwordBoost,BurstDamageSkillAmount",Fa
 TitanSoulsChance,Increases the drop chance of Titan Souls.,None,None,True,False,True,False,False,False,0,False
 TitanSoulsChanceMult,Increases the drop chance of Titan Souls as a multiplier.,None,None,False,False,False,False,False,False,0,False
 TitanSoulsPerDay,Increases maximum number of Titan Souls earnable per day.,None,None,True,False,False,False,False,False,0,False
+TitanSoulsPerDayMult,Increases maximum number of Titan Souls earnable per day. (MULT),None,None,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,FALSE
 TitanSoulsPerPrestige,Increases maximum number of Titan Souls earnable per prestige.,None,None,True,False,False,False,False,False,0,False
 TwilightBoost,Increases HS and Shadow Clone Amounts,Damage,"BurstDamageSkillAmount,ShadowCloneSkillAmount",False,False,False,False,False,False,0,False
 TwilightFairySkillAmount,Increases the strength of the Twilight Fairy Spell.,Damage,None,False,False,False,False,False,False,0,False

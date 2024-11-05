@@ -1,4 +1,66 @@
 Version,Changes,Don't DELETE
+"7.4.0 (Nov 6,2024)","New Features:
+The Toastmaster event equipment set:
+* 10x All Damage
+Starcaller Seer legendary equipment set:
+* 1.2x Titan Souls per Day
+* 1.05x Damage Per Necrobear Research Level
+Solar Priest legendary equipment set:
+* Automate Heart of Gold skill
+* 1.5x Pet Skill Damage Per Day
+Blast General legendary equipment set:
+* Automate Golden Missile spell
+* 1.5x Cannon Damage per Day
+Dragon Weaver mythic equipment set:
+* +25% Hero Scroll Bonus
+* +25% Hero Scroll Set Bonus
+* +244.08% Prestige Relic Bonus
+Burden of the Oathkeeper unique helmet:
+* Gunblade Damage primary bonus
+* Snap Chance secondary bonus
+Divine Retribution Incarnate unique sword:
+* All Damage per Abyssal Tournament Joined primary bonus
+* Doom Damage secondary bonus
+Drunken Hammer's Smash unique slash:
+* Beast Blade Damage primary bonus (Pet Damage + Dagger Damage)
+* Portar Chance secondary bonus
+The Retaliator Reforged unique sword:
+* All Damage per Skill Point primary bonus
+* Spell Duration secondary bonus
+Tiny Titan Tree's Blood unique aura:
+* Critical Damage primary bonus
+* Sprout Chance secondary bonus
+Anniversary Alchemy Lab event begins on November 6th, 2024
+* Gather ingredients and combine them for rewards
+* Golden Fairy, Prestigious Champion, Spell Master, and Tiny Titan event equipment drops
+* Clan quest with raid cards, wildcards, and pets
+2x Crafting Shards Chest Promotion
+General Changes:
+Alchemy Lab Multi-Brewing
+* + and - button beside the Brew button
+* Works for already discovered recipes
+Alchemy Lab Auto-Discover Starting Ingredients
+* Pop-ups won't appear for ingredients you already own
+Raid Card Upgrade All
+* Auto-upgrade all cards that you have sufficient card fragments to upgrade
+* Won't use wildcards
+* Upgrade summary to show what was upgraded
+Auto-Salvage Common Equipment
+* Toggleable setting
+* VIP 5
+* Auto-sells all common equips on collection
+Selection Bundles
+* Choose what you want to have in certain bundles out of a few options
+Bug Fixes:
+Removed unused social media icons
+Removed unused dust costs from Raid Card infodocs
+* Slightly faster load times as a result
+Fixed issues where Titans bonuses could overflow
+Fixed issue where All Raid Base Damage bonuses would not correctly update the player profile
+Fixed issue where a purchased bundle may display as unpurchased
+Fixed minor visual issues
+Fixed various game crashes
+Fixed minor localization issues",
 "7.3.0 (Oct 8, 2024)","
 New Features:
 - Raid Research Tree:
