@@ -163,6 +163,10 @@ AvatarHolidayHalloween2024,HolidayHalloween2024,1,FALSE,,Holiday,FALSE
 AvatarHolidayHalloween2024SeasonPass,HolidayHalloween2024,1,FALSE,,HolidayPremium,FALSE
 AvatarHolidayAnniversary2024,HolidayAnniversary2024,1,FALSE,,Holiday,FALSE
 AvatarHolidayAnniversary2024SeasonPass,HolidayAnniversary2024,1,FALSE,,HolidayPremium,FALSE
+AvatarHolidayChristmas2024,HolidayChristmas2024,1,FALSE,,Holiday,FALSE
+AvatarHolidayChristmas2024SeasonPass,HolidayChristmas2024,1,FALSE,,HolidayPremium,FALSE
+AvatarBombChristmas2024Top100,HolidayChristmas2024,1,FALSE,,Holiday,FALSE
+AvatarBombChristmas2024Top10,HolidayChristmas2024,1,FALSE,,Holiday,FALSE
 FireStoneEvent1,GenericEvent1,1,FALSE,,Firestone,FALSE
 FireStoneEvent2,GenericEvent1,1,FALSE,,Firestone,FALSE
 FireStoneEvent3,GenericEvent1,1,FALSE,,Firestone,FALSE

@@ -76,6 +76,7 @@ Aura_Greed,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Greed
 Aura_Doll,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Doll
 Aura_GoldenMech,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,GoldenMech
 Aura_GunpowderMage,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,GunpowderMage
+Aura_Collector,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Collector
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -186,6 +187,7 @@ Hat_Jester,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Jester
 Hat_PerkMaster,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,PerkMaster
 Hat_Shepherd,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Shepherd
 Hat_GoldenMech,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,GoldenMech
+Hat_Collector,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Collector
 Hat_BoneTribe,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,BoneTribe
 Hat_Samurai,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Samurai
 Hat_FireKnight,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -349,6 +351,7 @@ Slash_Scout,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Sc
 Slash_BlackDragon,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,BlackDragon
 Slash_Aquamarine,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Aquamarine
 Slash_Doll,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Doll
+Slash_Collector,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Collector
 Slash_HighTecLightning,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,HighTecLightning
 Slash_WaterSorcerer,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,WaterSorcerer
 Slash_DarkAngel,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,DarkAngel
@@ -419,6 +422,7 @@ Suit_Doll,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Doll
 Suit_SoulCatcher,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,SoulCatcher
 Suit_GoldenMech,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,GoldenMech
 Suit_TitanSouls,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,TitanSouls
+Suit_Collector,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Collector
 Suit_Pirate,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,Pirate
 Suit_HighTecLightning,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Suit_FairyKnight,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,FairyKnight
@@ -536,6 +540,7 @@ Weapon_SpellBooster,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SpellBo
 Weapon_SnakeOil,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SnakeOil
 Weapon_SoulCatcher,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SoulCatcher
 Weapon_Runestone,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Runestone
+Weapon_Collector,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Collector
 Weapon_Pirate,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Pirate
 Weapon_Skulls,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Skulls
 Weapon_HighTecLightning,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,HighTecLightning
@@ -937,6 +942,16 @@ Hat_Formal,1,Hat,MeleeHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Formal
 Suit_Formal,1,Suit,JackpotGold,None,0.23715,3,0.9,0.58,1.14,TRUE,Formal
 Aura_Formal,1,Aura,SlashBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Formal
 Slash_Formal,1,Slash,GoldGunDamage,None,0.043214,3,0.9,0.58,1.14,TRUE,Formal
+Weapon_Nutcracker,1,Weapon,CritDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,Nutcracker
+Hat_Nutcracker,1,Hat,SpellHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Nutcracker
+Suit_Nutcracker,1,Suit,GoldBoss,None,0.23715,3,0.9,0.58,1.14,TRUE,Nutcracker
+Aura_Nutcracker,1,Aura,HelmetBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Nutcracker
+Slash_Nutcracker,1,Slash,UltraDaggerDamage,None,0.043214,3,0.9,0.58,1.14,TRUE,Nutcracker
+Weapon_Retaliator,5,Weapon,DamagePerSkillPoint,AllActiveSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Retaliator
+Weapon_DivineRetribution,5,Weapon,AllDamage,DoomBonusDamage,5.5552,20,0.9,0.58,1.14,FALSE,DivineRetribution
+Slash_DrunkenHammer,5,Slash,BeastBladeDamage,StageSkipMonsterSpawnChance,1.4632,25,0.9,0.58,1.15,FALSE,DrunkenHammer
+Aura_TinyTitanTree,5,Aura,CritDamage,KratosMonsterSpawnChance,7.44,25,0.9,0.58,1.155,FALSE,TinyTitanTree
+Hat_OathsBurden,5,Hat,SwordAttackDamage,MegaBombSpawnChance,1.7112,25,0.9,0.58,1.15,FALSE,OathsBurden
 Weapon_AlphaHeart,5,Weapon,DamagePerOwnedCardLevel,AnyContractBonusBoost,6.944,25,0.9,0.58,1.16,FALSE,AlphaHeart
 Hat_ElderSnow,5,Hat,AllHelperDamage,HelperBoostSkillAmount,12.152,25,0.9,0.58,1.16,FALSE,ElderSnow
 Suit_ShadowMagician,5,Suit,MultiMonstersGold,GoldAll,17.484,25,0.9,0.58,1.155,FALSE,ShadowMagician
@@ -952,8 +967,3 @@ Slash_Kronus,5,Slash,TwilightBoost,TwilightFairyStageSkip,1.0168,25,0.9,0.58,1.1
 Aura_Sophia,5,Aura,CritDamage,DeadlyDamageCompanion,7.44,25,0.9,0.58,1.155,FALSE,Sophia
 Aura_Damon,5,Aura,TapDamage,TapBoostSkillDuration,10.416,25,0.9,0.58,1.16,FALSE,Damon
 Aura_Gulbrand,5,Aura,AllHelperDamage,HelperBoostCompanionAttackRate,12.152,25,0.9,0.58,1.16,FALSE,Gulbrand
-Weapon_Retaliator,5,Weapon,DamagePerSkillPoint,AllActiveSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Retaliator
-Weapon_DivineRetribution,5,Weapon,AllDamage,DoomBonusDamage,5.5552,20,0.9,0.58,1.14,FALSE,DivineRetribution
-Slash_DrunkenHammer,5,Slash,BeastBladeDamage,StageSkipMonsterSpawnChance,1.4632,25,0.9,0.58,1.15,FALSE,DrunkenHammer
-Aura_TinyTitanTree,5,Aura,CritDamage,KratosMonsterSpawnChance,7.44,25,0.9,0.58,1.155,FALSE,TinyTitanTree
-Hat_OathsBurden,5,Hat,SwordAttackDamage,MegaBombSpawnChance,1.7112,25,0.9,0.58,1.15,FALSE,OathsBurden

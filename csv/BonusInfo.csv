@@ -150,6 +150,7 @@ DamageOverTimePercent,Unused,None,None,True,False,True,False,False,False,0,False
 DamagePerConsecutiveLoginDay,Damage per Login Day (max 14),Damage,None,False,False,False,False,False,False,0,False
 DamagePerOwnedCardLevel,Damage per owned raid card level,Damage,None,False,False,True,False,False,False,0,True
 DamagePerEquipmentSet,Damage per completed equipment set,Damage,None,False,False,False,False,False,False,0,False
+DamagePerUniqueSet,Damage per completed Unique equipment set,Damage,None,False,False,False,False,False,False,0,False
 DamagePerHelperWeapon,Damage per Individual Helper Weapon,Damage,None,False,False,True,False,False,False,0,True
 DamagePerClanScroll,Damage per Individual Clan Scroll,Damage,None,False,False,True,False,False,False,0,True
 DamagePerMythicSet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,False,0,False
@@ -175,6 +176,7 @@ DoomBonusDamageBase,The base strength of doom per effect count.,None,None,False,
 DoomBonusDamageMaxCount,The maximum amount of times doom damage may increase.,None,None,True,False,False,False,False,False,0,False
 EquipmentPetEffect,Multiplies the effect of armour pet bonuses,None,None,False,False,False,False,False,False,0,False
 EquipmentRarityChance,Increases the chance for rare or better equipment drops.,None,None,False,False,False,False,False,False,0,False
+EquipmentUniqueChance,Increases the chance for Unique equipment drops.,None,None,False,False,False,False,False,False,0,False
 EquipmentSecondaryDamageEffect,Increases the secondary damage effects on Weapons and Hats,None,None,False,False,False,False,False,False,0,False
 EquippedEquipmentLevel,Gives a flat additive increase to equipped equipment level.,None,None,True,False,False,False,False,False,0,False
 ExoticPetDamageEffect,Increases the strength of damage type effects given by Exotic pets.,Damage,None,False,False,False,False,False,False,0,False

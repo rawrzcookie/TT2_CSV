@@ -1,5 +1,5 @@
 Version,Changes,Don't DELETE
-"7.4.0 (Nov 6,2024)","New Features: 
+"7.4.0 (Nov 6,2024)","New Features:
 The Toastmaster event equipment set:
 * 10x All Damage
 Starcaller Seer legendary equipment set:
@@ -60,7 +60,7 @@ Fixed issue where All Raid Base Damage bonuses would not correctly update the pl
 Fixed issue where a purchased bundle may display as unpurchased
 Fixed minor visual issues
 Fixed various game crashes
-Fixed minor localization issues.",
+Fixed minor localization issues",
 "7.3.0 (Oct 8, 2024)","
 New Features:
 - Raid Research Tree:

@@ -1,0 +1,4 @@
+StartRank,EndRank,LeaderboardPosition,RankReward
+1,5,Top 5 Players in Bomb Game,"Title:11,Frame:FrameBombChristmas2024Top10,Frame:FrameBombChristmas2024Top100"
+6,25,Top 25 Players in Bomb Game,"Frame:FrameBombChristmas2024Top10,Frame:FrameBombChristmas2024Top100"
+26,100,Top 100 Players in Bomb Game,Frame:FrameBombChristmas2024Top100
