@@ -1,5 +1,5 @@
 StringID,English_Translator,Screenshot,Note,English,ChineseTrad,ChineseSimp,Japanese,Korean,Danish,Dutch,French,German,Italian,Norwegian,Russian,Spanish,Swedish,Turkish,Portuguese
-TEST_UPDATE_STRING1,Test Update String 1,,,Test Update String 1,測試更新字串 1,测试更新字串 1,テスト更新文字列 1,테스트 업데이트 문자열 1,Testopdateringsstreng 1,Testupdatetekenreeks 1,Tester la chaîne de mise à jour 1,Testen Sie die Aktualisierungszeichenfolge 1,Prova la stringa di aggiornamento 1,Testoppdateringsstreng 1,Тестовое обновление строки 1,Cadena de actualización de prueba 1,Testuppdateringssträng 1,Test Güncelleme Dizisi 1,Sequência de atualização de teste 1
+TEST_UPDATE_STRING1,Test Update String 1,,,Test Update String 1,測試更新字串 1,测试更新字串 1,テスト更新文字列 1,테스트 업데이트 문자열 1,Testopdateringsstreng 1,Testupdatetekenreeks 1,Tester la chaîne de mise à jour 1,Testen Sie die Aktualisierungszeichenfolge 1,Prova la stringa di aggiornamento 1,Testoppdateringsstreng 1,Тестовое обновление строки 1,Cadena de actualización de prueba 1,Testuppdateringssträng 1,Test Güncelleme Dizisi 1,Testar sequência de atualização 1
 CHALLENGE_TOURNAMENT_RULES_MAIN_TITLE_4,golden barrage!,,,Golden Barrage!,金色彈幕！,金色弹幕！,黄金の弾幕！,황금 공세!,Gyldne Spærreild!,Gouden Spervuur!,Barrage D'Or !,Goldenes Sperrfeuer!,Sbarramento D'Oro!,Gyllen Bom!,Золотой Залп!,Bombardeo Dorado!,Gyllene Störtflod!,Altın Baraj!,Barragem Dourada!
 CHALLENGE_TOURNAMENT_RULES_MAIN_DESC_4,unknown sources of gold twinkle throughout the abyss. the gold gun is overloaded!,,Broken shots,Unknown sources of gold twinkle throughout the Abyss. The Gold Gun is overloaded!,未知來源的黃金在深淵中閃爍。金槍超載！,未知来源的黄金在深渊中闪烁。金枪超载！,未知の金源が深淵全体できらめきます。ゴールドガンは過負荷です！,심연 전체에 알려지지 않은 금의 출처가 반짝입니다. 금총이 과부하되었습니다!,Ukendte Kilder Til Guld Glimter Gennem Afgrunden. Guldpistolen Er Overbelastet!,Onbekende Bronnen Van Goud Fonkelen Door De Afgrond. Het Gouden Pistool Is Overbelast!,Des Sources Inconnues D'Or Scintillent Dans Les Abysses. Le Pistolet En Or Est Surchargé!,Unbekannte Goldquellen Funkeln Im Abgrund. Die Goldene Waffe Ist Überladen!,Fonti Sconosciute D'Oro Brillano Attraverso L'Abisso. La Pistola D'Oro È Sovraccarica!,Ukjente Kilder Til Gull Glimter Gjennom Avgrunnen. Gullpistolen Er Overbelastet!,Неведомые Источники Золота Мерцают По Всей Бездне. Золотой Пистолет Перегружен!,Fuentes Desconocidas De Oro Brillan A Lo Largo Del Abismo. ¡La Pistola De Oro Está Sobrecargada!,Okända Guldkällor Blinkar Genom Avgrunden. Guldpistolen Är Överladdad!,Bilinmeyen Altın Kaynakları Uçurumun Her Tarafında Parıldıyor. Altın Silah Aşırı Yüklendi!,Fontes Desconhecidas De Ouro Brilham Em Todo O Abismo. A Arma De Ouro Está Sobrecarregada!
 CHALLENGE_TOURNAMENT_RULES_MAIN_TITLE_5,blade bombardment!,,,Blade Bombardment!,刀片轟炸！,刀片轰炸！,ブレード爆撃！,블레이드 폭격!,Blade Bombardement!,Blade Bombardement!,Bombardement De Lame!,Bombardierung Von Klingen!,Bombardamento Blade!,Bladbombardement!,Blade Bombardment!,Bombardeo De Cuchilla!,Blade Bombardment!,Blade Bombardı!,Bombardeio De Lâmina!
@@ -261,6 +261,44 @@ WINTER2024RAIDBUNDLE_TITLE,raid blizzard bundle!,,Winter2024RaidResource,Raid Bl
 WINTER2024RAIDBUNDLE_CATCH_DESC,increase your raid damage!,,Winter2024RaidResource,Increase your Raid damage!,增加你的突襲傷害！,增加你的突袭伤害！,レイドダメージを増加させましょう！,레이드 데미지를 높여보세요!,Øge Din Raid Skade!,Verhoog Je Raid-Schade!,Augmentez Les Dégâts De Votre Raid !,Erhöhe Deinen Raid-Schaden!,Aumenta Il Danno Del Tuo Raid!,Øk Raidskaden Din!,Увеличьте Урон По Рейду!,¡Aumenta El Daño De Tu Incursión!,Öka Din Raidskada!,Baskın Hasarınızı Artırın!,Aumente O Dano Do Seu Ataque!
 SCISSORSBUNDLE_TITLE,present panic!,,Scissors,Present Panic!,呈現恐慌包！,呈现恐慌包！,パニックバンドルをプレゼント！,패닉 번들을 선물하세요!,Nuværende Panikbundt!,Huidige Paniekbundel!,Présentez Un Pack De Panique !,Präsentieren Sie Ein Panikpaket!,Presenta Il Pacchetto Panico!,Nåværende Panikkpakke!,Настоящий Паник-Пакет!,¡Presente Paquete De Pánico!,Nuvarande Panikpaket!,Panik Paketini Sunuyorum!,Presente Pacote De Pânico!
 SCISSORSBUNDLE_CATCH_DESC,"open presents and collect your rewards!
+limited time only!",,Scissors,"Open presents and collect your rewards!
+Limited Time Only!","打開禮物並領取獎勵！
+僅限時間！","打开礼物并领取奖励！
+仅限时间！","プレゼントを開けて報酬を集めましょう！
+期間限定！","선물을 열고 보상을 받으세요!
+제한된 시간에만!","Åbn Gaver Og Saml Dine Belønninger!
+Kun Begrænset Tid!","Open Cadeautjes En Verzamel Je Beloningen!
+Slechts Beperkte Tijd!","Ouvrez Les Cadeaux Et Récupérez Vos Récompenses !
+Temps Limité Seulement !","Öffne Geschenke Und Sammle Deine Belohnungen!
+Nur Für Begrenzte Zeit!","Apri I Regali E Raccogli I Tuoi Premi!
+Solo Per Un Tempo Limitato!","Åpne Gaver Og Samle Belønningene Dine!
+Kun Begrenset Tid!","Открывайте Подарки И Получайте Награды!
+Только Ограниченное Время!","¡Abre Regalos Y Recoge Tus Recompensas!
+¡Solo Por Tiempo Limitado!","Öppna Presenter Och Samla Dina Belöningar!
+Endast Begränsad Tid!","Hediyeleri Açın Ve Ödüllerinizi Toplayın!
+Sadece Sınırlı Bir Süre Için!","Abra Presentes E Receba Suas Recompensas!
+Apenas Por Tempo Limitado!"
+SCISSORSBUNDLE1_TITLE,present panic!,,Scissors,Present Panic!,呈現恐慌包！,呈现恐慌包！,パニックバンドルをプレゼント！,패닉 번들을 선물하세요!,Nuværende Panikbundt!,Huidige Paniekbundel!,Présentez Un Pack De Panique !,Präsentieren Sie Ein Panikpaket!,Presenta Il Pacchetto Panico!,Nåværende Panikkpakke!,Настоящий Паник-Пакет!,¡Presente Paquete De Pánico!,Nuvarande Panikpaket!,Panik Paketini Sunuyorum!,Presente Pacote De Pânico!
+SCISSORSBUNDLE1_CATCH_DESC,"open presents and collect your rewards!
+limited time only!",,Scissors,"Open presents and collect your rewards!
+Limited Time Only!","打開禮物並領取獎勵！
+僅限時間！","打开礼物并领取奖励！
+仅限时间！","プレゼントを開けて報酬を集めましょう！
+期間限定！","선물을 열고 보상을 받으세요!
+제한된 시간에만!","Åbn Gaver Og Saml Dine Belønninger!
+Kun Begrænset Tid!","Open Cadeautjes En Verzamel Je Beloningen!
+Slechts Beperkte Tijd!","Ouvrez Les Cadeaux Et Récupérez Vos Récompenses !
+Temps Limité Seulement !","Öffne Geschenke Und Sammle Deine Belohnungen!
+Nur Für Begrenzte Zeit!","Apri I Regali E Raccogli I Tuoi Premi!
+Solo Per Un Tempo Limitato!","Åpne Gaver Og Samle Belønningene Dine!
+Kun Begrenset Tid!","Открывайте Подарки И Получайте Награды!
+Только Ограниченное Время!","¡Abre Regalos Y Recoge Tus Recompensas!
+¡Solo Por Tiempo Limitado!","Öppna Presenter Och Samla Dina Belöningar!
+Endast Begränsad Tid!","Hediyeleri Açın Ve Ödüllerinizi Toplayın!
+Sadece Sınırlı Bir Süre Için!","Abra Presentes E Receba Suas Recompensas!
+Apenas Por Tempo Limitado!"
+SCISSORS1BUNDLE_TITLE,present panic!,,Scissors,Present Panic!,呈現恐慌包！,呈现恐慌包！,パニックバンドルをプレゼント！,패닉 번들을 선물하세요!,Nuværende Panikbundt!,Huidige Paniekbundel!,Présentez Un Pack De Panique !,Präsentieren Sie Ein Panikpaket!,Presenta Il Pacchetto Panico!,Nåværende Panikkpakke!,Настоящий Паник-Пакет!,¡Presente Paquete De Pánico!,Nuvarande Panikpaket!,Panik Paketini Sunuyorum!,Presente Pacote De Pânico!
+SCISSORS1BUNDLE_CATCH_DESC,"open presents and collect your rewards!
 limited time only!",,Scissors,"Open presents and collect your rewards!
 Limited Time Only!","打開禮物並領取獎勵！
 僅限時間！","打开礼物并领取奖励！
