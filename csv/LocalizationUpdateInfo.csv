@@ -1,5 +1,5 @@
 StringID,English_Translator,Screenshot,Note,English,ChineseTrad,ChineseSimp,Japanese,Korean,Danish,Dutch,French,German,Italian,Norwegian,Russian,Spanish,Swedish,Turkish,Portuguese
-TEST_UPDATE_STRING1,Test Update String 1,,,Test Update String 1,測試更新字串 1,测试更新字串 1,テスト更新文字列 1,테스트 업데이트 문자열 1,Testopdateringsstreng 1,Testupdatetekenreeks 1,Tester la chaîne de mise à jour 1,Testen Sie die Aktualisierungszeichenfolge 1,Prova la stringa di aggiornamento 1,Testoppdateringsstreng 1,Тестовое обновление строки 1,Cadena de actualización de prueba 1,Testuppdateringssträng 1,Test Güncelleme Dizisi 1,Testar sequência de atualização 1
+TEST_UPDATE_STRING1,Test Update String 1,,,Test Update String 1,測試更新字串 1,测试更新字串 1,テスト更新文字列 1,테스트 업데이트 문자열 1,Testopdateringsstreng 1,Testupdatetekenreeks 1,Tester la chaîne de mise à jour 1,Testen Sie die Aktualisierungszeichenfolge 1,Prova la stringa di aggiornamento 1,Testoppdateringsstreng 1,Тестовое обновление строки 1,Cadena de actualización de prueba 1,Testuppdateringssträng 1,Test Güncelleme Dizisi 1,Sequência de atualização de teste 1
 CHALLENGE_TOURNAMENT_RULES_MAIN_TITLE_4,golden barrage!,,,Golden Barrage!,金色彈幕！,金色弹幕！,黄金の弾幕！,황금 공세!,Gyldne Spærreild!,Gouden Spervuur!,Barrage D'Or !,Goldenes Sperrfeuer!,Sbarramento D'Oro!,Gyllen Bom!,Золотой Залп!,Bombardeo Dorado!,Gyllene Störtflod!,Altın Baraj!,Barragem Dourada!
 CHALLENGE_TOURNAMENT_RULES_MAIN_DESC_4,unknown sources of gold twinkle throughout the abyss. the gold gun is overloaded!,,Broken shots,Unknown sources of gold twinkle throughout the Abyss. The Gold Gun is overloaded!,未知來源的黃金在深淵中閃爍。金槍超載！,未知来源的黄金在深渊中闪烁。金枪超载！,未知の金源が深淵全体できらめきます。ゴールドガンは過負荷です！,심연 전체에 알려지지 않은 금의 출처가 반짝입니다. 금총이 과부하되었습니다!,Ukendte Kilder Til Guld Glimter Gennem Afgrunden. Guldpistolen Er Overbelastet!,Onbekende Bronnen Van Goud Fonkelen Door De Afgrond. Het Gouden Pistool Is Overbelast!,Des Sources Inconnues D'Or Scintillent Dans Les Abysses. Le Pistolet En Or Est Surchargé!,Unbekannte Goldquellen Funkeln Im Abgrund. Die Goldene Waffe Ist Überladen!,Fonti Sconosciute D'Oro Brillano Attraverso L'Abisso. La Pistola D'Oro È Sovraccarica!,Ukjente Kilder Til Gull Glimter Gjennom Avgrunnen. Gullpistolen Er Overbelastet!,Неведомые Источники Золота Мерцают По Всей Бездне. Золотой Пистолет Перегружен!,Fuentes Desconocidas De Oro Brillan A Lo Largo Del Abismo. ¡La Pistola De Oro Está Sobrecargada!,Okända Guldkällor Blinkar Genom Avgrunden. Guldpistolen Är Överladdad!,Bilinmeyen Altın Kaynakları Uçurumun Her Tarafında Parıldıyor. Altın Silah Aşırı Yüklendi!,Fontes Desconhecidas De Ouro Brilham Em Todo O Abismo. A Arma De Ouro Está Sobrecarregada!
 CHALLENGE_TOURNAMENT_RULES_MAIN_TITLE_5,blade bombardment!,,,Blade Bombardment!,刀片轟炸！,刀片轰炸！,ブレード爆撃！,블레이드 폭격!,Blade Bombardement!,Blade Bombardement!,Bombardement De Lame!,Bombardierung Von Klingen!,Bombardamento Blade!,Bladbombardement!,Blade Bombardment!,Bombardeo De Cuchilla!,Blade Bombardment!,Blade Bombardı!,Bombardeio De Lâmina!
@@ -317,3 +317,140 @@ Endast Begränsad Tid!","Hediyeleri Açın Ve Ödüllerinizi Toplayın!
 Sadece Sınırlı Bir Süre Için!","Abra Presentes E Receba Suas Recompensas!
 Apenas Por Tempo Limitado!"
 PRESTIGE_ONCE_TO_UNLOCK,Prestige once to unlock,,,Reach Stage 60 to unlock,聲望一次解鎖,声望一次解锁,プレステージに一度到達するとアンロック,프레스티지 잠금 해제에 한 번,Prestige én gang for at låse,Prestige eenmaal om unlock,Prestige une fois pour déverrouiller,Prestige einmal zu entsperren,Prestige una volta per sbloccare,Prestige gang for å låse opp,"Престиж один раз, чтобы разблокировать",Prestige una vez para desbloquear,Prestige låser upp,Prestige kilidini kez,Prestige uma vez para desbloquear
+SCISSORSBUNDLE_TITLE,present panic!,,Scissors,Present Panic!,呈現恐慌包！,呈现恐慌包！,パニックバンドルをプレゼント！,패닉 번들을 선물하세요!,Nuværende Panikbundt!,Huidige Paniekbundel!,Présentez Un Pack De Panique !,Präsentieren Sie Ein Panikpaket!,Presenta Il Pacchetto Panico!,Nåværende Panikkpakke!,Настоящий Паник-Пакет!,¡Presente Paquete De Pánico!,Nuvarande Panikpaket!,Panik Paketini Sunuyorum!,Presente Pacote De Pânico!
+SCISSORSBUNDLE_CATCH_DESC,"open presents and collect your rewards!
+limited time only!",,Scissors,"Open presents and collect your rewards!
+Limited Time Only!","打開禮物並領取獎勵！
+僅限時間！","打开礼物并领取奖励！
+仅限时间！","プレゼントを開けて報酬を集めましょう！
+期間限定！","선물을 열고 보상을 받으세요!
+제한된 시간에만!","Åbn Gaver Og Saml Dine Belønninger!
+Kun Begrænset Tid!","Open Cadeautjes En Verzamel Je Beloningen!
+Slechts Beperkte Tijd!","Ouvrez Les Cadeaux Et Récupérez Vos Récompenses !
+Temps Limité Seulement !","Öffne Geschenke Und Sammle Deine Belohnungen!
+Nur Für Begrenzte Zeit!","Apri I Regali E Raccogli I Tuoi Premi!
+Solo Per Un Tempo Limitato!","Åpne Gaver Og Samle Belønningene Dine!
+Kun Begrenset Tid!","Открывайте Подарки И Получайте Награды!
+Только Ограниченное Время!","¡Abre Regalos Y Recoge Tus Recompensas!
+¡Solo Por Tiempo Limitado!","Öppna Presenter Och Samla Dina Belöningar!
+Endast Begränsad Tid!","Hediyeleri Açın Ve Ödüllerinizi Toplayın!
+Sadece Sınırlı Bir Süre Için!","Abra Presentes E Receba Suas Recompensas!
+Apenas Por Tempo Limitado!"
+SCISSORS1BUNDLE_TITLE,present panic!,,Scissors1,Present Panic!,呈現恐慌包！,呈现恐慌包！,パニックバンドルをプレゼント！,패닉 번들을 선물하세요!,Nuværende Panikbundt!,Huidige Paniekbundel!,Présentez Un Pack De Panique !,Präsentieren Sie Ein Panikpaket!,Presenta Il Pacchetto Panico!,Nåværende Panikkpakke!,Настоящий Паник-Пакет!,¡Presente Paquete De Pánico!,Nuvarande Panikpaket!,Panik Paketini Sunuyorum!,Presente Pacote De Pânico!
+SCISSORS1BUNDLE_CATCH_DESC,"open presents and collect your rewards!
+limited time only!",,Scissors1,"Open presents and collect your rewards!
+Limited Time Only!","打開禮物並領取獎勵！
+僅限時間！","打开礼物并领取奖励！
+仅限时间！","プレゼントを開けて報酬を集めましょう！
+期間限定！","선물을 열고 보상을 받으세요!
+제한된 시간에만!","Åbn Gaver Og Saml Dine Belønninger!
+Kun Begrænset Tid!","Open Cadeautjes En Verzamel Je Beloningen!
+Slechts Beperkte Tijd!","Ouvrez Les Cadeaux Et Récupérez Vos Récompenses !
+Temps Limité Seulement !","Öffne Geschenke Und Sammle Deine Belohnungen!
+Nur Für Begrenzte Zeit!","Apri I Regali E Raccogli I Tuoi Premi!
+Solo Per Un Tempo Limitato!","Åpne Gaver Og Samle Belønningene Dine!
+Kun Begrenset Tid!","Открывайте Подарки И Получайте Награды!
+Только Ограниченное Время!","¡Abre Regalos Y Recoge Tus Recompensas!
+¡Solo Por Tiempo Limitado!","Öppna Presenter Och Samla Dina Belöningar!
+Endast Begränsad Tid!","Hediyeleri Açın Ve Ödüllerinizi Toplayın!
+Sadece Sınırlı Bir Süre Için!","Abra Presentes E Receba Suas Recompensas!
+Apenas Por Tempo Limitado!"
+SCISSORS2BUNDLE_TITLE,present panic!,,Scissors2,Present Panic!,呈現恐慌包！,呈现恐慌包！,パニックバンドルをプレゼント！,패닉 번들을 선물하세요!,Nuværende Panikbundt!,Huidige Paniekbundel!,Présentez Un Pack De Panique !,Präsentieren Sie Ein Panikpaket!,Presenta Il Pacchetto Panico!,Nåværende Panikkpakke!,Настоящий Паник-Пакет!,¡Presente Paquete De Pánico!,Nuvarande Panikpaket!,Panik Paketini Sunuyorum!,Presente Pacote De Pânico!
+SCISSORS2BUNDLE_CATCH_DESC,"open presents and collect your rewards!
+limited time only!",,Scissors2,"Open presents and collect your rewards!
+Limited Time Only!","打開禮物並領取獎勵！
+僅限時間！","打开礼物并领取奖励！
+仅限时间！","プレゼントを開けて報酬を集めましょう！
+期間限定！","선물을 열고 보상을 받으세요!
+제한된 시간에만!","Åbn Gaver Og Saml Dine Belønninger!
+Kun Begrænset Tid!","Open Cadeautjes En Verzamel Je Beloningen!
+Slechts Beperkte Tijd!","Ouvrez Les Cadeaux Et Récupérez Vos Récompenses !
+Temps Limité Seulement !","Öffne Geschenke Und Sammle Deine Belohnungen!
+Nur Für Begrenzte Zeit!","Apri I Regali E Raccogli I Tuoi Premi!
+Solo Per Un Tempo Limitato!","Åpne Gaver Og Samle Belønningene Dine!
+Kun Begrenset Tid!","Открывайте Подарки И Получайте Награды!
+Только Ограниченное Время!","¡Abre Regalos Y Recoge Tus Recompensas!
+¡Solo Por Tiempo Limitado!","Öppna Presenter Och Samla Dina Belöningar!
+Endast Begränsad Tid!","Hediyeleri Açın Ve Ödüllerinizi Toplayın!
+Sadece Sınırlı Bir Süre Için!","Abra Presentes E Receba Suas Recompensas!
+Apenas Por Tempo Limitado!"
+SCISSORS3BUNDLE_TITLE,present panic!,,Scissors3,Present Panic!,呈現恐慌包！,呈现恐慌包！,パニックバンドルをプレゼント！,패닉 번들을 선물하세요!,Nuværende Panikbundt!,Huidige Paniekbundel!,Présentez Un Pack De Panique !,Präsentieren Sie Ein Panikpaket!,Presenta Il Pacchetto Panico!,Nåværende Panikkpakke!,Настоящий Паник-Пакет!,¡Presente Paquete De Pánico!,Nuvarande Panikpaket!,Panik Paketini Sunuyorum!,Presente Pacote De Pânico!
+SCISSORS3BUNDLE_CATCH_DESC,"open presents and collect your rewards!
+limited time only!",,Scissors3,"Open presents and collect your rewards!
+Limited Time Only!","打開禮物並領取獎勵！
+僅限時間！","打开礼物并领取奖励！
+仅限时间！","プレゼントを開けて報酬を集めましょう！
+期間限定！","선물을 열고 보상을 받으세요!
+제한된 시간에만!","Åbn Gaver Og Saml Dine Belønninger!
+Kun Begrænset Tid!","Open Cadeautjes En Verzamel Je Beloningen!
+Slechts Beperkte Tijd!","Ouvrez Les Cadeaux Et Récupérez Vos Récompenses !
+Temps Limité Seulement !","Öffne Geschenke Und Sammle Deine Belohnungen!
+Nur Für Begrenzte Zeit!","Apri I Regali E Raccogli I Tuoi Premi!
+Solo Per Un Tempo Limitato!","Åpne Gaver Og Samle Belønningene Dine!
+Kun Begrenset Tid!","Открывайте Подарки И Получайте Награды!
+Только Ограниченное Время!","¡Abre Regalos Y Recoge Tus Recompensas!
+¡Solo Por Tiempo Limitado!","Öppna Presenter Och Samla Dina Belöningar!
+Endast Begränsad Tid!","Hediyeleri Açın Ve Ödüllerinizi Toplayın!
+Sadece Sınırlı Bir Süre Için!","Abra Presentes E Receba Suas Recompensas!
+Apenas Por Tempo Limitado!"
+DEC2024RESOURCEBUNDLE_TITLE,raid loyalty bundle!,,,Raid Loyalty Bundle!,突襲忠誠包！,突袭忠诚包！,忠誠バンドルを襲撃！,레이드 로열티 번들!,Raid Loyalitet Bundt!,Raid Loyaliteit Bundel!,Un Raid Paquet De Fidélité!,Razzia Treuebündel!,Razziare Fascio Fedeltà!,Raid Lojalitet Bunt!,Набег Лояльности Сверток!,Asaltar Paquete De Lealtad!,Raid Lojalitet Bunt!,Sadakat Demetini Baskını!,Invadir Pacote Lealdade!
+DEC2024RESOURCEBUNDLE_CATCH_DESC,become a stronger clan mate!,,Winter2024OneDayPetsBundle,Become A Stronger Clan Mate!,成為一個更強大的氏族隊友！,成为一个更强大的氏族队友！,強い一族メイトになります！,클랜원으로서 더 강해지세요!,Blive En Stærkere Klan Mate!,Uitgegroeid Tot Een Sterkere Clan Mate!,Devenir Un Clan Plus Fort Compagnon!,Zu Einem Stärkeren Clan Kumpel!,Diventare Un Compagno Di Clan Più Forte!,Bli En Sterkere Klan Kompis!,Стать Сильным Кланом Мат!,Convertido En Un Compañero De Clan Más Fuerte!,Bli En Starkare Klan Mate!,Daha Güçlü Bir Klan Arkadaşı Haline!,Tornar-Se Um Companheiro De Clã Mais Forte!
+WINTER2024ONEDAYPETSBUNDLE_TITLE,happy holidays pet bundle!,,Winter2024OneDayRaidBundle,Happy Holidays Pet Bundle!,節日快樂寵物捆綁包！,节日快乐宠物捆绑包！,ハッピーホリデーペットバンドル！,해피 홀리데이 애완 동물 번들!,Tillykke Med Helligdage Pet Bundle!,Fijne Vakantie Pet Bundel!,Bundle Pour Animaux De Compagnie De Joyeuses Fêtes!,Frohe Feiertage Pet Bundle!,Buone Vacanze Pacchetto Per Animali Domestici!,God Ferie Kjæledyrbunt!,С Праздником Питомца!,¡Felices Fiestas De Paquete De Mascotas!,Happy Holidays Pet Bundle!,Mutlu Tatiller Pet Paketi!,Boas Férias Pacote De Animais De Estimação!
+WINTER2024ONEDAYPETSBUNDLE_CATCH_DESC,"massive egg savings!
+one day only!",,Winter2024OneDayLegendaryBundle,"Massive Egg Savings!
+One Day Only!","大量節省雞蛋！
+只有一天！","大量节省鸡蛋！
+只有一天！","大量の卵の節約！
+ある日だけ！","거대한 계란 절약!
+언젠가!","Massive Ægbesparelser!
+Kun En Dag!","Enorme Eierbesparingen!
+Slechts Een Dag!","Économies D'Oeufs Massives!
+Un Jour Seulement!","Massive Eiereinsparungen!
+Nur Ein Tag!","Risparmio Di Uova Enormi!
+Un Solo Giorno!","Massive Eggbesparelser!
+Bare En Dag!","Массовая Экономия Яиц!
+Только Один День!","¡Ahorros De Huevos Masivos!
+¡Solo Un Dia!","Massiva Äggbesparingar!
+En Dag Bara!","Masif Yumurta Tasarrufu!
+Sadece Bir Gün!","Economia Maciça De Ovos!
+Somente Um Dia!"
+WINTER2024ONEDAYRAIDBUNDLE_TITLE,happy holidays raiding bundle!,,,Happy Holidays Raiding Bundle!,節日快樂襲擊捆綁包！,节日快乐袭击捆绑包！,ハッピーホリデーレイディングバンドル！,해피 홀리데이 래딩 번들!,Glædelig Ferie Raiding Bundle!,Fijne Feestdagen Overvallen Bundel!,Bundle De Raids De Joyeuses Fêtes!,Frohe Holidays Raid Bündel!,Buone Vacanze Facchio Raiding!,God Høytid Raiding Bunt!,"С Праздником, Набег На Рейд!","¡Felices Fiestas, Paquete De Ataques!",Glad Helgdagar Att Raida Bunt!,Baskınlık Paketi Mutlu Tatiller!,Boas Festas De Invasão!
+WINTER2024ONEDAYRAIDBUNDLE_CATCH_DESC,"a blizzard of dust!
+one day only!",,,"A Blizzard of Dust!
+One Day Only!","暴風雪！
+只有一天！","暴风雪！
+只有一天！","ほこりの吹雪！
+ある日だけ！","먼지의 눈보라!
+언젠가!","En Snestorm Af Støv!
+Kun En Dag!","Een Sneeuwstorm Van Stof!
+Slechts Een Dag!","Un Blizzard De Poussière!
+Un Jour Seulement!","Ein Schneesturm!
+Nur Ein Tag!","Una Blizzard Di Polvere!
+Un Solo Giorno!","En Snøstorm Av Støv!
+Bare En Dag!","Метель Пыли!
+Только Один День!","¡Una Tormenta De Polvo!
+¡Solo Un Dia!","En Snöstorm Av Damm!
+En Dag Bara!","Bir Kar Fırtınası Toz!
+Sadece Bir Gün!","Uma Nevasca De Poeira!
+Somente Um Dia!"
+WINTER2024ONEDAYLEGENDARYBUNDLE_TITLE,happy holidays legendary bundle!,,,Happy Holidays Legendary Bundle!,節日快樂傳奇束！,节日快乐传奇束！,ハッピーホリデーの伝説的なバンドル！,해피 홀리데이 전설적인 번들!,Glædelig Ferie Legendarisk Bundt!,Fijne Vakantie Legendarische Bundel!,Bundle Légendaire De Joyeuses Fêtes!,Frohe Holidays Legendary Bundle!,Buon Pacchetto Leggendario!,God Høytid Legendarisk Pakke!,С Праздником Легендарного Пакета!,¡Felices Fiestas Legendary Bundle!,Glad Semester Legendary Bundle!,Mutlu Tatiller Efsanevi Paket!,Boas Festas De Festas Lendárias!
+WINTER2024ONEDAYLEGENDARYBUNDLE_CATCH_DESC,"become strong with legendary equipment!
+one day only!",,,"Become strong with legendary equipment!
+One Day Only!","傳奇設備變得強大！
+只有一天！","传奇设备变得强大！
+只有一天！","伝説的な機器で強くなります！
+ある日だけ！","전설적인 장비로 강해 지십시오!
+언젠가!","Bliv Stærk Med Legendarisk Udstyr!
+Kun En Dag!","Word Sterk Met Legendarische Apparatuur!
+Slechts Een Dag!","Devenez Fort Avec Un Équipement Légendaire!
+Un Jour Seulement!","Werden Sie Stark Mit Legendärer Ausrüstung!
+Nur Ein Tag!","Diventa Forte Con Le Attrezzature Leggendarie!
+Un Solo Giorno!","Bli Sterk Med Legendarisk Utstyr!
+Bare En Dag!","Станьте Сильным С Легендарным Оборудованием!
+Только Один День!","¡Fídate Con Equipos Legendarios!
+¡Solo Un Dia!","Bli Stark Med Legendarisk Utrustning!
+En Dag Bara!","Efsanevi Ekipmanla Güçlü Olun!
+Sadece Bir Gün!","Torne -Se Forte Com Equipamentos Lendários!
+Somente Um Dia!"
+DEC2024RAIDSELECTIONBUNDLE_TITLE,raid damage bundle!,,DEC2024RaidSelection,Raid Damage Bundle!,突襲忠誠包！,突袭忠诚包！,忠誠バンドルを襲撃！,레이드 로열티 번들!,Raid Loyalitet Bundt!,Raid Loyaliteit Bundel!,Un Raid Paquet De Fidélité!,Razzia Treuebündel!,Razziare Fascio Fedeltà!,Raid Lojalitet Bunt!,Набег Лояльности Сверток!,Asaltar Paquete De Lealtad!,Raid Lojalitet Bunt!,Sadakat Demetini Baskını!,Invadir Pacote Lealdade!
+DEC2024RAIDSELECTIONBUNDLE_TITLE,increase your raid damage!,,DEC2024RaidSelection,Increase your Raid damage!,成為一個更強大的氏族隊友！,成为一个更强大的氏族队友！,強い一族メイトになります！,클랜원으로서 더 강해지세요!,Blive En Stærkere Klan Mate!,Uitgegroeid Tot Een Sterkere Clan Mate!,Devenir Un Clan Plus Fort Compagnon!,Zu Einem Stärkeren Clan Kumpel!,Diventare Un Compagno Di Clan Più Forte!,Bli En Sterkere Klan Kompis!,Стать Сильным Кланом Мат!,Convertido En Un Compañero De Clan Más Fuerte!,Bli En Starkare Klan Mate!,Daha Güçlü Bir Klan Arkadaşı Haline!,Tornar-Se Um Companheiro De Clã Mais Forte!
