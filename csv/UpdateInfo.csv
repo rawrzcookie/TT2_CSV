@@ -1,4 +1,52 @@
 Version,Changes,Don't DELETE
+"7.5.0 (Dec 6,2024)","New Features:
+Curio Collector legendary equipment set
+10x All Damage per Unique Equipment Set
+1.5x Unique Equipment Drop Rate
+Toy Soldier event equipment set
+10x All Hero Damage
+Present Panic event
+Prestige event rework
+Get scissors on prestige
+Use scissors to open presents
+Open enough presents to unlock the next set of presents and receive rewards
+Opening a Winterfest Devil will reset your presents and remove the Winterfest Devil from the new set of presents
+Leaderboard with cosmetic rewards for top participants
+Present Panic event begins on December 11th, 2024
+Prestige for scissors and event currency
+Use scissors to open presents for rewards
+Chills and Thrills, Festive Bandit, Fierce Snowman, Jack Frost, Gingerbread Master, Sled Season, and Snow Master event equipment drops
+Clan quest with raid cards and wildcards
+4x Skill Point Titan Chest Promotion
+General Changes:
+Winterfest Visuals
+Changed loading screen
+Changed Chesterson and Fairy skins
+Guard Break raid card rework
+Added visuals for damage boost to titan parts
+Display will be similar to an affliction stack
+Abyssal Tournament Options panel
+Options panel enabled in Abyssal Tournaments
+Options panel will only contain options that pertain to Abyssal Tournaments
+Player Data Changes
+Added raid research tree to API
+Added raid research tree to player export
+Companion Frenzy Abyssal Tournament Rework
+Changed artifact pools to help streamline the early game
+Bug Fixes:
+Infodoc Optimization
+Reduced raid card infodoc sizes to remove unused and duplicate values
+Will result in slightly faster loading times
+Fixed issue where Pet Damage and Gunblade Damage could generate on the same helmet equipment
+Fixed issue where seasonal card level boosts could be duplicated
+Fixed issues where the Practice button could vanish
+Fixed skill points not correctly being collected on prestige
+Fixed issues where bundles could be offered to the wrong players
+Fixed issue where damage could be temporarily lost when changing from Abyssal Tournaments to main game
+Fixed issues with Guard Break and Sands of Time in Solo Raid Decks
+Fixed minor visual issues
+Fixed various game crashes
+Fixed minor localization issues",
 "7.4.0 (Nov 6,2024)","New Features:
 The Toastmaster event equipment set:
 * 10x All Damage
