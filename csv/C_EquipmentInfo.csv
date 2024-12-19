@@ -948,7 +948,7 @@ Suit_Nutcracker,1,Suit,GoldBoss,None,0.23715,3,0.9,0.58,1.14,TRUE,Nutcracker
 Aura_Nutcracker,1,Aura,HelmetBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Nutcracker
 Slash_Nutcracker,1,Slash,UltraDaggerDamage,None,0.043214,3,0.9,0.58,1.14,TRUE,Nutcracker
 Weapon_Retaliator,5,Weapon,DamagePerSkillPoint,AllActiveSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Retaliator
-Weapon_DivineRetribution,5,Weapon,AllDamage,DoomBonusDamage,5.5552,20,0.9,0.58,1.14,FALSE,DivineRetribution
+Weapon_DivineRetribution,5,Weapon,DamagePerATParticipation,DoomBonusDamage,6.944,25,0.9,0.58,1.16,FALSE,DivineRetribution
 Slash_DrunkenHammer,5,Slash,BeastBladeDamage,StageSkipMonsterSpawnChance,1.4632,25,0.9,0.58,1.15,FALSE,DrunkenHammer
 Aura_TinyTitanTree,5,Aura,CritDamage,KratosMonsterSpawnChance,7.44,25,0.9,0.58,1.155,FALSE,TinyTitanTree
 Hat_OathsBurden,5,Hat,SwordAttackDamage,MegaBombSpawnChance,1.7112,25,0.9,0.58,1.15,FALSE,OathsBurden
