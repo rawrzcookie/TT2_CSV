@@ -77,6 +77,7 @@ Aura_Doll,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Doll
 Aura_GoldenMech,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,GoldenMech
 Aura_GunpowderMage,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,GunpowderMage
 Aura_Collector,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Collector
+Aura_Fortress,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Fortress
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -224,6 +225,7 @@ Hat_Spacesuit,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Spacesui
 Hat_Greed,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Greed
 Hat_SoulCatcher,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,SoulCatcher
 Hat_TitanSouls,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,TitanSouls
+Hat_Fortress,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Fortress
 Hat_Pirate,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Pirate
 Hat_WaterSorcerer,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,WaterSorcerer
 Hat_DarkAngel,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAngel
@@ -284,6 +286,7 @@ Slash_WarHorn,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,WarHorn
 Slash_Spacesuit,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Spacesuit
 Slash_Runestone,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Runestone
 Slash_TitanSouls,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,TitanSouls
+Slash_Fortress,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Fortress
 Slash_BoneTribe,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,BoneTribe
 Slash_Mech,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,Mech
 Slash_ElectricWarlord,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,ElectricWarlord
@@ -487,6 +490,7 @@ Suit_WildCat,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,WildCat
 Suit_Shepherd,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Shepherd
 Suit_Padlock,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Padlock
 Suit_GunpowderMage,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,GunpowderMage
+Suit_Fortress,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Fortress
 Suit_Skulls,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Skulls
 Suit_Samurai,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Samurai
 Suit_FireKnight,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -608,6 +612,7 @@ Weapon_Aquamarine,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Aquamari
 Weapon_Shepherd,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Shepherd
 Weapon_GoldenMech,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,GoldenMech
 Weapon_PetQueen,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,PetQueen
+Weapon_Fortress,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Fortress
 Weapon_DarkAlien,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,DarkAlien
 Weapon_Mech,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,Mech
 Weapon_WaterSorcerer,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,WaterSorcerer

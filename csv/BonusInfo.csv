@@ -163,6 +163,7 @@ DamagePerOwnedEnchantment,Increases damage per owned enchantment,Damage,None,Fal
 DamagePerOwnedMonument,Increases damage per owned monument,Damage,None,False,False,False,False,False,False,0,False
 DamagePerSoloRaidWorld,Increases damage each time a solo raid world is completed,Damage,None,False,False,False,False,False,False,0,False
 DamagePerRunningActiveSkill,Increases the amount of damage earned for each running active skill.,Damage,None,False,False,False,False,False,False,0,False
+DamagePerSpecialTitanActive,Increases the amount of damage earned for each active special titan,Damage,None,False,False,False,False,False,False,0,False
 DamagePerATParticipation,Increases amount of damage based on lifetime AT Participation,Damage,None,True,False,True,False,False,False,0,False
 DamagePerManaCap,Increases damage based on the player's mana cap (capped 50000),Damage,None,False,False,True,False,False,False,0,True
 DamagePerSkillPoint,Increased damage based on the amount of owned skill points,Damage,None,True,False,True,False,False,False,0,False
