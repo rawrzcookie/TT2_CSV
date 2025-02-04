@@ -83,8 +83,9 @@ AllUpgradeCostFairy,Reduces all gold upgrade costs from fairy video reward.,None
 AutoActivateWarlordQTE,Automatically activates Warlord QTEs when value is non-1,None,None,True,False,False,False,True,True,0,False
 AutoActivatePetBossQTE,Automatically activates Flash Zip QTEs when value is non-1,None,None,True,False,False,False,True,True,0,False
 AutoActivateTwilightFairyQTE,Automatically activates Twilight Fairy QTEs when value is non-1,None,None,True,False,False,True,True,True,0,False
-AutoActivatePetGoldQTE,Automatically activates Pet Gold QTE when value is non-1,None,None,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,0,FALSE
-AutoActivateGoldenMissileSkill,Automatically activates Golden Missile when value is non-1,None,None,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,0,FALSE
+AutoActivatePetGoldQTE,Automatically activates Pet Gold QTE when value is non-1,None,None,True,False,False,False,True,True,0,False
+AutoActivateGoldenMissileSkill,Automatically activates Golden Missile when value is non-1,None,None,True,False,False,True,True,True,0,False
+AutoActivateFrenzy,Automatically activates Barbaric Fury when value is non-1,None,None,True,False,False,False,True,True,0,False
 AutoBuyHeroes,Determines the seconds between auto buy hero intervals.,None,None,True,False,False,False,False,False,0,False
 AutoBuyHeroesMultDuringMakeItRain,Reduces the seconds between auto buy hero intervals during Make It Rain,None,None,True,True,True,False,False,False,0,False
 LegacyPetDamageEffect,Increases the strength of damage type effects given by Legacy pets.,Damage,None,False,False,False,False,False,False,0,False

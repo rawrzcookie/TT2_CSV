@@ -167,6 +167,8 @@ AvatarHolidayChristmas2024,HolidayChristmas2024,1,FALSE,,Holiday,FALSE
 AvatarHolidayChristmas2024SeasonPass,HolidayChristmas2024,1,FALSE,,HolidayPremium,FALSE
 AvatarBombChristmas2024Top100,HolidayChristmas2024,1,FALSE,,Holiday,FALSE
 AvatarBombChristmas2024Top10,HolidayChristmas2024,1,FALSE,,Holiday,FALSE
+AvatarHolidayValentines2025,HolidayValentines2025,1,FALSE,,Holiday,FALSE
+AvatarHolidayValentines2025SeasonPass,HolidayValentines2025,1,FALSE,,HolidayPremium,FALSE
 FireStoneEvent1,GenericEvent1,1,FALSE,,Firestone,FALSE
 FireStoneEvent2,GenericEvent1,1,FALSE,,Firestone,FALSE
 FireStoneEvent3,GenericEvent1,1,FALSE,,Firestone,FALSE
