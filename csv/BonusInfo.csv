@@ -57,6 +57,7 @@ ActiveClanShipDamage,Unused,Damage,None,False,False,False,False,False,False,0,Fa
 ActivePetLevel,Increases the level of the selected active pet.,None,None,True,False,True,False,False,False,0,False
 ActiveTapDamage,Increases tap damage when Barbaric Fury is active.,Damage,None,False,False,False,False,False,False,0,False
 AllActiveSkillAmount,Increases the primary effect of each active skill.,None,"HandOfMidasSkillAmount,HelperBoostSkillAmount,CritBoostSkillAmount,ShadowCloneSkillAmount,BurstDamageSkillAmount,TapBoostSkillAmount,DualPetAmount,StreamOfBladesSkillAmount,ThunderVolleySkillAmount,TwilightFairySkillAmount",False,False,False,False,False,False,0,False
+AllMultiCastPrimaryEffect,Increases the primary effect of each multi-cast skill per multicast.,None,None,False,False,False,False,False,False,0,False
 AllActiveSkillAmountPerAdditiveRelicMultiplier,Increases effects of active skills per lifetime relic boosters,Damage,None,True,False,True,False,False,False,0,False
 AllActiveSkillCap,Increase active skill cap max (+X),None,None,True,False,False,False,False,False,0,False
 AllActiveSkillCooldownRate,Reduces the cooldown of each active skill.,None,None,True,True,True,False,False,False,0,False
