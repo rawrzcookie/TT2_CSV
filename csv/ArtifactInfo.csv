@@ -34,7 +34,7 @@ Artifact52,Heart of Storms,3,bonuses of damage type pets,LegacyPetDamageEffect,0
 Artifact53,Apollo Orb,3,bonuses of gold type pets,LegacyPetGoldEffect,0,0.02,1.177,0.5,0.7,2.2,8,5,1.00E+04,1.00E+04,Boost
 Artifact96,Sticky Fruit,2,bonuses of exotic damage pets,ExoticPetDamageEffect,0,0.005,0.8,0.5,0.7,2.2,7,5,1.00E+04,1.00E+04,Boost
 Artifact97,Hades Orb,2,bonuses of exotic gold pets,ExoticPetGoldEffect,0,0.02,1.1,0.5,0.7,2.2,8,5,1.00E+10,1.00E+10,Boost
-Artifact67,Earrings of Portara,3,"AllDamage, Crit Damage",BoostedSwordAttackDamage,0,0.03,1.089,0.3,0.6,1.7,3,3,1.00E+06,1.00E+06,Dmg
+Artifact67,Earrings of Portara,3,"AllDamage, Crit Damage",BoostedSwordAttackDamage,0,0.03,1.3698,0.3,0.6,1.7,3,3,1.00E+06,1.00E+06,Dmg
 Artifact42,Avian Feather,2,Increases Sword and HS,TitanSlayer,0,0.5,0.91,0.3,0.6,1.7,6,3,1.00E+06,1.00E+06,Dmg
 Artifact46,Restored Rune Heart,2,-,EquipmentPetEffect,0,0.00025,0.31,0.3,0.6,1.7,2,5,1.00E+02,1.00E+02,Dmg
 Artifact55,Durendal Sword,1,damage to non-bosses,TitanDamage,0,0.24,1.35,1,1,2,2,2,1.00E+09,1.00E+09,Dmg
@@ -44,11 +44,11 @@ Artifact76,Crown of the Constellation,2,"Hero, CS, WC",WarlordBonusBoost,0,0.02,
 Artifact77,Titania's Sceptre,2,"HoM, HS, SC",SorcererBonusBoost,0,0.02,1.137,0.5,0.65,2.2,9,2,1.00E+10,1.00E+10,Boost
 Artifact78,Fagin's Grip,1,"Inactive Gold/Dmg, DS",RogueBonusBoost,0,0.02,0.857,0.5,0.65,2.2,9,2,1.00E+06,1.00E+06,Boost
 Artifact40,Ring of Calisto,3,-,AllEquipmentEffect,0,0.01,0.76,0.5,0.65,2.2,4,4,1.00E+03,1.00E+03,Equip
-Artifact25,Blade of Damocles,2,-,SwordBoost,0,0.08,1.36,0.5,0.65,2,6,4,1.00E+08,1.00E+08,Equip
-Artifact17,Helmet of Madness,2,-,HelmetBoost,0,0.08,1.36,0.5,0.65,2,7,4,1.00E+09,1.00E+09,Equip
-Artifact23,Titanium Plating,2,-,ArmorBoost,0,0.08,1.55,0.5,0.65,2,7,4,1.00E+10,1.00E+10,Equip
-Artifact73,Moonlight Bracelet,2,-,AuraBoost,0,0.08,1.36,0.5,0.65,2,7,4,1.00E+09,1.00E+09,Equip
-Artifact28,Amethyst Staff,2,-,SlashBoost,0,0.08,1.36,0.5,0.65,2,6,4,1.00E+08,1.00E+08,Equip
+Artifact25,Blade of Damocles,2,-,SwordBoost,0,0.08,1.7107,0.5,0.65,2,6,4,1.00E+08,1.00E+08,Equip
+Artifact17,Helmet of Madness,2,-,HelmetBoost,0,0.08,1.7107,0.5,0.65,2,7,4,1.00E+09,1.00E+09,Equip
+Artifact23,Titanium Plating,2,-,ArmorBoost,0,0.08,1.9497,0.5,0.65,2,7,4,1.00E+10,1.00E+10,Equip
+Artifact73,Moonlight Bracelet,2,-,AuraBoost,0,0.08,1.7107,0.5,0.65,2,7,4,1.00E+09,1.00E+09,Equip
+Artifact28,Amethyst Staff,2,-,SlashBoost,0,0.08,1.7107,0.5,0.65,2,6,4,1.00E+08,1.00E+08,Equip
 Artifact86,Sword of the Royals,2,"Sword Boost, Melee Hero",SophiaComboBoost,0,0.02,1.1,0.5,0.7,2.2,9,2,1.00E+06,1.00E+06,Boost
 Artifact87,Spearit's Vigil,2,"Helmet Boost, Flying Hero",NohniComboBoost,0,0.02,1.1,0.5,0.7,2.2,9,2,1.00E+06,1.00E+06,Boost
 Artifact88,The Cobalt Plate,2,"Armor Boost, Ground Hero",LanceComboBoost,0,0.02,1.1,0.5,0.7,2.2,9,2,1.00E+08,1.00E+08,Boost
