@@ -458,6 +458,7 @@ CelestialStaticBurst,Increases celestial static damage,Raid,None,False,False,Fal
 CelestialStaticChargePerBurst,Number of charges consumed when bursting on ARMOR,Raid,None,True,False,False,False,True,False,0,False
 CelestialStaticChargePerTap,Number of charges generated when tapping on BODY,Raid,None,True,False,False,False,True,False,0,False
 CelestialStaticMaxCharges,Maximum number of charges a player can hold at once,Raid,None,True,False,False,False,True,False,0,False
+CosmicBarbDamageRate,Increases the damage of each Cosmic Barb tick.,Raid,None,True,False,True,False,False,False,0,False
 ChainLightningBurst,Increases chain lightning damage,Raid,None,False,False,False,False,False,False,0,False
 ChainLightningMaxTargets,Determines the maximum number of targets that can be affected by ChainLightning,Raid,None,False,False,False,False,False,False,0,False
 ChainLightningPartBoost,Determines the increased damage per affected part.,Raid,None,False,False,False,False,False,False,0,False

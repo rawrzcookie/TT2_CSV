@@ -37,9 +37,6 @@ SeasonalArtifact35,Nine Pentacle Garden,FALSE,Arcanas,JackpotGoldPerSeasonDay,0,
 SeasonalArtifact36,Emblem of Worlds,FALSE,Arcanas,DamagePerMaxStage,40,0.000672,0.45,1.00E+20,0.55,1.09,1.044,Dmg,3.53E-03
 SeasonalArtifact33,Grand Air Chariot,FALSE,Arcanas,AllArtifactDamageEffect,0,1.018,0.4235,1.00E+14,0.53,8.00,2.260,Boost,4.86E+00
 SeasonalArtifact38,Knight's Fountain of Cups,FALSE,Arcanas,ArmorBoost,0,2.40E+01,89,1.00E+14,0.53,8.00,2.260,Equip,9.19E+143
-SeasonalArtifact45,Ace Wand Seal,FALSE,Arcanas,AnyContractBonusBoost,0,1.00E-15,64,1.00E+14,0.53,8.00,2.260,Boost,3.40E+87
 SeasonalArtifact40,Queen of Swords' Throne,FALSE,Arcanas,SlashBoost,0,10,57,1.00E+14,0.53,8.00,2.260,Equip,2.08E+92
-SeasonalArtifact45,Lost Cups Five,FALSE,Arcanas,GoldSpecialty,0,35,89.6,1.00E+14,0.53,8.00,2.260,Gold,1.23E+145
 SeasonalArtifact42,Three Cup Mana Pool,FALSE,Arcanas,CompanionDamage,0,10,57,1.00E+14,0.53,8.00,2.260,Dmg,2.08E+92
 SeasonalArtifact43,Heirophant's Library,FALSE,Arcanas,DamagePerEventSet,0,1.07,2.1,1.00E+14,0.53,8.00,2.260,Dmg,2.48E+03
-SeasonalArtifact44,Beast Hunter's Grave,FALSE,Arcanas,InspiredHelperDamage,0,10,114,1.00E+14,0.53,8.00,2.260,Dmg,4.31E+183
