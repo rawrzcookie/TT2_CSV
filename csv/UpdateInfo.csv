@@ -1,5 +1,5 @@
 Version,Changes,Don't DELETE
-"7.5.0 (Dec 6,2024)","New Features:
+"7.5.0 (Dec 6,2024)","New Features: 
 Curio Collector legendary equipment set!
 10x All Damage per Unique Equipment Set
 1.5x Unique Equipment Drop Rate
@@ -218,7 +218,7 @@ GENERAL CHANGES:
     - Will of Midas max level increased from 30 to 40
 
 BUG FIXES:
-- Fixed issues where badges could visually display only 1x All Damage instead of the correct boost
+- Fixed issues where badges could visually display only 1x All Damage instead of the correct boost.
 - Fixed issues where starter bundles would incorrectly display
 - Fixed issues where Skill Points Owned would incorrectly display in the player export
 - Fixed issues where debugging tools could appear incorrectly

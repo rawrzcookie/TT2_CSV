@@ -1,5 +1,5 @@
 StringID,English_Translator,Screenshot,Note,English,ChineseTrad,ChineseSimp,Japanese,Korean,Danish,Dutch,French,German,Italian,Norwegian,Russian,Spanish,Swedish,Turkish,Portuguese
-TEST_UPDATE_STRING1,Test Update String 1,,,Test Update String 1,測試更新字串 1,测试更新字串 1,テスト更新文字列 1,테스트 업데이트 문자열 1,Testopdateringsstreng 1,Testupdatetekenreeks 1,Tester la chaîne de mise à jour 1,Testen Sie die Aktualisierungszeichenfolge 1,Prova la stringa di aggiornamento 1,Testoppdateringsstreng 1,Тестовое обновление строки 1,Cadena de actualización de prueba 1,Testuppdateringssträng 1,Test Güncelleme Dizisi 1,Testar sequência de atualização 1
+TEST_UPDATE_STRING1,Test Update String 1,,,Test Update String 1,測試更新字串 1,测试更新字串 1,テスト更新文字列 1,테스트 업데이트 문자열 1,Testopdateringsstreng 1,Testupdatetekenreeks 1,Tester la chaîne de mise à jour 1,Testen Sie die Aktualisierungszeichenfolge 1,Prova la stringa di aggiornamento 1,Testoppdateringsstreng 1,Тестовое обновление строки 1,Cadena de actualización de prueba 1,Testuppdateringssträng 1,Test Güncelleme Dizisi 1,Sequência de atualização de teste 1
 CHALLENGE_TOURNAMENT_RULES_MAIN_TITLE_4,golden barrage!,,,Golden Barrage!,金色彈幕！,金色弹幕！,黄金の弾幕！,황금 공세!,Gyldne Spærreild!,Gouden Spervuur!,Barrage D'Or !,Goldenes Sperrfeuer!,Sbarramento D'Oro!,Gyllen Bom!,Золотой Залп!,Bombardeo Dorado!,Gyllene Störtflod!,Altın Baraj!,Barragem Dourada!
 CHALLENGE_TOURNAMENT_RULES_MAIN_DESC_4,unknown sources of gold twinkle throughout the abyss. the gold gun is overloaded!,,Broken shots,Unknown sources of gold twinkle throughout the Abyss. The Gold Gun is overloaded!,未知來源的黃金在深淵中閃爍。金槍超載！,未知来源的黄金在深渊中闪烁。金枪超载！,未知の金源が深淵全体できらめきます。ゴールドガンは過負荷です！,심연 전체에 알려지지 않은 금의 출처가 반짝입니다. 금총이 과부하되었습니다!,Ukendte Kilder Til Guld Glimter Gennem Afgrunden. Guldpistolen Er Overbelastet!,Onbekende Bronnen Van Goud Fonkelen Door De Afgrond. Het Gouden Pistool Is Overbelast!,Des Sources Inconnues D'Or Scintillent Dans Les Abysses. Le Pistolet En Or Est Surchargé!,Unbekannte Goldquellen Funkeln Im Abgrund. Die Goldene Waffe Ist Überladen!,Fonti Sconosciute D'Oro Brillano Attraverso L'Abisso. La Pistola D'Oro È Sovraccarica!,Ukjente Kilder Til Gull Glimter Gjennom Avgrunnen. Gullpistolen Er Overbelastet!,Неведомые Источники Золота Мерцают По Всей Бездне. Золотой Пистолет Перегружен!,Fuentes Desconocidas De Oro Brillan A Lo Largo Del Abismo. ¡La Pistola De Oro Está Sobrecargada!,Okända Guldkällor Blinkar Genom Avgrunden. Guldpistolen Är Överladdad!,Bilinmeyen Altın Kaynakları Uçurumun Her Tarafında Parıldıyor. Altın Silah Aşırı Yüklendi!,Fontes Desconhecidas De Ouro Brilham Em Todo O Abismo. A Arma De Ouro Está Sobrecarregada!
 CHALLENGE_TOURNAMENT_RULES_MAIN_TITLE_5,blade bombardment!,,,Blade Bombardment!,刀片轟炸！,刀片轰炸！,ブレード爆撃！,블레이드 폭격!,Blade Bombardement!,Blade Bombardement!,Bombardement De Lame!,Bombardierung Von Klingen!,Bombardamento Blade!,Bladbombardement!,Blade Bombardment!,Bombardeo De Cuchilla!,Blade Bombardment!,Blade Bombardı!,Bombardeio De Lâmina!
@@ -715,6 +715,44 @@ Sadece Sınırlı Bir Süre Için!","Abra Alçapões E Receba Suas Recompensas!
 Apenas Por Tempo Limitado!"
 APRIL2025PETBUNDLE_TITLE,pet value pack!,,APRIL2025PetBundle,Pet Value Pack!,強力寵物包！,强力宠物包！,パワーペットバンドル！,파워 애완동물 번들!,Power Kæledyrsbundt!,Power Pet Bundel!,Pack D'Animaux De Compagnie Puissant !,Power-Haustier-Paket!,Pacchetto Di Animali Potenti!,Kraftpakke Med Kjæledyr!,Мощный Набор Для Домашних Питомцев!,¡Paquete De Mascotas Poderosas!,Kraftpaket För Husdjur!,Güçlü Evcil Hayvan Paketi!,Pacote Poderoso Para Animais De Estimação!
 APRIL2025PETBUNDLE_CATCH_DESC,get tons of pets fast!,,APRIL2025PetBundle,Get tons of pets fast!,使用更多寵物來增加傷害！,使用更多宠物来增加伤害！,ペットを増やすとダメージが増加します！,더 많은 애완동물로 데미지를 높여보세요!,Øg Din Skade Med Flere Kæledyr!,Verhoog Je Schade Met Meer Huisdieren!,Augmentez Vos Dégâts Avec Plus D'Animaux De Compagnie !,Erhöhe Deinen Schaden Mit Mehr Haustieren!,Aumenta Il Tuo Danno Con Più Animali Domestici!,Øk Skaden Med Flere Kjæledyr!,Увеличьте Свой Урон С Помощью Большего Количества Питомцев!,¡Aumenta Tu Daño Con Más Mascotas!,Öka Din Skada Med Fler Husdjur!,Daha Fazla Evcil Hayvanla Hasarınızı Artırın!,Aumente Seu Dano Com Mais Animais De Estimação!
+MAY2025PETBUNDLE_TITLE,pet value pack!,,APRIL2025PetBundle,Pet Value Pack!,強力寵物包！,强力宠物包！,パワーペットバンドル！,파워 애완동물 번들!,Power Kæledyrsbundt!,Power Pet Bundel!,Pack D'Animaux De Compagnie Puissant !,Power-Haustier-Paket!,Pacchetto Di Animali Potenti!,Kraftpakke Med Kjæledyr!,Мощный Набор Для Домашних Питомцев!,¡Paquete De Mascotas Poderosas!,Kraftpaket För Husdjur!,Güçlü Evcil Hayvan Paketi!,Pacote Poderoso Para Animais De Estimação!
+MAY2025PETBUNDLE_CATCH_DESC,get tons of pets fast!,,APRIL2025PetBundle,Get tons of pets fast!,使用更多寵物來增加傷害！,使用更多宠物来增加伤害！,ペットを増やすとダメージが増加します！,더 많은 애완동물로 데미지를 높여보세요!,Øg Din Skade Med Flere Kæledyr!,Verhoog Je Schade Met Meer Huisdieren!,Augmentez Vos Dégâts Avec Plus D'Animaux De Compagnie !,Erhöhe Deinen Schaden Mit Mehr Haustieren!,Aumenta Il Tuo Danno Con Più Animali Domestici!,Øk Skaden Med Flere Kjæledyr!,Увеличьте Свой Урон С Помощью Большего Количества Питомцев!,¡Aumenta Tu Daño Con Más Mascotas!,Öka Din Skada Med Fler Husdjur!,Daha Fazla Evcil Hayvanla Hasarınızı Artırın!,Aumente Seu Dano Com Mais Animais De Estimação!
 AVATAR_UNLOCKED_BombGameGeneric1,unlocked from the treacherous trapdoors event,,,Unlocked from the Treacherous Trapdoors event,從危險的活板門事件中解鎖,从危险的活板门事件中解锁,危険なトラップドアイベントからロックが解除されました,위험한 트랩도어 이벤트에서 잠금 해제됨,Låst Op Fra Begivenheden Med Forræderiske Fældedøre,Ontgrendeld Van Het Verraderlijke Valluikevenement,Débloqué Lors De L'Événement Des Trappes Perfides,Durch Das Tückische Falltüren-Event Freigeschaltet,Sbloccato Dall'Evento Trappole Insidiose,Låst Opp Fra Hendelsen Med Forræderske Falldører,Разблокировано В Ходе События С Коварными Люками,Desbloqueado Del Evento De Trampillas Traicioneras,Upplåst Från Händelsen Med Förrädiska Fallluckor,Hain Tuzak Kapısı Olayından Kilidi Açıldı,Desbloqueado Do Evento De Alçapões Traiçoeiros
 MAY2025CHOOSEYOUROWNLEGENDARYBUNDLE_TITLE,shop bear legendary sale!,,ChooseYourOwnLegendaryBundle,Shop Bear Legendary Sale!,店裡熊傳奇特賣！,店里熊传奇特卖！,ショップベア伝説のセール！,상점 곰 전설적인 판매!,Shop Bjørn Legendariske Udsalg!,Winkel Beer Legendarische Verkoop!,Boutique Ours Vente Légendaire!,Shop Bear Legendärer Ausverkauf!,Negozio Orso Vendita Leggendaria!,Butikk Bjørn Legendarisk Salg!,Магазин Медведь Легендарная Распродажа!,Tienda Oso Venta Legendaria!,Butik Björn Legendarisk Rea!,Mağaza Ayı Efsanevi Indirim!,Loja Urso Venda Lendária!
 MAY2025CHOOSEYOUROWNLEGENDARYBUNDLE_CATCH_DESC,pick your legendary set!,,ChooseYourOwnLegendaryBundle,Pick your Legendary Set!,選擇你的傳奇套裝！,选择你的传奇套装！,伝説のセットを選んでください！,전설적인 세트를 선택하세요!,Vælg Dit Legendariske Sæt!,Kies Je Legendarische Set!,Choisissez Votre Ensemble Légendaire !,Wähle Dein Legendäres Set!,Scegli Il Tuo Set Leggendario!,Velg Ditt Legendariske Sett!,Выбери Свой Легендарный Набор!,¡Elige Tu Conjunto Legendario!,Välj Ditt Legendariska Set!,Efsanevi Setinizi Seçin!,Escolha Seu Conjunto Lendário!
+GLOBAL_RAID_SOLO_DAMAGE_QUEST_COMPLETE_TITLE,global raid solo rewards!,,,Global Raid Solo Rewards!,全球突襲單人獎勵！,全球突袭单人奖励！,グローバルレイドのソロ報酬！,글로벌 레이드 솔로 보상!,Globale Raid Solo Belønninger!,Wereldwijde Raid Solo-Beloningen!,Récompenses Solo Du Raid Mondial !,Globale Raid-Solo-Belohnungen!,Ricompense Per Giocatore Singolo Del Raid Globale!,Global Raid Solo Belønninger!,Глобальные Награды В Одиночном Рейде!,¡Recompensas En Solitario De Incursiones Globales!,Globala Raid Solo Belöningar!,Küresel Baskın Solo Ödülleri!,Recompensas Solo De Ataque Global!
+GLOBAL_RAID_SOLO_DAMAGE_QUEST_COMPLETE_DESCRIPTION,"thank you for participating in the global raid event!  the event has now been concluded.
+
+here are your solo rewards for dealing damage during the global raid. enjoy!",,,"Thank you for participating in the Global Raid Event!  The event has now been concluded.
+
+Here are your solo rewards for dealing damage during the Global Raid. Enjoy!","感謝您參與全球突襲活動！  活動現已結束。
+
+這是您在全球突襲期間造成傷害的單獨獎勵。享受！","感谢您参与全球突袭活动！  活动现已结束。
+
+这是您在全球突袭期间造成伤害的单独奖励。享受！","グローバルレイドイベントにご参加いただきありがとうございました！  イベントは終了しました。
+
+グローバルレイド中にダメージを与えた場合のソロ報酬は次のとおりです。楽しむ！","글로벌 레이드 이벤트에 참여해주셔서 감사합니다!  이제 이벤트가 종료되었습니다.
+
+글로벌 레이드에서 피해를 입힌 것에 대한 솔로 보상은 다음과 같습니다. 즐기다!","tak fordi du deltog i den globale raid-begivenhed!  arrangementet er nu afsluttet.
+
+her er dine solo-belønninger for at gøre skade under det globale raid. nyde!","bedankt voor je deelname aan het wereldwijde raid-evenement!  het evenement is inmiddels afgelopen.
+
+hier zijn je solobeloningen voor het aanrichten van schade tijdens de wereldwijde aanval. genieten!","merci d'avoir participé à l'événement raid mondial !  l'événement est maintenant terminé.
+
+voici vos récompenses en solo pour avoir infligé des dégâts pendant le raid mondial. apprécier!","Vielen Dank für die Teilnahme am globalen Raid-Event!  Die Veranstaltung ist nun abgeschlossen.
+
+Hier sind Ihre Solo-Belohnungen für das Verursachen von Schaden während des globalen Raids. genießen!","grazie per aver partecipato all'evento raid globale!  l'evento è ormai concluso.
+
+ecco le tue ricompense in solitario per aver inflitto danni durante il raid globale. Godere!","takk for at du deltok i det globale raid-arrangementet!  arrangementet er nå avsluttet.
+
+her er solo-belønningene dine for å gjøre skade under det globale raidet. nyte!","спасибо за участие в глобальном рейде!  мероприятие уже завершено.
+
+вот ваши одиночные награды за нанесение урона во время глобального рейда. наслаждаться!","¡Gracias por participar en el evento de incursión global!  El evento ya ha concluido.
+
+Aquí están tus recompensas en solitario por infligir daño durante la incursión global. ¡disfrutar!","tack för att du deltog i det globala raid-evenemanget!  evenemanget är nu avslutat.
+
+här är dina solobelöningar för att dela ut skada under den globala raiden. njuta!","Küresel baskın etkinliğine katıldığınız için teşekkür ederiz!  etkinlik artık sonuçlandırılmıştır.
+
+İşte küresel baskın sırasında hasar verdiğiniz için tek başınıza alacağınız ödüller. Eğlence!","obrigado por participar do evento de ataque global!  o evento já foi concluído.
+
+aqui estão suas recompensas individuais por causar dano durante o ataque global. aproveitar!"
