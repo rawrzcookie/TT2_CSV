@@ -33,8 +33,8 @@ Fragmentize,SuperheatMetal,None,None,"Fragmentize,SuperheatMetal,None",2,3,4,10,
 SuperheatMetal,Disease,None,None,"SuperheatMetal,Disease,None",2,3,4,10,Easy - Armor
 Fragmentize,Swarm,None,None,"Fragmentize,Swarm,None",2,3,4,10,Easy - Armor
 SuperheatMetal,RandomBurst,None,"Purify,WhipOfLightning,RazorWind,MirrorForce,Weaken","SuperheatMetal,RandomBurst,None",2,3,4,10,Easy - Armor
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",4,12,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",4,12,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",4,12,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",4,12,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",4,12,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",4,12,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",4,12,1,999,Standard
@@ -58,8 +58,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning","Haymaker,RandomBurst,RandomSupport",13,13,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",13,13,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken","FlakShot,RandomBurst,BurstBoost",13,13,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",14,17,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",14,17,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",14,17,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",14,17,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",14,17,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",14,17,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",14,17,1,999,Standard
@@ -85,8 +85,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",18,18,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",18,18,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",18,18,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",19,22,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",19,22,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",19,22,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",19,22,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",19,22,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",19,22,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",19,22,1,999,Standard
@@ -113,8 +113,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",23,23,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",23,23,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",23,23,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",24,27,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",24,27,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",24,27,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",24,27,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",24,27,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",24,27,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",24,27,1,999,Standard
@@ -140,8 +140,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",28,28,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",28,28,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",28,28,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",29,32,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",29,32,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",29,32,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",29,32,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",29,32,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",29,32,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",29,32,1,999,Standard
@@ -168,8 +168,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",33,33,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",33,33,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",33,33,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",34,37,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",34,37,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",34,37,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",34,37,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",34,37,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",34,37,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",34,37,1,999,Standard
@@ -195,8 +195,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",38,38,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",38,38,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",38,38,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",39,42,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",39,42,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",39,42,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",39,42,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",39,42,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",39,42,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",39,42,1,999,Standard
@@ -223,8 +223,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",43,43,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",43,43,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",43,43,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",44,47,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",44,47,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",44,47,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",44,47,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",44,47,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",44,47,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",44,47,1,999,Standard
@@ -250,8 +250,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",48,48,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",48,48,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",48,48,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",49,52,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",49,52,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",49,52,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",49,52,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",49,52,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",49,52,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",49,52,1,999,Standard
@@ -278,8 +278,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",53,53,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",53,53,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",53,53,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",54,57,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",54,57,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",54,57,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",54,57,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",54,57,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",54,57,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",54,57,1,999,Standard
@@ -305,8 +305,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",58,58,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",58,58,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",58,58,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",59,62,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",59,62,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",59,62,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",59,62,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",59,62,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",59,62,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",59,62,1,999,Standard
@@ -333,8 +333,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",63,63,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",63,63,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",63,63,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",64,67,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",64,67,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",64,67,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",64,67,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",64,67,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",64,67,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",64,67,1,999,Standard
@@ -360,8 +360,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",68,68,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",68,68,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",68,68,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",69,72,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",69,72,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",69,72,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",69,72,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",69,72,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",69,72,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",69,72,1,999,Standard
@@ -388,8 +388,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",73,73,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",73,73,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",73,73,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",74,77,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",74,77,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",74,77,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",74,77,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",74,77,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",74,77,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",74,77,1,999,Standard
@@ -415,8 +415,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",78,78,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",78,78,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",78,78,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",79,82,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",79,82,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",79,82,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",79,82,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",79,82,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",79,82,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",79,82,1,999,Standard
@@ -443,8 +443,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",83,83,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",83,83,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",83,83,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",84,87,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",84,87,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",84,87,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",84,87,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",84,87,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",84,87,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",84,87,1,999,Standard
@@ -470,8 +470,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",88,88,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",88,88,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",88,88,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",89,92,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",89,92,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",89,92,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",89,92,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",89,92,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",89,92,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",89,92,1,999,Standard
@@ -498,8 +498,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",93,93,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",93,93,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",93,93,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",94,97,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",94,97,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",94,97,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",94,97,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",94,97,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",94,97,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",94,97,1,999,Standard
@@ -525,8 +525,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",98,98,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",98,98,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",98,98,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",99,102,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",99,102,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",99,102,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",99,102,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",99,102,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",99,102,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",99,102,1,999,Standard
@@ -553,8 +553,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",103,103,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",103,103,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",103,103,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",104,107,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",104,107,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",104,107,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",104,107,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",104,107,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",104,107,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",104,107,1,999,Standard
@@ -580,8 +580,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",108,108,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",108,108,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",108,108,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",109,112,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",109,112,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",109,112,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",109,112,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",109,112,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",109,112,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",109,112,1,999,Standard
@@ -608,8 +608,8 @@ BurstCount,RandomBurst,BurstBoost,"FlakShot,Haymaker,MirrorForce,Purify,WhipOfLi
 Haymaker,RandomBurst,RandomSupport,"BurstBoost,BurstCount,CrushingVoid,ExecutionersAxe,FlakShot,Fragmentize,ImpactAttack,InnerTruth,LimbSupport,MentalFocus,MirrorForce,Purify,SpinalTap,SuperheatMetal,TeamTactics,TriangleSupport,WhipOfLightning,CelestialStatic","Haymaker,RandomBurst,RandomSupport",113,113,1,999,Burst World
 Fragmentize,RandomBurst,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,ExecutionersAxe,FinisherAttack,FlakShot,ImpactAttack,InnerTruth,LimbBurst,LimbSupport,MentalFocus,MirrorForce,MoonBeam,Purify,RazorWind,SkullBash,TeamTactics,TotemFairySkill,TriangleSupport,WhipOfLightning","Fragmentize,RandomBurst,RandomSupport",113,113,1,999,Burst World
 FlakShot,RandomBurst,BurstBoost,"Haymaker,MirrorForce,Purify,RazorWind,WhipOfLightning,Weaken,CelestialStatic","FlakShot,RandomBurst,BurstBoost",113,113,1,999,Burst World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",114,117,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",114,117,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",114,117,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",114,117,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",114,117,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",114,117,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",114,117,1,999,Standard
@@ -635,8 +635,8 @@ PowerBubble,RuinousRust,RandomSupport,"AstralEcho,BurstBoost,CrushingVoid,Execut
 RandomAffliction,Swarm,CrushingVoid,RuneAttack,"RandomAffliction,Swarm,CrushingVoid",118,118,1,999,Affliction World
 RandomAffliction,PlagueAttack,MentalFocus,"DecayingAttack,PoisonAttack,PowerBubble,Shadow","RandomAffliction,PlagueAttack,MentalFocus",118,118,1,999,Affliction World
 RandomAffliction,BurningAttack,SuperheatMetal,"DecayingAttack,Disease,PoisonAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","RandomAffliction,BurningAttack,SuperheatMetal",118,118,1,999,Affliction World
-TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime","TotemFairySkill,Purify,RandomAffliction",119,122,1,999,Standard
-TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime","TriangleSupport,WhipOfLightning,RandomAffliction",119,122,1,999,Standard
+TotemFairySkill,Purify,RandomAffliction,"BurningAttack,DecayingAttack,Disease,Fuse,MagicPotion,PlagueAttack,PowerBubble,RuneAttack,Shadow,SandsOfTime,CosmicBarb","TotemFairySkill,Purify,RandomAffliction",119,122,1,999,Standard
+TriangleSupport,WhipOfLightning,RandomAffliction,"DecayingAttack,Fuse,PoisonAttack,PowerBubble,Shadow,SandsOfTime,CosmicBarb","TriangleSupport,WhipOfLightning,RandomAffliction",119,122,1,999,Standard
 InnerTruth,RandomAffliction,RandomAffliction,"BurningAttack,Disease,Fuse,PlagueAttack,Swarm,MagicPotion,SandsOfTime","InnerTruth,RandomAffliction,RandomAffliction",119,122,1,999,Standard
 MentalFocus,RandomAffliction,RandomAffliction,"DecayingAttack,PoisonAttack,PowerBubble,RuinousRust,RuneAttack,Shadow","MentalFocus,RandomAffliction,RandomAffliction",119,122,1,999,Standard
 ExecutionersAxe,RuneAttack,RandomBurst,"BurstCount,ChainLightning,FlakShot,Fragmentize,Haymaker,LimbBurst,MirrorForce,Purify,WhipOfLightning,Weaken,CelestialStatic","ExecutionersAxe,RuneAttack,RandomBurst",119,122,1,999,Standard
