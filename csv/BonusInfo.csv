@@ -113,6 +113,19 @@ BurstDamageSkillMana,Reduces the mana cost of Heavenly Strike.,None,None,True,Tr
 BurstDamageSkillManaMult,Multiplies the mana cost of Heavenly Strike,None,None,False,False,False,False,False,False,0,False
 BurstDamageSkillStacks,Increases the maximum Multi-Cast Cap for Heavenly Strike (+X),None,None,True,False,False,False,False,False,0,False
 BurstDamageSkillStacksBonus,Increases the strength of Heavenly Strike for each active multi-cast (X),None,None,False,False,False,False,False,False,0,False
+BuildBoostSCPetGG,"Combo of ShadowCloneSkillAmount,PetDamage,GoldGunDamage",None,"ShadowCloneSkillAmount,PetDamage,GoldGunDamage",False,False,False,False,False,False,0,False
+BuildBoostCSHSSC,"Combo of ClanShipDamage,BurstDamageSkillAmount,ShadowCloneSkillAmount",None,"ClanShipDamage,BurstDamageSkillAmount,ShadowCloneSkillAmount",False,False,False,False,False,False,0,False
+BuildBoostHSDGGG,"Combo of BurstDamageSkillAmount,UltraDaggerDamage,GoldGunDamage",None,"BurstDamageSkillAmount,UltraDaggerDamage,GoldGunDamage",False,False,False,False,False,False,0,False
+BuildBoostDGPetCS,"Combo of UltraDaggerDamage,PetDamage,ClanShipDamage",None,"UltraDaggerDamage,PetDamage,ClanShipDamage",False,False,False,False,False,False,0,False
+SCAlchemistBonusBoost,"Combo of GoldAll,GoldGunDamage,ShadowCloneSkillAmount",None,"GoldAll,GoldGunDamage,ShadowCloneSkillAmount",False,False,False,False,False,False,0,False
+CSKnightBonusBoost,"Combo of TapDamage,BurstDamageSkillAmount,FairyGold,ClanShipDamage",None,"TapDamage,BurstDamageSkillAmount,FairyGold,ClanShipDamage",False,False,False,False,False,False,0,False
+HSRogueBonusBoost,"Combo of CritBoostSkillAmount,UltraDaggerDamage,BurstDamageSkillAmount",None,"CritBoostSkillAmount,UltraDaggerDamage,BurstDamageSkillAmount",False,False,False,False,False,False,0,False
+GGSorcererBonusBoost,"Combo of BurstDamageSkillAmount,HandOfMidasSkillAmount,ShadowCloneSkillAmount,GoldGunDamage",None,"BurstDamageSkillAmount,HandOfMidasSkillAmount,ShadowCloneSkillAmount,GoldGunDamage",False,False,False,False,False,False,0,False
+PetWarlordBonusBoost,"Combo of AllHelperDamage, HelperBoostSkillAmount, ClanShipDamage,PetDamage",None,"AllHelperDamage, HelperBoostSkillAmount, ClanShipDamage,PetDamage",False,False,False,False,False,False,0,False
+DDPetBonusBoost,"Combo of PetDamage,TapBoostSkillAmount,UltraDaggerDamage",None,"PetDamage,TapBoostSkillAmount,UltraDaggerDamage",False,False,False,False,False,False,0,False
+GoldComboGoldAllMultiMonstersGold,"Combo of GoldAll,MultiMonstersGold",None,"GoldAll,MultiMonstersGold",False,False,False,False,False,False,0,False
+GoldComboGoldAllFairyGold,"Combo of GoldAll,FairyGold",None,"GoldAll,FairyGold",False,False,False,False,False,False,0,False
+GoldComboJackpotGoldPetGoldQTEAmount,"Combo of JackpotGold,PetGoldQTEAmount",None,"JackpotGold,PetGoldQTEAmount",False,False,False,False,False,False,0,False
 CannonDamage,Increases thunder volley Skill damage & Gold Gun Damage,Damage,"GoldGunDamage,ThunderVolleySkillAmount",False,False,False,False,False,False,0,False
 ChestAmount,Increases Chesterson gold.,Gold,None,False,False,False,False,False,False,0,False
 ChestGoldx10Chance,Increases the chance to earn x10 Chesterson gold.,None,None,True,False,True,False,False,False,0,False
