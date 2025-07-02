@@ -120,7 +120,7 @@ BuildBoostDGPetCS,"Combo of UltraDaggerDamage,PetDamage,ClanShipDamage",None,"Ul
 SCAlchemistBonusBoost,"Combo of GoldAll,GoldGunDamage,ShadowCloneSkillAmount",None,"GoldAll,GoldGunDamage,ShadowCloneSkillAmount",False,False,False,False,False,False,0,False
 CSKnightBonusBoost,"Combo of TapDamage,BurstDamageSkillAmount,FairyGold,ClanShipDamage",None,"TapDamage,BurstDamageSkillAmount,FairyGold,ClanShipDamage",False,False,False,False,False,False,0,False
 HSRogueBonusBoost,"Combo of CritBoostSkillAmount,UltraDaggerDamage,BurstDamageSkillAmount",None,"CritBoostSkillAmount,UltraDaggerDamage,BurstDamageSkillAmount",False,False,False,False,False,False,0,False
-GGSorcererBonusBoost,"Combo of BurstDamageSkillAmount,HandOfMidasSkillAmount,ShadowCloneSkillAmount,GoldGunDamage",None,"BurstDamageSkillAmount,HandOfMidasSkillAmount,ShadowCloneSkillAmount,GoldGunDamage",False,False,False,False,False,False,0,False
+GGSorcererBonusBoost,"Combo of BurstDamageSkillAmount,PetGoldQTEAmount,ShadowCloneSkillAmount,GoldGunDamage",None,"BurstDamageSkillAmount,PetGoldQTEAmount,ShadowCloneSkillAmount,GoldGunDamage",False,False,False,False,False,False,0,False
 PetWarlordBonusBoost,"Combo of AllHelperDamage, HelperBoostSkillAmount, ClanShipDamage,PetDamage",None,"AllHelperDamage, HelperBoostSkillAmount, ClanShipDamage,PetDamage",False,False,False,False,False,False,0,False
 DDPetBonusBoost,"Combo of PetDamage,TapBoostSkillAmount,UltraDaggerDamage",None,"PetDamage,TapBoostSkillAmount,UltraDaggerDamage",False,False,False,False,False,False,0,False
 GoldComboGoldAllMultiMonstersGold,"Combo of GoldAll,MultiMonstersGold",None,"GoldAll,MultiMonstersGold",False,False,False,False,False,False,0,False
