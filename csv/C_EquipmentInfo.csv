@@ -83,6 +83,7 @@ Aura_GunpowderMage,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Gunpowde
 Aura_Collector,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Collector
 Aura_Fortress,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Fortress
 Aura_Moth,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Moth
+Aura_Druid,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Druid
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -159,6 +160,7 @@ Hat_WildCat,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,WildCat
 Hat_WarHorn,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,WarHorn
 Hat_Runestone,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Runestone
 Hat_GunpowderMage,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,GunpowderMage
+Hat_Druid,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Druid
 Hat_DarkAlien,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAlien
 Hat_Mech,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Mech
 Hat_ElectricWarlord,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,ElectricWarlord
@@ -323,6 +325,7 @@ Slash_Shepherd,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Shepherd
 Slash_BunnyDroid,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,BunnyDroid
 Slash_PetQueen,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,PetQueen
 Slash_Sandstone,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Sandstone
+Slash_Druid,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Druid
 Slash_DarkAlien,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,DarkAlien
 Slash_Samurai,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,Samurai
 Slash_FireKnight,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -535,6 +538,7 @@ Suit_BunnyDroid,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,BunnyDroid
 Suit_SnakeOil,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,SnakeOil
 Suit_Runestone,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Runestone
 Suit_Valkyrie,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Valkyrie
+Suit_Druid,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Druid
 Suit_DarkAlien,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,DarkAlien
 Suit_EarthRogue,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,EarthRogue
 Suit_Chakram,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,Chakram
@@ -680,6 +684,7 @@ Weapon_Padlock,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Padlock
 Weapon_TitanSouls,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,TitanSouls
 Weapon_Sandstone,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Sandstone
 Weapon_Moth,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Moth
+Weapon_Druid,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Druid
 Weapon_Samurai,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,Samurai
 Weapon_FireKnight,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,FireKnight
 Weapon_EarthRogue,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,EarthRogue
@@ -773,11 +778,6 @@ Suit_Sports,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,Sports
 Weapon_Sports,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,Sports
 Aura_Sports,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Sports
 Slash_Sports,1,Slash,BurstDamageSkillAmount,None,0.043214,3,0.9,0.58,1.15,TRUE,Sports
-Aura_Druid,1,Aura,SlashBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,None
-Hat_Druid,1,Hat,SpellHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,None
-Slash_Druid,1,Slash,ClanShipDamage,None,0.067456,3,0.9,0.58,1.14,TRUE,None
-Suit_Druid,1,Suit,GoldBoss,None,0.74307,3,0.9,0.58,1.145,TRUE,None
-Weapon_Druid,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,None
 Weapon_Basketball,1,Weapon,None,None,1,1,1,1,1,TRUE,None
 Weapon_Baseball,1,Weapon,None,None,1,1,1,1,1,TRUE,None
 Weapon_Football,1,Weapon,None,None,1,1,1,1,1,TRUE,None

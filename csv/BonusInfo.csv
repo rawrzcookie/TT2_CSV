@@ -12,6 +12,7 @@ BurstSkillAmountDuringCritSkill,Heavenly Strike Damage while Deadly Strike is Ac
 HelperBoostSkillAmountDuringTapBoostSkill,Warcry Damage while Fire Sword is Active,None,None,False,False,False,False,False,False,0,False
 CannonDamagePerSeasonTitan,(Monument) Thunder Volley Damage and Gold Gun Damage per Titan Killed this season,None,None,True,False,True,False,False,False,0,False
 ClanShipDamagePerSeasonTitan,(Monument) Clanship Damage per Titan Killed this season,None,None,True,False,True,False,False,False,0,False
+AllDamageDuringSnap,All Damage while Snap is active,None,None,False,False,False,False,False,False,0,False
 AllDamagePerSeasonDay,All Damage per day in this season,None,None,False,False,False,False,False,False,0,False
 DamagePerMaxStage,All Damage per max stage in this season,None,None,False,False,False,False,False,False,0,False
 DamagePerNecroBearResearchLevel,All Damage per Necrobear Level,None,None,False,False,False,False,False,False,0,False
@@ -141,6 +142,7 @@ ClanShipStunDuration,Increases the stun duration of Anchoring Shot.,None,None,Tr
 ClanShipStunDamage,Increases the stun damage bonus of Anchoring Shot.,Damage,None,False,False,False,False,False,False,0,False
 CloakedSkipAmount,Increases amount of stages skipped from Cloaking.,None,None,True,False,False,False,False,False,0,False
 CloakedSkipChance,Increases chance to gain Cloaking after defeating a boss.,None,None,True,False,True,False,False,False,0,False
+CloakedSkipChanceBoostDuringHayst,Increases chance to gain Cloaking after defeating a boss during hayst,None,None,True,False,True,False,False,False,0,False
 CloakedStageDuration,Increases number of stages that Cloaking is active.,None,None,True,False,True,False,False,False,0,False
 CompanionAttackRate,"Increases the attack rate of companions  (pet, CS, SC).",None,None,False,False,False,False,False,False,0,False
 CompanionDamage,"Increases the damage of companions (pet, CS, SC).",Damage,"ClanShipDamage,PetDamage,ShadowCloneSkillAmount",False,False,False,False,False,False,0,False
@@ -206,6 +208,13 @@ ForbiddenContractManaCostBase,The initial mana cost for Forbiddeen Contract's ma
 ForbiddenContractMaxDamage,The max damage multiplier for Forbiddden Contract.,None,None,False,False,False,False,False,False,0,False
 ForbiddenContractQTECooldown,Decreases the cooldown for Forbidden Contract.,None,None,True,True,False,True,False,False,0,False
 ForbiddenContractTimeUntilMaxDamage,Time until max damage is reached for Forbidden Contract,None,None,True,False,False,True,False,False,0,False
+LuresPerPrestige,Increases Lures Per Prestige,None,None,True,False,False,False,False,False,0,False
+LuresPerDay,Increases daily limit for lures,None,None,True,False,False,False,False,False,0,False
+FishSizeMult,increases fish size,None,None,False,False,False,False,False,False,0,False
+FishingSkillLevel,increases fish rarity,None,None,True,False,False,False,False,False,0,False
+FishingBaitLevel,increases fish types,None,None,True,False,False,False,False,False,0,False
+TackleBoxSpeedLevel,speeds up automatic lure collection,None,None,True,False,False,True,False,False,0,False
+TackleBoxSizeLevel,increases automatic lure collection cap,None,None,True,False,False,False,False,False,0,False
 AutoActivateForbiddenContractQTE,Automatically activates Forbidden Contract QTEs when value is non-0,None,None,True,False,False,False,True,True,0,False
 RoyalContractBonusDamage,The bonus damage for Royal Contract.,Damage,None,False,False,False,False,False,False,0,False
 RoyalContractBonusGold,The bonus gold for Royal Contract.,Gold,None,False,False,False,False,False,False,0,False
@@ -222,6 +231,7 @@ FrenzyCount,Increases bonus sword master attacks per second.,None,None,True,Fals
 FrenzyDamage,Unused,Damage,None,False,False,False,False,False,False,0,False
 GoldAll,Increases gold earned from all sources.,Gold,None,False,False,False,False,False,False,0,False
 GoldBoss,Increases gold earned from bosses.,Gold,None,False,False,False,False,False,False,0,False
+GoldCooldownMultDuringSnap,reduce cooldown of: Golden Missile/HoM/pHom by X% when snap is active,None,None,False,False,False,False,False,False,0,False
 GoldMonster,Increases gold earned from basic Titans.,Gold,None,False,False,False,False,False,False,0,False
 GoldPerOwnedCardLevel,Increases all gold for each raid card level owned,Gold,None,True,False,True,False,False,False,0,False
 GoldPerMythicSet,Gold per completed equipment set of this type,None,None,False,False,False,False,False,False,0,False
