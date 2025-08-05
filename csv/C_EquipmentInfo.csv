@@ -37,6 +37,7 @@ Aura_PetQueen,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PetQueen
 Aura_Sandstone,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Sandstone
 Aura_Valkyrie,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Valkyrie
 Aura_Airforce,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Airforce
+Aura_PetGroomer,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PetGroomer
 Aura_BoneTribe,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,BoneTribe
 Aura_Samurai,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Samurai
 Aura_Chakram,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Chakram
@@ -274,6 +275,7 @@ Hat_Padlock,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Padlock
 Hat_PetQueen,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,PetQueen
 Hat_Sandstone,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Sandstone
 Hat_Moth,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Moth
+Hat_PetGroomer,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,PetGroomer
 Hat_HighTecLightning,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Hat_Skulls,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,Skulls
 Hat_EarthRogue,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -326,6 +328,7 @@ Slash_BunnyDroid,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,BunnyDroid
 Slash_PetQueen,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,PetQueen
 Slash_Sandstone,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Sandstone
 Slash_Druid,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Druid
+Slash_PetGroomer,3,Slash,PetDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,PetGroomer
 Slash_DarkAlien,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,DarkAlien
 Slash_Samurai,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,Samurai
 Slash_FireKnight,4,Slash,PetDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -480,6 +483,7 @@ Suit_BlackDragon,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,BlackDrag
 Suit_SpellBooster,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,SpellBooster
 Suit_WarHorn,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,WarHorn
 Suit_PetQueen,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,PetQueen
+Suit_PetGroomer,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,PetGroomer
 Suit_BoneTribe,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,BoneTribe
 Suit_Mech,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,Mech
 Suit_WaterSorcerer,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,WaterSorcerer
@@ -685,6 +689,7 @@ Weapon_TitanSouls,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,TitanSoul
 Weapon_Sandstone,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Sandstone
 Weapon_Moth,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Moth
 Weapon_Druid,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Druid
+Weapon_PetGroomer,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,PetGroomer
 Weapon_Samurai,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,Samurai
 Weapon_FireKnight,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,FireKnight
 Weapon_EarthRogue,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,EarthRogue

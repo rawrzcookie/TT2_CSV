@@ -18,7 +18,8 @@ Skulls,TRUE,Mythic,100,120,140,160,180,4000,ShadowCloneBossSplash,0.1,1,1,FALSE,
 Pirate,TRUE,Mythic,100,120,140,160,180,3000,EquipmentRarityChance,1.5,1,1,FALSE,0,HandOfMidasSkillAmount,150,1.12,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"10,625,191.318",FALSE,3,5,6,5,5,3
 BoneTribe,TRUE,Mythic,100,120,140,160,180,2000,HelperBoostCompanionAttackRate,2,1,1,FALSE,0,HelperBoostSkillAmount,100,1.155,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"146,964,401.053",FALSE,,1,1,3,,
 DarkAlien,TRUE,Mythic,100,120,140,160,180,1000,InactiveSneakCountMult,2,1,1,FALSE,0,CritBoostSkillAmount,100,1.105,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"1,875,791.421",FALSE,6,7,8,8,7,7
-Druid,TRUE,Legendary,20,24,28,32,36,0,AllHelperDamage,1.5,1,1,TRUE,1.00E+20,JackpotGold,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,TRUE,1,1,1,1,1,1
+PetGroomer,TRUE,Legendary,20,24,28,32,36,0,PetParadiseCurrencyCount,10,1,1,FALSE,0,PetDamage,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,TRUE,1,1,1,1,1,1
+Druid,TRUE,Legendary,20,24,28,32,36,0,AllHelperDamage,1.5,1,1,TRUE,1.00E+20,JackpotGold,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,1,1,1,1,1,1
 Scorpion,TRUE,Legendary,20,24,28,32,36,0,AfflictionBaseDamage,120,1,1,FALSE,0,GoldAll,20,1.055,0.999,FALSE,0,None,0,0,0,FALSE,0,1.500,FALSE,1,1,1,1,1,1
 Airforce,TRUE,Legendary,20,24,28,32,36,0,BurstBaseDamage,120,1,1,FALSE,0,AllDamage,20,1.055,0.999,FALSE,0,None,0,0,0,FALSE,0,1.500,FALSE,1,1,1,1,1,1
 Moth,TRUE,Legendary,20,24,28,32,36,0,TwilightFairyStageSkip,3,1,1,FALSE,0,BurstDamageSkillAmount,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,1,1,1,1,1,1
@@ -78,7 +79,7 @@ Sun,TRUE,Legendary,20,24,28,32,36,0,PrestigeRelic,1.5,1,1,FALSE,0,SorcererBonusB
 Spartan,TRUE,Legendary,20,24,28,32,36,0,ActiveTapDamage,20,1.055,0.999,FALSE,0,LanceComboBoost,13,1.07,0.999,FALSE,0,None,0,0,0,FALSE,0,"10,223.529",FALSE,,,,,,
 Jade,TRUE,Legendary,20,24,28,32,36,0,AllRaidDamage,0.04,1,1,FALSE,0,DamagePerOwnedCardLevel,0.04,1.053,0.999,FALSE,0,None,0,0,0,FALSE,0,6.491,FALSE,,,,,,
 Tank,TRUE,Legendary,20,24,28,32,36,0,StageSkip,4,1,1,FALSE,0,SophiaComboBoost,20,1.05,0.999,FALSE,0,None,0,0,0,FALSE,0,"2,449.928",FALSE,2,13,4,4,2,2
-PetTamer,TRUE,Legendary,20,24,28,32,36,0,PetQuestRewardMult,0.2,1,1,FALSE,0,KnightBonusBoost,10,1.035,0.999,FALSE,0,None,0,0,0,FALSE,0,296.697,FALSE,,,21,,20,
+PetTamer,TRUE,Legendary,20,24,28,32,36,0,PetParadiseRewardMult,0.2,1,1,FALSE,0,KnightBonusBoost,10,1.035,0.999,FALSE,0,None,0,0,0,FALSE,0,296.697,FALSE,,,21,,20,
 Midas,TRUE,Legendary,20,24,28,32,36,0,HandOfMidasSkillDurationMult,0.1,1,1,FALSE,0,GoldPerLegendarySet,1.8,1.0055,0.999,FALSE,0,None,0,0,0,FALSE,0,3.090,FALSE,16,16,16,16,15,19
 Bazooka,TRUE,Legendary,20,24,28,32,36,0,FrenzyCount,3,1,1,FALSE,0,WarlordBonusBoost,4,1.05,0.999,FALSE,0,None,0,0,0,FALSE,0,489.986,FALSE,,,,,,
 BlueKnight,TRUE,Legendary,20,24,28,32,36,0,AllManaGained,1.2,1.002,0.8,FALSE,0,BurstDamageSkillAmount,19,1.075,0.999,FALSE,0,None,0,0,0,FALSE,0,"23,655.716",FALSE,11,17,14,17,13,17
@@ -129,7 +130,7 @@ AnniversaryFairy,TRUE,Event,-1,-1,-1,-1,-1,0,FairyGold,10,1.062,0.999,FALSE,0,No
 SunBather,TRUE,Event,-1,-1,-1,-1,-1,0,JackpotGold,10,1.062,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Dancer,TRUE,Event,-1,-1,-1,-1,-1,0,UltraDaggerDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Gingerbread,TRUE,Event,-1,-1,-1,-1,-1,0,TapDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
-Scientist,TRUE,Event,-1,-1,-1,-1,-1,0,GoldGunDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,TRUE,,,,,,
+Scientist,TRUE,Event,-1,-1,-1,-1,-1,0,GoldGunDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Prestigious,TRUE,Event,-1,-1,-1,-1,-1,0,AllDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Hollow,TRUE,Event,-1,-1,-1,-1,-1,0,ShadowCloneSkillAmount,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Picnic,TRUE,Event,-1,-1,-1,-1,-1,0,AllHelperDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
@@ -140,8 +141,8 @@ Cupid,TRUE,Event,-1,-1,-1,-1,-1,0,FairyGold,10,1.062,0.999,FALSE,0,None,0,0,0,FA
 Grinch,TRUE,Event,-1,-1,-1,-1,-1,0,GoldAll,10,1.062,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Spellmaster,TRUE,Event,-1,-1,-1,-1,-1,0,SorcererBonusBoost,5,1.023,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Witch,TRUE,Event,-1,-1,-1,-1,-1,0,TwilightBoost,10,1.06,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
-Lifeguard,TRUE,Event,-1,-1,-1,-1,-1,0,AllHelperDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
-RockGirl,TRUE,Event,-1,-1,-1,-1,-1,0,UltraDaggerDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
+Lifeguard,TRUE,Event,-1,-1,-1,-1,-1,0,AllHelperDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,TRUE,,,,,,
+RockGirl,TRUE,Event,-1,-1,-1,-1,-1,0,UltraDaggerDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,TRUE,,,,,,
 Bard,TRUE,Event,-1,-1,-1,-1,-1,0,AllHelperDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Lolita,TRUE,Event,-1,-1,-1,-1,-1,0,PetDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,
 Snowboard,TRUE,Event,-1,-1,-1,-1,-1,0,AllHelperDamage,10,1.04,0.999,FALSE,0,None,0,0,0,FALSE,0,None,0,0,0,FALSE,0,0.000,FALSE,,,,,,

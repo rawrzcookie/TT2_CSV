@@ -13,6 +13,7 @@ HelperBoostSkillAmountDuringTapBoostSkill,Warcry Damage while Fire Sword is Acti
 CannonDamagePerSeasonTitan,(Monument) Thunder Volley Damage and Gold Gun Damage per Titan Killed this season,None,None,True,False,True,False,False,False,0,False
 ClanShipDamagePerSeasonTitan,(Monument) Clanship Damage per Titan Killed this season,None,None,True,False,True,False,False,False,0,False
 AllDamageDuringSnap,All Damage while Snap is active,None,None,False,False,False,False,False,False,0,False
+BossDamageDuringSnap,Boss Damage while Snap is active,None,None,False,False,False,False,False,False,0,False
 AllDamagePerSeasonDay,All Damage per day in this season,None,None,False,False,False,False,False,False,0,False
 DamagePerMaxStage,All Damage per max stage in this season,None,None,False,False,False,False,False,False,0,False
 DamagePerNecroBearResearchLevel,All Damage per Necrobear Level,None,None,False,False,False,False,False,False,0,False
@@ -364,6 +365,8 @@ PetGoldQTEAmount,Increases gold earned from Heart of Gold.,Gold,None,False,False
 PetGoldQTECooldown,Decreases the cooldown of Heart of Gold.,None,None,True,True,False,True,False,False,0,False
 PetQTECooldownMult,Decreases the cooldown of all pet skills.,None,None,False,False,False,False,False,False,0,False
 PetQTEDamage,"Increasses PetBossQTEDamage, PetAttackQTEDamage",None,"PetBossQTEDamage, PetAttackQTEDamage",False,False,False,False,False,False,0,False
+PetParadiseCurrencyCount,Increases max Pet Paradise Currency,None,None,True,False,False,False,False,False,0,False
+PetParadiseRewardMult,Multiplies pet XP gained from Pet Paradise (+X%),None,None,True,False,True,False,False,False,0,False
 DualPetSkillStacks,Increases Dual Pet maximum Multi-Cast.,None,None,True,False,False,False,False,False,0,False
 DualPetAmount,Increases Dual Pet damage.,Damage,None,False,False,False,False,False,False,0,False
 DualPetAttackPerSecond,Adds dual pet attacks per second.,None,None,True,False,False,False,False,False,0,False

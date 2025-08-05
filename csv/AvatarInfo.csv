@@ -170,6 +170,7 @@ AvatarBombChristmas2024Top10,HolidayChristmas2024,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidayValentines2025,HolidayValentines2025,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidayValentines2025SeasonPass,HolidayValentines2025,1,FALSE,,HolidayPremium,FALSE,FALSE
 BombGameGeneric1,BombGameGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
+AvatarPetParadiseGeneric1,PetParadiseGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
 FireStoneEvent1,GenericEvent1,1,FALSE,,Firestone,FALSE,FALSE
 FireStoneEvent2,GenericEvent1,1,FALSE,,Firestone,FALSE,FALSE
 FireStoneEvent3,GenericEvent1,1,FALSE,,Firestone,FALSE,FALSE
