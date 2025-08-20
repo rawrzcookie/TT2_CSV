@@ -1,6 +1,6 @@
 StartRank,EndRank,PrizeBucket,RankReward,LeaderboardPosition
-1,1,1,RaidCard:CosmicBarb:100,Top 1 Clans in Clan Prestige Game
-2,2,2,RaidCard:CosmicBarb:75,Top 2nd Clans in Clan Prestige Game
-3,3,3,RaidCard:CosmicBarb:50,Top 3rd Clans in Clan Prestige Game
-4,10,4,RaidCard:CosmicBarb:25,Top 10 Clans in Clan Prestige Game
+1,1,1,"Diamonds:2000,Title:21",Top 1 Clans in Clan Prestige Game
+2,2,2,"Diamonds:1000,Title:21",Top 2nd Clans in Clan Prestige Game
+3,3,3,"Diamonds:750,Title:21",Top 3rd Clans in Clan Prestige Game
+4,10,4,Diamonds:500,Top 10 Clans in Clan Prestige Game
 11,999999,5,,No Reward
