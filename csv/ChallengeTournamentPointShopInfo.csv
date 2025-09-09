@@ -1203,3 +1203,9 @@ Abyss,ProfileBackground,2,Raid,ProfileBackground:Raid:Abyss,300,2027-07-10T00:00
 15,Sticker,15,,Sticker:15,1350,2025-09-02T00:00:00Z,30,2025-09-02,2025-10-02,1,2025-09-30
 14,Sticker,14,,Sticker:14,1500,2025-09-22T00:00:00Z,30,2025-09-22,2025-10-22,1,2025-10-20
 13,Sticker,13,,Sticker:13,1400,2025-09-27T00:00:00Z,30,2025-09-27,2025-10-27,1,2025-10-25
+AvatarParticleAbyss1,AvatarParticle,1,,AvatarParticle:AvatarParticleAbyss1,1000,2025-09-02T00:00:00Z,30,2025-09-02,2025-10-02,1,2025-09-30
+AvatarParticleAbyss2,AvatarParticle,2,,AvatarParticle:AvatarParticleAbyss2,1000,2025-09-02T00:00:00Z,30,2025-09-02,2025-10-02,1,2025-09-30
+AvatarParticleAbyss3,AvatarParticle,3,,AvatarParticle:AvatarParticleAbyss3,1000,2025-09-02T00:00:00Z,30,2025-09-02,2025-10-02,1,2025-09-30
+AvatarParticleAbyss4,AvatarParticle,4,,AvatarParticle:AvatarParticleAbyss4,1000,2025-10-02T00:00:00Z,30,2025-10-02,2025-11-01,1,2025-10-30
+AvatarParticleAbyss5,AvatarParticle,5,,AvatarParticle:AvatarParticleAbyss5,1000,2025-10-02T00:00:00Z,30,2025-10-02,2025-11-01,1,2025-10-30
+AvatarParticleAbyss6,AvatarParticle,6,,AvatarParticle:AvatarParticleAbyss6,1000,2025-10-02T00:00:00Z,30,2025-10-02,2025-11-01,1,2025-10-30

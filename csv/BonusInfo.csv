@@ -259,7 +259,8 @@ GoldenMissileSkillAmount,Increases Golden Missile Damage,Damage,None,False,False
 GoldenMissileSkillMana,Reduce the mana cost of Golden Missile,None,None,True,True,False,False,False,False,0,False
 GoldenMissileSkillManaMult,Reduce the mana cost of Golden Missile,None,None,False,False,False,False,False,False,0,False
 GoldenMissileSkillCooldown,Decreases the cooldown for Golden Missile,None,None,True,True,False,False,False,False,0,False
-HandOfMidasSkillStacks,Increases the maximum Multi-Cast Cap for Hand of Midas(+X),None,None,True,False,False,False,False,False,0,False
+GemstoneLevel,Increases players Gemstone level,None,None,True,False,False,False,False,False,0,False
+HandOfMidasSkillStacks,Increases the maximum Multi-Cast Cap for Hand of Midas(+X),None,None,True,False,True,False,False,False,0,False
 HandOfMidasSkillStacksBonus,Increases the strength of Hand of midas for each active multi-cast (X),None,None,False,False,False,False,False,False,0,False
 HandOfMidasSkillDuration,Increases the duration of Hand of Midas. (+Xs),None,None,True,False,False,True,False,False,0,False
 HandOfMidasSkillDurationMult,Increases the duration of Hand of Midas. (+X%),None,None,True,False,True,False,False,False,0,False
@@ -357,7 +358,6 @@ PetTapCountToAttack,Decreases the number of taps needed to trigger a pet attack.
 PetAttackQTECooldown,Decreases the cooldown for Flash Zip.,None,None,True,True,False,True,False,False,0,False
 PetAttackQTEDamage,Increases bonus damage dealt by Flash Zip.,Damage,None,False,False,False,False,False,False,0,False
 PetAutoAttackEnabledOverride,Pet auto attack flag that controls when pet auto attack is enabled,None,None,True,False,False,False,False,False,0,False
-PetQuestRewardMult,Multiplies pet XP gained from Pet Quests (+X%),None,None,True,False,True,False,False,False,0,False
 PetBossQTECooldown,Decreases the cooldown of Flash Zip.,None,None,True,True,False,True,False,False,0,False
 PetBossQTEDamage,Increases all pet damage (charged damage) from Flash Zip.,Damage,None,False,False,False,False,False,False,0,False
 PetBossQTEDuration,Increases the duration of Flash Zip.,None,None,True,False,False,True,False,False,0,False
@@ -443,6 +443,18 @@ ThunderVolleySkillStacksBonus,Increases the strength of Thunder Volley for each 
 ThunderVolleySkillMana,Reduces the mana cost of Thunder Ship.,None,None,True,True,False,False,False,False,0,False
 ThunderVolleySkillManaMult,Multiplies ThunderVolleySkillMana,None,None,False,False,False,False,False,False,0,False
 TitanDamage,Increases damage dealt against non-boss Titans.,Damage,None,False,False,False,False,False,False,0,False
+TitanSubtype1Damage,Increases damage dealt against Titan Type 1,None,None,False,False,False,False,False,False,0,False
+TitanSubtype2Damage,Increases damage dealt against Titan Type 2,None,None,False,False,False,False,False,False,0,False
+TitanSubtype3Damage,Increases damage dealt against Titan Type 3,None,None,False,False,False,False,False,False,0,False
+TitanSubtype4Damage,Increases damage dealt against Titan Type 4,None,None,False,False,False,False,False,False,0,False
+TitanSubtype5Damage,Increases damage dealt against Titan Type 5,None,None,False,False,False,False,False,False,0,False
+TitanSubtype6Damage,Increases damage dealt against Titan Type 6,None,None,False,False,False,False,False,False,0,False
+TitanSubtype1Gold,Increases Gold against Titan Type 1,None,None,False,False,False,False,False,False,0,False
+TitanSubtype2Gold,Increases Gold against Titan Type 2,None,None,False,False,False,False,False,False,0,False
+TitanSubtype3Gold,Increases Gold against Titan Type 3,None,None,False,False,False,False,False,False,0,False
+TitanSubtype4Gold,Increases Gold against Titan Type 4,None,None,False,False,False,False,False,False,0,False
+TitanSubtype5Gold,Increases Gold against Titan Type 5,None,None,False,False,False,False,False,False,0,False
+TitanSubtype6Gold,Increases Gold against Titan Type 6,None,None,False,False,False,False,False,False,0,False
 TitanSlayer,Increases Sword and HS,Damage,"SwordBoost,BurstDamageSkillAmount",False,False,False,False,False,False,0,False
 TitanSoulsChance,Increases the drop chance of Titan Souls.,None,None,True,False,True,False,False,False,0,False
 TitanSoulsChanceMult,Increases the drop chance of Titan Souls as a multiplier.,None,None,False,False,False,False,False,False,0,False
