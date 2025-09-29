@@ -21,7 +21,7 @@ SeasonalArtifact22,Freemana's Hot Springs,FALSE,Viper,AllDamagePerSeasonDay,40,1
 SeasonalArtifact23,King Cobra Statue,TRUE,Viper,GoldPerMythicSet,40,40.00,41.5876,1.00E+20,0.20,8.00,2.260,Dmg,6.87E+31
 SeasonalArtifact24,Twin Viper Rivers,TRUE,Viper,AuraBoost,0,2.00E+01,200,1.00E+14,0.20,8.00,2.260,Gold,2.35E+165
 SeasonalArtifact25,Nightcrag Market,TRUE,Viper,TwilightBoostPerSeasonFairy,0,2.80,79.2691,1.00E+14,0.42,1.09,1.042,Dmg,1.60E+160
-SeasonalArtifact26,Valley of Blades,TRUE,Viper,AllEquipmentEffect,0,1.70,24.7733,1.00E+14,0.20,8.00,2.260,Boost,5.35E+38
+SeasonalArtifact26,Valley of Blades,TRUE,Viper,HelperWeaponBoost,40,1.34,1.916,1.00E+20,0.55,1.09,1.044,Boost,6.00E+02
 SeasonalArtifact33,Mound of Brothers' Meet,TRUE,Viper,DeadlyDamageCompanion,0,9.20,153.1893,1.00E+14,0.20,8.00,2.260,Equip,6.95E+173
 SeasonalArtifact28,Portal of Shadows,TRUE,Viper,ShadowCloneAllSkillBoost,0,1.70,37.3978,1.00E+14,0.20,8.00,2.260,Boost,2.01E+73
 SeasonalArtifact29,Ancient Origin of the Vipers,TRUE,Viper,CritDamagePerSeasonDay,40,1.10,2.9865,1.00E+20,0.20,8.00,2.260,Equip,1.05E+03
