@@ -169,6 +169,8 @@ AvatarBombChristmas2024Top100,HolidayChristmas2024,1,FALSE,,Holiday,FALSE,FALSE
 AvatarBombChristmas2024Top10,HolidayChristmas2024,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidayValentines2025,HolidayValentines2025,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidayValentines2025SeasonPass,HolidayValentines2025,1,FALSE,,HolidayPremium,FALSE,FALSE
+AvatarHolidayHalloween2025,HolidayHalloween2025,1,FALSE,,Holiday,FALSE,FALSE
+AvatarHolidayHalloween2025SeasonPass,HolidayHalloween2025,1,FALSE,,HolidayPremium,FALSE,FALSE
 BombGameGeneric1,BombGameGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
 AvatarPetParadiseGeneric1,PetParadiseGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
 FireStoneEvent1,GenericEvent1,1,FALSE,,Firestone,FALSE,FALSE
@@ -363,6 +365,7 @@ AvatarAlchemy7,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
 AvatarAlchemy8,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
 AvatarAlchemy9,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
 AvatarAlchemy10,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
+AvatarGenericMaze,MinigameMaze,0,TRUE,#ffcc00,Maze,FALSE,TRUE
 AvatarFishingGameGeneric1,MinigameFishingDerby,0,TRUE,#ffcc00,FishingDerby,FALSE,TRUE
 AvatarFish0,MinigameFishingDerby_Fish0,0,TRUE,#ffcc00,FishingDerby,FALSE,TRUE
 AvatarFish1,MinigameFishingDerby_Fish1,1,TRUE,#ffcc00,FishingDerby,FALSE,TRUE

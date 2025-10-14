@@ -85,6 +85,7 @@ Aura_Collector,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Collector
 Aura_Fortress,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Fortress
 Aura_Moth,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Moth
 Aura_Druid,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Druid
+Aura_Gemstone,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Gemstone
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -163,6 +164,7 @@ Hat_WarHorn,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,WarHorn
 Hat_Runestone,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Runestone
 Hat_GunpowderMage,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,GunpowderMage
 Hat_Druid,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Druid
+Hat_Gemstone,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Gemstone
 Hat_DarkAlien,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAlien
 Hat_Mech,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Mech
 Hat_ElectricWarlord,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,ElectricWarlord
@@ -305,6 +307,7 @@ Slash_Spacesuit,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Spaces
 Slash_Runestone,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Runestone
 Slash_TitanSouls,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,TitanSouls
 Slash_Fortress,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Fortress
+Slash_Gemstone,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Gemstone
 Slash_BoneTribe,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,BoneTribe
 Slash_Mech,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,Mech
 Slash_ElectricWarlord,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,ElectricWarlord
@@ -455,6 +458,7 @@ Suit_TitanSouls,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,TitanSouls
 Suit_Collector,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Collector
 Suit_Moth,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Moth
 Suit_Scorpion,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Scorpion
+Suit_Gemstone,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Gemstone
 Suit_Pirate,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,Pirate
 Suit_HighTecLightning,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Suit_FairyKnight,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,FairyKnight
@@ -582,6 +586,7 @@ Weapon_SoulCatcher,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,SoulCatc
 Weapon_Runestone,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Runestone
 Weapon_Collector,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Collector
 Weapon_Airforce,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Airforce
+Weapon_Gemstone,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Gemstone
 Weapon_Pirate,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Pirate
 Weapon_Skulls,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Skulls
 Weapon_HighTecLightning,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,HighTecLightning
@@ -997,6 +1002,11 @@ Hat_Teddy,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Teddy
 Suit_Teddy,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,Teddy
 Aura_Teddy,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Teddy
 Slash_Teddy,1,Slash,GoldGunDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,Teddy
+Weapon_Skeleton,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,Skeleton
+Hat_Skeleton,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Skeleton
+Suit_Skeleton,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,Skeleton
+Aura_Skeleton,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Skeleton
+Slash_Skeleton,1,Slash,GoldGunDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,Skeleton
 Weapon_Retaliator,5,Weapon,DamagePerSkillPoint,AllActiveSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Retaliator
 Weapon_DivineRetribution,5,Weapon,DamagePerATParticipation,DoomBonusDamage,6.944,25,0.9,0.58,1.16,FALSE,DivineRetribution
 Slash_DrunkenHammer,5,Slash,BeastBladeDamage,StageSkipMonsterSpawnChance,1.4632,25,0.9,0.58,1.15,FALSE,DrunkenHammer

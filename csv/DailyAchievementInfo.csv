@@ -1,11 +1,11 @@
 Type,IsActive,Requirement,RewardString,Note
-PetLevels,TRUE,3,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1",Pet levels collected per day.
-CollectedEquipment,TRUE,4,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1",Equipment collected per day.
-UniqueArtifacts,FALSE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1",Unique artifacts upgraded per day (not levels). Note that the client currently can't handle more than 1
-ClickFairies,TRUE,5,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1",Number of fairies clicked.
-Prestiges,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1",Number of prestiges per day.
-WatchVideos,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1",Number of videos watched.
-SoloRaidAttacks,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1",Perform a Solo Raid Attack.
-DiamondFairies,TRUE,5,Alchemy:1,Diamond fairies collected per day.
-PerkFairy,TRUE,1,Alchemy:1,Mama fairy reward.
-DailyEquipment,TRUE,20,Alchemy:1,Equipment dropped per day.
+PetLevels,TRUE,3,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Pet levels collected per day.
+CollectedEquipment,TRUE,4,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Equipment collected per day.
+UniqueArtifacts,FALSE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Unique artifacts upgraded per day (not levels). Note that the client currently can't handle more than 1
+ClickFairies,TRUE,5,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Number of fairies clicked.
+Prestiges,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Number of prestiges per day.
+WatchVideos,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Number of videos watched.
+SoloRaidAttacks,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Perform a Solo Raid Attack.
+DiamondFairies,TRUE,5,"Alchemy:1,GemstoneCurrency:50",Diamond fairies collected per day.
+PerkFairy,TRUE,1,"Alchemy:1,GemstoneCurrency:50",Mama fairy reward.
+DailyEquipment,TRUE,20,"Alchemy:1,GemstoneCurrency:50",Equipment dropped per day.

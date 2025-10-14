@@ -163,6 +163,7 @@ CritChance,Increases the chance to score a critical hit.,None,None,True,False,Tr
 CritDamage,Increases the base damage done by critical hits.,Damage,None,False,False,False,False,False,False,0,False
 CritDamagePerSeasonDay,Increases the base damage done by critical hits per Transcendence Season Day,Damage,None,False,False,False,False,False,False,0,False
 DailyTicketBoost,Increases the amount of clan tickets earned by a player,None,None,True,False,True,False,False,False,0,False
+DailyGemstoneCurrencyBoost,Increases the amount of Mystic Geodes earned by a player,None,None,True,False,True,False,False,False,0,False
 DamageOverTimeMaxAttacks,Unused,None,None,True,False,False,False,False,False,0,False
 DamageOverTimePercent,Unused,None,None,True,False,True,False,False,False,0,False
 DamagePerConsecutiveLoginDay,Damage per Login Day (max 14),Damage,None,False,False,False,False,False,False,0,False

@@ -1,0 +1,6 @@
+StartRank,EndRank,PrizeBucket,RankReward,LeaderboardPosition
+1,1,1,"Diamonds:1337,Title:7",Top 1 clans in maze Game
+2,2,2,Diamonds:25,Top 2 clans in maze Game
+3,3,3,Diamonds:20,Top 3 clans in maze Game
+4,10,4,Diamonds:1,Top 10 clans in maze Game
+11,999999,5,,No Reward
