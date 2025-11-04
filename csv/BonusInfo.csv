@@ -99,6 +99,11 @@ SpellHelperDamage,Increases damage from spell heroes.,Damage,None,False,False,Fa
 ArmorBoost,Increases the primary effect of all Suit/Armor type equipment.,None,None,False,False,False,False,False,False,0,False
 AuraBoost,Increases the primary effect of all Aura type equipment.,None,None,False,False,False,False,False,False,0,False
 HelmetBoost,Increases the primary effect of all Hat/Helmet type equipment.,None,None,False,False,False,False,False,False,0,False
+ArmorLevel,"Increases the level by ""+X%""",None,None,True,False,True,False,False,False,0,False
+AuraLevel,"Increases the level by ""+X%""",None,None,True,False,True,False,False,False,0,False
+HelmetLevel,"Increases the level by ""+X%""",None,None,True,False,True,False,False,False,0,False
+SlashLevel,"Increases the level by ""+X%""",None,None,True,False,True,False,False,False,0,False
+WeaponLevel,"Increases the level by ""+X%""",None,None,True,False,True,False,False,False,0,False
 ArtifactDamage,Increases AllDamage provided by artifacts.,Damage,None,True,False,True,False,False,False,1,False
 SeasonalArtifactDamage,Increases AllDamage provided by monuments.,Damage,None,True,False,True,False,False,False,1,False
 ArtifactEnchantmentBoost,Increases the strength of Artifact Enchantment bonus,None,None,False,False,False,False,False,False,0,False
@@ -261,6 +266,7 @@ GoldenMissileSkillMana,Reduce the mana cost of Golden Missile,None,None,True,Tru
 GoldenMissileSkillManaMult,Reduce the mana cost of Golden Missile,None,None,False,False,False,False,False,False,0,False
 GoldenMissileSkillCooldown,Decreases the cooldown for Golden Missile,None,None,True,True,False,False,False,False,0,False
 GemstoneLevel,Increases players Gemstone level,None,None,True,False,False,False,False,False,0,False
+GemstoneLevelMult,Increases players Gemstone level,None,None,True,False,True,False,False,False,0,False
 HandOfMidasSkillStacks,Increases the maximum Multi-Cast Cap for Hand of Midas(+X),None,None,True,False,True,False,False,False,0,False
 HandOfMidasSkillStacksBonus,Increases the strength of Hand of midas for each active multi-cast (X),None,None,False,False,False,False,False,False,0,False
 HandOfMidasSkillDuration,Increases the duration of Hand of Midas. (+Xs),None,None,True,False,False,True,False,False,0,False

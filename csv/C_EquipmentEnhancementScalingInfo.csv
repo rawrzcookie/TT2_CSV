@@ -56,3 +56,5 @@ TwilightFairyStageSkip,3,1,1E+0,0
 DeadlyDamageCompanion,0.001,1,2E-4,3
 TapBoostSkillDuration,60,1,1E+0,0
 HelperBoostCompanionAttackRate,0.25,1,1E+0,0
+AllActiveSkillAmount,0.001,1,2E-4,1.002
+DoomBonusDamage,0.001,1,2E-4,1.9
