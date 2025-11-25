@@ -320,3 +320,43 @@ CLAN_MEMBER_LIST_REQUIRED_NECROBEAR_LEVEL,"you do not have a high enough forbidd
 required necrobear level: {0}",,,"You do not have a high enough Forbidden Research level to join this clan.
 
 Required Necrobear Level: {0}",你的禁忌研究等級不夠高，無法加入這個氏族,你的禁忌研究等级不够高，无法加入这个氏族,このクランに参加するには禁制研究レベルが足りません,당신은 이 클랜에 가입할 만큼 금지된 연구 레벨이 높지 않습니다.,Du Har Ikke Et Højt Nok Niveau Af Forbudt Forskning Til At Blive Medlem Af Denne Klan,Je Hebt Niet Een Hoog Genoeg Verboden Onderzoeksniveau Om Je Bij Deze Clan Aan Te Sluiten,Votre Niveau De Recherche Interdite Est Insuffisant Pour Rejoindre Ce Clan.,"Du Hast Kein Ausreichend Hohes Forschungsniveau Im Bereich Der Verbotenen Forschung, Um Diesem Clan Beizutreten.",Non Hai Un Livello Di Ricerca Proibita Sufficientemente Alto Per Unirti A Questo Clan,Du Har Ikke Et Høyt Nok Forbudt Forskningsnivå Til Å Bli Med I Denne Klanen.,"У Вас Недостаточно Высокий Уровень Запрещенных Исследований, Чтобы Присоединиться К Этому Клану",No Tienes El Nivel De Investigación Prohibida Lo Suficientemente Alto Para Unirte A Este Clan.,Du Har Inte En Tillräckligt Hög Nivå Av Förbjuden Forskning För Att Gå Med I Den Här Klanen.,Bu Klana Katılmak Için Yasaklı Araştırma Seviyeniz Yeterince Yüksek Değil,Você Não Possui Um Nível De Pesquisa Proibida Suficientemente Alto Para Se Juntar A Este Clã.
+MINIGAME_CURRENCY_Maze,tower keys,,,Tower Keys,塔鑰匙,塔钥匙,タワーキー,타워 키,Tårnnøgler,Torensleutels,Clés De La Tour,Turmschlüssel,Chiavi Della Torre,Tårnnøkler,Ключи От Башни,Llaves De La Torre,Tornnycklar,Kule Anahtarları,Chaves Da Torre
+MINIGAME_CURRENCY_SINGLE_Maze,tower key,,,Tower Key,塔鑰匙,塔钥匙,タワーキー,타워 키,Tårnnøgle,Torensleutel,Clé De La Tour,Turmschlüssel,Chiave Della Torre,Tårnnøkkel,Ключ От Башни,Llave De La Torre,Tornnyckel,Kule Anahtarı,Chave Da Torre
+MINIGAME_TITLE_Maze,climb the tower!,,,Climb The Tower!,爬上塔！,爬上塔！,塔を登ろう！,탑에 올라가세요!,Klatre Op I Tårnet!,Beklim De Toren!,Grimpez À La Tour !,Erklimme Den Turm!,Scala La Torre!,Klatre Opp I Tårnet!,Поднимись На Башню!,¡Sube A La Torre!,Klättra Upp I Tornet!,Kuleye Tırman!,Suba Na Torre!
+MINIGAME_PREVIEW_TITLE_Maze,climb the tower!,,,Climb The Tower!,爬上塔！,爬上塔！,塔を登ろう！,탑에 올라가세요!,Klatre Op I Tårnet!,Beklim De Toren!,Grimpez À La Tour !,Erklimme Den Turm!,Scala La Torre!,Klatre Opp I Tårnet!,Поднимись На Башню!,¡Sube A La Torre!,Klättra Upp I Tornet!,Kuleye Tırman!,Suba Na Torre!
+MINIGAME_PREVIEW_MESSAGE_Maze,"Sharpen your senses!
+Watch those doors!
+It is almost time to follow your friends and escape the maze!",,,"Sharpen your senses, doors in sight. The maze is near ready, hold on tight! Follow your friends, don't lag behind. Treasure awaits for the sharp of mind!","提高你的感知力！
+小心那些門！
+快跟著你的朋友逃出迷宮吧！","提高你的感知力！
+小心那些门！
+快跟着你的朋友逃出迷宫吧！","感覚を研ぎ澄ませ！
+あの扉にご用心！
+いよいよ、友達と一緒に迷路から脱出する時間です！","감각을 예민하게 키우세요!
+문을 조심하세요!
+친구들을 따라 미로를 탈출할 시간이 다가왔어요!","Skærp dine sanser!
+Pas på de døre!
+Det er næsten tid til at følge dine venner og undslippe labyrinten!","Zet je zintuigen op scherp!
+Let op die deuren!
+Het is bijna tijd om je vrienden te volgen en uit het doolhof te ontsnappen!","Aiguisez vos sens !
+Attention aux portes !
+Il est presque temps de suivre vos amis et de vous échapper du labyrinthe !","Schärfe deine Sinne!
+Pass auf die Türen auf!
+Es ist fast Zeit, deinen Freunden zu folgen und aus dem Labyrinth zu entkommen!","Affinate i vostri sensi!
+Attenzione a quelle porte!
+È quasi ora di seguire i vostri amici e uscire dal labirinto!","Skjerp sansene dine!
+Pass på de dørene!
+Det er nesten på tide å følge vennene dine og unnslippe labyrinten!","Обострите свои чувства!
+Следите за дверями!
+Скоро настанет время последовать за друзьями и выбраться из лабиринта!","¡Agudiza tus sentidos!
+¡Cuidado con esas puertas!
+¡Ya casi es hora de seguir a tus amigos y escapar del laberinto!","Skärpa dina sinnen!
+Titta på de där dörrarna!
+Det är nästan dags att följa dina vänner och fly labyrinten!","Duyularınızı keskinleştirin!
+Kapılara dikkat edin!
+Arkadaşlarınızı takip edip labirentten kaçma zamanı yaklaşıyor!","Aguce seus sentidos!
+Cuidado com as portas!
+Está quase na hora de seguir seus amigos e escapar do labirinto!"
+MINIGAME_TAB_0_Maze,tower,,,Tower,塔,塔,タワー,탑,Tårn,Toren,Tour,Turm,Torre,Tårn,Башня,Torre,Torn,Kule,Torre
+MINIGAME_TAB_1_Maze,leaderboard,,,Leaderboard,排行榜,排行榜,リーダーボード,리더보드,leaderboard,klassement,classement,Bestenliste,classifica,ledertavle,таблица лидеров,tabla de clasificación,topplista,liderlik tablosu,tabela de classificação
+PRESTIGE_REWARD_INFO_DESC_Maze,earn {0} when you prestige during the {1} event! use your {0} to reach as high as you can to win rewards!,,,Earn {0} when you prestige during the {1} event! Use your {0} to reach as high as you can to win rewards!,在{1}活動期間提升聲望即可獲得{0}！用你的{0}盡可能提升聲望等級，贏取獎勵！,在{1}活动期间提升声望即可获得{0}！用你的{0}尽可能提升声望等级，赢取奖励！,{1} イベント中にプレステージすると {0} を獲得できます。{0} を使用してできるだけ高いレベルに到達し、報酬を獲得しましょう。,{1} 이벤트 기간 동안 명예를 얻으면 {0}을 획득하세요! {0}을 사용하여 최대한 높은 순위에 도달하고 보상을 받으세요!,"Optjen {0}, Når Du Får Prestige Under {1}-Begivenheden! Brug Dine {0} Til At Nå Så Højt Som Muligt For At Vinde Belønninger!",Verdien {0} Wanneer Je Prestige Verwerft Tijdens Het {1} Evenement! Gebruik Je {0} Om Zo Hoog Mogelijk Te Reiken En Beloningen Te Winnen!,Gagnez {0} En Atteignant Le Prestige Pendant L'Événement {1} ! Utilisez Vos {0} Pour Atteindre Le Plus Haut Niveau Possible Et Remporter Des Récompenses !,"Verdiene {0}, Wenn Du Während Des {1}-Events Prestige Erreichst! Nutze Deine {0}, Um So Hoch Wie Möglich Aufzusteigen Und Belohnungen Zu Gewinnen!",Guadagna {0} Quando Ottieni Prestigio Durante L'Evento {1}! Usa I Tuoi {0} Per Raggiungere Il Livello Più Alto Possibile E Vincere Ricompense!,Tjen {0} Når Du Får Prestisje Under {1}-Arrangementet! Bruk {0} Til Å Nå Så Høyt Som Mulig For Å Vinne Belønninger!,"Заработайте {0}, Когда Достигнете Престижа Во Время События {1}! Используйте Свои {0}, Чтобы Достичь Как Можно Большей Высоты И Выиграть Награды!",¡Gana {0} Cuando Subes De Prestigio Durante El Evento {1}! ¡Usa Tus {0} Para Llegar Lo Más Alto Que Puedas Y Ganar Recompensas!,Tjäna {0} När Du Får Prestige Under {1}-Evenemanget! Använd Dina {0} För Att Nå Så Högt Upp Du Kan För Att Vinna Belöningar!,{1} Etkinliği Sırasında Prestij Kazandığınızda {0} Kazanın! Ödül Kazanmak Için {0} Puanınızı Olabildiğince Yükseğe Ulaşmak Için Kullanın!,Ganhe {0} Ao Subir De Nível Durante O Evento {1}! Use Seus {0} Para Alcançar O Nível Mais Alto Possível E Ganhar Recompensas!
