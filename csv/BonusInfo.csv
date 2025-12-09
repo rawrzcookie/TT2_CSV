@@ -62,6 +62,12 @@ AllActiveSkillAmount,Increases the primary effect of each active skill.,None,"Ha
 AllMultiCastPrimaryEffect,Increases the primary effect of each multi-cast skill per multicast.,None,None,False,False,False,False,False,False,0,False
 AllActiveSkillAmountPerAdditiveRelicMultiplier,Increases effects of active skills per lifetime relic boosters,Damage,None,True,False,True,False,False,False,0,False
 AllActiveSkillCap,Increase active skill cap max (+X),None,None,True,False,False,False,False,False,0,False
+KnightActiveSkillCap,Increase active skill cap max for Knight skills  (+X),None,None,True,False,False,False,False,False,0,False
+SummonerActiveSkillCap,Increase active skill cap max for Summoner skills  (+X),None,None,True,False,False,False,False,False,0,False
+WarlordActiveSkillCap,Increase active skill cap max for Warlord skills  (+X),None,None,True,False,False,False,False,False,0,False
+SorcererActiveSkillCap,Increase active skill cap max for Sorcerer skills  (+X),None,None,True,False,False,False,False,False,0,False
+RogueActiveSkillCap,Increase active skill cap max for Rogue skills  (+X),None,None,True,False,False,False,False,False,0,False
+AlchemistActiveSkillCap,Increase active skill cap max for Alchemist skills  (+X),None,None,True,False,False,False,False,False,0,False
 AllActiveSkillCooldownRate,Reduces the cooldown of each active skill.,None,None,True,True,True,False,False,False,0,False
 AllActiveSkillDuration,Increases duration of active skill timers. (+Xs),None,None,True,False,False,True,False,False,0,False
 AllActiveSkillDurationMult,Increases duration of active skill timers (+X%),None,None,True,False,True,False,False,False,0,False
@@ -91,6 +97,8 @@ AutoActivateGoldenMissileSkill,Automatically activates Golden Missile when value
 AutoActivateFrenzy,Automatically activates Barbaric Fury when value is non-1,None,None,True,False,False,False,True,True,0,False
 AutoBuyHeroes,Determines the seconds between auto buy hero intervals.,None,None,True,False,False,False,False,False,0,False
 AutoBuyHeroesMultDuringMakeItRain,Reduces the seconds between auto buy hero intervals during Make It Rain,None,None,True,True,True,False,False,False,0,False
+AllPetDamageEffect,Increases the strength of damage type effects given by Legacy & Exotic pets.,None,"LegacyPetDamageEffect,ExoticPetDamageEffect",False,False,False,False,False,False,0,False
+AllPetGoldEffect,Increases the strength of gold type effects given by Legacy & Exotic pets.,None,"LegacyPetGoldEffect,ExoticPetGoldEffect",False,False,False,False,False,False,0,False
 LegacyPetDamageEffect,Increases the strength of damage type effects given by Legacy pets.,Damage,None,False,False,False,False,False,False,0,False
 LegacyPetGoldEffect,Increases the strength of gold type effects given by Legacy pets.,Gold,None,False,False,False,False,False,False,0,False
 MeleeHelperDamage,Increases damage from melee heroes.,Damage,None,False,False,False,False,False,False,0,False
@@ -234,6 +242,7 @@ AnyContractMonsterCount,Decreases the amount of non-boss Titans per stage while 
 AnyContractBonusBoost,Increases ForbiddenContractBonusDamage and RoyalContractBonusGold,None,"ForbiddenContractBonusDamage,RoyalContractBonusGold",False,False,False,False,False,False,0,False
 AnyContractQTECooldown,Increases ForbiddenContractQTECooldown and RoyalContractQTECooldown,None,"ForbiddenContractQTECooldown,RoyalContractQTECooldown",True,True,False,True,False,False,0,False
 AutoActivateContractsQTE,Automatically activates Forbidden and Royal Contract QTEs when value is non-0,None,"AutoActivateForbiddenContractQTE,AutoActivateRoyalContractQTE",True,False,False,False,True,True,0,False
+AutoTapCount,Increases auto sword master attacks per second.,None,None,True,False,False,False,False,False,0,False
 FrenzyCount,Increases bonus sword master attacks per second.,None,None,True,False,False,False,False,False,0,False
 FrenzyDamage,Unused,Damage,None,False,False,False,False,False,False,0,False
 GoldAll,Increases gold earned from all sources.,Gold,None,False,False,False,False,False,False,0,False
@@ -477,6 +486,7 @@ TwilightFairySkillStacksBonus,Increases the strength of Twilight Fairy for each 
 TwilightFairyGloomBonusDamage,Titans struck by Twilight Fairies will grant a buff to Twilight damage,None,None,False,False,False,False,False,False,0,False
 TwilightFairySkillMana,Reduces the mana cost of Twilight Fairy.,None,None,True,True,False,False,False,False,0,False
 TwilightFairySkillManaMult,Multiplies TwilightFairySkillMana,None,None,False,False,False,False,False,False,0,False
+TwilightFairySpawnChanceOnBurstDamage,Increases the chance for multiple Twilight fairies to spawn on HS cast,None,None,True,False,True,False,False,False,0,False
 UltraDaggerCooldown,Decreases the cooldown for ultra daggers (-Xs),None,None,True,True,False,True,False,False,0,False
 UltraDaggerCooldownMult,Decreases the cooldown for ultra daggers (%),None,None,False,False,False,False,False,False,0,False
 UltraDaggerCount,Increases number of available ultra daggers to be thrown,None,None,True,False,False,False,False,False,0,False

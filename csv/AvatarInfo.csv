@@ -175,6 +175,7 @@ AvatarHolidayAnniversary2025,HolidayAnniversary2025,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidayAnniversary2025SeasonPass,HolidayAnniversary2025,1,FALSE,,HolidayPremium,FALSE,FALSE
 BombGameGeneric1,BombGameGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
 AvatarPetParadiseGeneric1,PetParadiseGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
+AvatarGenericDigsite,AvatarGenericDigsite,1,TRUE,#ffcc00,None,FALSE,TRUE
 FireStoneEvent1,GenericEvent1,1,FALSE,,Firestone,FALSE,FALSE
 FireStoneEvent2,GenericEvent1,1,FALSE,,Firestone,FALSE,FALSE
 FireStoneEvent3,GenericEvent1,1,FALSE,,Firestone,FALSE,FALSE
