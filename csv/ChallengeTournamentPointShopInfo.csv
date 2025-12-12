@@ -78,8 +78,8 @@ FrameAbyss3,Frame,3,,Frame:FrameAbyss3,500,"24,25,26",1
 FrameAbyssPet33,Frame,33,,Frame:FrameAbyssPet33,320,"25,26,27",1
 FrameAbyssPet42,Frame,42,,Frame:FrameAbyssPet42,350,"26,27,28",1
 FrameAbyss6,Frame,6,,Frame:FrameAbyss6,175,"27,28,29",1
-FrameAbyss2,Frame,2,,Frame:FrameAbyss2,275,"28,29,30",1
-FrameAbyssPet35,Frame,35,,Frame:FrameAbyssPet35,420,"29,30,0",1
+FrameAbyss2,Frame,2,,Frame:FrameAbyss2,275,"28,29,0",1
+FrameAbyssPet35,Frame,35,,Frame:FrameAbyssPet35,420,"29,0,1",1
 ElvenCity,ProfileBackground,1,Player,ProfileBackground:Player:ElvenCity,325,"0,1",1
 Cyberpunk,ProfileBackground,2,Raid,ProfileBackground:Raid:Cyberpunk,525,"1,2",1
 MagicalForest,ProfileBackground,1,Player,ProfileBackground:Player:MagicalForest,425,"2,3",1
@@ -112,11 +112,11 @@ Abyss,ProfileBackground,2,Raid,ProfileBackground:Raid:Abyss,300,"7,0",1
 17,Sticker,17,,Sticker:17,1500,"1,2,3",1
 16,Sticker,16,,Sticker:16,1350,"2,3,4",1
 15,Sticker,15,,Sticker:15,1350,"3,4,5",1
-14,Sticker,14,,Sticker:14,1500,"4,5,6",1
-13,Sticker,13,,Sticker:13,1400,"5,6,0",1
+14,Sticker,14,,Sticker:14,1500,"4,5,0",1
+13,Sticker,13,,Sticker:13,1400,"5,0,1",1
 AvatarParticleAbyss1,AvatarParticle,1,,AvatarParticle:AvatarParticleAbyss1,1000,"0,1,2",1
 AvatarParticleAbyss2,AvatarParticle,2,,AvatarParticle:AvatarParticleAbyss2,1000,"1,2,3",1
 AvatarParticleAbyss3,AvatarParticle,3,,AvatarParticle:AvatarParticleAbyss3,1000,"2,3,4",1
 AvatarParticleAbyss4,AvatarParticle,4,,AvatarParticle:AvatarParticleAbyss4,1000,"3,4,5",1
-AvatarParticleAbyss5,AvatarParticle,5,,AvatarParticle:AvatarParticleAbyss5,1000,"4,5,6",1
-AvatarParticleAbyss6,AvatarParticle,6,,AvatarParticle:AvatarParticleAbyss6,1000,"5,6,0",1
+AvatarParticleAbyss5,AvatarParticle,5,,AvatarParticle:AvatarParticleAbyss5,1000,"4,5,0",1
+AvatarParticleAbyss6,AvatarParticle,6,,AvatarParticle:AvatarParticleAbyss6,1000,"5,0,1",1
