@@ -1,6 +1,6 @@
-StartRank,EndRank,LeaderboardPosition,RankReward
-1,10,Top 10 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason14Top10,RaidCard:1600,RaidWildcard:1100,Title:561"
-11,25,Top 25 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason14Top25,RaidCard:1400,RaidWildcard:950,Title:562"
-26,50,Top 50 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason14Top50,RaidCard:1200,RaidWildcard:800,Title:563"
-51,100,Top 100 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason14Top100,RaidCard:1000,RaidWildcard:650,Title:564"
-101,9999999,Any Clan that reached In Master Tier,"RaidCard:800,RaidWildcard:500"
+StartRank,EndRank,LeaderboardPosition,RankReward,Season
+1,10,Top 10 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason15Top10,RaidCard:1600,RaidWildcard:1100,Title:571",15
+11,25,Top 25 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason15Top25,RaidCard:1400,RaidWildcard:950,Title:572",
+26,50,Top 50 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason15Top50,RaidCard:1200,RaidWildcard:800,Title:573",
+51,100,Top 100 Clans in Master Tier,"Avatar:AvatarClanMasterTierSeason15Top100,RaidCard:1000,RaidWildcard:650,Title:574",
+101,9999999,Any Clan that reached In Master Tier,"RaidCard:800,RaidWildcard:500",
