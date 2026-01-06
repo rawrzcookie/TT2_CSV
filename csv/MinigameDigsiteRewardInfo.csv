@@ -1,6 +1,6 @@
 StartRank,EndRank,PrizeBucket,RankReward,LeaderboardPosition
-1,1,1,"RaidWildcard:200,Title:25",Top 1 players
-2,2,2,"RaidWildcard:100,Title:25",Top 2 players
-3,3,3,"RaidWildcard:75,Title:25",Top 3 players
-4,10,4,RaidWildcard:50,Top 10 players
+1,1,1,"Diamonds:2000,Title:25",Top 1 players
+2,2,2,"Diamonds:1000,Title:25",Top 2 players
+3,3,3,"Diamonds:750,Title:25",Top 3 players
+4,10,4,Diamonds:500,Top 10 players
 11,999999,5,,No Reward

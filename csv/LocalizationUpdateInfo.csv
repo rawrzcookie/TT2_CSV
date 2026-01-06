@@ -813,3 +813,112 @@ Bare En Dag!","Станьте Сильным С Легендарным Обор�
 En Dag Bara!","Efsanevi Ekipmanla Güçlü Olun!
 Sadece Bir Gün!","Torne -Se Forte Com Equipamentos Lendários!
 Somente Um Dia!"
+BONUS_ArmorLevel,armor level,,,Armor Level,護甲等級,护甲等级,装甲レベル,방어구 레벨,Rustningsniveau,Pantserniveau,Niveau D'Armure,Rüstungsstufe,Livello Di Armatura,Rustningsnivå,Уровень Брони,Nivel De Armadura,Rustningsnivå,Zırh Seviyesi,Nível De Armadura
+BONUS_AuraLevel,aura level,,,Aura Level,靈氣等級,灵气等级,オーラレベル,오라 레벨,Aura-Niveau,Aura-Niveau,Niveau D'Aura,Aura-Level,Livello Dell'Aura,Auranivå,Уровень Ауры,Nivel De Aura,Auranivå,Aura Seviyesi,Nível De Aura
+BONUS_HelmetLevel,helmet level,,,Helmet Level,頭盔級別,头盔级别,ヘルメットレベル,헬멧 레벨,Hjelmniveau,Helmniveau,Niveau Du Casque,Helmebene,Livello Del Casco,Hjelmnivå,Уровень Шлема,Nivel Del Casco,Hjälmnivå,Kask Seviyesi,Nível Do Capacete
+BONUS_SlashLevel,slash level,,,Slash Level,斜線等級,斜线等级,スラッシュレベル,슬래시 레벨,Skråstregniveau,Slash-Niveau,Niveau De Slash,Schrägstrich-Ebene,Livello Di Barra,Skråstreknivå,Уровень Косой Черты,Nivel De Barra,Snedstrecknivå,Eğik Çizgi Seviyesi,Nível De Barra
+BONUS_WeaponLevel,weapon level,,,Weapon Level,武器等級,武器等级,武器レベル,무기 레벨,Våbenniveau,Wapenniveau,Niveau D'Arme,Waffenstufe,Livello Dell'Arma,Våpennivå,Уровень Оружия,Nivel De Arma,Vapennivå,Silah Seviyesi,Nível Da Arma
+BONUS_DESC_ArmorLevel,"permanently increases the level of your armor!
+lucky!",,,"Permanently Increases the level of your Armor!
+Lucky!","永久提升你的護甲等級！
+
+真幸運！","永久提升你的护甲等级！
+
+真幸运！","鎧のレベルが永続的に上がります！
+ラッキー！","갑옷 레벨을 영구적으로 올려줍니다!
+운이 좋네요!","Øger Permanent Niveauet Af Din Rustning!
+Heldig!","Verhoogt Permanent Het Niveau Van Je Pantser!
+Wat Een Geluk!","Augmente Définitivement Le Niveau De Votre Armure !
+
+Chanceux !",Erhöht Dauerhaft Die Stufe Deiner Rüstung! Glück Gehabt!,"Aumenta Permanentemente Il Livello Della Tua Armatura!
+Fortunato!","Øker Nivået På Rustningen Din Permanent!
+Heldig!","Постоянно Повышает Уровень Вашей Брони!
+Повезло!","¡Aumenta Permanentemente El Nivel De Tu Armadura!
+¡Qué Suerte!",Ökar Permanent Nivån På Din Rustning! Tur!,"Zırhınızın Seviyesini Kalıcı Olarak Artırır!
+Şanslısınız!","Aumenta Permanentemente O Nível Da Sua Armadura!
+
+Sorte!"
+BONUS_DESC_AuraLevel,"permanently increases the level of your aura!
+cool!",,,"Permanently Increases the level of your Aura!
+Cool!","永久提升你的靈氣等級！
+
+真幸運！","永久提升你的灵气等级！
+
+真幸运！","あなたのオーラのレベルを永続的に上げます！
+ラッキー！","오라 레벨을 영구적으로 높여줍니다!
+행운이네요!",Øger Permanent Niveauet Af Din Aura! Heldig!,"Verhoogt Permanent Het Niveau Van Je Aura!
+Geluk!","Augmente Durablement Le Niveau De Votre Aura !
+
+Quelle Chance !",Erhöht Dauerhaft Deine Aura! Glück Gehabt!,"Aumenta Permanentemente Il Livello Della Tua Aura!
+Fortunato!","Øker Nivået På Auraen Din Permanent!
+Heldig!","Постоянно Повышает Уровень Вашей Ауры!
+Повезло!",¡Aumenta Permanentemente El Nivel De Tu Aura! ¡Qué Suerte!,Ökar Permanent Nivån På Din Aura! Tur!,"Auranızın Seviyesini Kalıcı Olarak Artırır!
+Şanslısınız!","Aumenta Permanentemente O Nível Da Sua Aura!
+
+Sorte!"
+BONUS_DESC_HelmetLevel,"permanently increases the level of your helmet!
+wow!",,,"Permanently Increases the level of your Helmet!
+Wow!","永久提升安全帽等級！
+
+真幸運！","永久提升安全帽等级！
+
+真幸运！","ヘルメットのレベルが永久的に上がります！
+ラッキー！","헬멧 레벨을 영구적으로 올려줍니다!
+운이 좋네요!",Øger Niveauet På Din Hjelm Permanent! Heldig!,"Verhoogt Het Niveau Van Je Helm Permanent!
+Wat Een Geluk!","Augmente Définitivement Le Niveau De Votre Casque !
+
+Chanceux !",Erhöht Dauerhaft Das Level Deines Helms! Glück Gehabt!,"Aumenta In Modo Permanente Il Livello Del Tuo Casco!
+Fortunato!","Øker Nivået På Hjelmen Din Permanent!
+Heldig!","Постоянно Повышает Уровень Вашего Шлема!
+Повезло!","¡Aumenta Permanentemente El Nivel De Tu Casco!
+¡Qué Suerte!",Ökar Nivån På Din Hjälm Permanent! Tur!,"Kaskınızın Seviyesini Kalıcı Olarak Artırır!
+Şanslısınız!","Aumenta Permanentemente O Nível Do Seu Capacete!
+
+Sorte!"
+BONUS_DESC_SlashLevel,"permanently increases the level of your slash!
+amazing!",,,"Permanently Increases the level of your Slash!
+Amazing!","永久提升你的斬擊等級！
+
+真幸運！","永久提升你的斩击等级！
+
+真幸运！","斬撃のレベルが永続的に上昇します！
+ラッキー！","슬래시 레벨을 영구적으로 올려줍니다!
+운이 좋네요!","Øger Permanent Niveauet Af Dit Skråstreg!
+Heldigt!","Verhoogt Het Niveau Van Je Slagkracht Permanent!
+Wat Een Geluk!","Augmente Définitivement Le Niveau De Votre Attaque !
+
+Chanceux !",Erhöht Dauerhaft Die Stufe Deines Hiebs! Glück Gehabt!,"Aumenta Permanentemente Il Livello Del Tuo Fendente!
+Fortunato!","Øker Nivået På Skråstreken Din Permanent!
+Heldig!","Постоянно Повышает Уровень Вашего Удара!
+Удачи!",¡Aumenta Permanentemente El Nivel De Tu Corte! ¡Qué Suerte!,Ökar Permanent Nivån På Ditt Snedstreck! Tur!,"Saldırı Seviyenizi Kalıcı Olarak Artırır!
+Şanslısınız!","Aumenta Permanentemente O Nível Do Seu Golpe!
+
+Sorte!"
+BONUS_DESC_WeaponLevel,"permanently increases the level of your weapon!
+so strong!",,,"Permanently Increases the level of your Weapon!
+So Strong!","永久提升武器等級！
+
+真幸運！","永久提升武器等级！
+
+真幸运！","武器のレベルが永続的に上がります！
+ラッキー！","무기 레벨을 영구적으로 올려줍니다!
+운이 좋네요!","Øger Permanent Niveauet Af Dit Våben!
+Heldig!","Verhoogt Het Niveau Van Je Wapen Permanent!
+Wat Een Geluk!","Augmente Définitivement Le Niveau De Votre Arme !
+
+Chanceux !",Erhöht Dauerhaft Die Stufe Deiner Waffe! Glück Gehabt!,"Aumenta Permanentemente Il Livello Della Tua Arma!
+Fortunato!","Øker Nivået På Våpenet Ditt Permanent!
+Heldig!","Постоянно Повышает Уровень Вашего Оружия!
+Удачи!","¡Aumenta Permanentemente El Nivel De Tu Arma!
+¡Qué Suerte!",Ökar Nivån På Ditt Vapen Permanent! Tur!,"Silahınızın Seviyesini Kalıcı Olarak Artırır!
+Şanslısınız!","Aumenta Permanentemente O Nível Da Sua Arma!
+
+Sorte!"
+NEW_BONUS_UNLOCKED,"you found an ancient blessing 
+in the digsite!",,{0} is the EndRank info of the EndgameSeasonRewardInfo docs,"You Found An Ancient Blessing 
+In The Digsite!",你在挖掘現場發現了古老的祝福！,你在挖掘现场发现了古老的祝福！,発掘現場で古代の祝福を見つけました！,발굴 현장에서 고대의 축복을 발견하셨군요!,Du fandt en gammel velsignelse på gravstedet!,Je hebt een eeuwenoude zegen gevonden op de opgravingslocatie!,"Vous avez découvert une bénédiction ancienne
+sur le site de fouilles !",Du hast einen uralten Segen an der Ausgrabungsstätte gefunden!,"hai trovato un'antica benedizione
+nel sito di scavo!",Du fant en eldgammel velsignelse på utgravingsstedet!,"Вы нашли древнее благословение
+на месте раскопок!",¡Encontraste una bendición antigua en la excavación!,Du hittade en uråldrig välsignelse på platsen!,Kazı alanında kadim bir kutsal emanet buldunuz!,"Você encontrou uma bênção ancestral!
+No sítio arqueológico!"
+MINIGAME_Digsite_CURRENCY_POPUP_TITLE,collect more {0}!,,,Prestige To Earn More {0}!,收集更多 {0}！,收集更多 {0}！,さらに{0}を集めましょう！,더 많은 {0}을 모으세요!,saml mere {0}!,verzamel meer {0}!,Collectez plus de {0} !,Sammle mehr {0}!,raccogli più {0}!,samle mer {0}!,соберите больше {0}!,¡Recoge más {0}!,samla mer {0}!,daha fazla {0} topla!,Colete mais {0}!
