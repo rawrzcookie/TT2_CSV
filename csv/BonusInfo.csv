@@ -184,6 +184,7 @@ DamagePerOwnedCardLevel,Damage per owned raid card level,Damage,None,False,False
 DamagePerEquipmentSet,Damage per completed equipment set,Damage,None,False,False,False,False,False,False,0,False
 DamagePerUniqueSet,Damage per completed Unique equipment set,Damage,None,False,False,False,False,False,False,0,False
 DamagePerHelperWeapon,Damage per Individual Helper Weapon,Damage,None,False,False,True,False,False,False,0,True
+DamagePerHelperWeaponMult,Damage per Individual Helper Weapon,None,None,False,False,False,False,False,False,0,False
 DamagePerClanScroll,Damage per Individual Clan Scroll,Damage,None,False,False,True,False,False,False,0,True
 DamagePerMythicSet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,False,0,False
 DamagePerLegendarySet,Damage per completed equipment set of this type,Damage,None,False,False,False,False,False,False,0,False
@@ -199,6 +200,7 @@ DamagePerSpecialTitanActive,Increases the amount of damage earned for each activ
 DamagePerATParticipation,Increases amount of damage based on lifetime AT Participation,Damage,None,True,False,True,False,False,False,0,False
 DamagePerManaCap,Increases damage based on the player's mana cap (capped 50000),Damage,None,False,False,True,False,False,False,0,True
 DamagePerSkillPoint,Increased damage based on the amount of owned skill points,Damage,None,True,False,True,False,False,False,0,False
+DamagePerSkillPointMult,Increased damage based on the amount of owned skill points,None,None,False,False,False,False,False,False,0,False
 DeadlyChance,Increases the chance to land a Deadly Strike.,None,None,True,False,True,False,False,False,0,False
 DeadlyDamageClone,Increases deadly damage done by Shadow Clone.,Damage,None,False,False,False,False,False,False,0,False
 DeadlyDamageCompanion,Increases deadly damage done by companions.,Damage,"DeadlyDamageClone,DeadlyDamagePet,DeadlyDamageShip",False,False,False,False,False,False,0,False
@@ -242,6 +244,7 @@ AnyContractMonsterCount,Decreases the amount of non-boss Titans per stage while 
 AnyContractBonusBoost,Increases ForbiddenContractBonusDamage and RoyalContractBonusGold,None,"ForbiddenContractBonusDamage,RoyalContractBonusGold",False,False,False,False,False,False,0,False
 AnyContractQTECooldown,Increases ForbiddenContractQTECooldown and RoyalContractQTECooldown,None,"ForbiddenContractQTECooldown,RoyalContractQTECooldown",True,True,False,True,False,False,0,False
 AutoActivateContractsQTE,Automatically activates Forbidden and Royal Contract QTEs when value is non-0,None,"AutoActivateForbiddenContractQTE,AutoActivateRoyalContractQTE",True,False,False,False,True,True,0,False
+ContractActivationBonusTime,Duration for free contract activation (+Xs),None,None,True,False,False,True,False,False,0,False
 AutoTapCount,Increases auto sword master attacks per second.,None,None,True,False,False,False,False,False,0,False
 FrenzyCount,Increases bonus sword master attacks per second.,None,None,True,False,False,False,False,False,0,False
 FrenzyDamage,Unused,Damage,None,False,False,False,False,False,False,0,False
@@ -431,6 +434,7 @@ StageSkipMonsterSpawnChance,Increases the chance for Portar to spawn.,None,None,
 StreamOfBladesSuperDamage,Increases damage for Stream Of Blades when performing super,Damage,None,False,False,False,False,False,False,0,False
 StreamOfBladesSkillAmount,Increases damage for Stream Of Blades while skill is active,Damage,None,False,False,False,False,False,False,0,False
 StreamOfBladesDuration,Increases duration length of Stream Of Blades (+ Xs),None,None,True,False,False,True,False,False,0,False
+StreamOfBladesCooldownReduction,Decreases Dagger Spawn duration during of Stream Of Blades (-Xs),None,None,True,True,False,True,False,False,0,False
 StreamOfBladesDurationMult,Increases the duration of Stream Of Blades (+X%),None,None,True,False,True,False,False,False,0,False
 StreamOfBladesSkillMana,Decreases the mana cost of Stream Of Blades.,None,None,True,True,False,False,False,False,0,False
 StreamOfBladesSkillManaMult,Multiplies StreamOfBladesSkillMana,None,None,False,False,False,False,False,False,0,False

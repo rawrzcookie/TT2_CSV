@@ -87,6 +87,7 @@ Aura_Fortress,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Fortress
 Aura_Moth,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Moth
 Aura_Druid,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Druid
 Aura_Gemstone,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Gemstone
+Aura_GraveKnight,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,GraveKnight
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -286,6 +287,7 @@ Hat_Moth,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Moth
 Hat_PetGroomer,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,PetGroomer
 Hat_Commando,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Commando
 Hat_RoseAnniversary,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,RoseAnniversary
+Hat_GraveKnight,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,GraveKnight
 Hat_HighTecLightning,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Hat_Skulls,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,Skulls
 Hat_EarthRogue,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -364,6 +366,7 @@ Slash_Greed,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Gr
 Slash_SoulCatcher,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,SoulCatcher
 Slash_Valkyrie,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Valkyrie
 Slash_RoseAnniversary,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,RoseAnniversary
+Slash_GraveKnight,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,GraveKnight
 Slash_Pirate,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,Pirate
 Slash_Skulls,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,Skulls
 Slash_EarthRogue,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -501,6 +504,7 @@ Suit_SpellBooster,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,SpellBoo
 Suit_WarHorn,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,WarHorn
 Suit_PetQueen,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,PetQueen
 Suit_PetGroomer,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,PetGroomer
+Suit_GraveKnight,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,GraveKnight
 Suit_BoneTribe,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,BoneTribe
 Suit_Mech,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,Mech
 Suit_WaterSorcerer,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,WaterSorcerer
@@ -715,6 +719,7 @@ Weapon_Sandstone,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Sandstone
 Weapon_Moth,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Moth
 Weapon_Druid,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Druid
 Weapon_PetGroomer,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,PetGroomer
+Weapon_GraveKnight,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,GraveKnight
 Weapon_Samurai,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,Samurai
 Weapon_FireKnight,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,FireKnight
 Weapon_EarthRogue,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,EarthRogue
