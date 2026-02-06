@@ -1037,6 +1037,11 @@ Hat_Polar,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Polar
 Suit_Polar,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,Polar
 Aura_Polar,1,Aura,HelmetBoost,None,0.02108,3,0.9,0.58,1.145,TRUE,Polar
 Slash_Polar,1,Slash,ClanShipDamage,None,0.067456,3,0.9,0.58,1.14,TRUE,Polar
+Weapon_Heartbreaker,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,Heartbreaker
+Hat_Heartbreaker,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Heartbreaker
+Suit_Heartbreaker,1,Suit,ChestAmount,None,0.74307,3,0.9,0.58,1.145,TRUE,Heartbreaker
+Aura_Heartbreaker,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Heartbreaker
+Slash_Heartbreaker,1,Slash,UltraDaggerDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,Heartbreaker
 Weapon_Retaliator,5,Weapon,DamagePerSkillPoint,AllActiveSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Retaliator
 Weapon_DivineRetribution,5,Weapon,DamagePerATParticipation,DoomBonusDamage,6.944,25,0.9,0.58,1.16,FALSE,DivineRetribution
 Slash_DrunkenHammer,5,Slash,BeastBladeDamage,StageSkipMonsterSpawnChance,1.4632,25,0.9,0.58,1.15,FALSE,DrunkenHammer
