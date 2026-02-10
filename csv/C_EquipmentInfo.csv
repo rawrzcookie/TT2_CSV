@@ -134,6 +134,7 @@ Aura_TitanSouls,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,TitanSouls
 Aura_Scorpion,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Scorpion
 Aura_Commando,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Commando
 Aura_RoseAnniversary,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,RoseAnniversary
+Aura_StormSurfer,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,StormSurfer
 Aura_Pirate,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Pirate
 Aura_Skulls,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Skulls
 Aura_Mech,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Mech
@@ -247,6 +248,7 @@ Hat_TitanSouls,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,TitanSo
 Hat_Fortress,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Fortress
 Hat_Valkyrie,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Valkyrie
 Hat_Scorpion,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Scorpion
+Hat_StormSurfer,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,StormSurfer
 Hat_Pirate,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Pirate
 Hat_WaterSorcerer,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,WaterSorcerer
 Hat_DarkAngel,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAngel
@@ -316,6 +318,7 @@ Slash_Runestone,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Runest
 Slash_TitanSouls,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,TitanSouls
 Slash_Fortress,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Fortress
 Slash_Gemstone,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Gemstone
+Slash_StormSurfer,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,StormSurfer
 Slash_BoneTribe,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,BoneTribe
 Slash_Mech,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,Mech
 Slash_ElectricWarlord,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,ElectricWarlord
@@ -543,6 +546,7 @@ Suit_Sandstone,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Sandstone
 Suit_Airforce,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Airforce
 Suit_Commando,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Commando
 Suit_Nightshade,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Nightshade
+Suit_StormSurfer,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,StormSurfer
 Suit_Skulls,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Skulls
 Suit_Samurai,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Samurai
 Suit_FireKnight,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -677,6 +681,7 @@ Weapon_Valkyrie,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Valkyrie
 Weapon_Scorpion,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Scorpion
 Weapon_Commando,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Commando
 Weapon_RoseAnniversary,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,RoseAnniversary
+Weapon_StormSurfer,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,StormSurfer
 Weapon_DarkAlien,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,DarkAlien
 Weapon_Mech,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,Mech
 Weapon_WaterSorcerer,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,WaterSorcerer

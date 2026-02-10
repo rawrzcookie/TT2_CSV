@@ -1,0 +1,6 @@
+StartRank,EndRank,PrizeBucket,RankReward,LeaderboardPosition
+1,1,1,"Diamonds:1200,EquipmentShards:160,RandomLevelPet:16,SkillPoint:25,Equipment:Legendary:4",Top 1 players
+2,2,2,"Diamonds:700,EquipmentShards:120,RandomLevelPet:12,SkillPoint:20,Equipment:Legendary:3",Top 2 players
+3,3,3,"Diamonds:550,EquipmentShards:105,RandomLevelPet:10,SkillPoint:15,Equipment:Legendary:2",Top 3 players
+4,10,4,"Diamonds:450,EquipmentShards:90,RandomLevelPet:9,SkillPoint:10,Equipment:Legendary:1",Top 10 players
+11,999999,5,"Diamonds:50,RandomLevelPet:5",No Reward
