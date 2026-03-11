@@ -39,6 +39,7 @@ Aura_Valkyrie,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Valkyrie
 Aura_Airforce,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Airforce
 Aura_PetGroomer,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PetGroomer
 Aura_Nightshade,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Nightshade
+Aura_Ringleader,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Ringleader
 Aura_BoneTribe,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,BoneTribe
 Aura_Samurai,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Samurai
 Aura_Chakram,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Chakram
@@ -290,6 +291,7 @@ Hat_PetGroomer,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,PetGro
 Hat_Commando,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Commando
 Hat_RoseAnniversary,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,RoseAnniversary
 Hat_GraveKnight,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,GraveKnight
+Hat_Ringleader,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Ringleader
 Hat_HighTecLightning,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Hat_Skulls,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,Skulls
 Hat_EarthRogue,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -395,6 +397,7 @@ Slash_Doll,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Dol
 Slash_Collector,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Collector
 Slash_Moth,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Moth
 Slash_Airforce,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Airforce
+Slash_Ringleader,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Ringleader
 Slash_HighTecLightning,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,HighTecLightning
 Slash_WaterSorcerer,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,WaterSorcerer
 Slash_DarkAngel,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,DarkAngel
@@ -474,6 +477,7 @@ Suit_Collector,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Collector
 Suit_Moth,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Moth
 Suit_Scorpion,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Scorpion
 Suit_Gemstone,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Gemstone
+Suit_Ringleader,3,Suit,GoldAll,None,1.116,5,0.9,0.58,1.14,FALSE,Ringleader
 Suit_Pirate,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,Pirate
 Suit_HighTecLightning,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Suit_FairyKnight,4,Suit,GoldAll,None,4.464,20,0.9,0.58,1.14,FALSE,FairyKnight
@@ -725,6 +729,7 @@ Weapon_Moth,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Moth
 Weapon_Druid,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Druid
 Weapon_PetGroomer,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,PetGroomer
 Weapon_GraveKnight,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,GraveKnight
+Weapon_Ringleader,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Ringleader
 Weapon_Samurai,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,Samurai
 Weapon_FireKnight,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,FireKnight
 Weapon_EarthRogue,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,EarthRogue

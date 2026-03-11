@@ -6,3 +6,15 @@ MakeItRain,100,43200,AutoBuyHeroes,45,15,5,3,None,0,0,0,0,TRUE,Perk
 VideoAllDamage,0,14400,AllDamage,4,10,25,50,None,0,0,0,0,TRUE,Perk
 PowerOfSwipe,100,43200,BonusTapsPerSecond,1,4,7,10,None,0,0,0,0,TRUE,Perk
 ClanMakeItRain,500,0,None,0,0,0,0,None,0,0,0,0,TRUE,Perk
+BuffPetDamagePerk,100,43200,PetDamage,50,500,5000,50000,None,0,0,0,0,TRUE,Perk
+BuffClanShipDamagePerk,100,43200,ClanShipDamage,50,500,5000,50000,None,0,0,0,0,TRUE,Perk
+BuffUltraDaggerDamagePerk,100,43200,UltraDaggerDamage,50,500,5000,50000,None,0,0,0,0,TRUE,Perk
+BuffBurstDamageSkillAmountPerk,100,43200,BurstDamageSkillAmount,50,500,5000,50000,None,0,0,0,0,TRUE,Perk
+BuffGoldGunDamagePerk,100,43200,GoldGunDamage,50,500,5000,50000,None,0,0,0,0,TRUE,Perk
+BuffShadowCloneSkillAmountPerk,100,43200,ShadowCloneSkillAmount,50,500,5000,50000,None,0,0,0,0,TRUE,Perk
+ReduceTitanCountPerk,100,43200,MonsterCountPerStage,1,2,3,4,AllDamage,5,10,15,20,TRUE,Perk
+PrestigeRelicPerk,100,43200,PrestigeRelic,1.25,1.5,1.75,2,SorcererBonusBoost,1.5,2,2.5,3,TRUE,Perk
+EquipmentRarityChancePerk,100,43200,HandOfMidasSkillAmount,1.5,2,2.5,3,AllDamage,5,10,15,20,TRUE,Perk
+AdditiveRelicMultiplierBoostPerk,100,43200,AdditiveRelicMultiplierBoost,1.5,2,2.5,3,AllDamage,5,10,15,20,TRUE,Perk
+CloakedSkipAmountPerk,100,43200,CloakedSkipAmount,1,2,3,4,AllDamage,5,10,15,20,TRUE,Perk
+SpecialTitanSpawnChancePerk,100,43200,SpecialTitanSpawnChance,1.02,1.03,1.04,1.05,AllDamage,5,10,15,20,TRUE,Perk

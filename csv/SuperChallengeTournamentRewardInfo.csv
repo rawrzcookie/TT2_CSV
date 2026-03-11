@@ -1,4 +1,4 @@
-StartRank,EndRank,PrizeType,Diamonds,ChallengePoints,HolidayCurrency,TournamentRewards,ResourceRewards,AvatarReward,SkillPoint,Perk,EquipmentShards,Pet,HelperWeapon,FortuneHelperWeapon
+StartRank,EndRank,PrizeType,Diamonds,ChallengePoints,HolidayCurrency,TournamentRewards,ResourceRewards,AvatarReward,SkillPoint,PerkTicket,EquipmentShards,Pet,HelperWeapon,FortuneHelperWeapon
 0,0,Type1,1500,600,300,"Avatar:AvatarSuperAbyssalTournament1,Diamonds:1500,ChallengePoints:600,HolidayCurrency:300","Diamonds:1500,ChallengePoints:600,HolidayCurrency:300",Avatar:AvatarSuperAbyssalTournament1,0,0,0,0,0,0
 1,1,Type1,1300,520,295,"Avatar:AvatarSuperAbyssalTournament1,Diamonds:1300,ChallengePoints:520,HolidayCurrency:295","Diamonds:1300,ChallengePoints:520,HolidayCurrency:295",Avatar:AvatarSuperAbyssalTournament1,0,0,0,0,0,0
 2,2,Type1,1100,440,290,"Avatar:AvatarSuperAbyssalTournament2,Diamonds:1100,ChallengePoints:440,HolidayCurrency:290","Diamonds:1100,ChallengePoints:440,HolidayCurrency:290",Avatar:AvatarSuperAbyssalTournament2,0,0,0,0,0,0

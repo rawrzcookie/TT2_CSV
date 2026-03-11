@@ -1,4 +1,4 @@
-StartRank,EndRank,PrizeType,Diamonds,ChallengePoints,HolidayCurrency,TournamentRewards,SkillPoint,Perk,EquipmentShards,Pet,HelperWeapon,FortuneHelperWeapon
+StartRank,EndRank,PrizeType,Diamonds,ChallengePoints,HolidayCurrency,TournamentRewards,SkillPoint,PerkTicket,EquipmentShards,Pet,HelperWeapon,FortuneHelperWeapon
 0,0,Type1,0,150,300,"ChallengePoints:150,HolidayCurrency:300",0,0,0,0,0,0
 1,1,Type1,0,130,295,"ChallengePoints:130,HolidayCurrency:295",0,0,0,0,0,0
 2,2,Type1,0,110,290,"ChallengePoints:110,HolidayCurrency:290",0,0,0,0,0,0

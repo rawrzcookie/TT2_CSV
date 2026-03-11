@@ -47,6 +47,7 @@ AvatarMilestones150,Milestones,106,FALSE,,Milestone,TRUE,FALSE
 AvatarMilestones160,Milestones,110,FALSE,,Milestone,TRUE,FALSE
 AvatarMilestones170,Milestones,114,FALSE,,Milestone,TRUE,FALSE
 AvatarMilestones180,Milestones,118,FALSE,,Milestone,TRUE,FALSE
+AvatarMilestones1M,Milestones,200,FALSE,,Milestone,TRUE,FALSE
 Avatar25,PetLevel,"Pet2,60",FALSE,,Pet,FALSE,FALSE
 Avatar26,PetLevel,"Pet3,100",FALSE,,Pet,FALSE,FALSE
 Avatar27,PetLevel,"Pet4,30",FALSE,,Pet,FALSE,FALSE
