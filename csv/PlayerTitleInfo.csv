@@ -1,238 +1,246 @@
-TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescriptionWhenUnowned
-0,Default,PLAYER_TITLE_TEXT_DEFAULT,None,0,#272738,FALSE
-1,"""Titan Slayer""",PLAYER_TITLE_RANK_ID_4,HolidayEventTemporary,1,#C1BFFF,FALSE
-2,"""Master""",PLAYER_TITLE_RANK_ID_3,HolidayEventTemporary,1,#F1E1AA,FALSE
-3,"""Champion""",PLAYER_TITLE_RANK_ID_2,HolidayEventTemporary,1,#BCC6D4,FALSE
-4,"""Hero""",PLAYER_TITLE_RANK_ID_1,HolidayEventTemporary,1,#FFD467,FALSE
-5,<3 Custom Title,PLAYER_TITLE_CUSTOM_5,Custom,0,#11F467,FALSE
-6,GameHive Developer,PLAYER_TITLE_CUSTOM_6,Custom,0,#FF9326,FALSE
-7,Community Tool Developer,PLAYER_TITLE_CUSTOM_7,Custom,0,#11F467,FALSE
-8,Community Mod,PLAYER_TITLE_CUSTOM_8,Custom,0,#11F467,FALSE
-9,Beta Tester,PLAYER_TITLE_CUSTOM_9,Custom,0,#11F467,FALSE
-10,Community Streamer,PLAYER_TITLE_CUSTOM_10,Custom,0,#11F467,FALSE
-11,Master of Merriment,PLAYER_TITLE_CUSTOM_11,Custom,0,#34FF1C,FALSE
-12,Master Thief,PLAYER_TITLE_CUSTOM_12,Custom,0,#Af44F5,FALSE
-13,Dove Donator,PLAYER_TITLE_CUSTOM_13,Custom,0,#30bf86,FALSE
-14,Gone Fishin’,PLAYER_TITLE_CUSTOM_14,Custom,0,#5CD1E7,FALSE
-15,Codfather,PLAYER_TITLE_CUSTOM_15,Custom,0,#5CD1E7,FALSE
-16,Reel Champion,PLAYER_TITLE_CUSTOM_16,Custom,0,#5CD1E7,FALSE
-17,Troutstanding,PLAYER_TITLE_CUSTOM_17,Custom,0,#5CD1E7,FALSE
-18,Hooked Hero,PLAYER_TITLE_CUSTOM_18,Custom,0,#5CD1E7,FALSE
-19,Top Tuna,PLAYER_TITLE_CUSTOM_19,Custom,0,#5CD1E7,FALSE
-20,Reely Big Catch!,PLAYER_TITLE_CUSTOM_20,Custom,0,#5CD1E7,FALSE
-21,Featherweight Champs,PLAYER_TITLE_CUSTOM_21,Custom,0,#30bf86,FALSE
-22,Beak Performance,PLAYER_TITLE_CUSTOM_22,Custom,0,#30bf86,FALSE
-23,Flyin' High,PLAYER_TITLE_CUSTOM_23,Custom,0,#30bf86,FALSE
-24,Escape Artist,PLAYER_TITLE_CUSTOM_24,Custom,0,#D38AF8,FALSE
-25,Bad to the Bone,PLAYER_TITLE_CUSTOM_25,Custom,0,#F1E1AA,FALSE
-26,Bone Appetit,PLAYER_TITLE_CUSTOM_26,Custom,0,#F1E1AA,FALSE
-27,The Bone Ranger,PLAYER_TITLE_CUSTOM_27,Custom,0,#F1E1AA,FALSE
-28,Boneafide Excavator,PLAYER_TITLE_CUSTOM_28,Custom,0,#F1E1AA,FALSE
-29,Holiday Havoc Hero,PLAYER_TITLE_CUSTOM_29,Custom,0,#34FF1C,FALSE
-30,Exit Expert,PLAYER_TITLE_CUSTOM_30,Custom,0,#D38AF8,FALSE
-31,The Great Getaway Gang,PLAYER_TITLE_CUSTOM_31,Custom,0,#D38AF8,FALSE
-32,Maze Blazer,PLAYER_TITLE_CUSTOM_32,Custom,0,#D38AF8,FALSE
-33,The Shortcut Society,PLAYER_TITLE_CUSTOM_33,Custom,0,#D38AF8,FALSE
-34,Labyrinth Legend,PLAYER_TITLE_CUSTOM_34,Custom,0,#D38AF8,FALSE
-99,1 Million,PLAYER_TITLE_CUSTOM_99,Custom,0,#ffca00,FALSE
-100,Top Orca,PLAYER_TITLE_CUSTOM_100,Custom,0,#e33b19,FALSE
-101,Beany,PLAYER_TITLE_CUSTOM_101,Custom,0,#3D0C02,FALSE
-102,Community Artist,PLAYER_TITLE_CUSTOM_102,Custom,0,#11F467,FALSE
-103,:3,PLAYER_TITLE_CUSTOM_103,Custom,0,#00008B,FALSE
-104,Mathemagician,PLAYER_TITLE_CUSTOM_104,Custom,0,#00FFFF,FALSE
-105,Idk can I eat it?,PLAYER_TITLE_CUSTOM_105,Custom,0,#DB9AF7,FALSE
-106,Abyssal Archon,PLAYER_TITLE_CUSTOM_106,Custom,0,#FF1A1A,FALSE
-107,High Roller,PLAYER_TITLE_CUSTOM_107,Custom,0,#E61E28,FALSE
-108,The Long Nines,PLAYER_TITLE_CUSTOM_108,Custom,0,#FF3C00,FALSE
-109,Orca's Venom,PLAYER_TITLE_CUSTOM_109,Custom,0,#B1FF32,FALSE
-110,A Frozen Heart,PLAYER_TITLE_CUSTOM_110,Custom,0,#128081,FALSE
-111,Keeper of Arcane Lore,PLAYER_TITLE_CUSTOM_111,Custom,0,#DDDCE4,FALSE
-112,rawr xd,PLAYER_TITLE_CUSTOM_112,Custom,0,#F6ACCF,FALSE
-113,Math Whiz,PLAYER_TITLE_CUSTOM_113,Custom,0,#D38AF8,FALSE
-114,Dust Remover,PLAYER_TITLE_CUSTOM_114,Custom,0,#C8A2C8,FALSE
-115,Master Builder,PLAYER_TITLE_CUSTOM_115,Custom,0,#4B9F4A,FALSE
-116,Mira the Traveler,PLAYER_TITLE_CUSTOM_116,Custom,0,#FF8300,FALSE
-117,There is no teapot,PLAYER_TITLE_CUSTOM_117,Custom,0,#5CD1E7,FALSE
-118,Single Origin,PLAYER_TITLE_CUSTOM_118,Custom,0,#8F6547,FALSE
-119,Canadian Crusader,PLAYER_TITLE_CUSTOM_119,Custom,0,#D80621,FALSE
-400,Prestige Potato,PLAYER_TITLE_CUSTOM_400,ChallengeTournamentShop,0,#62fbed,FALSE
-401,Warden,PLAYER_TITLE_CUSTOM_401,ChallengeTournamentShop,0,#2822a6,FALSE
-402,Abysswalker,PLAYER_TITLE_CUSTOM_402,ChallengeTournamentShop,0,#D38AF9,FALSE
-403,Titan Tickler,PLAYER_TITLE_CUSTOM_403,ChallengeTournamentShop,0,#fe5bba,FALSE
-404,Master of Shadows,PLAYER_TITLE_CUSTOM_404,ChallengeTournamentShop,0,#38356d,FALSE
-405,Silent Assassin,PLAYER_TITLE_CUSTOM_405,ChallengeTournamentShop,0,#149b6d,FALSE
-406,Arcane Alchemist,PLAYER_TITLE_CUSTOM_406,ChallengeTournamentShop,0,#8f24d5,FALSE
-407,Shadowblade,PLAYER_TITLE_CUSTOM_407,ChallengeTournamentShop,0,#022d04,FALSE
-408,Mystic Sorcerer,PLAYER_TITLE_CUSTOM_408,ChallengeTournamentShop,0,#2b2d9a,FALSE
-409,Pet Pal,PLAYER_TITLE_CUSTOM_409,ChallengeTournamentShop,0,#70bf56,FALSE
-410,Warlord Supreme,PLAYER_TITLE_CUSTOM_410,ChallengeTournamentShop,0,#ffca00,FALSE
-411,Knight of Legends,PLAYER_TITLE_CUSTOM_411,ChallengeTournamentShop,0,#830322,FALSE
-412,Titan's Bane,PLAYER_TITLE_CUSTOM_412,ChallengeTournamentShop,0,#e1ddfa,FALSE
-413,Relic Hunter,PLAYER_TITLE_CUSTOM_413,ChallengeTournamentShop,0,#c41743,FALSE
-414,Ascendant Slayer,PLAYER_TITLE_CUSTOM_414,ChallengeTournamentShop,0,#2b2d9a,FALSE
-415,Finger Fury,PLAYER_TITLE_CUSTOM_415,ChallengeTournamentShop,0,#fa9c26,FALSE
-416,Snackmaster,PLAYER_TITLE_CUSTOM_416,ChallengeTournamentShop,0,#776231,FALSE
-417,Mythic Swordsman,PLAYER_TITLE_CUSTOM_417,ChallengeTournamentShop,0,#ce233a,FALSE
-418,Abyssal King,PLAYER_TITLE_CUSTOM_418,ChallengeTournamentShop,0,#330931,FALSE
-419,Blade Dancer,PLAYER_TITLE_CUSTOM_419,ChallengeTournamentShop,0,#4aefb7,FALSE
-420,Infinity Slicer,PLAYER_TITLE_CUSTOM_420,ChallengeTournamentShop,0,#80638b,FALSE
-500,MasterTierSeason1Top1,PLAYER_TITLE_MasterTierSeason1Top1,MasterTierReward1,1,#347975,FALSE
-501,MasterTierSeason1Top10,PLAYER_TITLE_MasterTierSeason1Top10,MasterTierReward10,1,#908FBE,FALSE
-502,MasterTierSeason1Top25,PLAYER_TITLE_MasterTierSeason1Top25,MasterTierReward25,1,#ADA38B,FALSE
-503,MasterTierSeason1Top50,PLAYER_TITLE_MasterTierSeason1Top50,MasterTierReward50,1,#8D93A4,FALSE
-504,MasterTierSeason1Top100,PLAYER_TITLE_MasterTierSeason1Top100,MasterTierReward100,1,#E1BE65,FALSE
-505,MasterTierSeason2Top1,PLAYER_TITLE_MasterTierSeason2Top1,MasterTierReward1,1,#347975,FALSE
-506,MasterTierSeason2Top10,PLAYER_TITLE_MasterTierSeason2Top10,MasterTierReward10,1,#908FBE,FALSE
-507,MasterTierSeason2Top25,PLAYER_TITLE_MasterTierSeason2Top25,MasterTierReward25,1,#ADA38B,FALSE
-508,MasterTierSeason2Top50,PLAYER_TITLE_MasterTierSeason2Top50,MasterTierReward50,1,#8D93A4,FALSE
-509,MasterTierSeason2Top100,PLAYER_TITLE_MasterTierSeason2Top100,MasterTierReward100,1,#E1BE65,FALSE
-510,MasterTierSeason3Top1,PLAYER_TITLE_MasterTierSeason3Top1,MasterTierReward1,1,#347975,FALSE
-511,MasterTierSeason3Top10,PLAYER_TITLE_MasterTierSeason3Top10,MasterTierReward10,1,#908FBE,FALSE
-512,MasterTierSeason3Top25,PLAYER_TITLE_MasterTierSeason3Top25,MasterTierReward25,1,#ADA38B,FALSE
-513,MasterTierSeason3Top50,PLAYER_TITLE_MasterTierSeason3Top50,MasterTierReward50,1,#8D93A4,FALSE
-514,MasterTierSeason3Top100,PLAYER_TITLE_MasterTierSeason3Top100,MasterTierReward100,1,#E1BE65,FALSE
-515,MasterTierSeason4Top1,PLAYER_TITLE_MasterTierSeason4Top1,MasterTierReward1,1,#347975,FALSE
-516,MasterTierSeason4Top10,PLAYER_TITLE_MasterTierSeason4Top10,MasterTierReward10,1,#908FBE,FALSE
-517,MasterTierSeason4Top25,PLAYER_TITLE_MasterTierSeason4Top25,MasterTierReward25,1,#ADA38B,FALSE
-518,MasterTierSeason4Top50,PLAYER_TITLE_MasterTierSeason4Top50,MasterTierReward50,1,#8D93A4,FALSE
-519,MasterTierSeason4Top100,PLAYER_TITLE_MasterTierSeason4Top100,MasterTierReward100,1,#E1BE65,FALSE
-520,MasterTierSeason5Top1,PLAYER_TITLE_MasterTierSeason5Top1,MasterTierReward1,1,#347975,FALSE
-521,MasterTierSeason5Top10,PLAYER_TITLE_MasterTierSeason5Top10,MasterTierReward10,1,#908FBE,FALSE
-522,MasterTierSeason5Top25,PLAYER_TITLE_MasterTierSeason5Top25,MasterTierReward25,1,#ADA38B,FALSE
-523,MasterTierSeason5Top50,PLAYER_TITLE_MasterTierSeason5Top50,MasterTierReward50,1,#8D93A4,FALSE
-524,MasterTierSeason5Top100,PLAYER_TITLE_MasterTierSeason5Top100,MasterTierReward100,1,#E1BE65,FALSE
-525,MasterTierSeason6Top1,PLAYER_TITLE_MasterTierSeason6Top1,MasterTierReward1,1,#347975,FALSE
-526,MasterTierSeason6Top10,PLAYER_TITLE_MasterTierSeason6Top10,MasterTierReward10,1,#908FBE,FALSE
-527,MasterTierSeason6Top25,PLAYER_TITLE_MasterTierSeason6Top25,MasterTierReward25,1,#ADA38B,FALSE
-528,MasterTierSeason6Top50,PLAYER_TITLE_MasterTierSeason6Top50,MasterTierReward50,1,#8D93A4,FALSE
-529,MasterTierSeason6Top100,PLAYER_TITLE_MasterTierSeason6Top100,MasterTierReward100,1,#E1BE65,FALSE
-530,MasterTierSeason7Top1,PLAYER_TITLE_MasterTierSeason7Top1,MasterTierReward1,1,#347975,FALSE
-531,MasterTierSeason7Top10,PLAYER_TITLE_MasterTierSeason7Top10,MasterTierReward10,1,#908FBE,FALSE
-532,MasterTierSeason7Top25,PLAYER_TITLE_MasterTierSeason7Top25,MasterTierReward25,1,#ADA38B,FALSE
-533,MasterTierSeason7Top50,PLAYER_TITLE_MasterTierSeason7Top50,MasterTierReward50,1,#8D93A4,FALSE
-534,MasterTierSeason7Top100,PLAYER_TITLE_MasterTierSeason7Top100,MasterTierReward100,1,#E1BE65,FALSE
-535,MasterTierSeason8Top1,PLAYER_TITLE_MasterTierSeason8Top1,MasterTierReward1,1,#347975,FALSE
-536,MasterTierSeason8Top10,PLAYER_TITLE_MasterTierSeason8Top10,MasterTierReward10,1,#908FBE,FALSE
-537,MasterTierSeason8Top25,PLAYER_TITLE_MasterTierSeason8Top25,MasterTierReward25,1,#ADA38B,FALSE
-538,MasterTierSeason8Top50,PLAYER_TITLE_MasterTierSeason8Top50,MasterTierReward50,1,#8D93A4,FALSE
-539,MasterTierSeason8Top100,PLAYER_TITLE_MasterTierSeason8Top100,MasterTierReward100,1,#E1BE65,FALSE
-540,MasterTierSeason9Top1,PLAYER_TITLE_MasterTierSeason9Top1,MasterTierReward1,1,#347975,FALSE
-541,MasterTierSeason9Top10,PLAYER_TITLE_MasterTierSeason9Top10,MasterTierReward10,1,#908FBE,FALSE
-542,MasterTierSeason9Top25,PLAYER_TITLE_MasterTierSeason9Top25,MasterTierReward25,1,#ADA38B,FALSE
-543,MasterTierSeason9Top50,PLAYER_TITLE_MasterTierSeason9Top50,MasterTierReward50,1,#8D93A4,FALSE
-544,MasterTierSeason9Top100,PLAYER_TITLE_MasterTierSeason9Top100,MasterTierReward100,1,#E1BE65,FALSE
-545,MasterTierSeason10Top1,PLAYER_TITLE_MasterTierSeason10Top1,MasterTierReward1,1,#347975,FALSE
-546,MasterTierSeason10Top10,PLAYER_TITLE_MasterTierSeason10Top10,MasterTierReward10,1,#908FBE,FALSE
-547,MasterTierSeason10Top25,PLAYER_TITLE_MasterTierSeason10Top25,MasterTierReward25,1,#ADA38B,FALSE
-548,MasterTierSeason10Top50,PLAYER_TITLE_MasterTierSeason10Top50,MasterTierReward50,1,#8D93A4,FALSE
-549,MasterTierSeason10Top100,PLAYER_TITLE_MasterTierSeason10Top100,MasterTierReward100,1,#E1BE65,FALSE
-550,MasterTierSeason11Top1,PLAYER_TITLE_MasterTierSeason11Top1,MasterTierReward1,1,#347975,FALSE
-551,MasterTierSeason11Top10,PLAYER_TITLE_MasterTierSeason11Top10,MasterTierReward10,1,#908FBE,FALSE
-552,MasterTierSeason11Top25,PLAYER_TITLE_MasterTierSeason11Top25,MasterTierReward25,1,#ADA38B,FALSE
-553,MasterTierSeason11Top50,PLAYER_TITLE_MasterTierSeason11Top50,MasterTierReward50,1,#8D93A4,FALSE
-554,MasterTierSeason11Top100,PLAYER_TITLE_MasterTierSeason11Top100,MasterTierReward100,1,#E1BE65,FALSE
-555,MasterTierSeason12Top1,PLAYER_TITLE_MasterTierSeason12Top1,MasterTierReward1,1,#347975,FALSE
-556,MasterTierSeason12Top10,PLAYER_TITLE_MasterTierSeason12Top10,MasterTierReward10,1,#908FBE,FALSE
-557,MasterTierSeason12Top25,PLAYER_TITLE_MasterTierSeason12Top25,MasterTierReward25,1,#ADA38B,FALSE
-558,MasterTierSeason12Top50,PLAYER_TITLE_MasterTierSeason12Top50,MasterTierReward50,1,#8D93A4,FALSE
-559,MasterTierSeason12Top100,PLAYER_TITLE_MasterTierSeason12Top100,MasterTierReward100,1,#E1BE65,FALSE
-560,MasterTierSeason13Top1,PLAYER_TITLE_MasterTierSeason13Top1,MasterTierReward1,1,#347975,FALSE
-561,MasterTierSeason13Top10,PLAYER_TITLE_MasterTierSeason13Top10,MasterTierReward10,1,#908FBE,FALSE
-562,MasterTierSeason13Top25,PLAYER_TITLE_MasterTierSeason13Top25,MasterTierReward25,1,#ADA38B,FALSE
-563,MasterTierSeason13Top50,PLAYER_TITLE_MasterTierSeason13Top50,MasterTierReward50,1,#8D93A4,FALSE
-564,MasterTierSeason13Top100,PLAYER_TITLE_MasterTierSeason13Top100,MasterTierReward100,1,#E1BE65,FALSE
-565,MasterTierSeason14Top1,PLAYER_TITLE_MasterTierSeason14Top1,MasterTierReward1,1,#00FFB7,FALSE
-566,MasterTierSeason14Top10,PLAYER_TITLE_MasterTierSeason14Top10,MasterTierReward10,1,#C1BFFF,FALSE
-567,MasterTierSeason14Top25,PLAYER_TITLE_MasterTierSeason14Top25,MasterTierReward25,1,#F1E1AA,FALSE
-568,MasterTierSeason14Top50,PLAYER_TITLE_MasterTierSeason14Top50,MasterTierReward50,1,#BCC6D4,FALSE
-569,MasterTierSeason14Top100,PLAYER_TITLE_MasterTierSeason14Top100,MasterTierReward100,1,#FFD467,FALSE
-570,MasterTierSeason15Top1,PLAYER_TITLE_MasterTierSeason15Top1,MasterTierReward1,1,#00FFB7,FALSE
-571,MasterTierSeason15Top10,PLAYER_TITLE_MasterTierSeason15Top10,MasterTierReward10,1,#C1BFFF,FALSE
-572,MasterTierSeason15Top25,PLAYER_TITLE_MasterTierSeason15Top25,MasterTierReward25,1,#F1E1AA,FALSE
-573,MasterTierSeason15Top50,PLAYER_TITLE_MasterTierSeason15Top50,MasterTierReward50,1,#BCC6D4,FALSE
-574,MasterTierSeason15Top100,PLAYER_TITLE_MasterTierSeason15Top100,MasterTierReward100,1,#FFD467,TRUE
-575,MasterTierSeason16Top1,PLAYER_TITLE_MasterTierSeason16Top1,MasterTierReward1,1,#00FFB7,FALSE
-576,MasterTierSeason16Top10,PLAYER_TITLE_MasterTierSeason16Top10,MasterTierReward10,1,#C1BFFF,FALSE
-577,MasterTierSeason16Top25,PLAYER_TITLE_MasterTierSeason16Top25,MasterTierReward25,1,#F1E1AA,FALSE
-578,MasterTierSeason16Top50,PLAYER_TITLE_MasterTierSeason16Top50,MasterTierReward50,1,#BCC6D4,FALSE
-579,MasterTierSeason16Top100,PLAYER_TITLE_MasterTierSeason16Top100,MasterTierReward100,1,#FFD467,FALSE
-580,MasterTierSeason17Top1,PLAYER_TITLE_MasterTierSeason17Top1,MasterTierReward1,1,#00FFB7,FALSE
-581,MasterTierSeason17Top10,PLAYER_TITLE_MasterTierSeason17Top10,MasterTierReward10,1,#C1BFFF,FALSE
-582,MasterTierSeason17Top25,PLAYER_TITLE_MasterTierSeason17Top25,MasterTierReward25,1,#F1E1AA,FALSE
-583,MasterTierSeason17Top50,PLAYER_TITLE_MasterTierSeason17Top50,MasterTierReward50,1,#BCC6D4,FALSE
-584,MasterTierSeason17Top100,PLAYER_TITLE_MasterTierSeason17Top100,MasterTierReward100,1,#FFD467,FALSE
-585,MasterTierSeason18Top1,PLAYER_TITLE_MasterTierSeason18Top1,MasterTierReward1,1,#00FFB7,FALSE
-586,MasterTierSeason18Top10,PLAYER_TITLE_MasterTierSeason18Top10,MasterTierReward10,1,#C1BFFF,FALSE
-587,MasterTierSeason18Top25,PLAYER_TITLE_MasterTierSeason18Top25,MasterTierReward25,1,#F1E1AA,FALSE
-588,MasterTierSeason18Top50,PLAYER_TITLE_MasterTierSeason18Top50,MasterTierReward50,1,#BCC6D4,FALSE
-589,MasterTierSeason18Top100,PLAYER_TITLE_MasterTierSeason18Top100,MasterTierReward100,1,#FFD467,FALSE
-590,MasterTierSeason19Top1,PLAYER_TITLE_MasterTierSeason19Top1,MasterTierReward1,1,#00FFB7,FALSE
-591,MasterTierSeason19Top10,PLAYER_TITLE_MasterTierSeason19Top10,MasterTierReward10,1,#C1BFFF,FALSE
-592,MasterTierSeason19Top25,PLAYER_TITLE_MasterTierSeason19Top25,MasterTierReward25,1,#F1E1AA,FALSE
-593,MasterTierSeason19Top50,PLAYER_TITLE_MasterTierSeason19Top50,MasterTierReward50,1,#BCC6D4,FALSE
-594,MasterTierSeason19Top100,PLAYER_TITLE_MasterTierSeason19Top100,MasterTierReward100,1,#FFD467,FALSE
-595,MasterTierSeason20Top1,PLAYER_TITLE_MasterTierSeason20Top1,MasterTierReward1,1,#00FFB7,FALSE
-596,MasterTierSeason20Top10,PLAYER_TITLE_MasterTierSeason20Top10,MasterTierReward10,1,#C1BFFF,FALSE
-597,MasterTierSeason20Top25,PLAYER_TITLE_MasterTierSeason20Top25,MasterTierReward25,1,#F1E1AA,FALSE
-598,MasterTierSeason20Top50,PLAYER_TITLE_MasterTierSeason20Top50,MasterTierReward50,1,#BCC6D4,FALSE
-599,MasterTierSeason20Top100,PLAYER_TITLE_MasterTierSeason20Top100,MasterTierReward100,1,#FFD467,FALSE
-600,EndgameSeason1Top1,PLAYER_TITLE_EndgameSeason1Top1,EndgameSeasonReward1,1,#347975,FALSE
-601,EndgameSeason1Top10,PLAYER_TITLE_EndgameSeason1Top10,EndgameSeasonReward10,1,#745535,FALSE
-602,EndgameSeason1Top100,PLAYER_TITLE_EndgameSeason1Top100,EndgameSeasonReward100,1,#687182,FALSE
-603,EndgameSeason2Top1,PLAYER_TITLE_EndgameSeason2Top1,EndgameSeasonReward1,2,#CC7306,FALSE
-604,EndgameSeason2Top10,PLAYER_TITLE_EndgameSeason2Top10,EndgameSeasonReward10,2,#745535,FALSE
-605,EndgameSeason2Top100,PLAYER_TITLE_EndgameSeason2Top100,EndgameSeasonReward100,2,#687182,FALSE
-606,EndgameSeason3Top1,PLAYER_TITLE_EndgameSeason3Top1,EndgameSeasonReward1,3,#CC7306,FALSE
-607,EndgameSeason3Top10,PLAYER_TITLE_EndgameSeason3Top10,EndgameSeasonReward10,3,#745535,FALSE
-608,EndgameSeason3Top100,PLAYER_TITLE_EndgameSeason3Top100,EndgameSeasonReward100,3,#687182,FALSE
-609,EndgameSeason4Top1,PLAYER_TITLE_EndgameSeason4Top1,EndgameSeasonReward1,4,#CC7306,FALSE
-610,EndgameSeason4Top10,PLAYER_TITLE_EndgameSeason4Top10,EndgameSeasonReward10,4,#745535,FALSE
-611,EndgameSeason4Top100,PLAYER_TITLE_EndgameSeason4Top100,EndgameSeasonReward100,4,#687182,FALSE
-612,EndgameSeason5Top1,PLAYER_TITLE_EndgameSeason5Top1,EndgameSeasonReward1,5,#CC7306,FALSE
-613,EndgameSeason5Top10,PLAYER_TITLE_EndgameSeason5Top10,EndgameSeasonReward10,5,#745535,FALSE
-614,EndgameSeason5Top100,PLAYER_TITLE_EndgameSeason5Top100,EndgameSeasonReward100,5,#687182,FALSE
-615,EndgameSeason6Top1,PLAYER_TITLE_EndgameSeason6Top1,EndgameSeasonReward1,6,#CC7306,FALSE
-616,EndgameSeason6Top10,PLAYER_TITLE_EndgameSeason6Top10,EndgameSeasonReward10,6,#745535,FALSE
-617,EndgameSeason6Top100,PLAYER_TITLE_EndgameSeason6Top100,EndgameSeasonReward100,6,#687182,FALSE
-618,EndgameSeason7Top1,PLAYER_TITLE_EndgameSeason7Top1,EndgameSeasonReward1,7,#CC7306,FALSE
-619,EndgameSeason7Top10,PLAYER_TITLE_EndgameSeason7Top10,EndgameSeasonReward10,7,#745535,FALSE
-620,EndgameSeason7Top100,PLAYER_TITLE_EndgameSeason7Top100,EndgameSeasonReward100,7,#687182,FALSE
-621,EndgameSeason8Top1,PLAYER_TITLE_EndgameSeason8Top1,EndgameSeasonReward1,8,#CC7306,FALSE
-622,EndgameSeason8Top10,PLAYER_TITLE_EndgameSeason8Top10,EndgameSeasonReward10,8,#745535,FALSE
-623,EndgameSeason8Top100,PLAYER_TITLE_EndgameSeason8Top100,EndgameSeasonReward100,8,#687182,FALSE
-624,EndgameSeason9Top1,PLAYER_TITLE_EndgameSeason9Top1,EndgameSeasonReward1,9,#00FFB7,FALSE
-625,EndgameSeason9Top10,PLAYER_TITLE_EndgameSeason9Top10,EndgameSeasonReward10,9,#F1E1AA,FALSE
-626,EndgameSeason9Top100,PLAYER_TITLE_EndgameSeason9Top100,EndgameSeasonReward100,9,#BCC6D4,FALSE
-627,EndgameSeason10Top1,PLAYER_TITLE_EndgameSeason10Top1,EndgameSeasonReward1,10,#00FFB7,FALSE
-628,EndgameSeason10Top10,PLAYER_TITLE_EndgameSeason10Top10,EndgameSeasonReward10,10,#F1E1AA,FALSE
-629,EndgameSeason10Top100,PLAYER_TITLE_EndgameSeason10Top100,EndgameSeasonReward100,10,#BCC6D4,TRUE
-630,EndgameSeason11Top1,PLAYER_TITLE_EndgameSeason11Top1,EndgameSeasonReward1,11,#00FFB7,FALSE
-631,EndgameSeason11Top10,PLAYER_TITLE_EndgameSeason11Top10,EndgameSeasonReward10,11,#F1E1AA,FALSE
-632,EndgameSeason11Top100,PLAYER_TITLE_EndgameSeason11Top100,EndgameSeasonReward100,11,#BCC6D4,FALSE
-633,EndgameSeason12Top1,PLAYER_TITLE_EndgameSeason12Top1,EndgameSeasonReward1,12,#00FFB7,FALSE
-634,EndgameSeason12Top10,PLAYER_TITLE_EndgameSeason12Top10,EndgameSeasonReward10,12,#F1E1AA,FALSE
-635,EndgameSeason12Top100,PLAYER_TITLE_EndgameSeason12Top100,EndgameSeasonReward100,12,#BCC6D4,FALSE
-636,EndgameSeason13Top1,PLAYER_TITLE_EndgameSeason13Top1,EndgameSeasonReward1,13,#00FFB7,FALSE
-637,EndgameSeason13Top10,PLAYER_TITLE_EndgameSeason13Top10,EndgameSeasonReward10,13,#F1E1AA,FALSE
-638,EndgameSeason13Top100,PLAYER_TITLE_EndgameSeason13Top100,EndgameSeasonReward100,13,#BCC6D4,FALSE
-639,EndgameSeason14Top1,PLAYER_TITLE_EndgameSeason14Top1,EndgameSeasonReward1,14,#00FFB7,FALSE
-640,EndgameSeason14Top10,PLAYER_TITLE_EndgameSeason14Top10,EndgameSeasonReward10,14,#F1E1AA,FALSE
-641,EndgameSeason14Top100,PLAYER_TITLE_EndgameSeason14Top100,EndgameSeasonReward100,14,#BCC6D4,FALSE
-642,EndgameSeason15Top1,PLAYER_TITLE_EndgameSeason15Top1,EndgameSeasonReward1,15,#00FFB7,FALSE
-643,EndgameSeason15Top10,PLAYER_TITLE_EndgameSeason15Top10,EndgameSeasonReward10,15,#F1E1AA,FALSE
-644,EndgameSeason15Top100,PLAYER_TITLE_EndgameSeason15Top100,EndgameSeasonReward100,15,#BCC6D4,FALSE
-645,EndgameSeason16Top1,PLAYER_TITLE_EndgameSeason16Top1,EndgameSeasonReward1,16,#00FFB7,FALSE
-646,EndgameSeason16Top10,PLAYER_TITLE_EndgameSeason16Top10,EndgameSeasonReward10,16,#F1E1AA,FALSE
-647,EndgameSeason16Top100,PLAYER_TITLE_EndgameSeason16Top100,EndgameSeasonReward100,16,#BCC6D4,FALSE
-648,EndgameSeason17Top1,PLAYER_TITLE_EndgameSeason17Top1,EndgameSeasonReward1,17,#00FFB7,FALSE
-649,EndgameSeason17Top10,PLAYER_TITLE_EndgameSeason17Top10,EndgameSeasonReward10,17,#F1E1AA,FALSE
-650,EndgameSeason17Top100,PLAYER_TITLE_EndgameSeason17Top100,EndgameSeasonReward100,17,#BCC6D4,FALSE
-651,EndgameSeason18Top1,PLAYER_TITLE_EndgameSeason18Top1,EndgameSeasonReward1,18,#00FFB7,FALSE
-652,EndgameSeason18Top10,PLAYER_TITLE_EndgameSeason18Top10,EndgameSeasonReward10,18,#F1E1AA,FALSE
-653,EndgameSeason18Top100,PLAYER_TITLE_EndgameSeason18Top100,EndgameSeasonReward100,18,#BCC6D4,FALSE
-654,EndgameSeason19Top1,PLAYER_TITLE_EndgameSeason19Top1,EndgameSeasonReward1,19,#00FFB7,FALSE
-655,EndgameSeason19Top10,PLAYER_TITLE_EndgameSeason19Top10,EndgameSeasonReward10,19,#F1E1AA,FALSE
-656,EndgameSeason19Top100,PLAYER_TITLE_EndgameSeason19Top100,EndgameSeasonReward100,19,#BCC6D4,FALSE
-657,EndgameSeason20Top1,PLAYER_TITLE_EndgameSeason20Top1,EndgameSeasonReward1,20,#00FFB7,FALSE
-658,EndgameSeason20Top10,PLAYER_TITLE_EndgameSeason20Top10,EndgameSeasonReward10,20,#F1E1AA,FALSE
-659,EndgameSeason20Top100,PLAYER_TITLE_EndgameSeason20Top100,EndgameSeasonReward100,20,#BCC6D4,FALSE
+TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescriptionWhenUnowned,Notes
+0,Default,PLAYER_TITLE_TEXT_DEFAULT,None,0,#272738,FALSE,
+1,"""Titan Slayer""",PLAYER_TITLE_RANK_ID_4,HolidayEventTemporary,1,#C1BFFF,FALSE,
+2,"""Master""",PLAYER_TITLE_RANK_ID_3,HolidayEventTemporary,1,#F1E1AA,FALSE,
+3,"""Champion""",PLAYER_TITLE_RANK_ID_2,HolidayEventTemporary,1,#BCC6D4,FALSE,
+4,"""Hero""",PLAYER_TITLE_RANK_ID_1,HolidayEventTemporary,1,#FFD467,FALSE,
+5,<3 Custom Title,PLAYER_TITLE_CUSTOM_5,Custom,0,#11F467,FALSE,
+6,GameHive Developer,PLAYER_TITLE_CUSTOM_6,Custom,0,#FF9326,FALSE,
+7,Community Tool Developer,PLAYER_TITLE_CUSTOM_7,Custom,0,#11F467,FALSE,
+8,Community Mod,PLAYER_TITLE_CUSTOM_8,Custom,0,#11F467,FALSE,
+9,Beta Tester,PLAYER_TITLE_CUSTOM_9,Custom,0,#11F467,FALSE,
+10,Community Streamer,PLAYER_TITLE_CUSTOM_10,Custom,0,#11F467,FALSE,
+11,Master of Merriment,PLAYER_TITLE_CUSTOM_11,Custom,0,#34FF1C,FALSE,
+12,Master Thief,PLAYER_TITLE_CUSTOM_12,Custom,0,#Af44F5,FALSE,
+13,Dove Donator,PLAYER_TITLE_CUSTOM_13,Custom,0,#30bf86,FALSE,
+14,Gone Fishin’,PLAYER_TITLE_CUSTOM_14,Custom,0,#5CD1E7,FALSE,Fishing
+15,Codfather,PLAYER_TITLE_CUSTOM_15,Custom,0,#5CD1E7,FALSE,Fishing
+16,Reel Champion,PLAYER_TITLE_CUSTOM_16,Custom,0,#5CD1E7,FALSE,Fishing
+17,Troutstanding,PLAYER_TITLE_CUSTOM_17,Custom,0,#5CD1E7,FALSE,Fishing
+18,Hooked Hero,PLAYER_TITLE_CUSTOM_18,Custom,0,#5CD1E7,FALSE,Fishing
+19,Top Tuna,PLAYER_TITLE_CUSTOM_19,Custom,0,#5CD1E7,FALSE,Fishing
+20,Reely Big Catch!,PLAYER_TITLE_CUSTOM_20,Custom,0,#5CD1E7,FALSE,Fishing
+21,Featherweight Champs,PLAYER_TITLE_CUSTOM_21,Custom,0,#30bf86,FALSE,Clan Prestige
+22,Beak Performance,PLAYER_TITLE_CUSTOM_22,Custom,0,#30bf86,FALSE,Clan Prestige
+23,Flyin' High,PLAYER_TITLE_CUSTOM_23,Custom,0,#30bf86,FALSE,Clan Prestige
+24,Escape Artist,PLAYER_TITLE_CUSTOM_24,Custom,0,#D38AF8,FALSE,Maze minigame
+25,Bad to the Bone,PLAYER_TITLE_CUSTOM_25,Custom,0,#F1E1AA,FALSE,Digstie
+26,Bone Appetit,PLAYER_TITLE_CUSTOM_26,Custom,0,#F1E1AA,FALSE,Digstie
+27,The Bone Ranger,PLAYER_TITLE_CUSTOM_27,Custom,0,#F1E1AA,FALSE,Digstie
+28,Boneafide Excavator,PLAYER_TITLE_CUSTOM_28,Custom,0,#F1E1AA,FALSE,Digstie
+29,Holiday Havoc Hero,PLAYER_TITLE_CUSTOM_29,Custom,0,#34FF1C,FALSE,Trapdoors
+30,Exit Expert,PLAYER_TITLE_CUSTOM_30,Custom,0,#D38AF8,FALSE,Maze minigame
+31,The Great Getaway Gang,PLAYER_TITLE_CUSTOM_31,Custom,0,#D38AF8,FALSE,Maze minigame
+32,Maze Blazer,PLAYER_TITLE_CUSTOM_32,Custom,0,#D38AF8,FALSE,Maze minigame
+33,The Shortcut Society,PLAYER_TITLE_CUSTOM_33,Custom,0,#D38AF8,FALSE,Maze minigame
+34,Labyrinth Legend,PLAYER_TITLE_CUSTOM_34,Custom,0,#D38AF8,FALSE,Maze minigame
+35,Blastproof,PLAYER_TITLE_CUSTOM_35,Custom,0,#34FF1C,FALSE,Trapdoors
+36,Boom Whisperer,PLAYER_TITLE_CUSTOM_36,Custom,0,#34FF1C,FALSE,Trapdoors
+37,Unlocky Legend,PLAYER_TITLE_CUSTOM_37,Custom,0,#34FF1C,FALSE,Trapdoors
+38,Star Stepper,PLAYER_TITLE_CUSTOM_38,Custom,0,#34FF1C,FALSE,Trapdoors
+39,Lock Picker Supreme,PLAYER_TITLE_CUSTOM_39,Custom,0,#34FF1C,FALSE,Trapdoors
+40,Trapdoor Tactician,PLAYER_TITLE_CUSTOM_40,Custom,0,#34FF1C,FALSE,Trapdoors
+41,Master of Missteps,PLAYER_TITLE_CUSTOM_41,Custom,0,#34FF1C,FALSE,Trapdoors
+42,Explosion Evasion Expert,PLAYER_TITLE_CUSTOM_42,Custom,0,#34FF1C,FALSE,Trapdoors
+99,1 Million,PLAYER_TITLE_CUSTOM_99,Custom,0,#ffca00,FALSE,
+100,Top Orca,PLAYER_TITLE_CUSTOM_100,Custom,0,#e33b19,FALSE,
+101,Beany,PLAYER_TITLE_CUSTOM_101,Custom,0,#3D0C02,FALSE,
+102,Community Artist,PLAYER_TITLE_CUSTOM_102,Custom,0,#11F467,FALSE,
+103,:3,PLAYER_TITLE_CUSTOM_103,Custom,0,#00008B,FALSE,
+104,Mathemagician,PLAYER_TITLE_CUSTOM_104,Custom,0,#00FFFF,FALSE,
+105,Idk can I eat it?,PLAYER_TITLE_CUSTOM_105,Custom,0,#DB9AF7,FALSE,
+106,Abyssal Archon,PLAYER_TITLE_CUSTOM_106,Custom,0,#FF1A1A,FALSE,
+107,High Roller,PLAYER_TITLE_CUSTOM_107,Custom,0,#E61E28,FALSE,
+108,The Long Nines,PLAYER_TITLE_CUSTOM_108,Custom,0,#FF3C00,FALSE,
+109,Orca's Venom,PLAYER_TITLE_CUSTOM_109,Custom,0,#B1FF32,FALSE,
+110,A Frozen Heart,PLAYER_TITLE_CUSTOM_110,Custom,0,#128081,FALSE,
+111,Keeper of Arcane Lore,PLAYER_TITLE_CUSTOM_111,Custom,0,#DDDCE4,FALSE,
+112,rawr xd,PLAYER_TITLE_CUSTOM_112,Custom,0,#F6ACCF,FALSE,
+113,Math Whiz,PLAYER_TITLE_CUSTOM_113,Custom,0,#D38AF8,FALSE,
+114,Dust Remover,PLAYER_TITLE_CUSTOM_114,Custom,0,#C8A2C8,FALSE,
+115,Master Builder,PLAYER_TITLE_CUSTOM_115,Custom,0,#4B9F4A,FALSE,
+116,Mira the Traveler,PLAYER_TITLE_CUSTOM_116,Custom,0,#FF8300,FALSE,
+117,There is no teapot,PLAYER_TITLE_CUSTOM_117,Custom,0,#5CD1E7,FALSE,
+118,Single Origin,PLAYER_TITLE_CUSTOM_118,Custom,0,#8F6547,FALSE,
+119,Canadian Crusader,PLAYER_TITLE_CUSTOM_119,Custom,0,#D80621,FALSE,
+400,Prestige Potato,PLAYER_TITLE_CUSTOM_400,ChallengeTournamentShop,0,#62fbed,FALSE,
+401,Warden,PLAYER_TITLE_CUSTOM_401,ChallengeTournamentShop,0,#2822a6,FALSE,
+402,Abysswalker,PLAYER_TITLE_CUSTOM_402,ChallengeTournamentShop,0,#D38AF9,FALSE,
+403,Titan Tickler,PLAYER_TITLE_CUSTOM_403,ChallengeTournamentShop,0,#fe5bba,FALSE,
+404,Master of Shadows,PLAYER_TITLE_CUSTOM_404,ChallengeTournamentShop,0,#38356d,FALSE,
+405,Silent Assassin,PLAYER_TITLE_CUSTOM_405,ChallengeTournamentShop,0,#149b6d,FALSE,
+406,Arcane Alchemist,PLAYER_TITLE_CUSTOM_406,ChallengeTournamentShop,0,#8f24d5,FALSE,
+407,Shadowblade,PLAYER_TITLE_CUSTOM_407,ChallengeTournamentShop,0,#022d04,FALSE,
+408,Mystic Sorcerer,PLAYER_TITLE_CUSTOM_408,ChallengeTournamentShop,0,#2b2d9a,FALSE,
+409,Pet Pal,PLAYER_TITLE_CUSTOM_409,ChallengeTournamentShop,0,#70bf56,FALSE,
+410,Warlord Supreme,PLAYER_TITLE_CUSTOM_410,ChallengeTournamentShop,0,#ffca00,FALSE,
+411,Knight of Legends,PLAYER_TITLE_CUSTOM_411,ChallengeTournamentShop,0,#830322,FALSE,
+412,Titan's Bane,PLAYER_TITLE_CUSTOM_412,ChallengeTournamentShop,0,#e1ddfa,FALSE,
+413,Relic Hunter,PLAYER_TITLE_CUSTOM_413,ChallengeTournamentShop,0,#c41743,FALSE,
+414,Ascendant Slayer,PLAYER_TITLE_CUSTOM_414,ChallengeTournamentShop,0,#2b2d9a,FALSE,
+415,Finger Fury,PLAYER_TITLE_CUSTOM_415,ChallengeTournamentShop,0,#fa9c26,FALSE,
+416,Snackmaster,PLAYER_TITLE_CUSTOM_416,ChallengeTournamentShop,0,#776231,FALSE,
+417,Mythic Swordsman,PLAYER_TITLE_CUSTOM_417,ChallengeTournamentShop,0,#ce233a,FALSE,
+418,Abyssal King,PLAYER_TITLE_CUSTOM_418,ChallengeTournamentShop,0,#330931,FALSE,
+419,Blade Dancer,PLAYER_TITLE_CUSTOM_419,ChallengeTournamentShop,0,#4aefb7,FALSE,
+420,Infinity Slicer,PLAYER_TITLE_CUSTOM_420,ChallengeTournamentShop,0,#80638b,FALSE,
+500,MasterTierSeason1Top1,PLAYER_TITLE_MasterTierSeason1Top1,MasterTierReward1,1,#347975,FALSE,
+501,MasterTierSeason1Top10,PLAYER_TITLE_MasterTierSeason1Top10,MasterTierReward10,1,#908FBE,FALSE,
+502,MasterTierSeason1Top25,PLAYER_TITLE_MasterTierSeason1Top25,MasterTierReward25,1,#ADA38B,FALSE,
+503,MasterTierSeason1Top50,PLAYER_TITLE_MasterTierSeason1Top50,MasterTierReward50,1,#8D93A4,FALSE,
+504,MasterTierSeason1Top100,PLAYER_TITLE_MasterTierSeason1Top100,MasterTierReward100,1,#E1BE65,FALSE,
+505,MasterTierSeason2Top1,PLAYER_TITLE_MasterTierSeason2Top1,MasterTierReward1,1,#347975,FALSE,
+506,MasterTierSeason2Top10,PLAYER_TITLE_MasterTierSeason2Top10,MasterTierReward10,1,#908FBE,FALSE,
+507,MasterTierSeason2Top25,PLAYER_TITLE_MasterTierSeason2Top25,MasterTierReward25,1,#ADA38B,FALSE,
+508,MasterTierSeason2Top50,PLAYER_TITLE_MasterTierSeason2Top50,MasterTierReward50,1,#8D93A4,FALSE,
+509,MasterTierSeason2Top100,PLAYER_TITLE_MasterTierSeason2Top100,MasterTierReward100,1,#E1BE65,FALSE,
+510,MasterTierSeason3Top1,PLAYER_TITLE_MasterTierSeason3Top1,MasterTierReward1,1,#347975,FALSE,
+511,MasterTierSeason3Top10,PLAYER_TITLE_MasterTierSeason3Top10,MasterTierReward10,1,#908FBE,FALSE,
+512,MasterTierSeason3Top25,PLAYER_TITLE_MasterTierSeason3Top25,MasterTierReward25,1,#ADA38B,FALSE,
+513,MasterTierSeason3Top50,PLAYER_TITLE_MasterTierSeason3Top50,MasterTierReward50,1,#8D93A4,FALSE,
+514,MasterTierSeason3Top100,PLAYER_TITLE_MasterTierSeason3Top100,MasterTierReward100,1,#E1BE65,FALSE,
+515,MasterTierSeason4Top1,PLAYER_TITLE_MasterTierSeason4Top1,MasterTierReward1,1,#347975,FALSE,
+516,MasterTierSeason4Top10,PLAYER_TITLE_MasterTierSeason4Top10,MasterTierReward10,1,#908FBE,FALSE,
+517,MasterTierSeason4Top25,PLAYER_TITLE_MasterTierSeason4Top25,MasterTierReward25,1,#ADA38B,FALSE,
+518,MasterTierSeason4Top50,PLAYER_TITLE_MasterTierSeason4Top50,MasterTierReward50,1,#8D93A4,FALSE,
+519,MasterTierSeason4Top100,PLAYER_TITLE_MasterTierSeason4Top100,MasterTierReward100,1,#E1BE65,FALSE,
+520,MasterTierSeason5Top1,PLAYER_TITLE_MasterTierSeason5Top1,MasterTierReward1,1,#347975,FALSE,
+521,MasterTierSeason5Top10,PLAYER_TITLE_MasterTierSeason5Top10,MasterTierReward10,1,#908FBE,FALSE,
+522,MasterTierSeason5Top25,PLAYER_TITLE_MasterTierSeason5Top25,MasterTierReward25,1,#ADA38B,FALSE,
+523,MasterTierSeason5Top50,PLAYER_TITLE_MasterTierSeason5Top50,MasterTierReward50,1,#8D93A4,FALSE,
+524,MasterTierSeason5Top100,PLAYER_TITLE_MasterTierSeason5Top100,MasterTierReward100,1,#E1BE65,FALSE,
+525,MasterTierSeason6Top1,PLAYER_TITLE_MasterTierSeason6Top1,MasterTierReward1,1,#347975,FALSE,
+526,MasterTierSeason6Top10,PLAYER_TITLE_MasterTierSeason6Top10,MasterTierReward10,1,#908FBE,FALSE,
+527,MasterTierSeason6Top25,PLAYER_TITLE_MasterTierSeason6Top25,MasterTierReward25,1,#ADA38B,FALSE,
+528,MasterTierSeason6Top50,PLAYER_TITLE_MasterTierSeason6Top50,MasterTierReward50,1,#8D93A4,FALSE,
+529,MasterTierSeason6Top100,PLAYER_TITLE_MasterTierSeason6Top100,MasterTierReward100,1,#E1BE65,FALSE,
+530,MasterTierSeason7Top1,PLAYER_TITLE_MasterTierSeason7Top1,MasterTierReward1,1,#347975,FALSE,
+531,MasterTierSeason7Top10,PLAYER_TITLE_MasterTierSeason7Top10,MasterTierReward10,1,#908FBE,FALSE,
+532,MasterTierSeason7Top25,PLAYER_TITLE_MasterTierSeason7Top25,MasterTierReward25,1,#ADA38B,FALSE,
+533,MasterTierSeason7Top50,PLAYER_TITLE_MasterTierSeason7Top50,MasterTierReward50,1,#8D93A4,FALSE,
+534,MasterTierSeason7Top100,PLAYER_TITLE_MasterTierSeason7Top100,MasterTierReward100,1,#E1BE65,FALSE,
+535,MasterTierSeason8Top1,PLAYER_TITLE_MasterTierSeason8Top1,MasterTierReward1,1,#347975,FALSE,
+536,MasterTierSeason8Top10,PLAYER_TITLE_MasterTierSeason8Top10,MasterTierReward10,1,#908FBE,FALSE,
+537,MasterTierSeason8Top25,PLAYER_TITLE_MasterTierSeason8Top25,MasterTierReward25,1,#ADA38B,FALSE,
+538,MasterTierSeason8Top50,PLAYER_TITLE_MasterTierSeason8Top50,MasterTierReward50,1,#8D93A4,FALSE,
+539,MasterTierSeason8Top100,PLAYER_TITLE_MasterTierSeason8Top100,MasterTierReward100,1,#E1BE65,FALSE,
+540,MasterTierSeason9Top1,PLAYER_TITLE_MasterTierSeason9Top1,MasterTierReward1,1,#347975,FALSE,
+541,MasterTierSeason9Top10,PLAYER_TITLE_MasterTierSeason9Top10,MasterTierReward10,1,#908FBE,FALSE,
+542,MasterTierSeason9Top25,PLAYER_TITLE_MasterTierSeason9Top25,MasterTierReward25,1,#ADA38B,FALSE,
+543,MasterTierSeason9Top50,PLAYER_TITLE_MasterTierSeason9Top50,MasterTierReward50,1,#8D93A4,FALSE,
+544,MasterTierSeason9Top100,PLAYER_TITLE_MasterTierSeason9Top100,MasterTierReward100,1,#E1BE65,FALSE,
+545,MasterTierSeason10Top1,PLAYER_TITLE_MasterTierSeason10Top1,MasterTierReward1,1,#347975,FALSE,
+546,MasterTierSeason10Top10,PLAYER_TITLE_MasterTierSeason10Top10,MasterTierReward10,1,#908FBE,FALSE,
+547,MasterTierSeason10Top25,PLAYER_TITLE_MasterTierSeason10Top25,MasterTierReward25,1,#ADA38B,FALSE,
+548,MasterTierSeason10Top50,PLAYER_TITLE_MasterTierSeason10Top50,MasterTierReward50,1,#8D93A4,FALSE,
+549,MasterTierSeason10Top100,PLAYER_TITLE_MasterTierSeason10Top100,MasterTierReward100,1,#E1BE65,FALSE,
+550,MasterTierSeason11Top1,PLAYER_TITLE_MasterTierSeason11Top1,MasterTierReward1,1,#347975,FALSE,
+551,MasterTierSeason11Top10,PLAYER_TITLE_MasterTierSeason11Top10,MasterTierReward10,1,#908FBE,FALSE,
+552,MasterTierSeason11Top25,PLAYER_TITLE_MasterTierSeason11Top25,MasterTierReward25,1,#ADA38B,FALSE,
+553,MasterTierSeason11Top50,PLAYER_TITLE_MasterTierSeason11Top50,MasterTierReward50,1,#8D93A4,FALSE,
+554,MasterTierSeason11Top100,PLAYER_TITLE_MasterTierSeason11Top100,MasterTierReward100,1,#E1BE65,FALSE,
+555,MasterTierSeason12Top1,PLAYER_TITLE_MasterTierSeason12Top1,MasterTierReward1,1,#347975,FALSE,
+556,MasterTierSeason12Top10,PLAYER_TITLE_MasterTierSeason12Top10,MasterTierReward10,1,#908FBE,FALSE,
+557,MasterTierSeason12Top25,PLAYER_TITLE_MasterTierSeason12Top25,MasterTierReward25,1,#ADA38B,FALSE,
+558,MasterTierSeason12Top50,PLAYER_TITLE_MasterTierSeason12Top50,MasterTierReward50,1,#8D93A4,FALSE,
+559,MasterTierSeason12Top100,PLAYER_TITLE_MasterTierSeason12Top100,MasterTierReward100,1,#E1BE65,FALSE,
+560,MasterTierSeason13Top1,PLAYER_TITLE_MasterTierSeason13Top1,MasterTierReward1,1,#347975,FALSE,
+561,MasterTierSeason13Top10,PLAYER_TITLE_MasterTierSeason13Top10,MasterTierReward10,1,#908FBE,FALSE,
+562,MasterTierSeason13Top25,PLAYER_TITLE_MasterTierSeason13Top25,MasterTierReward25,1,#ADA38B,FALSE,
+563,MasterTierSeason13Top50,PLAYER_TITLE_MasterTierSeason13Top50,MasterTierReward50,1,#8D93A4,FALSE,
+564,MasterTierSeason13Top100,PLAYER_TITLE_MasterTierSeason13Top100,MasterTierReward100,1,#E1BE65,FALSE,
+565,MasterTierSeason14Top1,PLAYER_TITLE_MasterTierSeason14Top1,MasterTierReward1,1,#00FFB7,FALSE,
+566,MasterTierSeason14Top10,PLAYER_TITLE_MasterTierSeason14Top10,MasterTierReward10,1,#C1BFFF,FALSE,
+567,MasterTierSeason14Top25,PLAYER_TITLE_MasterTierSeason14Top25,MasterTierReward25,1,#F1E1AA,FALSE,
+568,MasterTierSeason14Top50,PLAYER_TITLE_MasterTierSeason14Top50,MasterTierReward50,1,#BCC6D4,FALSE,
+569,MasterTierSeason14Top100,PLAYER_TITLE_MasterTierSeason14Top100,MasterTierReward100,1,#FFD467,FALSE,
+570,MasterTierSeason15Top1,PLAYER_TITLE_MasterTierSeason15Top1,MasterTierReward1,1,#00FFB7,FALSE,
+571,MasterTierSeason15Top10,PLAYER_TITLE_MasterTierSeason15Top10,MasterTierReward10,1,#C1BFFF,FALSE,
+572,MasterTierSeason15Top25,PLAYER_TITLE_MasterTierSeason15Top25,MasterTierReward25,1,#F1E1AA,FALSE,
+573,MasterTierSeason15Top50,PLAYER_TITLE_MasterTierSeason15Top50,MasterTierReward50,1,#BCC6D4,FALSE,
+574,MasterTierSeason15Top100,PLAYER_TITLE_MasterTierSeason15Top100,MasterTierReward100,1,#FFD467,TRUE,
+575,MasterTierSeason16Top1,PLAYER_TITLE_MasterTierSeason16Top1,MasterTierReward1,1,#00FFB7,FALSE,
+576,MasterTierSeason16Top10,PLAYER_TITLE_MasterTierSeason16Top10,MasterTierReward10,1,#C1BFFF,FALSE,
+577,MasterTierSeason16Top25,PLAYER_TITLE_MasterTierSeason16Top25,MasterTierReward25,1,#F1E1AA,FALSE,
+578,MasterTierSeason16Top50,PLAYER_TITLE_MasterTierSeason16Top50,MasterTierReward50,1,#BCC6D4,FALSE,
+579,MasterTierSeason16Top100,PLAYER_TITLE_MasterTierSeason16Top100,MasterTierReward100,1,#FFD467,FALSE,
+580,MasterTierSeason17Top1,PLAYER_TITLE_MasterTierSeason17Top1,MasterTierReward1,1,#00FFB7,FALSE,
+581,MasterTierSeason17Top10,PLAYER_TITLE_MasterTierSeason17Top10,MasterTierReward10,1,#C1BFFF,FALSE,
+582,MasterTierSeason17Top25,PLAYER_TITLE_MasterTierSeason17Top25,MasterTierReward25,1,#F1E1AA,FALSE,
+583,MasterTierSeason17Top50,PLAYER_TITLE_MasterTierSeason17Top50,MasterTierReward50,1,#BCC6D4,FALSE,
+584,MasterTierSeason17Top100,PLAYER_TITLE_MasterTierSeason17Top100,MasterTierReward100,1,#FFD467,FALSE,
+585,MasterTierSeason18Top1,PLAYER_TITLE_MasterTierSeason18Top1,MasterTierReward1,1,#00FFB7,FALSE,
+586,MasterTierSeason18Top10,PLAYER_TITLE_MasterTierSeason18Top10,MasterTierReward10,1,#C1BFFF,FALSE,
+587,MasterTierSeason18Top25,PLAYER_TITLE_MasterTierSeason18Top25,MasterTierReward25,1,#F1E1AA,FALSE,
+588,MasterTierSeason18Top50,PLAYER_TITLE_MasterTierSeason18Top50,MasterTierReward50,1,#BCC6D4,FALSE,
+589,MasterTierSeason18Top100,PLAYER_TITLE_MasterTierSeason18Top100,MasterTierReward100,1,#FFD467,FALSE,
+590,MasterTierSeason19Top1,PLAYER_TITLE_MasterTierSeason19Top1,MasterTierReward1,1,#00FFB7,FALSE,
+591,MasterTierSeason19Top10,PLAYER_TITLE_MasterTierSeason19Top10,MasterTierReward10,1,#C1BFFF,FALSE,
+592,MasterTierSeason19Top25,PLAYER_TITLE_MasterTierSeason19Top25,MasterTierReward25,1,#F1E1AA,FALSE,
+593,MasterTierSeason19Top50,PLAYER_TITLE_MasterTierSeason19Top50,MasterTierReward50,1,#BCC6D4,FALSE,
+594,MasterTierSeason19Top100,PLAYER_TITLE_MasterTierSeason19Top100,MasterTierReward100,1,#FFD467,FALSE,
+595,MasterTierSeason20Top1,PLAYER_TITLE_MasterTierSeason20Top1,MasterTierReward1,1,#00FFB7,FALSE,
+596,MasterTierSeason20Top10,PLAYER_TITLE_MasterTierSeason20Top10,MasterTierReward10,1,#C1BFFF,FALSE,
+597,MasterTierSeason20Top25,PLAYER_TITLE_MasterTierSeason20Top25,MasterTierReward25,1,#F1E1AA,FALSE,
+598,MasterTierSeason20Top50,PLAYER_TITLE_MasterTierSeason20Top50,MasterTierReward50,1,#BCC6D4,FALSE,
+599,MasterTierSeason20Top100,PLAYER_TITLE_MasterTierSeason20Top100,MasterTierReward100,1,#FFD467,FALSE,
+600,EndgameSeason1Top1,PLAYER_TITLE_EndgameSeason1Top1,EndgameSeasonReward1,1,#347975,FALSE,
+601,EndgameSeason1Top10,PLAYER_TITLE_EndgameSeason1Top10,EndgameSeasonReward10,1,#745535,FALSE,
+602,EndgameSeason1Top100,PLAYER_TITLE_EndgameSeason1Top100,EndgameSeasonReward100,1,#687182,FALSE,
+603,EndgameSeason2Top1,PLAYER_TITLE_EndgameSeason2Top1,EndgameSeasonReward1,2,#CC7306,FALSE,
+604,EndgameSeason2Top10,PLAYER_TITLE_EndgameSeason2Top10,EndgameSeasonReward10,2,#745535,FALSE,
+605,EndgameSeason2Top100,PLAYER_TITLE_EndgameSeason2Top100,EndgameSeasonReward100,2,#687182,FALSE,
+606,EndgameSeason3Top1,PLAYER_TITLE_EndgameSeason3Top1,EndgameSeasonReward1,3,#CC7306,FALSE,
+607,EndgameSeason3Top10,PLAYER_TITLE_EndgameSeason3Top10,EndgameSeasonReward10,3,#745535,FALSE,
+608,EndgameSeason3Top100,PLAYER_TITLE_EndgameSeason3Top100,EndgameSeasonReward100,3,#687182,FALSE,
+609,EndgameSeason4Top1,PLAYER_TITLE_EndgameSeason4Top1,EndgameSeasonReward1,4,#CC7306,FALSE,
+610,EndgameSeason4Top10,PLAYER_TITLE_EndgameSeason4Top10,EndgameSeasonReward10,4,#745535,FALSE,
+611,EndgameSeason4Top100,PLAYER_TITLE_EndgameSeason4Top100,EndgameSeasonReward100,4,#687182,FALSE,
+612,EndgameSeason5Top1,PLAYER_TITLE_EndgameSeason5Top1,EndgameSeasonReward1,5,#CC7306,FALSE,
+613,EndgameSeason5Top10,PLAYER_TITLE_EndgameSeason5Top10,EndgameSeasonReward10,5,#745535,FALSE,
+614,EndgameSeason5Top100,PLAYER_TITLE_EndgameSeason5Top100,EndgameSeasonReward100,5,#687182,FALSE,
+615,EndgameSeason6Top1,PLAYER_TITLE_EndgameSeason6Top1,EndgameSeasonReward1,6,#CC7306,FALSE,
+616,EndgameSeason6Top10,PLAYER_TITLE_EndgameSeason6Top10,EndgameSeasonReward10,6,#745535,FALSE,
+617,EndgameSeason6Top100,PLAYER_TITLE_EndgameSeason6Top100,EndgameSeasonReward100,6,#687182,FALSE,
+618,EndgameSeason7Top1,PLAYER_TITLE_EndgameSeason7Top1,EndgameSeasonReward1,7,#CC7306,FALSE,
+619,EndgameSeason7Top10,PLAYER_TITLE_EndgameSeason7Top10,EndgameSeasonReward10,7,#745535,FALSE,
+620,EndgameSeason7Top100,PLAYER_TITLE_EndgameSeason7Top100,EndgameSeasonReward100,7,#687182,FALSE,
+621,EndgameSeason8Top1,PLAYER_TITLE_EndgameSeason8Top1,EndgameSeasonReward1,8,#CC7306,FALSE,
+622,EndgameSeason8Top10,PLAYER_TITLE_EndgameSeason8Top10,EndgameSeasonReward10,8,#745535,FALSE,
+623,EndgameSeason8Top100,PLAYER_TITLE_EndgameSeason8Top100,EndgameSeasonReward100,8,#687182,FALSE,
+624,EndgameSeason9Top1,PLAYER_TITLE_EndgameSeason9Top1,EndgameSeasonReward1,9,#00FFB7,FALSE,
+625,EndgameSeason9Top10,PLAYER_TITLE_EndgameSeason9Top10,EndgameSeasonReward10,9,#F1E1AA,FALSE,
+626,EndgameSeason9Top100,PLAYER_TITLE_EndgameSeason9Top100,EndgameSeasonReward100,9,#BCC6D4,FALSE,
+627,EndgameSeason10Top1,PLAYER_TITLE_EndgameSeason10Top1,EndgameSeasonReward1,10,#00FFB7,FALSE,
+628,EndgameSeason10Top10,PLAYER_TITLE_EndgameSeason10Top10,EndgameSeasonReward10,10,#F1E1AA,FALSE,
+629,EndgameSeason10Top100,PLAYER_TITLE_EndgameSeason10Top100,EndgameSeasonReward100,10,#BCC6D4,TRUE,
+630,EndgameSeason11Top1,PLAYER_TITLE_EndgameSeason11Top1,EndgameSeasonReward1,11,#00FFB7,FALSE,
+631,EndgameSeason11Top10,PLAYER_TITLE_EndgameSeason11Top10,EndgameSeasonReward10,11,#F1E1AA,FALSE,
+632,EndgameSeason11Top100,PLAYER_TITLE_EndgameSeason11Top100,EndgameSeasonReward100,11,#BCC6D4,FALSE,
+633,EndgameSeason12Top1,PLAYER_TITLE_EndgameSeason12Top1,EndgameSeasonReward1,12,#00FFB7,FALSE,
+634,EndgameSeason12Top10,PLAYER_TITLE_EndgameSeason12Top10,EndgameSeasonReward10,12,#F1E1AA,FALSE,
+635,EndgameSeason12Top100,PLAYER_TITLE_EndgameSeason12Top100,EndgameSeasonReward100,12,#BCC6D4,FALSE,
+636,EndgameSeason13Top1,PLAYER_TITLE_EndgameSeason13Top1,EndgameSeasonReward1,13,#00FFB7,FALSE,
+637,EndgameSeason13Top10,PLAYER_TITLE_EndgameSeason13Top10,EndgameSeasonReward10,13,#F1E1AA,FALSE,
+638,EndgameSeason13Top100,PLAYER_TITLE_EndgameSeason13Top100,EndgameSeasonReward100,13,#BCC6D4,FALSE,
+639,EndgameSeason14Top1,PLAYER_TITLE_EndgameSeason14Top1,EndgameSeasonReward1,14,#00FFB7,FALSE,
+640,EndgameSeason14Top10,PLAYER_TITLE_EndgameSeason14Top10,EndgameSeasonReward10,14,#F1E1AA,FALSE,
+641,EndgameSeason14Top100,PLAYER_TITLE_EndgameSeason14Top100,EndgameSeasonReward100,14,#BCC6D4,FALSE,
+642,EndgameSeason15Top1,PLAYER_TITLE_EndgameSeason15Top1,EndgameSeasonReward1,15,#00FFB7,FALSE,
+643,EndgameSeason15Top10,PLAYER_TITLE_EndgameSeason15Top10,EndgameSeasonReward10,15,#F1E1AA,FALSE,
+644,EndgameSeason15Top100,PLAYER_TITLE_EndgameSeason15Top100,EndgameSeasonReward100,15,#BCC6D4,FALSE,
+645,EndgameSeason16Top1,PLAYER_TITLE_EndgameSeason16Top1,EndgameSeasonReward1,16,#00FFB7,FALSE,
+646,EndgameSeason16Top10,PLAYER_TITLE_EndgameSeason16Top10,EndgameSeasonReward10,16,#F1E1AA,FALSE,
+647,EndgameSeason16Top100,PLAYER_TITLE_EndgameSeason16Top100,EndgameSeasonReward100,16,#BCC6D4,FALSE,
+648,EndgameSeason17Top1,PLAYER_TITLE_EndgameSeason17Top1,EndgameSeasonReward1,17,#00FFB7,FALSE,
+649,EndgameSeason17Top10,PLAYER_TITLE_EndgameSeason17Top10,EndgameSeasonReward10,17,#F1E1AA,FALSE,
+650,EndgameSeason17Top100,PLAYER_TITLE_EndgameSeason17Top100,EndgameSeasonReward100,17,#BCC6D4,FALSE,
+651,EndgameSeason18Top1,PLAYER_TITLE_EndgameSeason18Top1,EndgameSeasonReward1,18,#00FFB7,FALSE,
+652,EndgameSeason18Top10,PLAYER_TITLE_EndgameSeason18Top10,EndgameSeasonReward10,18,#F1E1AA,FALSE,
+653,EndgameSeason18Top100,PLAYER_TITLE_EndgameSeason18Top100,EndgameSeasonReward100,18,#BCC6D4,FALSE,
+654,EndgameSeason19Top1,PLAYER_TITLE_EndgameSeason19Top1,EndgameSeasonReward1,19,#00FFB7,FALSE,
+655,EndgameSeason19Top10,PLAYER_TITLE_EndgameSeason19Top10,EndgameSeasonReward10,19,#F1E1AA,FALSE,
+656,EndgameSeason19Top100,PLAYER_TITLE_EndgameSeason19Top100,EndgameSeasonReward100,19,#BCC6D4,FALSE,
+657,EndgameSeason20Top1,PLAYER_TITLE_EndgameSeason20Top1,EndgameSeasonReward1,20,#00FFB7,FALSE,
+658,EndgameSeason20Top10,PLAYER_TITLE_EndgameSeason20Top10,EndgameSeasonReward10,20,#F1E1AA,FALSE,
+659,EndgameSeason20Top100,PLAYER_TITLE_EndgameSeason20Top100,EndgameSeasonReward100,20,#BCC6D4,FALSE,
