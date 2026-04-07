@@ -517,6 +517,7 @@ AstralEchoMaxCharges,Taps until Astral Echo triggers,Raid,None,False,False,False
 AstralEchoReducedChance,Reduced chances on bonus taps,Raid,None,True,True,True,False,False,False,0,False
 BurningDamageRate,Increases the damage of each burning tick.,Raid,None,True,False,True,False,False,False,0,False
 BurningPartChance,Increases the chance to proc a burning debuff,Raid,None,True,False,True,False,False,False,0,False
+BurningPartChanceMaxParts,Maximum number of parts affected.,Raid,None,False,False,False,False,True,False,0,False
 BurstDamage,Increases the damage of all Burst skills.,Raid,None,True,False,True,False,False,False,0,False
 BurstChance,Increases the activation chance of all Burst skills.,Raid,None,False,False,False,False,False,False,0,False
 BurstCountDamage,Increases the damage of BurstCount,Raid,None,False,False,False,False,False,False,0,False
@@ -565,6 +566,7 @@ MoonBeamChestMult,Increases the burst damage dealt to the Chest by Moon Beam.,Ra
 PetrifyPercentRate,Increases the damage of each petrify tick.,Raid,None,False,False,False,False,False,False,0,False
 PlagueAttackDamageRate,Increases the damage of each plague tick.,Raid,None,True,False,True,False,False,False,0,False
 PlagueAttackDamageMult,Increases the damage of plague based on the number of plagued parts.,Raid,None,True,False,True,False,False,False,0,False
+PlagueAttackDamageMultMaxParts,Maximum number of parts affected.,Raid,None,False,False,False,False,True,False,0,False
 PoisonDamageRate,Increases the damage of each poison tick.,Raid,None,True,False,True,False,False,False,0,False
 PowerBubbleDamageRate,Increases the damage of each Power Bubble tick,Raid,None,True,False,True,False,False,False,0,False
 PowerBubbleBurst,Increases the damage of Power Bubble bursts,Raid,None,False,False,False,False,False,False,0,False
