@@ -89,6 +89,7 @@ Aura_Moth,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Moth
 Aura_Druid,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Druid
 Aura_Gemstone,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Gemstone
 Aura_GraveKnight,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,GraveKnight
+Aura_Chef,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Chef
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -292,6 +293,7 @@ Hat_Commando,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Commando
 Hat_RoseAnniversary,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,RoseAnniversary
 Hat_GraveKnight,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,GraveKnight
 Hat_Ringleader,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Ringleader
+Hat_Chef,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Chef
 Hat_HighTecLightning,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Hat_Skulls,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,Skulls
 Hat_EarthRogue,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -372,6 +374,7 @@ Slash_SoulCatcher,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FA
 Slash_Valkyrie,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Valkyrie
 Slash_RoseAnniversary,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,RoseAnniversary
 Slash_GraveKnight,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,GraveKnight
+Slash_Chef,3,Slash,ShadowCloneSkillAmount,None,0.20336,5,0.9,0.58,1.14,FALSE,Chef
 Slash_Pirate,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,Pirate
 Slash_Skulls,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,Skulls
 Slash_EarthRogue,4,Slash,ShadowCloneSkillAmount,None,0.81344,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -512,6 +515,7 @@ Suit_WarHorn,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,WarHorn
 Suit_PetQueen,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,PetQueen
 Suit_PetGroomer,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,PetGroomer
 Suit_GraveKnight,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,GraveKnight
+Suit_Chef,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,Chef
 Suit_BoneTribe,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,BoneTribe
 Suit_Mech,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,Mech
 Suit_WaterSorcerer,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,WaterSorcerer
@@ -686,6 +690,7 @@ Weapon_Scorpion,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Scorpion
 Weapon_Commando,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Commando
 Weapon_RoseAnniversary,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,RoseAnniversary
 Weapon_StormSurfer,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,StormSurfer
+Weapon_Chef,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Chef
 Weapon_DarkAlien,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,DarkAlien
 Weapon_Mech,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,Mech
 Weapon_WaterSorcerer,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,WaterSorcerer
@@ -1052,6 +1057,11 @@ Hat_Heartbreaker,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Hear
 Suit_Heartbreaker,1,Suit,ChestAmount,None,0.74307,3,0.9,0.58,1.145,TRUE,Heartbreaker
 Aura_Heartbreaker,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Heartbreaker
 Slash_Heartbreaker,1,Slash,UltraDaggerDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,Heartbreaker
+Weapon_Ogre,1,Weapon,TapDamage,None,0.44268,3,0.9,0.58,1.15,TRUE,Ogre
+Hat_Ogre,1,Hat,MeleeHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Ogre
+Suit_Ogre,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,Ogre
+Aura_Ogre,1,Aura,SlashBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Ogre
+Slash_Ogre,1,Slash,ShadowCloneSkillAmount,None,0.043214,3,0.9,0.58,1.14,TRUE,Ogre
 Weapon_Retaliator,5,Weapon,DamagePerSkillPoint,AllActiveSkillAmount,6.944,25,0.9,0.58,1.16,FALSE,Retaliator
 Weapon_DivineRetribution,5,Weapon,DamagePerATParticipation,DoomBonusDamage,6.944,25,0.9,0.58,1.16,FALSE,DivineRetribution
 Slash_DrunkenHammer,5,Slash,BeastBladeDamage,StageSkipMonsterSpawnChance,1.4632,25,0.9,0.58,1.15,FALSE,DrunkenHammer

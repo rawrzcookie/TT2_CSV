@@ -1,9 +1,9 @@
 TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescriptionWhenUnowned,Notes
 0,Default,PLAYER_TITLE_TEXT_DEFAULT,None,0,#272738,FALSE,
-1,"""Titan Slayer""",PLAYER_TITLE_RANK_ID_4,HolidayEventTemporary,1,#C1BFFF,FALSE,
-2,"""Master""",PLAYER_TITLE_RANK_ID_3,HolidayEventTemporary,1,#F1E1AA,FALSE,
-3,"""Champion""",PLAYER_TITLE_RANK_ID_2,HolidayEventTemporary,1,#BCC6D4,FALSE,
-4,"""Hero""",PLAYER_TITLE_RANK_ID_1,HolidayEventTemporary,1,#FFD467,FALSE,
+1,Titan Slayer,PLAYER_TITLE_RANK_ID_4,HolidayEventTemporary,1,#C1BFFF,FALSE,
+2,Master,PLAYER_TITLE_RANK_ID_3,HolidayEventTemporary,1,#F1E1AA,FALSE,
+3,Champion,PLAYER_TITLE_RANK_ID_2,HolidayEventTemporary,1,#BCC6D4,FALSE,
+4,Hero,PLAYER_TITLE_RANK_ID_1,HolidayEventTemporary,1,#FFD467,FALSE,
 5,<3 Custom Title,PLAYER_TITLE_CUSTOM_5,Custom,0,#11F467,FALSE,
 6,GameHive Developer,PLAYER_TITLE_CUSTOM_6,Custom,0,#FF9326,FALSE,
 7,Community Tool Developer,PLAYER_TITLE_CUSTOM_7,Custom,0,#11F467,FALSE,

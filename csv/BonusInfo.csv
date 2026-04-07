@@ -234,6 +234,14 @@ FishingSkillLevel,increases fish rarity,None,None,True,False,False,False,False,F
 FishingBaitLevel,increases fish types,None,None,True,False,False,False,False,False,0,False
 TackleBoxSpeedLevel,speeds up automatic lure collection,None,None,True,False,False,True,False,False,0,False
 TackleBoxSizeLevel,increases automatic lure collection cap,None,None,True,False,False,False,False,False,0,False
+ArrowsPerPrestige,Increases Lures Per Prestige,None,None,True,False,False,False,False,False,0,False
+ArrowsPerDay,Increases daily limit for lures,None,None,True,False,False,False,False,False,0,False
+HuntingSkillLevel,increases fish rarity,None,None,True,False,False,False,False,False,0,False
+HuntingBaitLevel,increases fish types,None,None,True,False,False,False,False,False,0,False
+QuiverSpeedLevel,speeds up automatic lure collection,None,None,True,False,False,True,False,False,0,False
+QuiverSizeLevel,increases automatic lure collection cap,None,None,True,False,False,False,False,False,0,False
+TargetBonusCurrencyMultLevel,...,None,None,True,False,True,False,False,False,0,False
+ExtraTargetCountLevel,...,None,None,True,False,False,False,False,False,0,False
 AutoActivateForbiddenContractQTE,Automatically activates Forbidden Contract QTEs when value is non-0,None,None,True,False,False,False,True,True,0,False
 RoyalContractBonusDamage,The bonus damage for Royal Contract.,Damage,None,False,False,False,False,False,False,0,False
 RoyalContractBonusGold,The bonus gold for Royal Contract.,Gold,None,False,False,False,False,False,False,0,False
