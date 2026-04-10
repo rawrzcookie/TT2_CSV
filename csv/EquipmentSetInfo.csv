@@ -19,7 +19,7 @@ Skulls,TRUE,Mythic,100,120,140,160,180,4000,ShadowCloneBossSplash,0.1,1,1,FALSE,
 Pirate,TRUE,Mythic,100,120,140,160,180,3000,EquipmentRarityChance,1.5,1,1,FALSE,0,HandOfMidasSkillAmount,150,1.12,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"10,625,191.318",FALSE,3,5,6,5,5,3
 BoneTribe,TRUE,Mythic,100,120,140,160,180,2000,HelperBoostCompanionAttackRate,2,1,1,FALSE,0,HelperBoostSkillAmount,100,1.155,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"146,964,401.053",FALSE,,1,1,3,,
 DarkAlien,TRUE,Mythic,100,120,140,160,180,1000,InactiveSneakCountMult,2,1,1,FALSE,0,CritBoostSkillAmount,100,1.105,0.999,FALSE,0,PrestigeRelicAdditive,2.4408,1.1487,0.9,FALSE,0,"1,875,791.421",FALSE,6,7,8,8,7,7
-Chef,FALSE,Legendary,20,24,28,32,36,0,TapBoostSkillDurationMult,0.1,1,1,FALSE,0,KnightBonusBoost,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,TRUE,1,1,1,1,1,1
+Chef,TRUE,Legendary,20,24,28,32,36,0,TapBoostSkillDurationMult,0.1,1,1,FALSE,0,KnightBonusBoost,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,TRUE,1,1,1,1,1,1
 Ringleader,TRUE,Legendary,20,24,28,32,36,0,DamagePerRunningPerkBoost,1.5,1.017,0.999,FALSE,0,GoldAll,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,1,1,1,1,1,1
 StormSurfer,TRUE,Legendary,20,24,28,32,36,0,ThunderVolleySkillDurationMult,0.1,1,1,FALSE,0,ThunderVolleySkillAmount,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,1,1,1,1,1,1
 GraveKnight,TRUE,Legendary,20,24,28,32,36,0,ShadowCloneSkillDurationMult,0.1,1,1,FALSE,0,TwilightBoost,1.5,1,1,TRUE,1.00E+20,None,0,0,0,FALSE,0,1.500,FALSE,1,1,1,1,1,1

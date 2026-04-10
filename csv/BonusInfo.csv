@@ -563,6 +563,7 @@ MirrorForceBoost,Damage increase per player using Mirror Force in the previous c
 MirrorForceBoostMax,Maximum amount of Boost Bonus (# of players = Max / Boost),Raid,None,True,False,True,False,True,False,0,False
 MoonBeamBurst,Increases the burst damage dealt by Moon Beam.,Raid,None,False,False,False,False,False,False,0,False
 MoonBeamChestMult,Increases the burst damage dealt to the Chest by Moon Beam.,Raid,None,False,False,False,False,False,False,0,False
+MoonBeamArmMult,Increases the burst damage dealt to the Chest by Moon Beam.,Raid,None,False,False,False,False,False,False,0,False
 PetrifyPercentRate,Increases the damage of each petrify tick.,Raid,None,False,False,False,False,False,False,0,False
 PlagueAttackDamageRate,Increases the damage of each plague tick.,Raid,None,True,False,True,False,False,False,0,False
 PlagueAttackDamageMult,Increases the damage of plague based on the number of plagued parts.,Raid,None,True,False,True,False,False,False,0,False
@@ -587,6 +588,7 @@ ShadowDamageRate,Increases the damage of each shadow tick.,Raid,None,True,False,
 ShadowDamageMult,The multiplier applied to Shadow damage when at max stacks.,Raid,None,False,False,False,False,False,False,0,False
 SkullBashBurst,Increases the burst damage dealt by Skull Bash.,Raid,None,False,False,False,False,False,False,0,False
 SkullBashHeadMult,Increases the burst damage dealt to the Head by Skull Bash.,Raid,None,False,False,False,False,False,False,0,False
+SkullBashLegMult,Increases the burst damage dealt to the Head by Skull Bash.,Raid,None,False,False,False,False,False,False,0,False
 StormDamage,Increases damage dealt by Lightning Storm.,Raid,None,False,False,False,False,False,False,0,False
 StormFlightTime,Used as a constant for lightning storm raid skill,Raid,None,False,False,False,False,False,False,0,False
 SwarmDamageRate,Increases the damage dealt by the insect swarm,Raid,None,True,False,True,False,False,False,0,False
