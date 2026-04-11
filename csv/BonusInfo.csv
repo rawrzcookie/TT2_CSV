@@ -702,6 +702,7 @@ AllArmorHPMult,Increases the starting HP of a titan's Legs Armour,Raid,None,True
 HeadDamageSupport,Increase damage dealt to Titanlord head,Raid,None,True,False,True,False,False,False,0,False
 ExposedBodyBoostSupport,Increases raid damage based on the number of exposed body parts.,Raid,None,True,False,True,False,False,False,0,False
 ExposedBodyBoostSupportMaxParts,Maximum number of parts affected.,Raid,None,False,False,False,False,True,False,0,False
+ExposedSkeletonBoostSupportMaxParts,Maximum number of parts affected.,Raid,None,False,False,False,False,True,False,0,False
 AfflictedDamageSupport,increases damage dealt by afflictions,Raid,None,True,False,True,False,False,False,0,False
 BodyDamageSupport,Increase damage dealt to Titanlord body parts,Raid,None,True,False,True,False,False,False,0,False
 ChestDamageSupport,Increase damage dealt to Titanlord chest,Raid,None,True,False,True,False,False,False,0,False
