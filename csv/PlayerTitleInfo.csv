@@ -42,6 +42,14 @@ TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescrip
 40,Trapdoor Tactician,PLAYER_TITLE_CUSTOM_40,Custom,0,#34FF1C,FALSE,Trapdoors
 41,Master of Missteps,PLAYER_TITLE_CUSTOM_41,Custom,0,#34FF1C,FALSE,Trapdoors
 42,Explosion Evasion Expert,PLAYER_TITLE_CUSTOM_42,Custom,0,#34FF1C,FALSE,Trapdoors
+43,Charbroiled Champ,PLAYER_TITLE_CUSTOM_43,Custom,0,#FF1A1A,FALSE,Hunter
+44,Arrow To The Knee,PLAYER_TITLE_CUSTOM_44,Custom,0,#FF1A1A,FALSE,Hunter
+45,Fang-tastic Hunter,PLAYER_TITLE_CUSTOM_45,Custom,0,#FF1A1A,FALSE,Hunter
+46,Talon-ted Archer,PLAYER_TITLE_CUSTOM_46,Custom,0,#FF1A1A,FALSE,Hunter
+47,Dragon Slayer,PLAYER_TITLE_CUSTOM_47,Custom,0,#FF1A1A,FALSE,Hunter
+48,Drake Breaker,PLAYER_TITLE_CUSTOM_48,Custom,0,#FF1A1A,FALSE,Hunter
+49,Ember Ender,PLAYER_TITLE_CUSTOM_49,Custom,0,#FF1A1A,FALSE,Hunter
+50,Sir Shoots-a-Lot,PLAYER_TITLE_CUSTOM_50,Custom,0,#FF1A1A,FALSE,Hunter
 99,1 Million,PLAYER_TITLE_CUSTOM_99,Custom,0,#ffca00,FALSE,
 100,Top Orca,PLAYER_TITLE_CUSTOM_100,Custom,0,#e33b19,FALSE,
 101,Beany,PLAYER_TITLE_CUSTOM_101,Custom,0,#3D0C02,FALSE,
