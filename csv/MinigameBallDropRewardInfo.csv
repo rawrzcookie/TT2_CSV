@@ -1,0 +1,6 @@
+StartRank,EndRank,PrizeBucket,RankReward,LeaderboardPosition
+1,1,1,Diamonds:1000,Top 1 players in ball drop Game
+2,2,2,Diamonds:200,Top 2 players in  ball drop Game
+3,3,3,Diamonds:100,Top 3 players in  ball drop Game
+4,10,4,Diamonds:1,Top 10 players in  ball drop Game
+11,999999,5,,No Reward

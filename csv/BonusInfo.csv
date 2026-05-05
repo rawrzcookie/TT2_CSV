@@ -242,6 +242,12 @@ QuiverSpeedLevel,speeds up automatic lure collection,None,None,True,False,False,
 QuiverSizeLevel,increases automatic lure collection cap,None,None,True,False,False,False,False,False,0,False
 TargetBonusCurrencyMultLevel,...,None,None,True,False,True,False,False,False,0,False
 ExtraTargetCountLevel,...,None,None,True,False,False,False,False,False,0,False
+BallDropCurrencyPerPrestige,Increase Prestige Currency per Prestige.,None,None,True,False,False,False,False,False,0,False
+BallDropCurrencyPerDay,Increase Prestige Currency per Day.,None,None,True,False,False,False,False,False,0,False
+BallDropPegCoinBonus,Increase value of a random Peg.,None,None,True,False,False,False,False,False,0,False
+BallDropBucketCoinBonus,Increase multiplier of a random Bucket.,None,None,True,False,False,False,False,False,0,False
+BallDropBallGenerationSpeed,Increase container generation speed.,None,None,True,False,False,True,False,False,0,False
+BallDropBallContainerCap,Increase container cap.,None,None,True,False,False,False,False,False,0,False
 AutoActivateForbiddenContractQTE,Automatically activates Forbidden Contract QTEs when value is non-0,None,None,True,False,False,False,True,True,0,False
 RoyalContractBonusDamage,The bonus damage for Royal Contract.,Damage,None,False,False,False,False,False,False,0,False
 RoyalContractBonusGold,The bonus gold for Royal Contract.,Gold,None,False,False,False,False,False,False,0,False
