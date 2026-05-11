@@ -478,6 +478,7 @@ AvatarBeast46,MinigameHunting_Beast46,46,TRUE,#ffcc00,Hunting,FALSE,TRUE
 AvatarBeast47,MinigameHunting_Beast47,47,TRUE,#ffcc00,Hunting,FALSE,TRUE
 AvatarBeast48,MinigameHunting_Beast48,48,TRUE,#ffcc00,Hunting,FALSE,TRUE
 AvatarBeast49,MinigameHunting_Beast49,49,TRUE,#ffcc00,Hunting,FALSE,TRUE
+AvatarBallDrop1,MinigameBallDrop,0,TRUE,#ffcc00,BallDrop,FALSE,TRUE
 AvatarSuperTournament1,SuperTournament1,1,TRUE,#ffcc00,SuperTournament,FALSE,FALSE
 AvatarSuperTournament2,SuperTournament2,1,TRUE,#ffcc00,SuperTournament,FALSE,FALSE
 AvatarSuperTournament3,SuperTournament3,1,TRUE,#ffcc00,SuperTournament,FALSE,FALSE
