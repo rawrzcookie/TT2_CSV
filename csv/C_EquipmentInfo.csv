@@ -40,6 +40,7 @@ Aura_Airforce,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Airforce
 Aura_PetGroomer,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PetGroomer
 Aura_Nightshade,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Nightshade
 Aura_Ringleader,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Ringleader
+Aura_MoltenGold,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,MoltenGold
 Aura_BoneTribe,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,BoneTribe
 Aura_Samurai,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Samurai
 Aura_Chakram,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Chakram
@@ -211,6 +212,7 @@ Hat_GoldenMech,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,GoldenM
 Hat_Collector,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Collector
 Hat_Airforce,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Airforce
 Hat_Nightshade,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Nightshade
+Hat_MoltenGold,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,MoltenGold
 Hat_BoneTribe,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,BoneTribe
 Hat_Samurai,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Samurai
 Hat_FireKnight,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -444,6 +446,7 @@ Slash_Padlock,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Padlock
 Slash_GoldenMech,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,GoldenMech
 Slash_GunpowderMage,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,GunpowderMage
 Slash_Scorpion,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Scorpion
+Slash_MoltenGold,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,MoltenGold
 Slash_SteampunkKnight,4,Slash,GoldGunDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,SteampunkKnight
 Slash_MythicSmith,4,Slash,GoldGunDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,MythicSmith
 Suit_ArmorIce,1,Suit,GoldAll,None,0.045,1,0.9,0.58,1.14,FALSE,None
@@ -558,6 +561,7 @@ Suit_Airforce,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Airforce
 Suit_Commando,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Commando
 Suit_Nightshade,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Nightshade
 Suit_StormSurfer,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,StormSurfer
+Suit_MoltenGold,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,MoltenGold
 Suit_Skulls,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Skulls
 Suit_Samurai,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Samurai
 Suit_FireKnight,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -696,6 +700,7 @@ Weapon_Commando,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Commando
 Weapon_RoseAnniversary,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,RoseAnniversary
 Weapon_StormSurfer,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,StormSurfer
 Weapon_Chef,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Chef
+Weapon_MoltenGold,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,MoltenGold
 Weapon_DarkAlien,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,DarkAlien
 Weapon_Mech,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,Mech
 Weapon_WaterSorcerer,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,WaterSorcerer
@@ -905,6 +910,11 @@ Hat_Punk,1,Hat,SpellHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Punk
 Suit_Punk,1,Suit,ChestAmount,None,0.74307,3,0.9,0.58,1.145,TRUE,Punk
 Aura_Punk,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Punk
 Slash_Punk,1,Slash,ShadowCloneSkillAmount,None,0.043214,3,0.9,0.58,1.14,TRUE,Punk
+Weapon_Rhythm,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,Rhythm
+Hat_Rhythm,1,Hat,SpellHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Rhythm
+Suit_Rhythm,1,Suit,ChestAmount,None,0.74307,3,0.9,0.58,1.145,TRUE,Rhythm
+Aura_Rhythm,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Rhythm
+Slash_Rhythm,1,Slash,ShadowCloneSkillAmount,None,0.043214,3,0.9,0.58,1.14,TRUE,Rhythm
 Weapon_Gem,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,None
 Weapon_DarkHare,1,Weapon,CritDamage,None,0.3162,3,0.9,0.58,1.145,TRUE,None
 Hat_DarkHare,1,Hat,MeleeHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,None
