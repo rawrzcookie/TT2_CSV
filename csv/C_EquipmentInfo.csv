@@ -139,6 +139,7 @@ Aura_Commando,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Commando
 Aura_RoseAnniversary,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,RoseAnniversary
 Aura_StormSurfer,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,StormSurfer
 Aura_Frog,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Frog
+Aura_SongBird,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,SongBird
 Aura_Pirate,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Pirate
 Aura_Skulls,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Skulls
 Aura_Mech,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Mech
@@ -174,6 +175,7 @@ Hat_Runestone,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Runesto
 Hat_GunpowderMage,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,GunpowderMage
 Hat_Druid,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Druid
 Hat_Gemstone,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Gemstone
+Hat_SongBird,3,Hat,RangedHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,SongBird
 Hat_DarkAlien,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAlien
 Hat_Mech,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Mech
 Hat_ElectricWarlord,4,Hat,RangedHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,ElectricWarlord
@@ -327,6 +329,7 @@ Slash_TitanSouls,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Titan
 Slash_Fortress,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Fortress
 Slash_Gemstone,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,Gemstone
 Slash_StormSurfer,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,StormSurfer
+Slash_SongBird,3,Slash,ClanShipDamage,None,0.31744,5,0.9,0.58,1.14,FALSE,SongBird
 Slash_BoneTribe,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,BoneTribe
 Slash_Mech,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,Mech
 Slash_ElectricWarlord,4,Slash,ClanShipDamage,None,1.26976,20,0.9,0.58,1.14,FALSE,ElectricWarlord
@@ -587,6 +590,7 @@ Suit_Valkyrie,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Valkyrie
 Suit_Druid,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Druid
 Suit_RoseAnniversary,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,RoseAnniversary
 Suit_Frog,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Frog
+Suit_SongBird,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,SongBird
 Suit_DarkAlien,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,DarkAlien
 Suit_EarthRogue,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,EarthRogue
 Suit_Chakram,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,Chakram
@@ -701,6 +705,7 @@ Weapon_RoseAnniversary,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Ros
 Weapon_StormSurfer,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,StormSurfer
 Weapon_Chef,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,Chef
 Weapon_MoltenGold,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,MoltenGold
+Weapon_SongBird,3,Weapon,CritDamage,None,1.488,5,0.9,0.58,1.145,FALSE,SongBird
 Weapon_DarkAlien,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,DarkAlien
 Weapon_Mech,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,Mech
 Weapon_WaterSorcerer,4,Weapon,CritDamage,None,5.952,20,0.9,0.58,1.145,FALSE,WaterSorcerer
