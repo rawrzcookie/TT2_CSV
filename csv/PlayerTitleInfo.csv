@@ -50,6 +50,16 @@ TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescrip
 48,Drake Breaker,PLAYER_TITLE_CUSTOM_48,Custom,0,#FF1A1A,FALSE,Hunter
 49,Ember Ender,PLAYER_TITLE_CUSTOM_49,Custom,0,#FF1A1A,FALSE,Hunter
 50,Sir Shoots-a-Lot,PLAYER_TITLE_CUSTOM_50,Custom,0,#FF1A1A,FALSE,Hunter
+51,Berry Hard to Beat,PLAYER_TITLE_CUSTOM_51,Custom,0,#DB9AF7,FALSE,BallDrop
+52,Berry Much the Champion,PLAYER_TITLE_CUSTOM_52,Custom,0,#DB9AF7,FALSE,BallDrop
+53,Berry Talented,PLAYER_TITLE_CUSTOM_53,Custom,0,#DB9AF7,FALSE,BallDrop
+54,Berry Bouncy,PLAYER_TITLE_CUSTOM_54,Custom,0,#DB9AF7,FALSE,BallDrop
+55,Berry Good,PLAYER_TITLE_CUSTOM_55,Custom,0,#DB9AF7,FALSE,BallDrop
+56,Berry Important Player,PLAYER_TITLE_CUSTOM_56,Custom,0,#DB9AF7,FALSE,BallDrop
+57,Berry Remarkable,PLAYER_TITLE_CUSTOM_57,Custom,0,#DB9AF7,FALSE,BallDrop
+58,Berry Serious Competitor,PLAYER_TITLE_CUSTOM_58,Custom,0,#DB9AF7,FALSE,BallDrop
+59,Berry Much a Winner,PLAYER_TITLE_CUSTOM_59,Custom,0,#DB9AF7,FALSE,BallDrop
+60,Berry Well Played,PLAYER_TITLE_CUSTOM_60,Custom,0,#DB9AF7,FALSE,BallDrop
 99,1 Million,PLAYER_TITLE_CUSTOM_99,Custom,0,#ffca00,FALSE,
 100,Top Orca,PLAYER_TITLE_CUSTOM_100,Custom,0,#e33b19,FALSE,
 101,Beany,PLAYER_TITLE_CUSTOM_101,Custom,0,#3D0C02,FALSE,

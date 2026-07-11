@@ -204,26 +204,7 @@ BONUS_DESC_BoostedSupportSlots,increases your number of raid crystal support slo
 BONUS_DESC_BoostedAfflictionSlots,increases your number of raid crystal affliction slots,,,Increases your number of Raid Crystal Affliction Slots,增加你的團隊副本水晶異常狀態欄位數量,增加你的团队副本水晶异常状态栏位数量,レイドクリスタルのアフィクションスロット数を増やします,레이드 크리스탈 고통 슬롯 수를 늘려줍니다.,Øger Dit Antal Raid Crystal Affliction-Pladser,Vergroot Het Aantal Slots Voor Raidkristallen Die Je Kunt Gebruiken.,Augmente Le Nombre D'Emplacements D'Affliction De Vos Cristaux De Raid,Erhöht Die Anzahl Deiner Raid-Kristall-Schwächungsplätze.,Aumenta Il Numero Di Slot Per Le Afflizioni Dei Cristalli Raid,Øker Antallet Raidkrystall-Affliction-Plasser,Увеличивает Количество Слотов Для Рейдовых Кристаллов.,Aumenta Tu Número De Ranuras De Aflicción De Cristales De Incursión,Ökar Ditt Antal Raidkristall-Affliction-Platser,Baskın Kristali Hastalık Yuvalarınızın Sayısını Artırır.,Aumenta O Número De Espaços Para Cristais De Incursão Com Aflições.
 RAIDSKILL_BARBEDMORNINGSTAR_ICON_E,MaxStacks,,,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks,MaxStacks
 JULY2026DRUMSTARBUNDLE_TITLE,new raid skills bundle!,,JUNE2026BoostedRaidBundle,New Raid Skills Battle Bundle!,賽季強化包,赛季强化包,シーズンブースターバンドル,시즌 부스터 번들,Sæsonboosterpakke,Seizoensboosterpakket,Pack De Démarrage De Saison,Saison-Booster-Paket,Pacchetto Potenziamento Stagione,Sesongboosterpakke,Сезонный Бустерный Набор,Paquete De Refuerzo De Temporada,Säsongsboosterpaket,Sezon Güçlendirici Paketi,Pacote De Reforço Da Temporada
-JULY2026DRUMSTARBUNDLE_CATCH_DESC,"x500 barbed morningstar and x500 war drums!
-enough cards to reach level 15 each!",,JUNE2026BoostedRaidBundle,Enough Cards to reach Level 15 Each!,"摧毀那些團隊副本泰坦！
-
-進一步強化賽季卡牌！","摧毁那些团队副本泰坦！
-
-进一步强化赛季卡牌！","レイドタイタンを壊滅させろ！
-
-シーズンカードをさらに強化せよ！","레이드 타이탄들을 박살내세요!
-시즌 카드의 성능을 더욱 강화하세요!",Ødelæg Disse Raid-Titaner! Boost Sæsonkortene Yderligere!,"Vernietig Die Aanvalsreuzen!
-
-Versterk De Seizoenskaarten Nog Verder!","Écrasez Ces Titans De Raid !
-
-Améliorez Encore Plus Les Cartes Saisonnières !",Vernichtet Die Raid-Titanen! Verstärkt Die Saisonkarten Noch Weiter!,"Distruggi Quei Titani D'Incursione!
-Potenzia Ulteriormente Le Carte Stagionali!",Ødelegg Disse Raid-Titanene! Øk Sesongkortene Ytterligere!,"Уничтожьте Этих Рейдовых Титанов!
-Усильте Сезонные Карты Ещё Больше!","¡Devasta A Esos Titanes De Incursión!
-
-¡Potencia Aún Más Las Cartas De Temporada!",Förstör De Där Raidtitanerna! Öka Säsongskorten Ytterligare!,"Bu Baskın Devlerini Yerle Bir Edin!
-Mevsimlik Kartları Daha Da Güçlendirin!","Destrua Esses Titãs De Incursão!
-
-Aumente Ainda Mais O Poder Das Cartas Sazonais!"
+JULY2026DRUMSTARBUNDLE_CATCH_DESC,enough cards to reach level 13 each!,,JUNE2026BoostedRaidBundle,Enough Cards to reach Level 13 Each!,足夠的卡片，每張都能升到13級！,足够的卡片，每张都能升到13级！,それぞれレベル13に到達するのに十分なカード！,각 레벨 13에 도달할 수 있는 충분한 카드!,nok kort til at nå niveau 13 hver!,Genoeg kaarten om elk niveau 13 te bereiken!,suffisamment de cartes pour atteindre le niveau 13 chacune !,"Genügend Karten, um jeweils Level 13 zu erreichen!",carte a sufficienza per raggiungere il livello 13 ciascuno!,nok kort til å nå nivå 13 hver!,"Достаточно карт, чтобы каждая достигла 13-го уровня!",¡Suficientes cartas para alcanzar el nivel 13 cada una!,tillräckligt med kort för att nå nivå 13 vardera!,Her biriniz için 13. seviyeye ulaşmaya yetecek kadar kart!,cartas suficientes para alcançar o nível 13 cada!
 BONUS_BarbedMorningstarDamageBoostMaxParts,Max Parts,,,Max Parts,Max Parts,Max Parts,マックスパーツ,맥스 파츠,Maks. Dele,Max Parts,Max Parts,Max Parts,Max Parts,Maks Deler,Макс Партс,Piezas Max,Maxdelar,Maksimum Parçalar,Peças Max
 SONGBIRDBUNDLE_TITLE,woodland piper bundle!,,SONGBIRD,Woodland Piper Bundle!,林地風笛鳥群！,林地风笛鸟群！,森のパイパーの束！,숲속의 피리 부는 새 선물 세트!,Woodland Piper-Pakke!,Bosfluitenbundel!,Fagot De Cornemuse Des Bois !,Waldpfeifer-Bündel!,Pacchetto Di Pifferaio Del Bosco!,Woodland Piper-Pakke!,Набор «Лесной Волынщик»!,¡Paquete De Gaiteros Del Bosque!,Woodland Piper-Paket!,Orman Flütçüsü Demeti!,Pacote De Gaiteiro Da Floresta!
 SONGBIRDBUNDLE_CATCH_DESC,increase the raid power of your support skills!,,SONGBIRD,Increase the raid power of your Support skills!,提升輔助技能的突襲威力！,提升辅助技能的突袭威力！,サポートスキルの攻撃力を上げよう！,지원 스킬의 레이드 위력을 높이세요!,Øg Raidkraften I Dine Supportfærdigheder!,Verhoog De Aanvalskracht Van Je Ondersteunende Vaardigheden!,Augmentez La Puissance De Vos Compétences De Soutien Lors Des Raids !,Verstärke Die Angriffskraft Deiner Unterstützungsfähigkeiten!,Aumenta La Potenza D'Attacco Delle Tue Abilità Di Supporto!,Øk Raidkraften Til Støtteferdighetene Dine!,Увеличьте Рейдовую Мощь Ваших Вспомогательных Навыков!,¡Aumenta El Poder De Ataque De Tus Habilidades De Apoyo!,Öka Raidkraften I Dina Supportfärdigheter!,Destek Yeteneklerinizin Baskın Gücünü Artırın!,Aumente O Poder De Ataque Das Suas Habilidades De Suporte!
@@ -287,7 +268,7 @@ Merci de votre fidélité à chaque mise à jour et nous espérons que vous appr
 
 À bientôt !","Hey Tapper!
 
-Version 8.0 ist da und hat es in sich! Mystische Edelsteine ​​wurden komplett überarbeitet. Macht euch bereit, eure Builds zu verstärken und neue Kombos zu entdecken, mit denen ihr die lästigen Titanen vernichten könnt. Damit ihr euch schnell in das neue System einarbeiten könnt, haben wir hier eine kleine Überraschung für euch.
+Version 8.0 ist da und hat es in sich! Mystische Edelsteine ​​wurden komplett überarbeitet. Macht euch bereit, eure Builds zu verstärken und neue Kombos zu entdecken, mit denen ihr die lästigen Titanen vernichten könnt. Damit ihr euch im neuen System zurechtfindet, haben wir hier eine kleine Überraschung für euch.
 
 Vielen Dank, dass ihr uns bei jedem Update die Treue gehalten habt. Wir hoffen, euch gefällt Version 8.0!
 
@@ -334,3 +315,5 @@ A versão 8.0 chegou, e é uma versão enorme! As gemas místicas foram completa
 Obrigado por acompanharem a gente em todas as atualizações e esperamos que vocês curtam a versão 8.0!
 
 Vamos lá!"
+SEE_SALVAGED_MONUMENTS,see salvaged monuments,,,See Salvaged Monuments,參觀搶救後的古蹟,参观抢救后的古迹,回収された記念碑を見る,복원된 기념물을 보세요,Se Bjærgede Monumenter,Bekijk Geredde Monumenten,Voir Les Monuments Sauvés,Geborgene Denkmäler Ansehen,Vedere I Monumenti Recuperati,Se Bergede Monumenter,См. Спасенные Памятники,Ver Monumentos Rescatados,Se Bevarade Monument,Kurtarılmış Anıtları Görün,Ver Monumentos Recuperados
+SHOW_AVATAR_INC_NUM_ENABLED,show avatar numbers,,,Show Avatar Numbers,顯示頭像編號,显示头像编号,アバター番号を表示,아바타 번호 표시,vis avatarnumre,Avatarnummers weergeven,afficher les numéros d'avatar,Avatar-Nummern anzeigen,mostra i numeri degli avatar,vis avatarnumre,показать номера аватара,mostrar números de avatar,visa avatarnummer,avatar numaralarını göster,mostrar números de avatar
