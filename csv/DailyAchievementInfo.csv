@@ -6,6 +6,6 @@ ClickFairies,TRUE,5,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,Gemst
 Prestiges,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Number of prestiges per day.
 WatchVideos,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Number of videos watched.
 SoloRaidAttacks,TRUE,1,"Diamonds:5,RaidTicket:10,HolidayCurrency:10,Alchemy:1,GemstoneCurrency:10",Perform a Solo Raid Attack.
-DiamondFairies,TRUE,5,"Alchemy:1,GemstoneCurrency:50",Diamond fairies collected per day.
-PerkFairy,TRUE,1,"Alchemy:1,GemstoneCurrency:50",Mama fairy reward.
-DailyEquipment,TRUE,20,"Alchemy:1,GemstoneCurrency:50",Equipment dropped per day.
+DiamondFairies,TRUE,5,"Diamonds:10,Alchemy:1,GemstoneCurrency:50",Diamond fairies collected per day.
+PerkFairy,TRUE,1,"Diamonds:10,Alchemy:1,GemstoneCurrency:50",Mama fairy reward.
+DailyEquipment,TRUE,20,"Diamonds:10,Alchemy:1,GemstoneCurrency:50",Equipment dropped per day.
