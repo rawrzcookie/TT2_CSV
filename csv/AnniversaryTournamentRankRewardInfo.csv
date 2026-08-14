@@ -1,6 +1,6 @@
 StartRank,EndRank,PrizeBucket,RankReward,LeaderboardPosition
-1,1,1,"Avatar:AvatarBallDrop1,Title:51,Diamonds:3100",Top 1 players in ball drop Game
-2,3,2,"Avatar:AvatarBallDrop1,Title:51,Diamonds:2000",Top 2 players in  ball drop Game
+1,1,1,"Avatar:AvatarAnniversary10,Title:51,Diamonds:3100",Top 1 players in ball drop Game
+2,3,2,"Avatar:AvatarAnniversary10,Title:51,Diamonds:2000",Top 2 players in  ball drop Game
 4,10,3,Diamonds:1000,Top 3 players in  ball drop Game
 11,25,4,Diamonds:500,Top 10 players in  ball drop Game
 26,999999,5,,No Reward
