@@ -41,6 +41,7 @@ Aura_PetGroomer,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,PetGroomer
 Aura_Nightshade,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Nightshade
 Aura_Ringleader,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Ringleader
 Aura_MoltenGold,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,MoltenGold
+Aura_Tortoise,3,Aura,HelmetBoost,None,0.0992,5,0.9,0.58,1.145,FALSE,Tortoise
 Aura_BoneTribe,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,BoneTribe
 Aura_Samurai,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Samurai
 Aura_Chakram,4,Aura,HelmetBoost,None,0.3968,20,0.9,0.58,1.145,FALSE,Chakram
@@ -257,6 +258,7 @@ Hat_Fortress,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Fortress
 Hat_Valkyrie,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Valkyrie
 Hat_Scorpion,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Scorpion
 Hat_StormSurfer,3,Hat,SpellHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,StormSurfer
+Hat_Tortoise,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Tortoise
 Hat_Pirate,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Pirate
 Hat_WaterSorcerer,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,WaterSorcerer
 Hat_DarkAngel,4,Hat,SpellHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,DarkAngel
@@ -410,6 +412,7 @@ Slash_Collector,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALS
 Slash_Moth,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Moth
 Slash_Airforce,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Airforce
 Slash_Ringleader,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Ringleader
+Slash_Tortoise,3,Slash,UltraDaggerDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Tortoise
 Slash_HighTecLightning,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,HighTecLightning
 Slash_WaterSorcerer,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,WaterSorcerer
 Slash_DarkAngel,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,DarkAngel
@@ -569,6 +572,7 @@ Suit_Commando,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Commando
 Suit_Nightshade,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Nightshade
 Suit_StormSurfer,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,StormSurfer
 Suit_MoltenGold,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,MoltenGold
+Suit_Tortoise,3,Suit,GoldBoss,None,3.4968,5,0.9,0.58,1.145,FALSE,Tortoise
 Suit_Skulls,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Skulls
 Suit_Samurai,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,Samurai
 Suit_FireKnight,4,Suit,GoldBoss,None,13.9872,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -669,6 +673,7 @@ Weapon_WarHorn,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,WarHor
 Weapon_Spacesuit,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,Spacesuit
 Weapon_GunpowderMage,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,GunpowderMage
 Weapon_Nightshade,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,Nightshade
+Weapon_Tortoise,3,Weapon,AllHelperDamage,None,2.4304,5,0.9,0.58,1.15,FALSE,Tortoise
 Weapon_BoneTribe,4,Weapon,AllHelperDamage,None,9.7216,20,0.9,0.58,1.15,FALSE,BoneTribe
 Weapon_ElectricWarlord,4,Weapon,AllHelperDamage,None,9.7216,20,0.9,0.58,1.15,FALSE,ElectricWarlord
 Weapon_RaidMythic,4,Weapon,AllHelperDamage,None,9.7216,20,0.9,0.58,1.15,FALSE,RaidMythic
