@@ -383,6 +383,7 @@ AvatarAlchemy8,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
 AvatarAlchemy9,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
 AvatarAlchemy10,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
 AvatarAbyss65,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
+AvatarAbyss66,AlchemyEvent,1,FALSE,,Alchemy,FALSE,FALSE
 AvatarGenericMaze,MinigameMaze,0,TRUE,#ffcc00,Maze,FALSE,TRUE
 AvatarFishingGameGeneric1,MinigameFishingDerby,0,TRUE,#ffcc00,FishingDerby,FALSE,TRUE
 AvatarFish0,MinigameFishingDerby_Fish0,0,TRUE,#ffcc00,FishingDerby,FALSE,TRUE

@@ -1009,6 +1009,11 @@ Aura_Lifeguard,1,Aura,HelmetBoost,None,0.02108,3,0.9,0.58,1.145,TRUE,Lifeguard
 Slash_Lifeguard,1,Slash,BurstDamageSkillAmount,None,0.043214,3,0.9,0.58,1.15,TRUE,Lifeguard
 Weapon_Watergun,1,Weapon,CritDamage,None,0.3162,3,0.9,0.58,1.145,TRUE,None
 Aura_Waterballoon,1,Aura,SlashBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,None
+Weapon_IceCream,1,Weapon,AllHelperDamage,None,0.51646,3,0.9,0.58,1.15,TRUE,IceCream
+Hat_IceCream,1,Hat,MeleeHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,IceCream
+Suit_IceCream,1,Suit,GoldBoss,None,0.74307,3,0.9,0.58,1.145,TRUE,IceCream
+Aura_IceCream,1,Aura,HelmetBoost,None,0.02108,3,0.9,0.58,1.145,TRUE,IceCream
+Slash_IceCream,1,Slash,BurstDamageSkillAmount,None,0.043214,3,0.9,0.58,1.15,TRUE,IceCream
 Hat_Valentines,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,None
 Aura_Valentines,1,Aura,HelmetBoost,None,0.02108,3,0.9,0.58,1.145,TRUE,None
 Weapon_Valentines,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,None
