@@ -93,6 +93,7 @@ Aura_Gemstone,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Gemstone
 Aura_GraveKnight,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,GraveKnight
 Aura_Chef,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Chef
 Aura_Orca,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Orca
+Aura_Eyeball,3,Aura,SwordBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Eyeball
 Aura_HighTecLightning,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Aura_DarkAlien,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,DarkAlien
 Aura_FireKnight,4,Aura,SwordBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,FireKnight
@@ -304,6 +305,7 @@ Hat_Ringleader,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Ringle
 Hat_Chef,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Chef
 Hat_Frog,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Frog
 Hat_Orca,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Orca
+Hat_Eyeball,3,Hat,SwordAttackDamage,None,0.34224,5,0.9,0.58,1.14,FALSE,Eyeball
 Hat_HighTecLightning,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,HighTecLightning
 Hat_Skulls,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,Skulls
 Hat_EarthRogue,4,Hat,SwordAttackDamage,None,1.36896,20,0.9,0.58,1.14,FALSE,EarthRogue
@@ -413,6 +415,7 @@ Slash_Moth,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Mot
 Slash_Airforce,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Airforce
 Slash_Ringleader,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Ringleader
 Slash_Tortoise,3,Slash,UltraDaggerDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Tortoise
+Slash_Eyeball,3,Slash,BurstDamageSkillAmount,None,0.20336,5,0.9,0.58,1.15,FALSE,Eyeball
 Slash_HighTecLightning,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,HighTecLightning
 Slash_WaterSorcerer,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,WaterSorcerer
 Slash_DarkAngel,4,Slash,BurstDamageSkillAmount,None,0.81344,20,0.9,0.58,1.15,FALSE,DarkAngel
@@ -532,6 +535,7 @@ Suit_PetQueen,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,PetQueen
 Suit_PetGroomer,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,PetGroomer
 Suit_GraveKnight,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,GraveKnight
 Suit_Chef,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,Chef
+Suit_Eyeball,3,Suit,ChestAmount,None,3.4968,5,0.9,0.58,1.145,FALSE,Eyeball
 Suit_BoneTribe,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,BoneTribe
 Suit_Mech,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,Mech
 Suit_WaterSorcerer,4,Suit,ChestAmount,None,13.9872,20,0.9,0.58,1.145,FALSE,WaterSorcerer
@@ -760,6 +764,7 @@ Weapon_PetGroomer,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,PetGroome
 Weapon_GraveKnight,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,GraveKnight
 Weapon_Ringleader,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Ringleader
 Weapon_Orca,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Orca
+Weapon_Eyeball,3,Weapon,TapDamage,None,2.0832,5,0.9,0.58,1.15,FALSE,Eyeball
 Weapon_Samurai,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,Samurai
 Weapon_FireKnight,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,FireKnight
 Weapon_EarthRogue,4,Weapon,TapDamage,None,8.3328,20,0.9,0.58,1.15,FALSE,EarthRogue
@@ -892,6 +897,11 @@ Hat_Skeleton,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Skeleton
 Suit_Skeleton,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,Skeleton
 Aura_Skeleton,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Skeleton
 Slash_Skeleton,1,Slash,GoldGunDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,Skeleton
+Weapon_Cheerleader,1,Weapon,AllDamage,None,0.29512,3,0.9,0.58,1.14,TRUE,Cheerleader
+Hat_Cheerleader,1,Hat,SwordAttackDamage,None,0.072726,3,0.9,0.58,1.14,TRUE,Cheerleader
+Suit_Cheerleader,1,Suit,ChestAmount,None,0.74307,3,0.9,0.58,1.145,TRUE,Cheerleader
+Aura_Cheerleader,1,Aura,HelmetBoost,None,0.02108,3,0.9,0.58,1.145,TRUE,Cheerleader
+Slash_Cheerleader,1,Slash,GoldGunDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,Cheerleader
 Weapon_Influencer,1,Weapon,TapDamage,None,0.44268,3,0.9,0.58,1.15,TRUE,Influencer
 Hat_Influencer,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Influencer
 Suit_Influencer,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,Influencer

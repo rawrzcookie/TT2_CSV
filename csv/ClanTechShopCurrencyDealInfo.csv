@@ -1,0 +1,17 @@
+RewardID,DealRewardString,MaxPurchaseAmount,CurrencyCost,SpawnWeight
+1,Equipment:Weapon_Mech,1,10000,1
+2,Equipment:Slash_Mech,1,10000,1
+3,Equipment:Aura_Mech,1,10000,1
+4,Equipment:Hat_Mech,1,10000,1
+5,Equipment:Suit_Mech,1,10000,1
+6,Pet:5,25,500,30
+7,Pet:10,25,1000,100
+8,EquipmentShards:5,25,500,100
+9,SkillPoint:5,25,1500,100
+10,FortuneHelperWeapon:3,25,1000,200
+11,Equipment:Legendary:1,3,2000,200
+12,HelperWeapon:3,25,500,200
+13,PerkTicket:60,25,1000,200
+14,RaidCard:5,25,100,200
+15,RaidWildcard:25,25,1500,200
+16,Diamonds:5,25,500,200
