@@ -187,6 +187,8 @@ AvatarHolidayAnniversary2025,HolidayAnniversary2025,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidayAnniversary2025SeasonPass,HolidayAnniversary2025,1,FALSE,,HolidayPremium,FALSE,FALSE
 AvatarHolidaySummer2026,HolidaySummer2026,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidaySummer2026SeasonPass,HolidaySummer2026,1,FALSE,,HolidayPremium,FALSE,FALSE
+AvatarHolidayHalloween2026,HolidayHalloween2026,1,FALSE,,Holiday,FALSE,FALSE
+AvatarHolidayHalloween2026SeasonPass,HolidayHalloween2026,1,FALSE,,HolidayPremium,FALSE,FALSE
 BombGameGeneric1,BombGameGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
 AvatarPetParadiseGeneric1,PetParadiseGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
 AvatarGenericDigsite,AvatarGenericDigsite,1,TRUE,#ffcc00,None,FALSE,TRUE
