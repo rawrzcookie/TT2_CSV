@@ -189,6 +189,8 @@ AvatarHolidaySummer2026,HolidaySummer2026,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidaySummer2026SeasonPass,HolidaySummer2026,1,FALSE,,HolidayPremium,FALSE,FALSE
 AvatarHolidayHalloween2026,HolidayHalloween2026,1,FALSE,,Holiday,FALSE,FALSE
 AvatarHolidayHalloween2026SeasonPass,HolidayHalloween2026,1,FALSE,,HolidayPremium,FALSE,FALSE
+AvatarHolidayAnniversary2026,HolidayAnniversary2026,1,FALSE,,Holiday,FALSE,FALSE
+AvatarHolidayAnniversary2026SeasonPass,HolidayAnniversary2026,1,FALSE,,HolidayPremium,FALSE,FALSE
 BombGameGeneric1,BombGameGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
 AvatarPetParadiseGeneric1,PetParadiseGeneric1,1,TRUE,#ffcc00,Holiday,FALSE,TRUE
 AvatarGenericDigsite,AvatarGenericDigsite,1,TRUE,#ffcc00,None,FALSE,TRUE
@@ -750,3 +752,6 @@ AvatarEndgameSeason35Rank3,EndgameSeasonReward1000,1,FALSE,,Endgame,FALSE,FALSE
 AvatarEndgameSeason36Rank1,EndgameSeasonReward10,1,FALSE,,Endgame,FALSE,FALSE
 AvatarEndgameSeason36Rank2,EndgameSeasonReward100,1,FALSE,,Endgame,FALSE,FALSE
 AvatarEndgameSeason36Rank3,EndgameSeasonReward1000,1,FALSE,,Endgame,FALSE,FALSE
+AvatarAnniversary10Sword,HolidayAnniversary2026,1,FALSE,,Special,FALSE,FALSE
+AvatarAnniversary10Shield,HolidayAnniversary2026,1,FALSE,,Special,FALSE,FALSE
+AvatarAnniversary10Lights,HolidayAnniversary2026,1,FALSE,,Special,FALSE,FALSE

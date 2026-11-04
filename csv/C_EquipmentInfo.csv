@@ -815,6 +815,11 @@ Hat_Disco,1,Hat,MeleeHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Disco
 Suit_Disco,1,Suit,JackpotGold,None,0.23715,3,0.9,0.58,1.14,TRUE,Disco
 Aura_Disco,1,Aura,SlashBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,Disco
 Slash_Disco,1,Slash,GoldGunDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,Disco
+Weapon_MechPet,1,Weapon,TapDamage,None,0.44268,3,0.9,0.58,1.15,TRUE,MechPet
+Hat_MechPet,1,Hat,RangedHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,MechPet
+Suit_MechPet,1,Suit,GoldAll,None,0.23715,3,0.9,0.58,1.14,TRUE,MechPet
+Aura_MechPet,1,Aura,SwordBoost,None,0.016864,3,0.9,0.58,1.14,TRUE,MechPet
+Slash_MechPet,1,Slash,PetDamage,None,0.062186,3,0.9,0.58,1.14,TRUE,MechPet
 Weapon_Beach,1,Weapon,TapDamage,None,0.44268,3,0.9,0.58,1.15,TRUE,Beach
 Hat_Beach,1,Hat,SpellHelperDamage,None,0.1581,3,0.9,0.58,1.145,TRUE,Beach
 Suit_Beach,1,Suit,GoldBoss,None,0.74307,3,0.9,0.58,1.145,TRUE,Beach
