@@ -156,6 +156,8 @@ ClanShipBatteryCoefficient,Decreases Clan Ship Battery requirements before a sho
 ClanShipDamage,Increases the clan ship damage.,Damage,None,False,False,False,False,False,False,0,False
 ClanShipStunDuration,Increases the stun duration of Anchoring Shot.,None,None,True,False,False,True,False,False,0,False
 ClanShipStunDamage,Increases the stun damage bonus of Anchoring Shot.,Damage,None,False,False,False,False,False,False,0,False
+ClanTechTreePointsPerDay,Increases the amount of clan tech points earnable per day.,None,None,True,False,False,False,False,False,0,False
+ClanTechTreePointsPerPrestige,Increases the amount of clan tech points earnable per prestige.,None,None,True,False,False,False,False,False,0,False
 CloakedSkipAmount,Increases amount of stages skipped from Cloaking.,None,None,True,False,False,False,False,False,0,False
 CloakedSkipChance,Increases chance to gain Cloaking after defeating a boss.,None,None,True,False,True,False,False,False,0,False
 CloakedSkipChanceBoostDuringHayst,Increases chance to gain Cloaking after defeating a boss during hayst,None,None,True,False,True,False,False,False,0,False
@@ -227,6 +229,7 @@ ForbiddenContractManaCostBase,The initial mana cost for Forbiddeen Contract's ma
 ForbiddenContractMaxDamage,The max damage multiplier for Forbiddden Contract.,None,None,False,False,False,False,False,False,0,False
 ForbiddenContractQTECooldown,Decreases the cooldown for Forbidden Contract.,None,None,True,True,False,True,False,False,0,False
 ForbiddenContractTimeUntilMaxDamage,Time until max damage is reached for Forbidden Contract,None,None,True,False,False,True,False,False,0,False
+GeodeDoubleChance,Increases the chance to receive double geodes from Daily Achievements.,None,None,True,False,True,False,False,False,0,False
 LuresPerPrestige,Increases Lures Per Prestige,None,None,True,False,False,False,False,False,0,False
 LuresPerDay,Increases daily limit for lures,None,None,True,False,False,False,False,False,0,False
 FishSizeMult,increases fish size,None,None,False,False,False,False,False,False,0,False
@@ -414,10 +417,13 @@ PlayerRaidLevelCostReduction,Reduces the cost of Raid Levels,None,None,False,Fal
 PoisonBonusDamage,Total bonus percent damage increase from poison.,Damage,None,True,False,True,False,False,False,0,False
 PortarAboveMSOverride,Allow player to porter skip past max stage.,None,None,True,False,False,False,True,False,0,False
 PrestigeRelic,Increases all relics earned. (X),None,None,False,False,False,False,False,False,0,False
-PrestigeRelicAdditive,Increases all relics earned. (+),None,None,True,False,True,False,False,False,0,False
-SeasonalRelicAdditive,Increases all seasonal relics earned. (+),None,None,True,False,True,False,False,False,0,False
+PrestigeRelicAdditive,Increases all relics earned. (+%),None,None,True,False,True,False,False,False,0,False
+SeasonalRelicAdditive,Increases all seasonal relics earned. (+%),None,None,True,False,True,False,False,False,0,False
+PrestigeAndSeasonalRelicAdditive,Increases all relics and all seasonal relics earned. (+%),None,"SeasonalRelicAdditive,PrestigeRelicAdditive",True,False,True,False,False,False,0,False
+AdditiveRelicAndSeasonalMultiplierEarned,Increases relics and memento boosters earned per prestige. (+),None,"AdditiveRelicMultiplierEarned,AdditiveSeasonalRelicMultiplierEarned",True,False,False,False,False,False,0,False
 OnlyPrestigeRelic,Only increases relics earned from prestige.,None,None,False,False,False,False,False,False,0,False
 SeasonalRelicsFromPrestige,Increases Seasonal Relics earned on prestige (and not from other sources),None,None,False,False,False,False,False,False,0,False
+AdditiveSeasonalRelicMultiplierEarned,Increases memento boosters earned per prestige. (+),None,None,True,False,False,False,False,False,0,False
 RogueBonusBoost,"Increases CritBoostSkillAmount, UltraDaggerDamage",None,"CritBoostSkillAmount,UltraDaggerDamage",False,False,False,False,False,False,0,False
 SajeComboBoost,Increases SlashBoost and RangedHelperDamage.,None,"SlashBoost,RangedHelperDamage",False,False,False,False,False,False,0,False
 ShadowCloneAllSkillBoost,Increases the strength of all active skills while Shadow Clone is active.,None,None,False,False,False,False,False,False,0,False
@@ -519,6 +525,20 @@ UltraDaggerTargetDuration,Increases duration of time before targets reset,None,N
 UnskilledDamage,"(unused) StealthDamage = AllDamage, InactiveAllDamage.",Damage,AllDamage,False,False,False,False,False,False,0,False
 UnskilledGold,"StealthGold = GoldAll, JackpotGold",Gold,"GoldAll,JackpotGold",False,False,False,False,False,False,0,False
 WarlordBonusBoost,"Increases AllHelperDamage, HelperBoostSkillAmount, ClanShipDamage.",None,"AllHelperDamage, HelperBoostSkillAmount, ClanShipDamage",False,False,False,False,False,False,0,False
+SoloRaidSkipFloors,"Automatically clears the first X portals of each Solo Raid world, up to a maximum of 8.",None,None,True,False,False,False,False,False,0,False
+ClanCheckInRewardBonusRaidCardChance,Adds an X% chance to receive 10 Raid Cards from the Clan Daily Chest.,None,None,True,False,True,False,False,False,0,False
+ClanCheckInRewardBonusCraftingShardChance,Adds an X% chance to receive 5 Crafting Shards from the Clan Daily Chest.,None,None,True,False,True,False,False,False,0,False
+ClanCheckInRewardBonusSkillPointChance,Adds an X% chance to receive 1 Skill Point from the Clan Daily Chest.,None,None,True,False,True,False,False,False,0,False
+ClanCheckInRewardBonusEggChance,Adds an X% chance to receive 1 Pet Egg from the Clan Daily Chest.,None,None,True,False,True,False,False,False,0,False
+ClanCheckInRewardBonusRaidXPChance,Adds an X% chance to receive 500 Raid XP from the Clan Daily Chest.,None,None,True,False,True,False,False,False,0,False
+ClanCheckInRewardBonusDiamondChance,Adds an X% chance to receive 25 Diamonds from the Clan Daily Chest.,None,None,True,False,True,False,False,False,0,False
+ClanCheckInRewardBonusWildcardChance,Adds an X% chance to receive 5 Wildcards from the Clan Daily Chest.,None,None,True,False,True,False,False,False,0,False
+ClanRaidBonusScrolls,Increases Scrolls earned from Clan Raids by X%.,None,None,True,False,True,False,False,False,0,False
+ClanRaidBonusFortuneScrolls,Increases Fortune Scrolls earned from Clan Raids by X%.,None,None,True,False,True,False,False,False,0,False
+ClanRaidBonusXP,Increases Raid XP earned from Clan Raids by X%.,None,None,True,False,True,False,False,False,0,False
+ClanRaidBonusCards,Increases Raid Cards earned from Clan Raids by X%.,None,None,True,False,True,False,False,False,0,False
+ClanRaidBonusWildCards,Increases Wildcards earned from Clan Raids by X%.,None,None,True,False,True,False,False,False,0,False
+ClanRaidTicketsCap,Increases the maximum Clan Morale (Raid Tickets) cap by X.,None,None,True,False,False,False,False,False,0,False
 AstralEchoMaxCharges,Taps until Astral Echo triggers,Raid,None,False,False,False,False,True,False,0,False
 AstralEchoReducedChance,Reduced chances on bonus taps,Raid,None,True,True,True,False,False,False,0,False
 BurningDamageRate,Increases the damage of each burning tick.,Raid,None,True,False,True,False,False,False,0,False

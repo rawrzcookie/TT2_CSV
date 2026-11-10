@@ -60,6 +60,7 @@ TitleID,Note,TitleString,TitleUnlockType,UnlockValue,TextColor,ShowUnlockDescrip
 58,Berry Serious Competitor,PLAYER_TITLE_CUSTOM_58,Custom,0,#DB9AF7,FALSE,BallDrop
 59,Berry Much a Winner,PLAYER_TITLE_CUSTOM_59,Custom,0,#DB9AF7,FALSE,BallDrop
 60,Berry Well Played,PLAYER_TITLE_CUSTOM_60,Custom,0,#DB9AF7,FALSE,BallDrop
+61,Hero of the decade,PLAYER_TITLE_CUSTOM_61,Custom,0,#ffca00,FALSE,Anniversary
 99,1 Million,PLAYER_TITLE_CUSTOM_99,Custom,0,#ffca00,FALSE,
 100,Top Orca,PLAYER_TITLE_CUSTOM_100,Custom,0,#e33b19,FALSE,
 101,Beany,PLAYER_TITLE_CUSTOM_101,Custom,0,#3D0C02,FALSE,

@@ -143,6 +143,7 @@ Aura_RoseAnniversary,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,RoseAn
 Aura_StormSurfer,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,StormSurfer
 Aura_Frog,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Frog
 Aura_SongBird,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,SongBird
+Aura_Decade,3,Aura,SlashBoost,None,0.07936,5,0.9,0.58,1.14,FALSE,Decade
 Aura_Pirate,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Pirate
 Aura_Skulls,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Skulls
 Aura_Mech,4,Aura,SlashBoost,None,0.31744,20,0.9,0.58,1.14,FALSE,Mech
@@ -218,6 +219,7 @@ Hat_Collector,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Collecto
 Hat_Airforce,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Airforce
 Hat_Nightshade,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Nightshade
 Hat_MoltenGold,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,MoltenGold
+Hat_Decade,3,Hat,MeleeHelperDamage,None,0.744,5,0.9,0.58,1.145,FALSE,Decade
 Hat_BoneTribe,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,BoneTribe
 Hat_Samurai,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,Samurai
 Hat_FireKnight,4,Hat,MeleeHelperDamage,None,2.976,20,0.9,0.58,1.145,FALSE,FireKnight
@@ -459,6 +461,7 @@ Slash_GoldenMech,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Golden
 Slash_GunpowderMage,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,GunpowderMage
 Slash_Scorpion,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Scorpion
 Slash_MoltenGold,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,MoltenGold
+Slash_Decade,3,Slash,GoldGunDamage,None,0.29264,5,0.9,0.58,1.14,FALSE,Decade
 Slash_SteampunkKnight,4,Slash,GoldGunDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,SteampunkKnight
 Slash_MythicSmith,4,Slash,GoldGunDamage,None,1.17056,20,0.9,0.58,1.14,FALSE,MythicSmith
 Suit_ArmorIce,1,Suit,GoldAll,None,0.045,1,0.9,0.58,1.14,FALSE,None
@@ -603,6 +606,7 @@ Suit_Druid,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Druid
 Suit_RoseAnniversary,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,RoseAnniversary
 Suit_Frog,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Frog
 Suit_SongBird,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,SongBird
+Suit_Decade,3,Suit,JackpotGold,None,1.116,5,0.9,0.58,1.14,FALSE,Decade
 Suit_DarkAlien,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,DarkAlien
 Suit_EarthRogue,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,EarthRogue
 Suit_Chakram,4,Suit,JackpotGold,None,4.464,20,0.9,0.58,1.14,FALSE,Chakram
@@ -640,6 +644,7 @@ Weapon_Collector,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Collector
 Weapon_Airforce,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Airforce
 Weapon_Gemstone,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Gemstone
 Weapon_Frog,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Frog
+Weapon_Decade,3,Weapon,AllDamage,None,1.3888,5,0.9,0.58,1.14,FALSE,Decade
 Weapon_Pirate,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Pirate
 Weapon_Skulls,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,Skulls
 Weapon_HighTecLightning,4,Weapon,AllDamage,None,5.5552,20,0.9,0.58,1.14,FALSE,HighTecLightning

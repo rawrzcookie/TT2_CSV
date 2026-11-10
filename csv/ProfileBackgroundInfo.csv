@@ -15,7 +15,6 @@ MagicalForest,Player
 EgyptianTemple,Player
 BeachVacation,Player
 ElvenCity,Player
-Anniversary10,Player
 Bones,Raid
 Crypt,Raid
 Volcano,Raid
@@ -47,3 +46,4 @@ Steampunk,Raid
 Cyberpunk,Raid
 Abyss,Raid
 RoyalLibrary,Raid
+Anniversary10,Player
