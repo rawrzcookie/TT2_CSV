@@ -3,4 +3,4 @@ StartRank,EndRank,PrizeBucket,RankReward,LeaderboardPosition
 2,3,2,"Frame:FrameAnniversary10Gold,AvatarParticle:AvatarParticleAnniversary10Fireworks,Diamonds:500",Top 2 players in  ball drop Game
 4,10,3,"Frame:FrameAnniversary10Gold,Diamonds:500",Top 3 players in  ball drop Game
 11,25,4,Diamonds:250,Top 10 players in  ball drop Game
-26,999999,5,,No Reward
+26,999999,5,Diamonds:10,No Reward
