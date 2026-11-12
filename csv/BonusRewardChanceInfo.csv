@@ -1,8 +1,8 @@
 BonusType,RewardString,Description
-ClanCheckInRewardBonusRaidCardChance,RaidCard:3,gives a +X% chance to earn 10 Raid cards from the Clan Daily Chest
-ClanCheckInRewardBonusCraftingShardChance,EquipmentShards:5,gives a +X% chance to earn 5 Crafting Shards from the Clan Daily Chest
-ClanCheckInRewardBonusSkillPointChance,SkillPoint:1,gives a +X% chance to earn 1 Skill Point from the Clan Daily Chest
-ClanCheckInRewardBonusEggChance,PetsLvl1:1,gives a +X% chance to earn 1 Pet from the Clan Daily Chest
-ClanCheckInRewardBonusRaidXPChance,PlayerRaidXP:50,gives a +X% chance to earn 500 Raid XP from the Clan Daily Chest
-ClanCheckInRewardBonusDiamondChance,Diamonds:20,gives a +X% chance to earn 25 Diamonds from the Clan Daily Chest
-ClanCheckInRewardBonusWildcardChance,RaidWildcard:5,gives a +X% chance to earn 5 WildCards from the Clan Daily Chest
+ClanCheckInRewardBonusRaidCardChance,RaidCard:3,gives a +X% chance to earn RaidCard:3 from clan daily chest
+ClanCheckInRewardBonusCraftingShardChance,EquipmentShards:5,gives a +X% chance to earn EquipmentShards:5 from clan daily chest
+ClanCheckInRewardBonusSkillPointChance,SkillPoint:1,gives a +X% chance to earn SkillPoint:1 from clan daily chest
+ClanCheckInRewardBonusEggChance,PetsLvl1:1,gives a +X% chance to earn PetsLvl1:1 from clan daily chest
+ClanCheckInRewardBonusRaidXPChance,PlayerRaidXP:50,gives a +X% chance to earn PlayerRaidXP:50 from clan daily chest
+ClanCheckInRewardBonusDiamondChance,Diamonds:20,gives a +X% chance to earn Diamonds:20 from clan daily chest
+ClanCheckInRewardBonusWildcardChance,RaidWildcard:5,gives a +X% chance to earn RaidWildcard:5 from clan daily chest
