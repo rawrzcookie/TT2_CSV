@@ -1,5 +1,5 @@
 StartRank,EndRank,LeaderboardPosition,RankReward,SEASON
-1,10,Top 10 Players in Endgame Seasons,"Avatar:AvatarEndgameSeason12Rank1,Frame:FrameEndgameSeason12,Title:634",12
-11,100,Top 100 Players in Endgame Seasons,"Avatar:AvatarEndgameSeason12Rank2,Frame:FrameEndgameSeason12,Title:635",12
-101,1000,Top 1000 Players in Endgame Seasons,"Avatar:AvatarEndgameSeason12Rank3,Frame:FrameEndgameSeason12",12
-1001,9999999,Any player in Endgame Seasons,Frame:FrameEndgameSeason12,12
+1,10,Top 10 Players in Endgame Seasons,"Avatar:AvatarEndgameSeason14Rank1,Frame:FrameEndgameSeason14,Title:640",14
+11,100,Top 100 Players in Endgame Seasons,"Avatar:AvatarEndgameSeason14Rank2,Frame:FrameEndgameSeason14,Title:641",14
+101,1000,Top 1000 Players in Endgame Seasons,"Avatar:AvatarEndgameSeason14Rank3,Frame:FrameEndgameSeason14",14
+1001,9999999,Any player in Endgame Seasons,Frame:FrameEndgameSeason14,14
