@@ -1,6 +1,6 @@
 StartRank,EndRank,PrizeBucket,RankReward,LeaderboardPosition
-1,1,1,"Frame:FrameAnniversary10Eyeballs,AvatarParticleAnniversary10Confetti,Title:61,ProfileBackground:Player:Anniversary10,Diamonds:1000",Top 1 players in ball drop Game
-2,3,2,"Frame:FrameAnniversary10Eyeballs,AvatarParticleAnniversary10Confetti,Diamonds:500",Top 2 players in  ball drop Game
+1,1,1,"Frame:FrameAnniversary10Eyeballs,AvatarParticle:AvatarParticleAnniversary10Confetti,Title:61,ProfileBackground:Player:Anniversary10,Diamonds:1000",Top 1 players in ball drop Game
+2,3,2,"Frame:FrameAnniversary10Eyeballs,AvatarParticle:AvatarParticleAnniversary10Confetti,Diamonds:500",Top 2 players in  ball drop Game
 4,10,3,"Frame:FrameAnniversary10Eyeballs,Diamonds:500",Top 3 players in  ball drop Game
 11,25,4,Diamonds:250,Top 10 players in  ball drop Game
 26,999999,5,Diamonds:10,No Reward
