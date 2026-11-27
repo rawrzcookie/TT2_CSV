@@ -362,7 +362,7 @@ AvatarAbyss53,ChallengeTournamentShop,1,FALSE,,AbyssShop,FALSE,FALSE
 AvatarAbyss54,ChallengeTournamentShop,1,FALSE,,AbyssShop,FALSE,FALSE
 AvatarAbyss55,ChallengeTournamentShop,1,FALSE,,AbyssShop,FALSE,FALSE
 GlobalRaidVictory,GlobalRaidVictory,1,TRUE,#ffcc00,None,FALSE,FALSE
-AvatarDungeon1,DungeonQuest,1,FALSE,,DungeonQuest,FALSE,FALSE
+AvatarDungeon1,DungeonQuest,1,TRUE,,DungeonQuest,FALSE,TRUE
 AvatarDungeon2,DungeonQuest,1,FALSE,,DungeonQuest,FALSE,FALSE
 AvatarDungeon3,DungeonQuest,1,FALSE,,DungeonQuest,FALSE,FALSE
 AvatarDungeon4,DungeonQuest,1,FALSE,,DungeonQuest,FALSE,FALSE
